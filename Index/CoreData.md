@@ -1,0 +1,2 @@
+- **Links**
+	- [AvdLee/CoreDataBestPractices: Best Practices in Core Data explained within a demo application](https://github.com/AvdLee/CoreDataBestPractices)

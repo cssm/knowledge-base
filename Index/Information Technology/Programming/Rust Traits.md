@@ -1,0 +1,6 @@
+- **Notes**
+	- [Rust FromStr](Rust%20FromStr.md)
+	- [Rust PartialEq](Rust%20PartialEq.md)
+- **Links**
+	- [Sized. Size of the type need to be known at compile time](https://doc.rust-lang.org/stable/core/marker/trait.Sized.html)
+		- When creating a generic something we implicitly get a `Sized` constraint on it. To get rid of this and use e.g. references add `T: ?Sized` as a constraint.

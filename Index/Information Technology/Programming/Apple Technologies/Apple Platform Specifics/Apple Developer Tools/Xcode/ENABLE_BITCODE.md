@@ -1,0 +1,2 @@
+- Refers to `LLVM Bitcode`
+- It **may** allow to optimize size of application on apple site but in most cases it's just causes more **troubles**

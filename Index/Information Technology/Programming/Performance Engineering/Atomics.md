@@ -1,0 +1,39 @@
+- **Notes**
+	- **It's almost always a bad idea to use atomics. Use them only if you know what are you doing and if you measured and absolutely sure  that locking is your problem**
+	- When someone says "lock-free" they mean "doesn't use mutexes"
+	- Levels of "Lock-Freedom"
+		- *Wait-free* 
+			- best case
+			- no one ever waits
+		- *Lock-free*
+			- If my thread have to wait => somebody else is making progress
+			- Theoreticly I can be that one who waits forever 
+		- *Obstruction-free*
+			- I'll make progress as long as anyone else is doing anything
+			- Only need to handle cases when two threads is doing something at the same time (this actually happens very rarely)
+- **Links**
+	- [Lock-Free Programming. Part I - YouTube](https://www.youtube.com/watch?v=c1gO9aB9nbs)
+	- [Lock-Free Programming. Part II - YouTube](https://www.youtube.com/watch?v=CmxkPChOcvw)
+	- [C++ and Beyond 2012: Herb Sutter - atomic Weapons 1 of 2 - YouTube](https://www.youtube.com/watch?v=A8eCGOqgvH4)
+	- [C++ and Beyond 2012: Herb Sutter - atomic Weapons 2 of 2 - YouTube](https://www.youtube.com/watch?v=KeLBd2EJLOU)
+- **_Links**
+	- [abseil / The Danger of Atomic Operations](https://abseil.io/docs/cpp/atomic_danger)
+	- [𓃭𓇋𓊃𓄿𓁐 on Twitter: "wondering how to document asymptotic complexity for lock-free structures — “this is technically O(1) but it has a loop in it that might spin an arbitrary number of times because who the fuck knows what other threads are doing”" / Twitter](https://twitter.com/mycoliza/status/1468985383526404098?s=28)
+	- [Telegram: Contact @ihatereality](https://t.me/ihatereality/2615)
+	- [Telegram: Contact @ihatereality](https://t.me/ihatereality/2617)
+	- [Diving into concurrency: trying out mutexes and atomics](https://jvns.ca/blog/2014/12/14/fun-with-threads/)
+	- [Compare and Swap](http://tutorials.jenkov.com/java-concurrency/compare-and-swap.html)
+	- [c++ - Creating a standard map that is thread safe - Stack Overflow](https://stackoverflow.com/questions/19143228/creating-a-standard-map-that-is-thread-safe)
+	- [Swift.org - Introducing Swift Atomics](https://www.swift.org/blog/swift-atomics/)
+	- [lockless data structures - Пошук Google](https://www.google.com/search?q=lockless+data+structures&client=safari&rls=en&sxsrf=ALeKk02tQkuY6uNPxdvNIjAK_5OPZdHTHw:1616525334875&ei=FjhaYJKRNMWTwPAP-d-d4AE&oq=lockless+data+str&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQywEyBQgAEMsBMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCCMQ6gIQJzoECCMQJzoGCCMQJxATOgUIABDEAjoECAAQHjoCCCY6BAgAEBM6BwgAEAoQywFQ2DNYsWdg3WxoA3AAeACAAZoCiAGgEZIBBjQuMTMuMZgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=gws-wiz)
+	- [Concurrency in C++11](https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/)
+	- [multithreading - C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming? - Stack Overflow](https://stackoverflow.com/questions/6319146/c11-introduced-a-standardized-memory-model-what-does-it-mean-and-how-is-it-g)
+	- [Делаем любой объект потокобезопасным / Хабр](https://habr.com/ru/post/328348/)
+	- [Потоки, блокировки и условные переменные в C++11 [Часть 2] / Хабр](https://habr.com/ru/post/182626/)
+	- [Потоки, блокировки и условные переменные в C++11 [Часть 1] / Хабр](https://habr.com/ru/post/182610/)
+	- [Lockless programming with atomics in C++ 11 vs. mutex and RW-locks](https://www.arangodb.com/2015/02/comparing-atomic-mutex-rwlocks/)
+	- [Lock-free структуры данных. Очередной трактат / Хабр](https://habr.com/ru/post/219201/)
+	- [C++ atomics and memory ordering |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2008/12/01/c-atomics-and-memory-ordering/)
+	- [Lock-free структуры данных. Внутри. Схемы управления памятью / Хабр](https://habr.com/ru/post/202190/)
+	- [Monitor (synchronization) - Wikipedia](https://en.wikipedia.org/wiki/Monitor_%28synchronization%29#Condition_variables)
+

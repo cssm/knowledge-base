@@ -1,0 +1,6 @@
+- **Notes**
+	- [Homoiconicity](Homoiconicity.md)
+	- [Compilers](Compilers.md)
+	- [Type Theory](Type%20Theory.md)
+- **Links**
+	- [Syntax highlighting is a waste of an information channel](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)

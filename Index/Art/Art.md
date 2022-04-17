@@ -1,0 +1,9 @@
+- **Notes**
+	- [Music](Music.md)
+	- [Videos](Videos.md)
+	- [Games](Games.md)
+- **Links**
+	- [Зачем потреблять искусство?](https://www.youtube.com/watch?v=JrSFlest9Vo)
+- [Programming](Programming.md)
+	- [inconvergent/weird: Generative art in Common Lisp](https://github.com/inconvergent/weird)
+	- [(t,i,x,y) => "creative code golfing"](https://tixy.land/)

@@ -1,0 +1,2 @@
+- this is `if/else` statements in view `body`
+- it's will broke your animation (fade effect will be used instead) because result types are different

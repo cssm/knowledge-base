@@ -1,0 +1,8 @@
+- **Notes**
+	- [Rust Classic Structs](Rust%20Classic%20Structs)
+	- [Rust Tuple Struct](Rust%20Tuple%20Struct)
+	- [Rust Unit Structs](Rust%20Unit%20Structs)
+	- No classes in Rust. Just wrap in `Box` struct to allocate in in heap
+		- At compile time, Rust needs to know how much space a type takes up. This becomes problematicf for recursive types, where a value can have as part of itself another value of the same type. To get around the issue, we can use a `Box` - a smart pointer used to store data on the heap, which also allows us to wrap a recursive type.
+- **Links**
+	- 

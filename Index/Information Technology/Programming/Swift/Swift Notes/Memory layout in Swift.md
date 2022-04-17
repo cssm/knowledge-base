@@ -1,0 +1,3 @@
+# Memory layout in Swift
+
+There are two counts in a Swift object, the strong count and the weak count. A normal reference to an object increments the strong count, and a weak reference to an object increments the weak count. The idea is that if the strong count goes to zero, and if the weak count is non-zero, the object is destroyed, but it is not deallocated. In short, there are two counts inside the same field, each one is 31 bits.

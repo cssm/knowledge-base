@@ -1,0 +1,9 @@
+- **Notes**
+	- [Rust Control Flow](Rust%20Control%20Flow.md)
+	- [Rust Loops](Rust%20Loops.md)
+	- [Rust Macros](Rust%20Macros)
+	- [Turbofish Operator](Turbofish%20Operator.md)
+	- [guard](guard.md) in rust
+		- https://rust-lang.github.io/rfcs/3137-let-else.html
+- **Links**
+	- [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs)

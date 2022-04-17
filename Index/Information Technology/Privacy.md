@@ -1,0 +1,7 @@
+- **Notes**
+	- [Two-factor Authentication](Two-factor%20Authentication.md)
+- **Links**
+	- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com)
+	- [The Security of Modern Password Expiration](https://www.cs.unc.edu/~fabian/papers/PasswordExpire.pdf) 
+		- if you expiring your password and then generate new one from the old one by using some simple transformations -> you doing yourself more harm 
+		- if you use randomly generated passwords and two factor authentication -> there's no need to expire your existing password

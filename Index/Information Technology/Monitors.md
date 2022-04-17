@@ -1,0 +1,6 @@
+- *[macOS](macOS.md)*
+	- [App That resizes windows when connect/disconnect monitors](https://cordlessdog.com/stay/)
+	- [Macs and 4K 120Hz displays compatibility list](https://tonsky.me/blog/monitors-mac/)
+	- [Time to upgrade your monitor @ tonsky.me](https://tonsky.me/blog/monitors/)
+		- Disable font smoothing using `defaults -currentHost write -g AppleFontSmoothing -int 0`
+		- Use 2x scaling instead of default `12/7` to more gorgeous look 

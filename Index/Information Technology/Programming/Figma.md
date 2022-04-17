@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [Figma — новый индустриальный стандарт? (Обзор программы) - YouTube](https://www.youtube.com/watch?v=5HKP_318fQM)

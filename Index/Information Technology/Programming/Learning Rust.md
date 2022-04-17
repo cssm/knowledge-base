@@ -1,0 +1,13 @@
+- **Notes**
+	- 
+- **Links**
+	- [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
+	- [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+	- [Introduction - Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
+	- [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+	- [Tour of Rust](https://tourofrust.com/TOC_en.html)
+	- [Программирование на Rust - YouTube](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e) 
+	- [Book. Intro to Rust and System Programming](https://www.rustinaction.com/)
+	- [Small exercises to get used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+	-  [Learn Rust By Doing](https://www.ralfj.de/projects/rust-101/main.html?utm_campaign=%D0%A1%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%B0%D0%B5%D1%82&utm_medium=email&utm_source=Revue%20newsletter)
+	-  [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)

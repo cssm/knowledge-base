@@ -1,0 +1,13 @@
+- *MRC* 
+	- manual reference counting
+	- been used in [Objective-C](Objective-C.md)
+- *ARC*
+	- automatic reference counting 
+	- modern way to count references
+	- available in [Swift](Swift.md) and [Objective-C](Objective-C.md)
+	- 3 counters strong unowned and weak
+	- Strong and unowned variables point at the object.
+	- Weak variables point at the object's side table.
+	- if weak reference is created to object that object gains a side table
+	- by default strong count is 1, unowned count is 1 and weak count is 1
+	- [https://github.com/apple/swift/blob/main/stdlib/public/SwiftShims/RefCount.h](https://github.com/apple/swift/blob/main/stdlib/public/SwiftShims/RefCount.h)

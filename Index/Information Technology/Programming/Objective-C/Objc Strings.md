@@ -1,0 +1,1 @@
+***@*** before string is used to say that it’s Objective C string (they own data structure that support unicode and some string manipulation methods) instead of simple C string (array of chars).

@@ -1,0 +1,8 @@
+- *[Function Inlining](Function%20Inlining.md)*
+- *[LLVM](LLVM.md)*
+- *[Language Server Protocol](Language%20Server%20Protocol.md)*
+- **Notes**
+	- *Frontend* - parses programming language syntax and optimize constructions 
+	- *Backend* - translates intermediate representation (if any exists) to corresponding machine instructions (assembly)
+- **Links**
+	-  [Performance - Luau](https://luau-lang.org/performance)

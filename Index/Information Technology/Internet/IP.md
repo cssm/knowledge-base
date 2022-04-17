@@ -1,0 +1,5 @@
+- **Notes**
+	- **IPv4** - 4 byte adresses
+	- **IPv6** - 16 byte adresses
+- **Links**
+	- [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io)

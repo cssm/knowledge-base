@@ -1,0 +1,14 @@
+- **Links**
+	- [regex: how everybody does regular expressions in Rust](https://lib.rs/crates/regex)
+	- [serde: the natural way to do serialization and deserialization in Rust](https://serde.rs/)
+	- [rand: the default choice for pseudo random generation](https://crates.io/crates/rand) 
+	- [bheisler/criterion.rs: Statistics-driven benchmarking library for Rust](https://github.com/bheisler/criterion.rs)
+	- [kevinmehall/rust-peg: Parsing Expression Grammar (PEG) parser generator for Rust](https://github.com/kevinmehall/rust-peg)
+	- [sslab-gatech/Rudra: Rust Memory Safety & Undefined Behavior Detection](https://github.com/sslab-gatech/Rudra)
+	- [rust-lang/rust-clippy: A bunch of lints to catch common mistakes and improve your Rust code](https://github.com/rust-lang/rust-clippy)
+	- [kbknapp/cargo-outdated: A cargo subcommand for displaying when Rust dependencies are out of date](https://github.com/kbknapp/cargo-outdated)
+	- [watchexec/cargo-watch: Watches over your Cargo project's source.](https://github.com/watchexec/cargo-watch)
+	- [flamegraph-rs/flamegraph: Easy flamegraphs (how much time each module is compiling) for Rust projects and everything else](https://github.com/flamegraph-rs/flamegraph)
+	- [clap-rs/clap: A full featured, fast Command Line Argument Parser for Rust](https://github.com/clap-rs/clap)
+- *[CLI](CLI.md)*
+	- [redox-os/termion: A bindless library for controlling terminals/TTY.](https://github.com/redox-os/termion)

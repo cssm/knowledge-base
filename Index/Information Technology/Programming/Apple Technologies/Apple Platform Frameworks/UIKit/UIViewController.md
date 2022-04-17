@@ -1,0 +1,20 @@
+- **Notes**
+	- [Create UIViewController from xib](Create%20UIViewController%20from%20xib.md) 
+	- *Showing VC*
+		- `present()`
+		-  `show(:)` 
+			- if `UINavigationController` exist `push(:)` vc to it
+			- else just `present()` vc
+	- *Lifecycle*
+		- `init` ->
+			- from code with `init` ->
+			- or from storyboard or `.xib` with `init(nibName:bundle:)`  -> segues preparation -> `IBOutlets` get set ->
+		- `loadView` ->
+			- only called if  `view` property accessed by our code or by [UIKit](UIKit.md) under the hood
+		- `viewDidLoad` ->
+		- `viewWillAppear` -> `viewDidAppear`
+		- `viewWillLayoutSubviews` -> `viewDidLayoutSubviews`
+			- also called on device rotation
+		- `viewWillDissapper` -> `viewDidDissappear`
+- **Links**
+	- [View Controller Lifecycle · codepath/ios_guides Wiki](https://github.com/codepath/ios_guides/wiki/View-Controller-Lifecycle)

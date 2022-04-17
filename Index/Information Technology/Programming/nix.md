@@ -1,0 +1,15 @@
+- **Links**
+	- [Nix Flakes: an Introduction](https://christine.website/blog/nix-flakes-1-2022-02-21)
+	- [What Is Nix programming language and why you should use it](https://serokell.io/blog/what-is-nix)
+	- [Naive NixOS Rust Development](https://duan.ca/2020/05/07/nix-rust-development/)
+	- [Pretty and fast shell. Make your shell experience fast, pretty… | by Nikita Voloboev | Medium](https://medium.com/@nikitavoloboev/pretty-and-fast-shell-97ea870f2805)
+	- [NixOS - Everything I know](https://wiki.nikitavoloboev.xyz/operating-systems/linux/nixos)
+	- [NixOS - NixOS Linux](https://nixos.org/)
+	- [MacOS Nix Setup (an alternative to Homebrew)](https://wickedchicken.github.io/post/macos-nix-setup/)
+	- [Thoughts on macOS Package Managers](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)
+	- [Nix - Everything I know](https://wiki.nikitavoloboev.xyz/package-managers/nix)
+	- [LnL7/nix-darwin: nix modules for darwin](https://github.com/LnL7/nix-darwin)
+	- [nix-community/awesome-nix: 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]](https://github.com/nix-community/awesome-nix#readme)
+	- [NixOS/nixpkgs: Nix Packages collection](https://github.com/NixOS/nixpkgs)
+- *[iOS](iOS.md)*
+	- [iOS | nixpkgs](https://ryantm.github.io/nixpkgs/languages-frameworks/ios/#ios)

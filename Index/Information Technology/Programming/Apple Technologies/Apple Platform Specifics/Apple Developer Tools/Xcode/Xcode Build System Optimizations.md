@@ -1,0 +1,14 @@
+- **Notes**
+	- Build timing summery
+		- `Product -> Perform Action -> Build with timing summery`
+- **Links**
+	- [Как я сборку ускорял. Twitter](https://twitter.com/akaDuality/status/1451170998984785923)
+		- [Build Graph for Xcode](https://rubanov.dev/build-graph/)
+	- [PaulTaykalo/xcode-build-times-rendering: Xcode build times visualization per target](https://github.com/PaulTaykalo/xcode-build-times-rendering)
+	- [fastred/Optimizing-Swift-Build-Times: Collection of advice on optimizing compile times of Swift projects.](https://github.com/fastred/Optimizing-Swift-Build-Times)
+	- [A comprehensive guide to optimizing your Xcode build](https://flexiple.com/ios/xcode-build-optimization-a-definitive-guide/)
+	- [Build performance analysis for speeding up Xcode builds - SwiftLee](https://www.avanderlee.com/optimization/analysing-build-performance-xcode/)
+	- [Speeding Up Xcode Builds. A few suggestions you can use to speed… | by Ricardo Castellanos | Medium](https://ricardo-castellanos-herreros.medium.com/speeding-up-xcode-builds-97173cb1adba)
+	- [Xcode Build Time Optimization - Part 2 · On Swift Wings](https://www.onswiftwings.com/posts/build-time-optimization-part2/)
+	- [Xcode Build Time Optimization - Part 1 · On Swift Wings](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
+	- [Improve Xcode Compile and Run Time | Better Programming](https://betterprogramming.pub/improve-xcode-compile-and-run-time-8b8f812c17f8)

@@ -1,0 +1,1 @@
+- [Best `macOS` app ever. Replacing Spotlight and many other small tools.](https://raycast.com)

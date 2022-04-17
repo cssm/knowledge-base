@@ -1,0 +1,28 @@
+- **Notes**
+	- *Вопросы про процессы*
+		- Как устроено обучение сотрудников? 
+		- Как относятся к переработкам? 
+		- Есть ли правила коммуникации? 
+		- Какие встречи проводятся? 
+		- Сталкивались ли с выгоранием сотрудников и что делали в этой ситуации?
+		- Если заметно недовольство или ответы односложные, скорее всего, в этой компании не думают о предотвращении выгорания
+	- When was the last time you promoted someone on your team? How did it happen?
+	- It's highly likely your experience will be similar when you ask for a promotion yourself under this person. So make sure their answer is something you'd be happy to live out.
+	- Why did the last person in this role leave? (Unless this is a new position)
+	- Unless this is a new position, the reason that someone left can be very telling. Worst case: they quit because of a toxic workplace. Best case: they were promoted up, meaning this role can lead to similar opportunities for you.
+	- How do you nurture psychological safety in your team?
+	- The workplace may be challenging, but it should never be threatening. A manager who intentionally fosters a sense of acceptance and respect can be the reason you love your job.
+	- When was the last time you supported a direct report's growth, even if it meant leaving your team or company?
+	- A supportive manager cares about your goals, not gluing you to your seat. The very best managers realize when it's time to move you up.
+	- Most/all of my interviewers were men. Can I speak to some women on the team to hear more about their experience?
+	- This happens. A lot. Having zero representation of someone like you can be a very bad sign of how the team respects diverse perspectives.
+	- What has this organization done to support the health, safety and wellbeing of its staff during the covid pandemic?
+	- What does DEI mean to you as a manager?
+	- How do you like to give and receive feedback as a manager?
+	- What level of support are you able to provide during the 30-60-90 plan? Who else will be supporting that plan?
+	- I like to ask my interviewer “Have any of my responses lacked the detail you required so that I have the opportunity to expand on those answers now?” Puts them on the spot to consider your amswers, and they may give you a second chance to give a better answer
+	- One of my favorite, can you tell me some a team member did that you were proud of, and how did you celebrate it, and can you tell me of a time when your team weren't performing and how did you address it?
+	- Always good to unpick the crap that they won’t tell you about the job in the interview by asking ‘What’s are the immediate, short and long term challenges I will face in this role?’
+	- These are great questions. My favorite Q to ask is 'How do you measure success?'. It's important for me to gauge whether a company is focused on value or on output.
+	- I ask the panel one question - what gets them up in the morning and makes them excited they work in their role. That answer tells me everything I need to know, if they look to the panel lead before they answer, hesitation, flustering, or a smile. I’ve turned down jobs on this.
+	- What are you like to work for? How would you describe your management style?

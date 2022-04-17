@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [Swift.org - How Mirror Works](https://www.swift.org/blog/how-mirror-works/)

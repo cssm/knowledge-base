@@ -1,0 +1,33 @@
+> We should always call `mutableCopy` because returning mutable pointer ≠ pointer of mutable type
+
+- **Links**
+	- [What is a meta-class in Objective-C?](https://www.cocoawithlove.com/2010/01/what-is-meta-class-in-objective-c.html)
+	- [raywenderlich/objective-c-style-guide: A style guide that outlines the coding conventions for raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
+- **Notes**
+	- [Objective-C Books](Objective-C%20Books.md)
+	- *Access modifiers*
+		- **# Access modifiers**   ** In obj-c there are only ***public*** and ***private***  ****** All public stuff is written in header file
+		- All private stuff is written in .m file (extensions in a nice way to write private things)
+	- [Autorelease pool](Autorelease%20pool.md)
+- [Bridged Cast](Bridged%20Cast.md)
+- [Objc Categories, Extensions](Objc%20Categories,%20Extensions.md)
+- [Objc Classes](Objc%20Classes.md)
+- [Objc id, instancetype](Objc%20id,%20instancetype.md)
+- [Objc Methods](Objc%20Methods.md)
+- **Nullability**
+	- Elvis operator `?:` is used instead of [[Swift]] nil coalescing operator `??` 
+- [Objc Objects](Objc%20Objects.md)
+- [Objc Properties](Objc%20Properties.md)
+- [Objc Protocols](Objc%20Protocols.md)
+- [Objc Strings](Objc%20Strings.md)
+- [Objc Style guide](Objc%20Style%20guide.md)
+- [Objective-C import](Objective-C%20import.md)
+- [Objc Blocks](Objc%20Blocks.md)
+- [Objc Collections](Objc%20Collections.md)
+- [Objc isa](Objc%20isa.md)
+- [Objc KVC](Objc%20KVC.md)
+- [Objc KVO](Objc%20KVO.md)
+- [Objc Nil, nil, NULL, NSNull](Objc%20Nil,%20nil,%20NULL,%20NSNull.md)
+- [Objc NSNumber](Objc%20NSNumber.md)
+- *[Swift](Swift.md)*
+	- [Objective-C to Swift Converter](https://swiftify.com/converter/code/) 

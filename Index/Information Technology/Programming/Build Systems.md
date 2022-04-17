@@ -1,0 +1,10 @@
+- **Notes**
+	- [Linkers](Linkers.md)
+	- [make](make.md)
+- *[Apple Technologies](Apple%20Technologies.md)*
+	- [Xcode Build System](Xcode%20Build%20System.md)
+	- [Buck: A fast build tool](https://buck.build/)
+- *[Python](Python.md)*
+	- [Python as a build tool](https://tonsky.me/blog/python-build/)
+- *[CLI](CLI.md)*
+	- [lipo](lipo.md)

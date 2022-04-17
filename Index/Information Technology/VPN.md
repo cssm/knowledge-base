@@ -1,0 +1,4 @@
+- **Notes**
+	- Virtual Private Network
+- **Links**
+	- [Outline VPN - Access to the free and open internet](https://getoutline.org/how-it-works/)

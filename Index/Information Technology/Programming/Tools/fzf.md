@@ -1,0 +1,7 @@
+- **Links**
+	- [GitHub - junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
+	- [Boost Your Command-Line Productivity With Fuzzy Finder](https://betterprogramming.pub/boost-your-command-line-productivity-with-fuzzy-finder-985aa162ba5d)
+- *Keybindings*
+	- `ctrl + t` - paste from fzf to terminal
+	- `ctrl + r` - fzf search history
+	- `alt + c` - `cd` using fzf

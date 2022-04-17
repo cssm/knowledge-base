@@ -1,0 +1,2 @@
+- For **reference types**, **let** means the reference must remain constant. In other words, you can’t change the instance the constant references, but you can mutate the instance itself.
+- For **value types**, **let** means the instance must remain constant. No properties of the instance will ever change, regardless of whether the property is declared with let or var.

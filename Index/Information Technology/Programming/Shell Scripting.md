@@ -1,0 +1,17 @@
+- **Notes**
+	- [Bash](Bash.md)
+	- [Shebang](Shebang.md)
+	- [Importing scripts](Importing%20scripts.md)
+	- [Brace Expression](Brace%20Expression.md)
+	- [Terminate signals](Terminate%20signals.md)
+	- [Make text bold](Make%20text%20bold.md)
+	- [Run in parallel](Run%20in%20parallel.md)
+	- [Functions](Functions.md)
+	- [Bash Scripts Debugging](Bash%20Scripts%20Debugging.md)
+	- [Variables](Variables.md)
+- **Links**
+	- [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
+	- [Best Practices](https://betterprogramming.pub/best-practices-for-bash-scripts-17229889774d)
+	- [Shell Script Basics](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)
+	- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+	- [Colors formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)

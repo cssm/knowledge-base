@@ -1,0 +1,4 @@
+- **Links**
+	- [Clojure - Wikipedia](https://en.wikipedia.org/wiki/Clojure)
+	- [The Clouncil: a Call-in Show for Clojure Beginners](https://theclouncil.com)
+	- [ClojureCourse.by](https://clojurecourse.by)

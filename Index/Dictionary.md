@@ -1,0 +1,3 @@
+- Reading element is amortized $O(1)$. amortized because sometimes a collision can happen 
+- **Implementations** 
+	- [Swift Dictionary](Swift%20Dictionary.md)

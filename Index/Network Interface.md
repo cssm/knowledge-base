@@ -1,0 +1,1 @@
+-   they can be physical network interfaces (like `eth0` - Ethernet) or virtual interfaces (like `lo` and `docker0`)

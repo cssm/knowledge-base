@@ -1,0 +1,2 @@
+- [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
+- [Actor Model in Nutshell](https://medium.com/@KtheAgent/actor-model-in-nutshell-d13c0f81c8c7)

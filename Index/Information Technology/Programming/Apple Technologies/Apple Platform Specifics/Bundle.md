@@ -1,0 +1,8 @@
+- **Notes**
+	- Directory with executables and related resources (images, sounds etc.)
+	- Types of bundels:
+		- application
+		- loadable
+	- Main bundle (application type bundle) - bundle that contains application code
+- **Links**
+	- [Bundle](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Bundle.html)

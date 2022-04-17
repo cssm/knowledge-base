@@ -1,0 +1,6 @@
+﻿Log level,Persisted to disk,Notes
+Debug,No,Captures verbose information during development that is useful only for debugging your code.
+Info,Only when collected with the log tool,"Captures information that is helpful, but not essential, to troubleshoot problems."
+Notice (Default),"Yes, up to a storage limit","Captures information that is essential for troubleshooting problems. For example, capture information that might result in a failure."
+Error,"Yes, up to a storage limit","Captures errors seen during the execution of your code. If an activity object exists, the system captures information for the related process chain."
+Fault,"Yes, up to a storage limit","Captures information about faults and bugs in your code. If an activity object exists, the system captures information for the related process chain."

@@ -1,0 +1,29 @@
+> UI Framework to write applications for all Apple platforms, [iOS](iOS.md), [macOS](macOS.md), etc.
+
+- **Notes**
+	- [SwiftUI Conditional Modifiers](SwiftUI%20Conditional%20Modifiers.md)
+	- [SwiftUI Data State](SwiftUI%20Data%20State.md)
+	- [SwiftUI Toggle layout update](SwiftUI%20Toggle%20layout%20update.md)
+	- [SwiftUI Elements positioning](SwiftUI%20Elements%20positioning.md)
+- *Components*
+	- [SwiftUI Text](SwiftUI%20Text.md)
+	- [GroupBox. Card style elements group](https://developer.apple.com/documentation/swiftui/groupbox/)
+	- *Lazy Components*
+		- `LazyHStack` - horizontal stack that **do not** render off-screen elements
+- *Data Flow*
+	- [Understanding Data Flow in SwiftUI | raywenderlich.com](https://www.raywenderlich.com/11781349-understanding-data-flow-in-swiftui)
+	- [SwiftUI Data Flow | kean.blog](https://kean.blog/post/swiftui-data-flow#binding)
+	- [Data Flow Through SwiftUI - WWDC19 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/226/)
+- *Animations*
+	 - [SwiftUI Animations](SwiftUI%20Animations.md)
+	- [Transactions and Animations · objc.io](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
+- **Links**
+	- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/)
+	- [Alignment Guides in SwiftUI - The SwiftUI Lab](https://swiftui-lab.com/alignment-guides/)
+	- [Alternative Docs](https://swiftontap.com/)
+	- [API SwiftUI Tutorials](https://swiftuihub.com/swiftui-tutorials/api/)
+	- [The SwiftUI Lab. Alternative Docs](https://swiftui-lab.com)
+	- [Cheat Sheet](https://fuckingswiftui.com/#faq)
+	- [8 Common SwiftUI Mistakes - and how to fix them – Hacking with Swift](https://www.hackingwithswift.com/articles/224/common-swiftui-mistakes-and-how-to-fix-them)
+	- [Environment](https://www.fivestars.blog/articles/swiftui-environment-values/)
+	- [Amazing examples on how to do anything in SwiftUI](https://apps.apple.com/us/app/a-companion-for-swiftui/id1485436674?mt=12)

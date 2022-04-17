@@ -1,0 +1,18 @@
+- **Links**
+	- [Mathematics of Machine Learning book](https://tivadardanka.com/book)
+	- [Open Data Science (ODS.ai)](https://ods.ai/)
+	- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+	- [Distill — Latest articles about machine learning](https://distill.pub/)
+- *Natural Language Processing*
+	- `NLP`
+	- [thesephist/revery: A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal search index.](https://github.com/thesephist/revery)
+	- [Document Embedding Techniques. A review of notable literature on the… | by Shay Palachy | Towards Data Science](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
+- *Deep Learning*
+	- [Preface — Dive into Deep Learning 0.17.0 documentation](https://d2l.ai/chapter_preface/index.html)
+	- [Перевод «Создай свою нейросеть» — 1 – Нейронные сети](https://neuralnet.info/article/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9-%D1%81%D0%B2%D0%BE%D1%8E-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8C-1/)
+	- [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
+	- [Deep learning на пальцах!](https://dlcourse.ai/)
+	- [Yann LeCun’s Deep Learning Course at CDS – NYU Center for Data Science](https://cds.nyu.edu/deep-learning/)
+	- [fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai](https://www.fast.ai/2020/08/21/fastai2-launch/)
+	- [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+	- [DEEP LEARNING · Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/#)

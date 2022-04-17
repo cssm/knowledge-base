@@ -1,0 +1,17 @@
+- **Notes**
+	- Consume input from `stdin`, produce output to `stdout`
+	- Output should be simple
+		- just use whitespace to format data because this is expected in `UNIX` (arguments, arrays etc. in shell scripts works like this) 
+	- Place diagnostics output on `stderr`
+	- Omit needless diagnostics
+		- add `--verbose` for this but never default 
+	- Signal failure with an exit status
+		- if fails return *non zero* value (`0` is for success)
+	- Make a tool’s output portable
+		- use absolute path's
+		- etc.
+	- Avoid making interactive programs
+		- if you want to write a truly UNIX tool that composes well
+- **Links**
+	- [Hints for writing Unix tools](https://monkey.org/~marius/unix-tools-hints.html)
+	- [Program design in the UNIX environment](http://harmful.cat-v.org/cat-v/unix_prog_design.pdf)

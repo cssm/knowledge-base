@@ -1,0 +1,14 @@
+- **Notes**
+	- *Game-design*
+		- *Internal reward* - win a boss
+		- *External reward* - get new loot
+- **Links**
+	- [Useful functions for game development - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/usefulfunctions.html)
+	- [Channel about game-dev in C++](https://youtube.com/c/MollyRocket)
+	- [Introducing the GAME ENGINE series! - YouTube](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+	- [Space Invaders from Scratch - Part 1 | NICK TASIOS](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
+- *[Swift](Swift.md)*
+	- [junebash/Lark: A game engine built with SDL and Swift.](https://github.com/junebash/Lark)
+	- [nicklockwood/Swiftenstein: Simple Wolfenstein 3D clone written in Swift](https://github.com/nicklockwood/Swiftenstein)
+	- [nicklockwood/RetroRampage: Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift](https://github.com/nicklockwood/RetroRampage)
+	- [nicklockwood/Swune: Swift/UIKit reimplementation of the Dune II RTS game](https://github.com/nicklockwood/Swune)

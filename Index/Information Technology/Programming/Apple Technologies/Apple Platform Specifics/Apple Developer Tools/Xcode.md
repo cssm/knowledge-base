@@ -1,0 +1,33 @@
+- **Notes**
+	- [Xcode Appereance](Xcode%20Appereance)
+	- [Xcode Custom Behaviours](Xcode%20Custom%20Behaviours.md)
+	- [Xcode Build System](Xcode%20Build%20System.md)
+	- [Xcode Tips](Xcode%20Tips.md)
+	- [ENABLE_BITCODE](ENABLE_BITCODE.md)
+	- [Xcode Shortcuts](Xcode%20Shortcuts.md)
+	- [Clean Caches](Clean%20Caches.md)
+	- [TODO, FIXME highlighter](TODO,%20FIXME%20highlighter.md)
+	- [Quicker installation of Xcode from zip](Quicker%20installation%20of%20Xcode%20from%20zip.md)
+	- [Folder reference vs Folder group](Folder%20reference%20vs%20Folder%20group.md)
+	- [Run Script Phase](Run%20Script%20Phase.md)
+	- [Create ipa file](Create%20ipa%20file.md)
+	- [Useful Extensions](Useful%20Extensions.md)
+	- *Editor Configuration *
+		- Show invisible (like tabs, spaces, new lines etc.)
+			- `Editor -> Invisibles` 
+	- *Fixing Known Issues on [[M1]]*
+		- First option
+			- turn on rosetta use for [[Xcode]]  (find app in finder -> get info -> turn on)
+			- in .xcproj file Build Settings -> Architectures-> Architectures specify **armv7, armv7s, arm64, arm64e, x86_64 (commas need to be there)**
+			- Build active architecture only set to NO
+		- Or
+			- turn on rosetta use for Xcode (find app in finder -> get info -> turn on)
+			- Build active architecture only set to YES
+- **Links**
+	- [Customizing the file header comment and other text macros in Xcode 9 – Ole Begemann](https://oleb.net/blog/2017/07/xcode-9-text-macros)
+	- [tuist/tuist: 🚀 Create, maintain, and interact with Xcode projects at scale](https://github.com/tuist/tuist)
+	- [yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project](https://github.com/yonaskolb/XcodeGen)
+	- [Xcode Documentation Syntax](https://sarunw.com/posts/swift-documentation/)
+	- [cntrump/xcode-github-theme: Ported version of github-vscode-theme](https://github.com/cntrump/xcode-github-theme)
+	- [ctreffs/xcode-defaults: Awesome and useful Xcode defaults](https://github.com/ctreffs/xcode-defaults)
+	- [filsv/iPhoneOSDeviceSupport: Build for new OS's from old Xcode](https://github.com/filsv/iPhoneOSDeviceSupport)

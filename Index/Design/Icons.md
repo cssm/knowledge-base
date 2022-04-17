@@ -1,0 +1,6 @@
+- **Links**
+	- [App Icon Generator](https://appicon.co/#app-icon)
+	- [Free icons](https://tablericons.com/)
+	- [Noun Project: Free Icons & Stock Photos for Everything](https://thenounproject.com/)
+	- [100,000 free icons, illustrations, emojis – Streamline 4.0](https://streamlinehq.com/)
+	- [Feather – Simply beautiful open source icons](https://feathericons.com/)

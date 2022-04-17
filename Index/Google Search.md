@@ -1,0 +1,20 @@
+- *Tips for googling stuff*
+	- use `""` to find exact match
+	- `site:<site_name> <url>` to search on specific site
+	- to exclude something from search results just add `-` sign
+		-  `hot to grab element from DOM -jquery` - will not include links with `jquery` 
+	- use `after:<date>` to include results starting from some date
+		- `swift proposals after:2020`
+	- also we can use `before:<date>`
+	- and range of dates `2015..2019`
+	- or any range `$10..$20`
+	- `A | B` translates to - google `A` or `B`
+	- `(A | B) C` translates to - google `A` or `B` and then `C`
+	- `*`
+		- `how to build * in swift` will search for *how to build anything in swift*
+		- also can be combined with other operators
+			- `site:*.com -www` - find all sites that hosted on `com` domain and exclude domains with `www`
+	- `filetype:<file_type>` - search only for specific file type
+	- `related:<url>` - find sites somehow related to `<url>`
+	- `cache:<url>` - see a cached version by google search of web-page
+	-  *same operators supported by [[DuckDuckGo]]*

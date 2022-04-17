@@ -1,0 +1,7 @@
+- `cmd+f` - find
+- `cmd+option+f` - find and replace
+- `ctrl+shift+up/down` - add cursor
+-  `cmd+option+<1-2-3-4-5>` - split on `<num>` of panes
+-  `Select Text` -> `cmd+shift+l` - add cursor to the end selected text
+-  `Hold option` + `Select Text` - add cursor
+-  `option+l` - scroll to selection (where cursor is)

@@ -1,0 +1,5 @@
+- **Notes**
+	- [Design Patterns](Design%20Patterns.md)
+	- [Functional Programming](Functional%20Programming.md)
+- **Links**
+	- [Enforcing Single Responsibility Principle in Python](https://sobolevn.me/2019/03/enforcing-srp)

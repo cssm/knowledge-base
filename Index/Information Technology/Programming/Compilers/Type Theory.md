@@ -1,0 +1,5 @@
+- **Notes**
+	-  [Algebraic Data Types](Algebraic%20Data%20Types.md)
+	- [Static Typing and Strong Typing](Static%20Typing%20and%20Strong%20Typing.md)
+	- [Covariant, contravariant, invariant](Covariant,%20contravariant,%20invariant.md)
+	- [Void vs Unit](Void%20vs%20Unit.md)

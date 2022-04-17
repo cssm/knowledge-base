@@ -1,0 +1,7 @@
+- **Links**
+	- [Factorio](https://www.factorio.com/)
+	- [Factorio REAL-TIME DASHBOARD using Grafana | Technology Showcase - YouTube](https://www.youtube.com/watch?v=91rxQfpqge8)
+	- [remijouannet/graftorio2: (fork of graftorio) factorio mod for creating grafana dashboard](https://github.com/remijouannet/graftorio2)
+	- [Factorio 2021 ep.01 - Расчёт массивов переплавки - YouTube](https://www.youtube.com/watch?v=J1nYUp8njAo&list=PLYAinAC3eeFukbf40qlIE3xc7pn2LQBfC)
+- *[Distributed Systems](Distributed%20Systems.md)*
+	- [Understanding Kafka with Factorio | by Ruurtjan Pul | Medium](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)

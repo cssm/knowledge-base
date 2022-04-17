@@ -1,0 +1,3 @@
+- [MVVM](MVVM.md)
+- [The Composable Architecture (TCA)](The%20Composable%20Architecture%20(TCA).md)
+- [VIPER](VIPER.md)

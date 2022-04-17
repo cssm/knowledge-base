@@ -1,0 +1,4 @@
+- **Notes**
+	- Add `auth sufficient pam_tid.so` **on top** of `/etc/pam.d/sudo`
+- **Links**
+	- [Script to setup this automaticly](https://github.com/japanese-goblinn/.dotfiles/blob/main/shell/setup_sudo_touch_id.sh)

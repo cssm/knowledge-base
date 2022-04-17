@@ -1,0 +1,13 @@
+- **Notes**
+	- [Advanced Swift](Advanced%20Swift.md)
+	- [Чистый код](Чистый%20код.md)
+	- [Адская Неделя](Адская%20Неделя.md)
+- **Links**
+	- [Free eBooks | Project Gutenberg](https://www.gutenberg.org)
+	- [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
+	- [Books people (re)read](https://rauchg.com/2020/books-people-reread)
+	- [Книги, которые разделили мою жизнь на до и после [Книжный Клуб]](https://vas3k.club/post/2389/)
+	- издательство Springer выложило в открытый доступ часть своих книг (408 штук)
+		- [springer – Google Диск](https://drive.google.com/drive/folders/1YSOi-7cpWs_fx2GVKNiJjSVzKfiB5BdI)
+		- [springer — Yandex.Disk](https://disk.yandex.ru/d/PDASa3teK9GywA)
+	- [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)

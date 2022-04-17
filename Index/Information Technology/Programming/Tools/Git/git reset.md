@@ -1,0 +1,9 @@
+- With this command you can move **HEAD** and **BRANCH** pointers together.
+- **git reset --soft <WHERE_HEAD>** // moves and make all changes staged
+- **git reset <WHERE_HEAD> (it't implicit --mixed)** // moves and make all changes unstaged
+- **git reset --hard <WHERE_HEAD>** // moves and discard all changes (uncommited files will gone)
+	- --soft – The staged snapshot and working directory are not altered in any way.
+	- --mixed – The staged snapshot is updated to match the specified commit, but the working directory is not affected. This is the default option.
+	- --hard – The staged snapshot and the working directory are both updated to match the specified commit.
+- **git reset ?<HEAD> <file_name> (git reset --mixed HEAD <file_name>)** // unstage changes for file
+- On file level updates only staged area

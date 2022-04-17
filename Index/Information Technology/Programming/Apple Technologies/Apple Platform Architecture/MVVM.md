@@ -1,0 +1,1 @@
+![[MVVM/Data_and_user.png]]

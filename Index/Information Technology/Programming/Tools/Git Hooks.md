@@ -1,0 +1,17 @@
+- client-side and server-side hooks
+- stored in `.git/hooks/`
+- not copied on repo clone
+	- you can store them in some indexed directory and then make [Symbolic Link](Symbolic%20Link.md) to those scripts in `.git/hooks/`
+	- from `git 2.9` you can run `git config core.hooksPath <path_to_hooks_dir>` to setup new path to hooks instead of default `.git/hooks/` and add this path to `git` index
+- can be written in any programming language
+- some hooks can be skipped
+	- for example `pre-commit` hook is skipped by passing  `--no-verify` flag	
+		- e.g. `git commit --no-verify`
+- **Links**
+	- [Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+	- [Example of workflow with hooks](https://git-scm.com/book/en/v2/Customizing-Git-An-Example-Git-Enforced-Policy)
+	- [Pre-commit: Don’t git hooked! | Thoughtworks](https://www.thoughtworks.com/insights/blog/pre-commit-don-t-git-hooked)
+	- [Using Git hooks to enforce branch naming policy | by Roland Yeghiazaryan | ITNEXT](https://itnext.io/using-git-hooks-to-enforce-branch-naming-policy-ffd81fa01e5e)
+	- [evilmartians/lefthook: Fast and powerful Git hooks manager for any type of projects.](https://github.com/evilmartians/lefthook)
+	- [pre-commit/pre-commit: A framework for managing and maintaining multi-language pre-commit hooks.](https://github.com/pre-commit/pre-commit)
+	- [typicode/husky: Git hooks made easy](https://github.com/typicode/husky)

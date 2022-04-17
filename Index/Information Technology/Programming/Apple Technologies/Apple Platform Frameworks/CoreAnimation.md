@@ -1,0 +1,5 @@
+- **Notes**
+	- `СoreAnimation` uses [GPU](GPU.md) for rendering
+	- [CALayer](CALayer.md)
+- **Links**
+	- [iOS Core Animation: Advanced Techniques, Part 1: The Layer Beneath](https://gist.github.com/JeOam/94e833bcefd738d805cc)

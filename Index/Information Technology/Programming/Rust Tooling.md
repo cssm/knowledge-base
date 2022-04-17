@@ -1,0 +1,18 @@
+- **Notes**
+	- [Cargo](Cargo.md)
+	- [Rust Useful Libraries](Rust%20Useful%20Libraries)
+	- [Rust Analyzer](Rust%20Analyzer.md)
+	- [Rust Debugging](Rust%20Debugging)
+	- [`rustup` - rust toolchain installer](https://rustup.rs/)
+	- `rustc` - rust compiler
+	- `rustdoc` - generate documentation for project as beautiful static web-site
+		- [What is rustdoc? - The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
+	- `rustfmt` - code formatter
+		- [rust-lang/rustfmt: Format Rust code](https://github.com/rust-lang/rustfmt)
+- **Links**
+	- [crates.io: Rust Package Registry](https://crates.io/)
+	- [Lib.rs — home for Rust crates // Lib.rs](https://lib.rs/)
+	- [Guide on what tools and libraries to use in Rust](https://wiki.alopex.li/RustStarterKit2020#dev-tools)
+	- [Explore in what assembly Rust](https://rust.godbolt.org/)
+	- [Tool to explain Rust code](https://jrvidal.github.io/explaine.rs/)
+	- [Can I use this Rust feature search](https://caniuse.rs/)

@@ -1,0 +1,6 @@
+- **Notes**
+	- `UIApplication.willResignActiveNotification` - triggers even on system pop up showing 
+	- `UIApplication.didEnterBackgroundNotification` - works on `iOS 13+` 
+		-  when `applicationDidEnterBackground` didn't and we need to track `sceneDidEnterBackground`
+- **Links**
+	- 

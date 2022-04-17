@@ -1,0 +1,7 @@
+- *[CLI](CLI.md)*
+	- [xxh/xxh: 🚀 Bring your favorite shell wherever you go through the ssh.](https://github.com/xxh/xxh)
+- *SSH key*
+	- Thing after = is a comment
+		- `ssh-rsa AAAAB3N....NMqKM= this_is_a_comment`
+	- We can set it by using this command
+		- `ssh-keygen ... -c $YOUR_COMMENT_TO_IDENTIFY_KEY`

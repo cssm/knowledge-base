@@ -1,0 +1,5 @@
+- **Notes**
+	- [Twitter](Twitter.md)
+	- [Mastodon](Mastodon.md)
+- **Links**
+	- [discourse/discourse: A platform for community discussion. Swift Forums, Rust Forums are using it](https://github.com/discourse/discourse)

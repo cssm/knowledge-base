@@ -1,0 +1,5 @@
+- **Notes**
+	- `Preferences > Keys > Hotkey > Create Dedicated Hotkey Window` 
+- **Links** 
+	- [Example](https://t.me/digitalarcheology/1256)
+	- [Level up your terminal game with iTerm2’s Hotkey Window and text settings](https://www.typefloundry.com/1-800-iterm-bling.html)

@@ -1,0 +1,2 @@
+- **Notes**
+	- Video → Part → Episode → Scene → Plan (from press of start to stop) → Frame

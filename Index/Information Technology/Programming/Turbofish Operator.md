@@ -1,0 +1,3 @@
+-  `::<>` 
+- ["turbofish" operator](https://doc.rust-lang.org/1.57.0/reference/glossary.html#turbofish). 
+		- Useful to specify type in method call instead of `let a: Type = call();`

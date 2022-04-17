@@ -1,0 +1,15 @@
+- **Notes**
+	- [Nintendo Switch](Nintendo%20Switch.md)
+	- [Dead Cells](Dead%20Cells.md)
+	- [Factorio](Factorio.md)
+- **Links**
+	- [Starbound](https://playstarbound.com/)
+	- [Stardew Valley](https://www.stardewvalley.net/)
+	- [Bad North - A Minimalistic, Real-Time Tactics Roguelite with Vikings](https://www.badnorth.com/)
+	- [FTL: Faster Than Light](https://subsetgames.com/ftl.html)
+	- [Into the Breach](https://subsetgames.com/itb.html)
+	- [Civilization V](https://civilization.com/civilization-5/)
+	- [Civilization VI](https://civilization.com/)
+	- [Terraria](https://www.terraria.org/)
+	- [Minecraft](https://www.minecraft.net/en-us)
+	- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)

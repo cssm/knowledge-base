@@ -1,0 +1,16 @@
+- **Notes**
+	- *S*
+		- *Single Responsibility Principle*
+		- one class - one responsibility
+	- *O*
+		- *Open-Closed Principle*
+		- classes are easy to gain new functionality. ideally no need to change code written before
+	- *L*
+		- *Liskov Substitution Principle*
+		- if `B` is subtype of `A` then function with `A` parameter can take `B` as argument without breaking any code. That also means that `B` should not break functionality of `A`
+	- *I*
+		- *Interface Segregation Principle*
+		- our interfaces contain only needed requirements 
+	- *D*
+		- *Dependency Inversion Principle*
+		- we don't depend on concrete implementation but on some kind of abstraction (e.g interface)

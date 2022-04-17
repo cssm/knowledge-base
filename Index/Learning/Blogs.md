@@ -1,0 +1,22 @@
+- *[Programming](Programming.md)*
+	- [The If Works – The If Works](https://blog.jcoglan.com/)
+	- [Bruno Rocha](https://rockbruno.com/)
+	- [Cool videos about CS related concepts and programming in general](https://www.youtube.com/user/briantwill)
+	- [hhp3. Nice explanation of different CS and general programming related stuff](https://www.youtube.com/user/hhp3/videos)
+- *[Rust](Rust.md)*
+	- [Jon Gjengset - YouTube](https://www.youtube.com/c/JonGjengset/videos)
+- *[Computer Science](Computer%20Science.md)*
+	- [base.cs](https://medium.com/basecs)
+- *[iOS](iOS.md)*
+	- [Swiftjective-C](https://www.swiftjectivec.com/a-best-in-class-app/)
+	- [Technical Articles | Swiftjective-C](https://www.swiftjectivec.com/tuts)
+	- [The Daily iOS (@TheDailyiOS)](https://twitter.com/thedailyios?s=21)
+	- [Яндекс.Карты Mobile – Medium](https://medium.com/yandex-maps-mobile)
+- *[Apple Technologies](Apple%20Technologies.md)*
+	- [Little Bites of Cocoa - Tips and techniques for iOS and Mac development](https://littlebitesofcocoa.com/)
+	- [Blog (Swift, iOS) | kean.blog](https://kean.blog/)
+	- [Hacking with Swift](https://www.hackingwithswift.com/)
+	- [SwiftRocks](https://swiftrocks.com/)
+	- [Blog · objc.io](https://www.objc.io/blog/)
+	- [Point-Free](https://www.pointfree.co/blog)
+	-  [robb.is](https://robb.is/archive)

@@ -1,0 +1,5 @@
+- **Notes**
+	- [Xcode Build System Optimizations](Xcode%20Build%20System%20Optimizations.md)
+	- [Build Xcode Project from CLI](Build%20Xcode%20Project%20from%20CLI.md)
+- **Links**
+	- [xcpretty/xcpretty: Flexible and fast xcodebuild formatter](https://github.com/xcpretty/xcpretty)

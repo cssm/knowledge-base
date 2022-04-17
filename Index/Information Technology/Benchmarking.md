@@ -1,0 +1,5 @@
+- *[CLI](CLI.md), [Shell Scripting](Shell%20Scripting.md)*
+	- [sharkdp/hyperfine: A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
+- *[Swift](Swift.md)*
+	- [apple/swift-collections-benchmark: A benchmarking tool for Swift Collection algorithms](https://github.com/apple/swift-collections-benchmark)
+	- [attaswift/Attabench: Microbenchmarking app for Swift with nice log-log plots](https://github.com/attaswift/Attabench)

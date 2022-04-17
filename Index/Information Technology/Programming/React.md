@@ -1,0 +1,5 @@
+- **Links**
+	- [Ives van Hoorne on Twitter: "One of the features I'm most excited about is the inspector. With it, you click on a component, and you immediately open the code that renders that component. This is a really way to navigate code, I use it all the time. + it works with VSCode! 😁 https://t.co/laXSU24wWz" / Twitter](https://twitter.com/CompuIves/status/1506307886514769921)
+	- [LocatorJS - click on any component to go to code.](https://www.locatorjs.com)
+	- [Introducing JSX. React syntax extension for JavaScript](https://reactjs.org/docs/introducing-jsx.html)
+	- [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/?utm_campaign=%D0%A1%D0%BE%D0%B2%D0%B0%20%D0%BF%D0%B8%D1%88%D0%B5%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8&utm_medium=email&utm_source=Revue%20newsletter)

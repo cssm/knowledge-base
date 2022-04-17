@@ -1,0 +1,7 @@
+- **Notes**
+	- 
+- **Links**
+	- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
+	-   [tokio - Rust](https://docs.rs/tokio/latest/tokio/)
+	-   [crossbeam: Tools for concurrent programming](https://docs.rs/crossbeam/latest/crossbeam/)
+	-   [rayon: a so simple to use library for data parallelism](https://github.com/rayon-rs/rayon)

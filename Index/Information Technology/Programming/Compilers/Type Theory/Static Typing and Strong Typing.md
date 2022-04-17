@@ -1,0 +1,2 @@
+- *Static Typing* - types are inferred at compile time
+- *Strong Typing* - we can't cast e.g.`Int` to `String` implicitly

@@ -1,0 +1,2 @@
+- **Notes**
+	- Monotonic - when we don't use sync with *wall time*  (computer clock)

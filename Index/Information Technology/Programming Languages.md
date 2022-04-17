@@ -1,0 +1,19 @@
+- **Notes**
+	- [Swift](Swift.md)
+	- [Rust](Rust.md)
+	- [Objective-C](Objective-C.md)
+	- [C](C.md)
+	- [C++](C++.md)
+	- [Python](Python.md)
+	- [Go](Go.md)
+	- [Lisp](Lisp.md)
+	- [Haskell](Haskell.md)
+	- [Java](Java.md)
+	- [Applescript](Applescript.md)
+	- [Elm](Elm.md)
+	- [Elixir](Elixir.md)
+	- [Lua](Lua.md)
+- **Links**
+	- [thesephist/oak: An expressive, simple, dynamic programming language.](https://github.com/thesephist/oak)
+	- [janet-lang/janet: A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
+	- 

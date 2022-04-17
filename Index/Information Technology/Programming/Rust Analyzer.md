@@ -1,0 +1,5 @@
+- **Notes**
+	- 
+- **Links**
+	- [rust-lang/rust-analyzer: A Rust compiler front-end for IDEs](https://github.com/rust-lang/rust-analyzer)
+	- [Explaining rust-analyzer - YouTube](https://www.youtube.com/playlist?list=PLhb66M_x9UmrqXhQuIpWC5VgTdrGxMx3y)

@@ -1,0 +1,6 @@
+- [Full Guide](https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/#orthogonal-scrolling)
+- [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
+- [Compositional Layout в iOS 13. Основы](https://habr.com/ru/post/495076/)
+- [Using compositional collection view layouts in iOS 13 - Donny Wals](https://www.donnywals.com/using-compositional-collection-view-layouts-in-ios-13/)
+- [Modern Collection Views with Compositional Layouts](https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts)
+- [kishikawakatsumi/IBPCollectionViewCompositionalLayout: Backport of UICollectionViewCompositionalLayout to earlier iOS 12](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)

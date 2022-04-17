@@ -1,0 +1,4 @@
+- **Notes**
+	- [iTerm. Window that overlaps other apps](iTerm.%20Window%20that%20overlaps%20other%20apps.md)
+- **Links**
+	- [iterm - How can I scroll up more (increase the scroll buffer) in iTerm2? - Stack Overflow](https://stackoverflow.com/questions/27616474/how-can-i-scroll-up-more-increase-the-scroll-buffer-in-iterm2)

@@ -1,0 +1,13 @@
+- **Notes**
+	- [Leetcode](Leetcode.md)
+	- [Data Structures](Data%20Structures.md)
+	- [Algorithms](Algorithms.md)
+	- [Tips for problem solving](Tips%20for%20problem%20solving.md)
+	- [NP-hard problem](NP-hard%20problem.md)
+- **Links**
+	- [Teach Yourself Computer Science](https://teachyourselfcs.com)
+	- [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science#core-cs)
+	- [Codeforces](https://teachyourselfcs.com)
+	- [State Machine Visualizer](https://stately.ai/viz)
+	- [visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net/en)
+	- [gamontal/awesome-katas: A curated list of code katas](https://github.com/gamontal/awesome-katas)

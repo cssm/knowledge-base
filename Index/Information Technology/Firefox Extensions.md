@@ -1,0 +1,5 @@
+- **Links**
+	- [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
+	- [Privacy Badger](https://privacybadger.org)
+	- [HTTPS Everywhere | Electronic Frontier Foundation](https://www.eff.org/https-everywhere)
+	- [Kevin / ClearURLs · GitLab](https://gitlab.com/KevinRoebert/ClearUrls)

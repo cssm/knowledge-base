@@ -1,0 +1,7 @@
+- You can use this prefixes in Firefox search bar to search  using specified [Search Engines](Search%20Engines.md)
+	- `@wikipedia` - search in Wikipedia
+	- `*` - search bookmarks
+	- `^` - search history
+	- `%` - search opened tabs 
+- `Settings -> Search -> Search Shortcuts`
+	- here you can change prefixes and add more search engines 

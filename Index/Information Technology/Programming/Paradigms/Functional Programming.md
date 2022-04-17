@@ -1,0 +1,23 @@
+- **Notes**
+	- [Idempotency](Idempotency)
+	- [Lambda Calculus](Lambda%20Calculus.md)
+	- [First-class functions](First-class%20functions.md)
+	- [High Order Functions](High%20Order%20Functions.md)
+	- [Functors](Functors.md)
+	- [Monad](Monad.md)
+	- [Algebraic Structures](Algebraic%20Structures.md)
+	- *Type Classes*
+		- Typeclasses are a way of adding additional functionality that is reusable across all the types that have instances of that typeclass
+- **Links**
+	- [hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!](https://github.com/hemanth/functional-programming-jargon)
+	- [For a Few Monads More - Learn You a Haskell for Great Good!](http://learnhaskellforgood.narod.ru/learnyouahaskell.com/for-a-few-monads-more.html)
+	- [Algebraic Data Types: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
+	- [Type Classes: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/type-classes-what-i-wish-someone-had-explained-about-functional-programming/)
+	- [Why Isn't Functional Programming the Norm? – Richard Feldman - YouTube](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+		- Because of [Java](Java.md)'s good advertising. It's an [OOP](OOP.md) programming language in first place  
+- *[Swift](Swift.md)*
+	- [Functional Swift](Functional%20Swift.md)
+	- [pointfreeco/swift-overture: A library for function composition.](https://github.com/pointfreeco/swift-overture)
+	- [pointfreeco/swift-prelude: A collection of types and functions that enhance the Swift language.](https://github.com/pointfreeco/swift-prelude)
+- *[Python](Python.md)*
+	- [kachayev/fn.py: Functional programming in Python](https://github.com/kachayev/fn.py)

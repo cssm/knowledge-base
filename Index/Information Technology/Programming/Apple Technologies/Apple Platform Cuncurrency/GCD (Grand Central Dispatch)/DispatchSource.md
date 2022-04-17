@@ -1,0 +1,2 @@
+- Allows to get low level system events
+- [https://agostini.tech/2017/08/06/monitoring-files-using-dispatch-sources/](https://agostini.tech/2017/08/06/monitoring-files-using-dispatch-sources/)

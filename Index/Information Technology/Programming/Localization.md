@@ -1,0 +1,3 @@
+- **Locale** - combination of location and country
+- [Avoiding mistakes in software localization](Avoiding%20mistakes%20in%20software%20localization.md)
+- [Validate your iOS and Android translations with Locheck - The Asana Blog](https://blog.asana.com/2021/09/locheck-open-source/)

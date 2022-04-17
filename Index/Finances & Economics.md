@@ -1,0 +1,18 @@
+- *Personal Finances Management*
+	- [hledger](https://hledger.org/quickstart.html)
+- *Stocks*
+	- *Index Fund* - fund that buys stocks of different companies
+	- [How to Invest for Beginners](https://www.youtube.com/watch?v=gFQNPmLKj1k)
+		- Invest in index funds
+		- Find the lowest fee (0.25% is good)
+- **Notes**
+	-  *курс покупки* – цена, по которой банк **готов выкупить** у клиента единицу иностранной валюты;
+	- *курс продажи* – цена, по которой банк продает клиентам единицу иностранной валюты;
+	- *Инфляция* - когда товар который раньше стоил $n$ денег сейчас стоит $n+k$, т.е. обесценивание денег
+		- обычно связано с печатаньем большего количеста денег
+		- about `2-2.5%` per year
+	- *Дефляция* - 
+	- *Interest Rate* - if you take $n$ money from bank you'll need to return $n + n \cdot interest rate$
+- **Links**
+	- [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0&t=3s)
+	- [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/)

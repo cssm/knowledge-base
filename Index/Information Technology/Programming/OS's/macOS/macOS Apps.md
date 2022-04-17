@@ -1,0 +1,36 @@
+- *[git](git.md)*
+	- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
+	- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
+- *[Diffing](Diffing.md)*
+	- [Kaleidoscope](https://kaleidoscope.app/)
+	- [japanese-goblinn/PerfectMatch: Tool to check if your files match](https://github.com/japanese-goblinn/PerfectMatch)
+- **Notes**
+	- [Karabiner](Karabiner)
+	- [iTerm](iTerm.md)
+	- [Raycast](Raycast.md)
+	- [Alfred](Alfred.md)
+	- [Xcode](Xcode.md)
+- **Links**
+	- [Little useful tools for macOS](https://onethingwell.org)
+	- [Quick jump between opened apps and windows](https://contexts.co/)
+	- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
+	- [Check what takes space on your mac](http://grandperspectiv.sourceforge.net)
+	- [nice timer from status bar](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)
+	- [Ads blocking service](https://apps.apple.com/by/app/wipr/id1320666476?mt=12)
+	- [Create `Keynote` presentations from `Markdown`](https://hyperdeck.io)
+	- [Create `DMG` for your app](https://c-command.com/dropdmg/)
+	- [aww bar battery icon replecement](https://neilsardesai.com/battery-buddy)
+	- [Wrapper for `Apple Reminders` + `Apple Calendar` with a lot of features](https://apps.apple.com/by/app/goodtask-to-do-list-manager/id1068039220)
+	- [Finda -  finds things windows, browser tabs, code editor buffers, iTerm terminals, browser history, apps, files, etc. — in under 16 milliseconds.](https://keminglabs.com/finda/)
+	- [rxhanson/Rectangle: Move and resize windows on macOS with keyboard shortcuts and snap areas](https://github.com/rxhanson/Rectangle)
+	- [pock/pock: Widgets manager for MacBook Touch Bar](https://github.com/pock/pock)
+	- [kyleneideck/BackgroundMusic: Automatically pause/unpause your music player when other audio sources are playing/stopped](https://github.com/kyleneideck/BackgroundMusic)
+	- [insidegui/WWDC: The unofficial WWDC app for macOS](https://github.com/insidegui/WWDC)
+	- [czarny/brisync: Control brightness of external display on macOS and OSX automatically](https://github.com/czarny/brisync)
+	- [calibre. Any e-book format converter](https://calibre-ebook.com/)
+	- [keycastr/keycastr: KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)
+	- *Hide items from menu bar*
+		- `$ paid` [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com)
+		- [Mortennn/Dozer: Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
+
+

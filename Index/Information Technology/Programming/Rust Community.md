@@ -1,0 +1,5 @@
+- **Notes**
+	- 
+- **Links**
+	- [Forum For Users Of Rust](https://users.rust-lang.org/)
+	- [Forum For Rust Language Developers](https://internals.rust-lang.org/)

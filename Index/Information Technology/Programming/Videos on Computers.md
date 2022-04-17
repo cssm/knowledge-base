@@ -1,0 +1,11 @@
+- [iOS](iOS.md)
+	- [StyleShare/HLSCachingReverseProxyServer: A simple local reverse proxy server for HLS segment cache](https://github.com/StyleShare/HLSCachingReverseProxyServer)
+- *[CLI](CLI.md)*
+	- [FFmpeg. Edit and manipulate videos](https://ffmpeg.org/)
+- *Codecs*
+	- Shorthand for coder-decoder. **Codecs not always means compression**
+	- *Lossless vs Lossy Codecs*
+		- Lossless - no quality reduce
+		- Examples: Free Lossless Audio Codec (FLAC), Apple Lossless Audio Codec (ALAC)
+		- Lossy - reduces quality but reduces size too
+		- MPEG-4

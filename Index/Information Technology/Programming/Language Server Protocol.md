@@ -1,0 +1,2 @@
+- [Rust](Rust.md)
+	- [rust-analyzer/rust-analyzer: A Rust compiler front-end for IDEs](https://github.com/rust-analyzer/rust-analyzer)

@@ -1,0 +1,2 @@
+- Ports are different channels through which your router sends and receives data. Your router has more than 65000 ports to use, which can be useful if you’re doing multiple things at once.
+- If you want to listen to Spotify and browse a webpage at the same time, your router will be receiving data from at least two servers simultaneously. It can be in contact with both servers at once because the data is moving through separate ports.

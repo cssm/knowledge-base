@@ -1,0 +1,4 @@
+- **Links**
+	- [Giving social networking back to you - Mastodon](https://joinmastodon.org/)
+	- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE)
+	- [mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)

@@ -1,0 +1,5 @@
+- **Notes**
+	- 
+- **Links**
+	- [Using HTTP cookies - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+	- [Как хранят данные в браузере](https://antonz.ru/browser-storage/)

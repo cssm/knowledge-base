@@ -1,0 +1,14 @@
+- **Notes**
+	-  `URL` - Uniform Resource Locator
+	- basically `URL` and `URN` is a subset of `URI`
+		- `URL` - an `URI` with a help of witch we can locate a thing
+		- `URN` - an `URI` with constraints of `URN` format 
+	- ![[URL/Untitled.png]]
+		- `scheme:[//authority]path[?query][#fragment]`
+		- `path` can be ended with *slug -* a human readable identifier for page
+		-`authority = [userinfo@]host[:port]`
+		- `host` - hostname (google.com) or ip address
+		- in `userinfo` we can send for example username and password (don't do it, it's not secure): `https://username:password@example.com`
+- **Links**
+	-  [URL Decode and Encode - Online](https://www.urldecoder.org/)
+	-  [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)

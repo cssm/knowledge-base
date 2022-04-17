@@ -1,0 +1,17 @@
+- **Notes**
+	- Allows to *continiusly handle different events without waiting*
+	- Created automatic for the *main thread*
+	- Handles *Input Sources* - async events from another threads or applications (UI touches and other stuff) and *Timer Sources* - synchronous events occurring at a scheduled time or repeating interval. 
+	- `RunLoop` have *different modes* to handle different events and can *switch between* them
+		- Basic modes
+			- `Default` 
+			- `UIHandling`
+			- `Common`
+		- Timer events by default handled in *Default mode*
+		- UI events handled in *UIHandling mode* 
+		- If `RunLoop` in one mode it *will not handle events from another mode*
+			- Using timer while dragging slider -> [Timer will not work](https://programmer.ink/think/ios-development-runloop-understanding.html) because timers are handled in *Default mode*. We need to attach timer to *Common* mode to make it work
+- **Links**
+	- [Run Loops](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html)
+	- [RunLoop understanding](https://programmer.ink/think/ios-development-runloop-understanding.html)
+	- [Understanding the RunLoop model by creating a basic shell](https://www.rderik.com/blog/understanding-the-runloop-model-by-creating-a-basic-shell/)

@@ -1,0 +1,20 @@
+- **Notes**
+	- [DocC](DocC.md)
+	- [Swift Concurrency](Swift%20Concurrency.md)
+	- [Foundation](Foundation.md)
+	- [Swift Notes](Swift%20Notes.md)
+	- [Swift Code Snippets](Swift%20Code%20Snippets.md)
+	- [Swift Code Guidelines](Swift%20Code%20Guidelines.md)
+	- [Detecting unused code in Swift](Detecting%20unused%20code%20in%20Swift.md)
+- **Links**
+	- [Swift Evolution](https://apple.github.io/swift-evolution/)
+	- [Swift.org - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
+	- [The Ultimate Guide To Swift for CLI](https://www.fivestars.blog/articles/ultimate-guide-swift-executables/)
+	- [mxcl/PromiseKit: Promises for Swift & ObjC.](https://github.com/mxcl/PromiseKit)
+	- [pointfreeco/swift-custom-dump: A collection of tools for debugging, diffing, and testing your application's data structures.](https://github.com/pointfreeco/swift-custom-dump)
+	- [mhdhejazi/Dynamic: Call hidden/private API in style! The Swift way.](https://github.com/mhdhejazi/Dynamic)
+	- [alchemy-swift/fusion: Lightweight, property-wrapper based Dependency Injection for Swift](https://github.com/alchemy-swift/fusion)
+	- [krzysztofzablocki/Sourcery: Meta-programming for Swift, stop writing boilerplate code.](https://github.com/krzysztofzablocki/Sourcery)
+	- [guides/memory-leaks-and-usage.md at main · swift-server/guides](https://github.com/swift-server/guides/blob/main/docs/memory-leaks-and-usage.md)
+- *Tooling*
+	- [apple/swift-format: Formatting technology for Swift source code](https://github.com/apple/swift-format)

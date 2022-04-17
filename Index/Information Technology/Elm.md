@@ -1,0 +1,5 @@
+- **Links**
+	- [Elm - delightful language for reliable web applications](https://elm-lang.org/)
+	- [mdgriffith/elm-ui: What if you never had to write CSS again?](https://github.com/mdgriffith/elm-ui)
+		- [Building a Toolkit for Design - Matthew Griffith](https://www.youtube.com/watch?app=desktop&v=Ie-gqwSHQr0)
+		- [Understanding style - Matthew Griffith](https://www.youtube.com/watch?v=NYb2GDWMIm0)

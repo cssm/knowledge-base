@@ -1,0 +1,10 @@
+- **Notes**
+	- [HTML](HTML.md)
+	- [CSS](CSS)
+	- [JavaScript](JavaScript.md)
+	- [Web Servers](Web%20Servers.md)
+	- [Storing data in Web](Storing%20data%20in%20Web.md)
+- **Links**
+	- [Дока](https://doka.guide/)
+	- [Interneting Is Hard](https://www.internetingishard.com/)
+	- [Как спарсить любой сайт? / Хабр](https://habr.com/ru/post/579336/)

@@ -1,0 +1,39 @@
+- **Notes**
+	- 
+	- [Lambda Calculus](Lambda%20Calculus.md)
+	- [Mathematical Logic](Mathematical%20Logic.md)
+	- [Probability Theory](Probability%20Theory.md)
+	- [Bezier Curves](Bezier%20Curves.md)
+	- [Discrete mathematics](Discrete%20mathematics.md)
+	- [Trigonometry](Trigonometry.md)
+	- [Graphs](Graphs.md)
+	- [Быстрое умножение на 11](Быстрое%20умножение%20на%2011.md)
+	- [Linear Algebra](Linear%20Algebra.md)
+	- [Необходимость и достаточность](Необходимость%20и%20достаточность.md)
+	- [Теория Игр](Теория%20Игр.md)
+- **Links**
+	- [Twitter. Nice explanation of derivatives and math in general](https://twitter.com/dan_abramov/status/1439569980341821444)
+	- [Tao's Analysis. Learn how to prove in mathematical way](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
+	- [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)
+	- [3b1b/manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+	- [Theorem Proving Programming Language](https://leanprover.github.io/theorem_proving_in_lean/introduction.html)
+	- [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
+	- [Vectors & Dot Product • Math for Game Dev [Part 1] - YouTube](https://www.youtube.com/watch?v=MOYiVLEnhrw)
+	- [Coding Math - YouTube](https://www.youtube.com/user/codingmath/videos)
+	- [Archives – BetterExplained](https://betterexplained.com/archives/)
+	- [MathBook.Info: интерактивные книги по математике](https://mathbook.info/)
+	- [Active Preparation for Calculus | opencalculus](https://opencalculus.wordpress.com/2019/01/02/active-preparation-for-calculus/)
+	- [Calculus with Julia](https://docs.juliahub.com/CalculusWithJulia/AZHbv/0.0.5/)
+	- [Pick's theorem: The wrong, amazing proof](https://www.youtube.com/watch?v=uh-yRNqLpOg)
+		- how to find area of any shape
+	- [Entropy. A thread. Twitter](https://twitter.com/TivadarDanka/status/1475456688547250176?s=20)
+
+- *Envelopes*
+	- [That weird light at the bottom of a mug](https://www.youtube.com/watch?v=fJWnA4j0_ho)
+- *Linear Algebra*
+	- [Много лет назад один профессор показал нам отличный метод умножения матриц](https://twitter.com/ValeriiZhyla/status/1447493685323739136)
+- *[Programming](Programming.md)*
+	- [A Programmer’s Introduction to Mathematics – BIT-101](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
+	- [math-as-code: a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+- *[Swift](Swift.md)*
+	- [mattt/Euler: Swift Custom Operators for Mathematical Notation](https://github.com/mattt/Euler)

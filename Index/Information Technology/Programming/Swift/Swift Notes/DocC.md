@@ -1,0 +1,6 @@
+- **Notes**
+	- Tool that helps generate documentation for your [[swift]] code that looks and works like Apple docs
+- **Links**
+	- [apple/swift-docc: Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.](https://github.com/apple/swift-docc)
+	- [apple/swift-docc-render: Web renderer for Swift-DocC documentation.](https://github.com/apple/swift-docc-render)
+	- [Hosting your Swift Library Docs on Github Pages – Rhonabwy](https://rhonabwy.com/2022/01/28/hosting-your-swift-library-docs-on-github-pages/)

@@ -1,0 +1,10 @@
+- **Notes**
+	- [Raspberry Pi](Raspberry%20Pi.md)
+- **Links**
+	- [Nothing](https://intl.nothing.tech/)
+	- [teenage engineering](https://teenage.engineering/)
+	- [ClockworkPi | Open Source Hardware](https://www.clockworkpi.com/)
+	- [Modern Retro Computer Terminals - The Works of Oriol Ferrer Mesià](https://uri.cat/projects/modern-retro-terminal/)
+	- [Yubico | YubiKey Strong Two Factor Authentication](https://www.yubico.com/)
+	- [Penkesu Computer - A Homebrew Retro-style Handheld PC | penkesu](https://penkesu.computer)
+	- [WOWCUBE® ENTERTAINMENT SYSTEM](https://wowcube.com)

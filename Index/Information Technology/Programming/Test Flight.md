@@ -1,0 +1,1 @@
+> Apple's way to distribute app's for beta testing

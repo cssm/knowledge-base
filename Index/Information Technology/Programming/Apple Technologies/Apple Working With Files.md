@@ -1,0 +1,2 @@
+- **Links**
+	- [Why URL's is used instead of path's on Apple Platforms](https://forums.swift.org/t/get-folders-number-of-elements/30674/12)

@@ -1,0 +1,7 @@
+- **Links**
+	- [Style Guidelines](https://doc.rust-lang.org/1.0.0/style/README.html)
+	- [Naming - Rust API Guidelines](https://rust-lang.github.io/api-guidelines/naming.html)
+- **Notes**
+	- Use `snake_case` for methods, namespaces, variables
+	- Use `CamelCase`  for types (enums cases incuded)
+	- ![](Pasted%20image%2020211207171904.png)

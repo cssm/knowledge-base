@@ -1,0 +1,4 @@
+- [CPU](CPU.md)
+- [RAM](RAM.md)
+- [GPU](GPU.md)
+- [SSD](SSD.md)

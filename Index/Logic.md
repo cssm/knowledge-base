@@ -1,0 +1,6 @@
+- **Notes**
+	- [Empiricism](Empiricism.md)
+	- *Synthetic Propositions* - attempts to describe objective reality beyond purely mental processes and language analysis 
+		- Example *"All dogs lives on Earth"*, we can't derive if it's $True$ from axioms or from our [feelings](Empiricism.md)
+- **Links**
+	- [What is Truth?](https://www.youtube.com/watch?v=_jLJczkOU44&list=PLe4pfJ6tnyMHC98V-3td4Yr97wwbcKU3a)

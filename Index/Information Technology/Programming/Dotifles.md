@@ -1,0 +1,16 @@
+- **Notes**
+	- [zshrc](zshrc.md)
+		- `rc` means `run command` or `run control`
+- **Links**
+	- [anishathalye/dotbot: A tool that bootstraps your dotfiles](https://github.com/anishathalye/dotbot)
+	- [japanese-goblinn/.dotfiles: 🔮 Collection of my macOS configs](https://github.com/japanese-goblinn/.dotfiles)
+	- [nikitavoloboev/dotfiles: Zsh, Karabiner, VS Code, Sublime, Neovim, Nix](https://github.com/nikitavoloboev/dotfiles)
+	- [Managing Your Dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
+	- [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io)
+- *Prompts*
+	- [sindresorhus/pure: Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
+	- [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
+- *Plugins Frameworks*
+	- [ohmyzsh/ohmyzsh: framework for managing your zsh configuration](https://github.com/ohmyzsh/ohmyzsh)
+	- [zsh-users/antigen: The plugin manager for zsh.](https://github.com/zsh-users/antigen)
+	- [zplug/zplug: A next-generation plugin manager for zsh](https://github.com/zplug/zplug)

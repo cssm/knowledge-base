@@ -1,0 +1,8 @@
+- **Links**
+	- [Neil Fraser: Writing: Diff Strategies](https://neil.fraser.name/writing/diff/)
+	- [google/diff-match-patch: Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.](https://github.com/google/diff-match-patch/)
+- *Heckel's Diff Algorithm*
+	- [Paul Heckel's Diff Algorithm](https://gist.github.com/ndarville/3166060)
+	- [myndzi/heckel-diff: Tweaked implementation of Heckel's diff algorithm](https://github.com/myndzi/heckel-diff)
+- *The Myers difference algorithm*
+	- [The Myers Difference Algorithm](https://www.nathaniel.ai/myers-diff/)

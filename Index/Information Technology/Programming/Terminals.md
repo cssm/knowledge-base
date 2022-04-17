@@ -1,0 +1,6 @@
+- *iTerm*
+	- [mbadolato/iTerm2-Color-Schemes: Over 250 terminal color schemes/themes for iTerm/iTerm2](https://github.com/mbadolato/iTerm2-Color-Schemes)
+- **Links**
+	- [warpdotdev/warp: Warp is a blazingly fast, Rust-based terminal that makes you and your team more productive at running, debugging, deploying code and infrastructure.](https://github.com/warpdotdev/warp)
+	- [kovidgoyal/kitty: Cross-platform, fast, feature-rich, GPU based terminal](https://github.com/kovidgoyal/kitty)
+	- [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/index.html)

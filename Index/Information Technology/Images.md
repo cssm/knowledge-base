@@ -1,0 +1,5 @@
+- **Notes**
+	- `PNG (Portable Network Graphics)` - bitmap based images that was developed as replacement for `GIF (Graphics Interchange Format)``
+	- `SVG (scalable vector graphics`) - extension of XML for vector graphics
+- **Links**
+	- 

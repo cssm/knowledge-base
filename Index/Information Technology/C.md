@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)

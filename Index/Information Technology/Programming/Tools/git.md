@@ -1,0 +1,40 @@
+ - *Snippets* 
+	- Rename file on case-insensitive systems (`UNIX`-like)
+		- `git mv readme.md README.md`
+	- Remove from remote everything that not match with local    
+		- `git push --force-with-lease origin $BRANCH`
+	- Remove file only from git
+		 - `git rm --cached <file>`
+- **Notes**
+	- [Git Attributes](Git%20Attributes.md)
+	- [Git Hooks](Git%20Hooks.md)
+	- [Learning Git](Learning%20Git.md)
+	- [gitignore](gitignore.md)
+	- [Forking](Forking.md)
+	- [Git LFS](Git%20LFS.md)
+	- [Submodules](Submodules.md)
+	- [Stashing](Stashing.md)
+	- [How to add empty directories to index](How%20to%20add%20empty%20directories%20to%20index.md)
+	- [git flow](git%20flow.md)
+	- [git reset vs checkout vs revert](git%20reset%20vs%20checkout%20vs%20revert.md)
+	- [Merge & Rebase](Merge%20&%20Rebase.md)
+	- [HEAD~ and HEAD^](HEAD~%20and%20HEAD^.md)
+	- [[Git] Merge in monorepo]([Git]%20Merge%20in%20monorepo.md)
+- **Links**
+	- [pluralsight/git-internals-pdf: PDF on Git Internals](https://github.com/pluralsight/git-internals-pdf)
+	- [Get up to speed with partial clone and shallow clone | The GitHub Blog](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
+	- [Make your monorepo feel small with Git’s sparse index | The GitHub Blog](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+- *Learning*
+	- [pcottle/learnGitBranching: An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!](https://github.com/pcottle/learnGitBranching)
+- *Guidelines*
+	- Often small commits
+	- Instead of commit half done work use git stash
+	- Use branches
+	- Use this  [Conventional Commits](Conventional%20Commits.md)
+- *Commands*
+	- [git checkout](git%20checkout.md)
+	- [git reset](git%20reset.md)
+	- [git describe](git%20describe.md)
+	- [git reflog](git%20reflog.md)
+	- [git gc](git%20gc.md)
+	- [git remote](git%20remote.md)

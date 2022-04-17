@@ -1,0 +1,41 @@
+> Getting Things Done
+
+- **Notes**
+	- Core Idea is **5 lists**
+		- `In`
+		- `Next Actions` 
+		- `Waiting for`
+		- `Projects`
+		- `Someday`
+	- *In*
+		- write any ideas if they **actionable**
+			- Do I need to DO something to achive this?
+		- process it regularly 
+			- if task takes <=2 minutes -> Do it right now 
+			- if task takes >3 minutes and require ==1 action -> `Next Actions`/`Waiting For`
+			- if task takes >3 minutes and require >1 action -> `Projects`
+	- *Next Actions*
+		- Actions that can be done at any moment
+		- The next action needs to be a **physical and visible action**
+			- not “plan cake lottery”, but “e-mail Arthur and Camille and remind them to bake their cakes”.
+		- Use *Contexts* as tags to add more info to actions
+			- I should do this action when I'm at *home* or at *work*
+	- *Waiting For*
+		- If your action is blocked by someone else
+		- These items should **always be marked with the current date** so that you’ll be able to e-mail your co-worker Marvin and say “I’m still waiting for the WTF report you said you’d finish within a month. That was 32 days ago!”.
+	- *Projects*
+		- Something that takes >1 action to complete
+		- Make sure that there is always **at least one action on your next actions list** for each project, thus making sure that your projects make progress and aren’t forgotten.
+	- *Someday*
+		- Abstract tasks or concreet actions that you want to do but not now 
+	- *Calendar*
+		- Put here thinks that you **have to do** in particular time not that you **want to do**
+	- *Weekly Review*
+		- Review all list so that they stay relevant
+		- How to do this?
+			- Make sure each item in `Projects` has at least one next action.
+    		- Make sure that each action on your `Next Actions` list is **actually something you want or need to do** if you have the time during the coming week. If not, move it `Someday` or remove completly.
+    		- Look through your `Someday` list and see if something should be moved to `Projects` or `Next Actions`. 
+    		- Try to create a trigger list and put points from it into `In` list. Trigger list is ideas that you not yet added to any list.
+- **Links**
+	- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd#what-is-gtd)

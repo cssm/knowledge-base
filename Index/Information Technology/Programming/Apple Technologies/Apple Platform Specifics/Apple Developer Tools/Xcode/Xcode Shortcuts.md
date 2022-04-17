@@ -1,0 +1,34 @@
+- *Add new cursor*
+	- `ctrl + shift + arrow up/down`
+	- `option/alt + click`
+- *Console navigation*
+	-  `cmd + K` — clear;
+	- `s` — step into (step);
+	- `n` — step over (next);
+	- `finish` — step out;
+	- `c` — continue;
+	- `breakpoint disable`.
+- `option + cmd + 0` - toggle right sidebar
+- `option + cmd + A` — show context menu
+- `option + cmd + J` - focus on files
+- `option + cmd + E` - select for search
+- `ctrl + I` - format code
+- `ctrl + cmd + R` - run without building
+- `ctrl + 6` - show document items
+- `cmd + L` - jump to line
+- `ctrl + 0`- open schemes list 
+- `cmd + shift + j` - show current file in file hierarchy
+- `ctrl + cmd + click` - jump to definition
+- `option/alt + click on file` - open in split
+- `cmd + alt + ] (or [)` - move line up (down)
+- `option/alt + shift + cmd + T` - rename tab
+- `option + shift + command + enter` - open code review (compare file by commits)
+- `shift + ctrl + cmd + H` - show call hierarchy
+- `ctrl + option + cmd + F` - fix all errors
+- `ctrl + cmd + E` - rename variable in scope
+- `cmd + ;` - show wrong spelling
+- `cmd + \` - add breakpoint to current line
+- `ctrl + \` - go to next line with changes
+- `ctrl + shift + \` - go to previous line with changes 
+- `ctrl + cmd + up` - generate interface
+- `cmd + shift + 2` - open devices list

@@ -1,0 +1,16 @@
+- **Notes**
+	- [iOS Launch Screen](iOS%20Launch%20Screen.md)
+	- [iOS Apps](iOS%20Apps.md)
+	- [iOS App Structure](iOS%20App%20Structure.md)
+	- [iOS Keyboard Types](iOS%20Keyboard%20Types.md)
+	- [iPhone's Screens Info](iPhone's%20Screens%20Info.md)
+	- [Spotlight](Spotlight.md)
+	- [iOS User Interaction](iOS%20User%20Interaction.md)
+	- *Secrets Management*
+		- [“How do I store secrets securely on the client?”](https://nshipster.com/secrets/). Answer: **“Don’t (but if you must, obfuscation wouldn’t hurt).”**
+- **Links**
+	- [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/)
+	- [iOS Snippets](https://github.com/jrasmusson/ios-starter-kit)
+	- [iOS Design Tips](https://twitter.com/JordanMorgan10/status/1266717673053917184)
+	- [URL Schemes (Updated)](https://gist.github.com/deanlyoung/368e274945a6929e0ea77c4eca345560)
+	- [ArtSabintsev/Siren: Notify users when a new version of your app is available and prompt them to upgrade.](https://github.com/ArtSabintsev/Siren)

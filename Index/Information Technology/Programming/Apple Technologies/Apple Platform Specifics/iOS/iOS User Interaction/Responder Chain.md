@@ -1,0 +1,4 @@
+- **Notes**
+	- Starting from first responder (which we can find with Hit test)
+	- try to find `firstResponder` from [Hit Test](Hit%20Test.md) result and up to `UIApplication`
+	- ![[Responder Chain/Apps_receive_and_handle_events_using_responder_objects._A_responder_object_is_any_instance_of.png]]

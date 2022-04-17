@@ -1,0 +1,11 @@
+- **Notes**
+	- [CSS Positioning](CSS%20Positioning.md)
+	- [CSS Flexbox](CSS%20Flexbox.md)
+- **Links**
+	- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+	- [Defensive CSS](https://ishadeed.com/article/defensive-css/)
+	- [Use `font-variant-numeric: tabular-nums;` to align numbers neatly in a tables, progress counters, etc](https://twitter.com/javan/status/1486059026064584711)
+	- [Clippy — clip-path maker](https://bennettfeely.com/clippy/)
+	- [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
+	-  [AllThingsSmitty/css-protips: A collection of tips to help take your CSS skills pro](https://github.com/AllThingsSmitty/css-protips)
+	- [animate-css/animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/animate-css/animate.css)

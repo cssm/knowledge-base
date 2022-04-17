@@ -1,0 +1,3 @@
+- **Links**
+	- [Distributed Systems lecture series - YouTube](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+	- [New courses on distributed systems and elliptic curve cryptography — Martin Kleppmann’s blog](https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html)

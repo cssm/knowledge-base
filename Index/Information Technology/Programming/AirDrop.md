@@ -1,0 +1,2 @@
+- *[Open Source](Open%20Source.md)*
+	- [seemoo-lab/opendrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)

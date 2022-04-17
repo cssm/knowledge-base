@@ -1,0 +1,7 @@
+- **Notes**
+	- Maybe a new era in [Finances & Economics](Finances%20&%20Economics.md)
+- **Links**
+	- [Предисловие - Освоение Ethereum - Mastering Ethereum](http://ethereumbook.ru/)
+- *TON (The Open Network)* previously *Telegram Open Network*  
+	- [ton-blockchain/ton](https://github.com/ton-blockchain/ton)
+	- [TON Wallets - The Open Network](https://ton.org/wallets)

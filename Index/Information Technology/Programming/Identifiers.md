@@ -1,0 +1,14 @@
+- **Notes**
+	- (create different note about uuid and link) UUID (Universally Unique Identifier): A sequence of 128 bits that can guarantee uniqueness across space and time, defined by RFC 4122
+	- *GUID (Globally Unique Identifier)*: Microsoft’s implementation of the UUID specification; often used interchangeably with UUID.
+	- *UDID (Unique Device Identifier*): A sequence of 40 hexadecimal characters that uniquely identify an iOS device (the device’s Social Security Number, if you will). This value can be retrieved through iTunes, or found using `UIDevice.current.uniqueIdentifier` (deprecated from iOS 5). Derived from hardware details like MAC address.
+	- Instead of `UIDevice.current.uniqueIdentifier` use `UIDevice.current.identifierForVendor` in case of simple tracking of different devices and `ASIdentifierManager.advertisingIdentifier` for ads
+	- `UIDevice.current.identifierForVendor`
+		- same for all apps of one vendor on one device (in other cases they are different)
+		- value changes if user deletes all vendor apps and than reinstall one or more of them
+	- Advertising Identifier
+		- **Deprecated**, from `iOS 14` use `IDFA`
+	- Using `UUID`
+		- We can generate `UUID` and save it on the first app launch to mimic the behavior of unique device id. It will be unique for all apps and will be regenerated after app install
+- **Links**
+	- [NSUUID / CFUUIDRef / UIDevice -uniqueIdentifier / -identifierForVendor](https://nshipster.com/uuid-udid-unique-identifier/)

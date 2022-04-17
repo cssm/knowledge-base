@@ -1,0 +1,3 @@
+- **Links**
+	- [И одеяло сшить, и сверхдержавой поуправлять: лучшие настольные игры на двоих](https://dtf.ru/boardgames/671646-i-odeyalo-sshit-i-sverhderzhavoy-poupravlyat-luchshie-nastolnye-igry-na-dvoih)
+	- [Субъективный гайд по настольным играм](https://vas3k.club/post/4640/)

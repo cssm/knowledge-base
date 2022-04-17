@@ -1,0 +1,3 @@
+- **Links**
+	- [SQL style guide](https://www.sqlstyle.guide)
+	- [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)

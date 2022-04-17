@@ -1,0 +1,14 @@
+- **Notes**
+	- [Rust Structs](Rust%20Structs.md)
+	- [Rust Enums](Rust%20Enums.md)
+	- [Rust Ranges](Rust%20Ranges.md)
+	- [Rust Traits](Rust%20Traits.md)
+	- [Rust Strings](Rust%20Strings.md)
+	- [Rust Scalars](Rust%20Scalars.md)
+	- [Rust Arrays](Rust%20Arrays.md)
+	- [Rust Tuples](Rust%20Tuples.md)
+	- [Rust Functions](Rust%20Functions.md)
+	- [What is a reference in Rust?](What%20is%20a%20reference%20in%20Rust?)
+- **Links**
+	- [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/)
+	- [Guide How to design recursive types in Rust](https://lcnr.de/blog/low-effort-interner/)

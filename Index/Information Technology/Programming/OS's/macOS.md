@@ -1,0 +1,16 @@
+- **Notes**
+	- [macOS Development](macOS%20Development.md)
+	- [macOS Apps](macOS%20Apps.md)
+	- [macOS Shortcuts](macOS%20Shortcuts.md)
+	- [macOS Defaults](macOS%20Defaults.md)
+	- [Reinstalling macOS](Reinstalling%20macOS.md)
+	- [XPC Service](XPC%20Service.md)
+	- [launchd](launchd.md)
+	- [Remote Login macOS](Remote%20Login%20macOS.md)
+	- [Using TouchID for sudo authentication](Using%20TouchID%20for%20sudo%20authentication.md)
+- **Links**
+	- [Fetch info about processes without `ps`](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/sysctl.3.html)
+		-[ `/proc`](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html) do not exist on macOS
+	- [macOS expert guide](https://gambala.notion.site/macOS-expert-guide-47546dd2d9ca482fa013032bcfb58cee)
+	- [nikitavoloboev/my-mac-os: List of applications and tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os)
+	- [barrykn/big-sur-micropatcher: A primitive USB patcher for installing macOS Big Sur on unsupported Macs](https://github.com/barrykn/big-sur-micropatcher)

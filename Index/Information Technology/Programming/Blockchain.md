@@ -1,0 +1,5 @@
+- **Notes**
+	- Technology that heavily used in [Cryptocurrency](Cryptocurrency.md)
+- **Links**
+	- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1215s)
+	- [Blockchain platform to store files](https://www.arweave.org/)

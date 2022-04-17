@@ -1,0 +1,4 @@
+- **Links**
+	- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown)
+	- [Know Thy Complexities!](https://www.bigocheatsheet.com)
+	- [Скорость алгоритмов и котики](https://antonz.ru/big-o/)

@@ -1,0 +1,20 @@
+- **Notes**
+	- [Colour Theory is a MASSIVE subject but you can learn a little at a time](https://twitter.com/Sadface_RL/status/1503063176090374150)
+		- *Monochromatic* when [HUE](https://en.wikipedia.org/wiki/Hue) does not change
+		- *Cold colors* are around blues, cyan and purple
+		- *Warm colors* are around reds, yellow and orange
+		- Different colors trigger different emotions
+		- Adding blue tints to grey will make snow feel colder
+		- Pink tones are very calming for many
+	- Wide color displays support a `P3` color space, which can produce richer, more saturated colors than `sRGB`
+	- *RGBA*
+		- `R` - red, `G` - green, `B` - blue
+		- `A` - alpha or $ɑ$ channel
+		- `0` - absolutely transparent
+		- `1` - absolutely opaque
+- **Links**
+	- [Color selector](http://color-selector.com/?currentColor=BA2320currentPanel=index)
+	- [Create a color palette](https://coolors.co/a30b37-bd6b73-bbb6df-c6c8ee-fcfcff)
+	- [Color palette mixer](https://colormixer.web.app/02332971ff623007ff9bc94d5a440301ffff7c5f55610300/Sunset)
+	- [Happy Hues - Curated colors in context.](https://www.happyhues.co/palettes/11)
+	- [Color Palettes for Designers and Artists - Color Hunt](https://www.colorhunt.co/)

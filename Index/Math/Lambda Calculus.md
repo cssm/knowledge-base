@@ -1,0 +1,25 @@
+- **Notes**
+	- It's a basics of [Functional Programming](Functional%20Programming.md)
+	- Function is a *black box* that takes *input* and produces *output* 
+	- Function == Operator
+	- `λ` - way to define a function
+		- `λx. x+1` - define a function that takes *input* $x$ and produces *output* $x + 1$
+		- `λx.λy. x+y` - define a function that takes *input* $x$ and $y$ and produces *output* $x + y$
+		- `(λx. x+1) 5` - apply $5$ to a function
+	- `Lambda Calculus` basically has only *variables*, *functions* and *applying to function* operations, so do define something more complex we use *encoding*
+		- Examples of *encoding* 
+			- `TRUE` function
+				- `TRUE = λx.λy. x` 
+			- `FALSE` function
+				- `FALSE = λx.λy. y` 
+			- `NOT` function
+				- `NOT = λb. (b) FALSE TRUE` 
+					- take a *boolean* value (`TRUE` or `FALSE` operator) and apply `FALSE` and `TRUE` to it
+				- Let's check that it works for `TRUE` value
+					- `NOT TRUE` $=>$ `(λb. b FALSE TRUE) TRUE` $=>$ `(λx.λy. x) FALSE TRUE` $=>$ `FALSE`
+		- `AND = `
+		- `OR = `
+		- Recursion or `Y` combinator/operator 
+			- `Y = λf. (λx. f(xx)) (λx. f(xx))` - ??
+- **Links**
+	- [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)

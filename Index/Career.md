@@ -1,0 +1,21 @@
+- **Notes**
+	- [Good Questions To Ask Your Interviewer](Good%20Questions%20To%20Ask%20Your%20Interviewer.md)
+- **Links**
+	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
+	- [Glassdoor. Check if company is cringe](https://www.glassdoor.com/index.htm)
+	- [Как правильно составить текст с рассказом о себе](https://vc.ru/hr/8750-about-myself)
+	- [yangshun/tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
+	- [36](https://www.youtube.com/watch?v=nIFClfBXuIQ)
+	- [Тред о том как я получил оффер в Google, а ещё в Amazon, Microsoft, Яндекс и Box, не завалив ни одного собеседования (ну, почти)](https://mobile.twitter.com/okinasaru/status/1454449701726695428)
+- *[System Design](System%20Design.md)*
+	- [weeeBox/mobile-system-design: A simple framework for mobile system design interviews](https://github.com/weeeBox/mobile-system-design)
+- *[iOS](iOS.md)*
+	- [iOS Dev Jobs](https://iosdevjobs.com)
+	- [Interview Guide](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020)
+	-  [raywenderlich/ios-interview: The resources and instructions for the iOS Sample Project interview question.](https://github.com/raywenderlich/ios-interview)
+- *[LaTeX](LaTeX.md)*
+	- [posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
+- *[Computer Science](Computer%20Science.md)*
+	- [Leetcode](Leetcode.md)
+	- [The HackerRank Interview Preparation Kit | HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
+

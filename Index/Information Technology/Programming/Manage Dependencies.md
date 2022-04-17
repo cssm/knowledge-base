@@ -1,0 +1,2 @@
+- [Dependabot. update dependencies automatically](https://github.com/dependabot/dependabot-core)
+- [Whitesource Renovate: Automated Dependency Updates](https://www.whitesourcesoftware.com/free-developer-tools/renovate/)

@@ -1,0 +1,4 @@
+- **Links**
+	- [Official Dead Cells Wiki](https://deadcells.fandom.com/wiki/Dead_Cells_Wiki)
+	- [Быстрый фарм клеток](https://www.youtube.com/watch?v=ZDC1s5LtrAY&list=PLKxkVk8mqEPe5hDuLyi_j8o62NTG7FLtf&index=106&t=122s)
+	- [Большой Гайд для Новичков](https://www.youtube.com/watch?v=ccqK-LaoQh8)

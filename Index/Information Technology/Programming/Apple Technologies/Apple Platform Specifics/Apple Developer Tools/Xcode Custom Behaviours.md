@@ -1,0 +1,9 @@
+- `Settings` -> `Behaviours` -> `Press + to add custom rules`
+- `cmd + shift + d` - Debug mode
+	- show navigator Debug
+	- show debugger with Console View
+	- show inspectors
+- `cmd + shift + x` - Code mode
+	- show navigator Current
+	- Hide debugger
+	- hide inspectors

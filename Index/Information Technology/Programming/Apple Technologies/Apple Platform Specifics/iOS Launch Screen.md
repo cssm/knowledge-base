@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [TN3118: Debugging your app’s launch screen | Apple Developer Documentation](https://developer.apple.com/documentation/technotes/tn3118-debugging-your-apps-launch-screen)

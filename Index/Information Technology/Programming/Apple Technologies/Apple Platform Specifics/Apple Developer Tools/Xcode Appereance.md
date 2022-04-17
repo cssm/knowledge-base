@@ -1,0 +1,1 @@
+- [Florian Bürger on Twitter: "@ChristianSelig If you hide the toolbar (⌥⌘T), the window can be smaller. I have a behavior to hide everything but the editor to make it easier to toggle. https://t.co/xeA1RmJNXW" / Twitter](https://twitter.com/FlorianBuerger/status/1513441065172357120)

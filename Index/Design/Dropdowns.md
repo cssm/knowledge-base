@@ -1,0 +1,3 @@
+- **Links**
+	- [Building like it's 1984: A comprehensive guide to creating intuitive context menus - Height](https://height.app/blog/guide-to-build-context-menus)
+	-  [Drop-down menu should have a delay when jumping between items](https://habr.com/ru/post/171905/)

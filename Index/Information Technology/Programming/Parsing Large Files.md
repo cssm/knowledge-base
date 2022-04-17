@@ -1,0 +1,4 @@
+- **Notes**
+	- We should using stream to have a *constant use of memory*
+- *In [Swift](Swift.md)*
+	- [FileHandle](https://developer.apple.com/documentation/foundation/filehandle)

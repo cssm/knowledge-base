@@ -1,0 +1,4 @@
+- **Notes**
+	- [Petri Nets](Petri%20Nets.md)
+- **Links**
+	- [StatQuest with Josh Starmer - YouTube](https://www.youtube.com/c/joshstarmer/videos)

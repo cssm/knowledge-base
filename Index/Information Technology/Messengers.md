@@ -1,0 +1,8 @@
+- **Notes**
+	- [Telegram](Telegram.md)
+	- [Slack](Slack.md)
+- **Links**
+	- [Rocket.Chat: Communications Platform You Can Fully Trust](https://rocket.chat)
+		- Nice alternative to [Slack](Slack.md)
+	- [Matrix.org](https://matrix.org)
+	- [Keybase. End-to-end encryption for things that matter.](https://keybase.io/)

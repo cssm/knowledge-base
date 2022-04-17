@@ -1,0 +1,4 @@
+- **Notes**
+	- [HTML Code Snippets](HTML%20Code%20Snippets.md)
+- **Links**
+	- [mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq) [jq](jq.md)

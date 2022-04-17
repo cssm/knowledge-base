@@ -1,0 +1,9 @@
+- **Notes**
+	- A service that have a separated sandbox from application sandbox. They used for stability (if one part of app is more crushable that other) and separating of apps privileges (for example a network layer have no need to access files)
+	- Runs in other process
+	- Can be accessed only by main app process (and `launchd`)
+- **Links**
+	- [Creating XPC Services](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingXPCServices.html#//apple_ref/doc/uid/10000172i-SW6-SW1/)
+	- [Creating an XPC Service in Swift](https://matthewminer.com/2018/08/25/creating-an-xpc-service-in-swift.html)
+	- [TN3113: Testing and Debugging XPC Code With an Anonymous Listener | Apple Developer Documentation](https://developer.apple.com/documentation/dts-technotes/tn3113-testing-xpc-code-with-an-anonymous-listener)
+	- [jslegendre/MachXPC: Bidirectional XPC between two (or more) processes without a MachService daemon](https://github.com/jslegendre/MachXPC)

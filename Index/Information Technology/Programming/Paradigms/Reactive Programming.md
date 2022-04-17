@@ -1,0 +1,13 @@
+- **Notes**
+	- [Combine](Combine.md)
+	- [Reactive Swift](Reactive%20Swift.md)
+	- [RxSwift](RxSwift.md)
+	- [Throttle & Debounce](https://devsign.co/notes/throttle-and-debounce)
+		- *Throttle*
+			- “I want to perform action every $n$ seconds”.
+			- Only perform action once every $n$ seconds, regardless of how often this function it is called.
+		- *Debounce*
+			- “I want to wait until things haven’t changed for $n$ seconds and then perform an action.”
+			- Only perform action if $n$ seconds has passed without this function being called
+- **Links**
+	- [ReactiveX - Operators](https://reactivex.io/documentation/operators.html)

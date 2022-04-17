@@ -1,0 +1,10 @@
+- [Swift.org - Whole-Module Optimization in Swift 3](https://www.swift.org/blog/whole-module-optimizations/)
+- **Notes**
+	- Whole-module optimization can be enabled with the `-whole-module-optimization` (or `-wmo`) compiler flag. **From [[Xcode]] 8 enabled by default**
+	- [[Swift Package Manager]] compiles with whole-module optimizations in **release** builds
+	- Allows to *automatically* perform [[Function Inlining]] and [[Generics Specialisation in Swift]] 
+	- Builds one big [[SIL]] file
+	- Without `wmo`
+		-  ![single file compilation](https://swift.org/assets/images/wmo-blog/single-file.png)
+	- With `wmo`
+		- ![whole-module compilation](https://swift.org/assets/images/wmo-blog/wmo.png)

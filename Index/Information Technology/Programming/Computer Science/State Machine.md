@@ -1,0 +1,2 @@
+- **Links**
+	- [Валерий Жила on Twitter: "Я постараюсь рассказать о конечных автоматах так, чтоб и ребёнку стало понятно! https://t.co/AZ3Ng2cWqJ" / Twitter](https://mobile.twitter.com/ValeriiZhyla/status/1448572183354224641)

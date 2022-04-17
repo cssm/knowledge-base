@@ -1,0 +1,2 @@
+- [brew](brew.md)
+- [nix](nix.md)

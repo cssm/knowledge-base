@@ -1,0 +1,4 @@
+- **Notes**
+	- It's a context menu widely used for long tap actions from iOS 13 
+- **Links**
+	- [Create Dividers in UIMenu using UIKit | Swiftjective-C](https://www.swiftjectivec.com/add-a-divider-in-context-menu-using-uikit/)

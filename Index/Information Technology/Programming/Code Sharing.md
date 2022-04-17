@@ -1,0 +1,4 @@
+- **Notes**
+	- [Static Library](Static%20Library.md)
+	- [Dynamic Library](Dynamic%20Library.md)
+	- [Text based dynamic libraries](Text%20based%20dynamic%20libraries.md)	

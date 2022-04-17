@@ -1,0 +1,1 @@
+[[iOS]] /[[macOS]]  makes sure that in app’s data is secured, so its creates a separate directory in system for each app and restricts accessing other apps directories
