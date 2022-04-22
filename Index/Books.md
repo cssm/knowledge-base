@@ -1,7 +1,7 @@
 - **Notes**
-	- [Advanced Swift](Advanced%20Swift.md)
-	- [Чистый код](Чистый%20код.md)
-	- [Адская Неделя](Адская%20Неделя.md)
+	- [Advanced Swift](Books/Advanced%20Swift.md)
+	- [Чистый код](Books/Чистый%20код.md)
+	- [Адская Неделя](Books/Адская%20Неделя.md)
 - **Links**
 	- [Free eBooks | Project Gutenberg](https://www.gutenberg.org)
 	- [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)

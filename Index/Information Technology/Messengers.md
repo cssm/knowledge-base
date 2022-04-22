@@ -1,5 +1,5 @@
 - **Notes**
-	- [Telegram](Telegram.md)
+	- [Telegram](Apps/Telegram.md)
 	- [Slack](Slack.md)
 - **Links**
 	- [Rocket.Chat: Communications Platform You Can Fully Trust](https://rocket.chat)

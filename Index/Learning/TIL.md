@@ -1,5 +1,5 @@
-- [Programming](Programming.md)
-	- [Objective-C](Objective-C.md) into [Swift](Swift.md)
+- [Programming](../Information%20Technology/Programming.md)
+	- [Objective-C](../Information%20Technology/Programming/Objective-C.md) into [Swift](../Information%20Technology/Programming/Swift.md)
 		```objectivec
 		#define let __auto_type const
 		#define var __auto_type

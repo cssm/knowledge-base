@@ -1,5 +1,5 @@
-- [macOS](macOS.md)
+- [macOS](../Programming/OS's/macOS.md)
 	- `cmd + d` - save to bookmarks
 	- `cmd + shift + l/r arrow` - go to l/r tab
-- [iOS](iOS.md)
+- [iOS](../Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
 	- [By drawing gestures on websites, you can perform various actions in Safari, such as manipulating tabs, reloading, and copying URLs.](https://apps.apple.com/us/app/svadilfari/id1586432379?ign-itsct=apps_box_badge&ign-itscg=30200)

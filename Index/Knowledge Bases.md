@@ -3,12 +3,12 @@
 	- [athensresearch/athens](https://github.com/athensresearch/athens)
 	- [logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration](https://github.com/logseq/logseq)
 	- [foambubble/foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
-- *[Functional Programming](Functional%20Programming.md)*
+- *[Functional Programming](Information%20Technology/Programming/Paradigms/Functional%20Programming.md)*
 	- [Functional Programming Stuff](https://okmij.org/ftp/)
-- *[Computer Science](Computer%20Science.md)*
+- *[Computer Science](Information%20Technology/Programming/Computer%20Science.md)*
 	- [Computer Science Notes](https://notes.eddyerburgh.me/)
 	- [Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
-- *[Apple Technologies](Apple%20Technologies.md)*
+- *[Apple Technologies](Information%20Technology/Programming/Apple%20Technologies.md)*
 	- [Apple Technologies - Knowledge Repository](https://knowledge.rachelbrindle.com/programming/apple/index.html)
 - **Links**
 	- [Everything I know](https://wiki.nikitavoloboev.xyz/)

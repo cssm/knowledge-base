@@ -1,2 +1,2 @@
-- [brew](brew.md)
+- [brew](Tools/brew.md)
 - [nix](nix.md)

@@ -1,4 +1,4 @@
-- [CPU](CPU.md)
-- [RAM](RAM.md)
-- [GPU](GPU.md)
-- [SSD](SSD.md)
+- [CPU](Components/CPU.md)
+- [RAM](Components/RAM.md)
+- [GPU](Components/GPU.md)
+- [SSD](Components/SSD.md)

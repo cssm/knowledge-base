@@ -1,21 +1,21 @@
 - **Notes**
-	- [Xcode Appereance](Xcode%20Appereance)
+	- [Xcode Appereance](Xcode%20Appereance.md)
 	- [Xcode Custom Behaviours](Xcode%20Custom%20Behaviours.md)
-	- [Xcode Build System](Xcode%20Build%20System.md)
+	- [Xcode Build System](Xcode/Xcode%20Build%20System.md)
 	- [Xcode Tips](Xcode%20Tips.md)
-	- [ENABLE_BITCODE](ENABLE_BITCODE.md)
-	- [Xcode Shortcuts](Xcode%20Shortcuts.md)
-	- [Clean Caches](Clean%20Caches.md)
-	- [TODO, FIXME highlighter](TODO,%20FIXME%20highlighter.md)
-	- [Quicker installation of Xcode from zip](Quicker%20installation%20of%20Xcode%20from%20zip.md)
-	- [Folder reference vs Folder group](Folder%20reference%20vs%20Folder%20group.md)
-	- [Run Script Phase](Run%20Script%20Phase.md)
-	- [Create ipa file](Create%20ipa%20file.md)
-	- [Useful Extensions](Useful%20Extensions.md)
+	- [ENABLE_BITCODE](Xcode/ENABLE_BITCODE.md)
+	- [Xcode Shortcuts](Xcode/Xcode%20Shortcuts.md)
+	- [Clean Caches](Xcode/Clean%20Caches.md)
+	- [TODO, FIXME highlighter](Xcode/TODO,%20FIXME%20highlighter.md)
+	- [Quicker installation of Xcode from zip](Xcode/Quicker%20installation%20of%20Xcode%20from%20zip.md)
+	- [Folder reference vs Folder group](Xcode/Folder%20reference%20vs%20Folder%20group.md)
+	- [Run Script Phase](Xcode/Run%20Script%20Phase.md)
+	- [Create ipa file](Xcode/Create%20ipa%20file.md)
+	- [Useful Extensions](Xcode/Useful%20Extensions.md)
 	- *Editor Configuration *
 		- Show invisible (like tabs, spaces, new lines etc.)
 			- `Editor -> Invisibles` 
-	- *Fixing Known Issues on [M1](M1.md)*
+	- *Fixing Known Issues on [M1](../../../../Hardware/Architectures/ARM/M1.md)*
 		- First option
 			- turn on rosetta use for [Xcode](Xcode.md)  (find app in finder -> get info -> turn on)
 			- in .xcproj file Build Settings -> Architectures-> Architectures specify **armv7, armv7s, arm64, arm64e, x86_64 (commas need to be there)**

@@ -1,6 +1,6 @@
-- *[Swift](Swift.md)*
-	- [swiftlint](swiftlint.md)
-- *[Shell Scripting](Shell%20Scripting.md)*
+- *[Swift](Programming/Swift.md)*
+	- [swiftlint](Programming/Swift/swiftlint.md)
+- *[Shell Scripting](Programming/Shell%20Scripting.md)*
 	- [koalaman/shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
-	- *[VSCode](VSCode.md)*
+	- *[VSCode](Programming/Tools/VSCode.md)*
 		- [vscode-shellcheck/vscode-shellcheck: Integrates ShellCheck into VS Code, a linter for Shell scripts.](https://github.com/vscode-shellcheck/vscode-shellcheck)

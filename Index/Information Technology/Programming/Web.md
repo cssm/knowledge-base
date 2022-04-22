@@ -1,6 +1,6 @@
 - **Notes**
 	- [HTML](HTML.md)
-	- [CSS](CSS)
+	- [CSS](CSS.md)
 	- [JavaScript](JavaScript.md)
 	- [Web Servers](Web%20Servers.md)
 	- [Storing data in Web](Storing%20data%20in%20Web.md)

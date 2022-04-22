@@ -16,7 +16,7 @@ echo $SCRIPT_INPUT_FILE_COUNT # number of input files in phase
 echo $SCRIPT_INPUT_FILE_<0..<COUNT> # access any of input files
 ```
 
-We can also list directory as input file. If any change happend in this directory (file modify, amount of files etc.) - [Xcode](Xcode.md) will run script 
+We can also list directory as input file. If any change happend in this directory (file modify, amount of files etc.) - [Xcode](../Xcode.md) will run script 
 
 ## Output files
 

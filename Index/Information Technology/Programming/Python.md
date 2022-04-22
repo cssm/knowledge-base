@@ -1,15 +1,15 @@
 - **Notes**
-	- [Writing Pythonic Code](Writing%20Pythonic%20Code.md)
-	- [PIP](PIP.md)
-	- [[Python] Jupyter Notebook](Python%20Jupyter%20Notebook.md)
-	- [[Python] Lists](Python%20Lists.md)
-	- [[Python] Print](Python%20Print.md)
-	- [[Python] Modules Import](Python%20Modules%20Import.md)
-	- [[Python] Named Tuples](Python%20Named%20Tuples.md)
-	- [[Python] Working With Files](Python%20Working%20With%20Files.md)
-	- [[Python] Multiline Strings](Python%20Multiline%20Strings.md)
-	- [[Python] Decorators](Python%20Decorators.md)
-	- [[Python] Virtual Environment](Python%20Virtual%20Environment.md)
+	- [Writing Pythonic Code](Python/Writing%20Pythonic%20Code.md)
+	- [PIP](Python/Python%20Notes/PIP.md)
+	- [[Python] Jupyter Notebook](Python/Python%20Jupyter%20Notebook.md)
+	- [[Python] Lists](../../Python%20Lists.md)
+	- [[Python] Print](../../Python%20Print.md)
+	- [[Python] Modules Import](Python/Python%20Notes/Python%20Modules%20Import.md)
+	- [[Python] Named Tuples](Python/Python%20Notes/Python%20Named%20Tuples.md)
+	- [[Python] Working With Files](Python/Python%20Notes/Python%20Working%20With%20Files.md)
+	- [[Python] Multiline Strings](Python/Python%20Notes/Python%20Multiline%20Strings.md)
+	- [[Python] Decorators](Python/Python%20Notes/Python%20Decorators.md)
+	- [[Python] Virtual Environment](Python/Python%20Notes/Python%20Virtual%20Environment.md)
 - **Links**
 	- [ZeroIntensity/pointers.py: Bringing the hell of pointers to Python.](https://github.com/ZeroIntensity/pointers.py)
 	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
@@ -25,5 +25,5 @@
 	- [hhatto/autopep8: A tool that automatically formats Python code to conform to the PEP 8 style guide.](https://github.com/hhatto/autopep8)
 - *Debugging*
 	- [pdbpp/pdbpp: pdb++, a drop-in replacement for pdb (the Python debugger)](https://github.com/pdbpp/pdbpp)
-- *[Telegram](Telegram.md)*
+- *[Telegram](../Apps/Telegram.md)*
 	- [python-telegram-bot/python-telegram-bot: We have made you a wrapper you can't refuse](https://github.com/python-telegram-bot/python-telegram-bot)

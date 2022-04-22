@@ -1,13 +1,13 @@
 - **Notes**
-	- [TIL](TIL.md)
+	- [TIL](Learning/TIL.md)
 	- [Knowledge Bases](Knowledge%20Bases.md)
-	- [Blogs](Blogs.md)
-	- [Task Management](Task%20Management.md)
+	- [Blogs](Learning/Blogs.md)
+	- [Task Management](Learning/Task%20Management.md)
 - **Links**
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
 	- [Explained from First Principles](https://explained-from-first-principles.com/)
 	- [Algorithm Archive · Arcane Algorithm Archive](https://www.algorithm-archive.org/)
-		- Explains stuff in [Computer Science](Computer%20Science.md), [Math](Math.md), [Computer Graphics](Computer%20Graphics.md) and more
+		- Explains stuff in [Computer Science](Information%20Technology/Programming/Computer%20Science.md), [Math](Math.md), [Computer Graphics](Information%20Technology/Programming/Computer%20Graphics.md) and more
 	- [LessWrong](https://www.lesswrong.com/)
 		- LessWrong is a place to 1) develop and train rationality, and 2) apply one’s rationality to real-world problems.
 - *Learn By Making Stuff*
@@ -16,17 +16,17 @@
 - *Mustread Links*
 	- [Lobsters](https://lobste.rs/)
 	- [Pinboard](https://pinboard.in/popular/)
-- *[Apple Technologies](Apple%20Technologies.md)*
+- *[Apple Technologies](Information%20Technology/Programming/Apple%20Technologies.md)*
 	- [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
 	-  [macshome/The-Wisdom-of-Quinn: Apple Technologies Explained](https://github.com/macshome/The-Wisdom-of-Quinn)
 	- [Getting Pixels onto the Screen · objc.io](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/)
 	- [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
 	- [More Efficient/Faster Average Color of Image](https://christianselig.com/2021/04/efficient-average-color/)
-- *[iOS](iOS.md)*
+- *[iOS](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	-  [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
-- *[Programming](Programming.md)*
+- *[Programming](Information%20Technology/Programming.md)*
 	- [Developer Roadmaps](https://roadmap.sh/)
-- *[Computer Science](Computer%20Science.md)*
+- *[Computer Science](Information%20Technology/Programming/Computer%20Science.md)*
 	- [Papers We Love](https://paperswelove.org/)
 - *[Math](Math.md)*
 	- [Tivadar Danka 🇺🇦 (@TivadarDanka) / Twitter](https://twitter.com/TivadarDanka)

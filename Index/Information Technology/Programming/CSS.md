@@ -1,6 +1,6 @@
 - **Notes**
-	- [CSS Positioning](CSS%20Positioning.md)
-	- [CSS Flexbox](CSS%20Flexbox.md)
+	- [CSS Positioning](HTML%20CSS/CSS%20Positioning.md)
+	- [CSS Flexbox](HTML%20CSS/CSS%20Flexbox.md)
 - **Links**
 	- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
 	- [Defensive CSS](https://ishadeed.com/article/defensive-css/)

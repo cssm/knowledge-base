@@ -4,10 +4,10 @@
 	- [Frida • A world-class dynamic instrumentation framework | Inject JavaScript to explore native apps on Windows, macOS, GNU/Linux, iOS, Android, and QNX](https://frida.re/)
 	- [Frida HandBook](https://learnfrida.info/)
 	- [Writing ARM Assembly (Part 1) | Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
-- *[Apple Technologies](Apple%20Technologies.md)*
+- *[Apple Technologies](Programming/Apple%20Technologies.md)*
 	- [michalmalik/osx-re-101: A collection of resources for OSX/iOS reverse engineering.](https://github.com/michalmalik/osx-re-101)
 	- [plotfi/swiftdasm: An arm64 disassembler written in Swift.](https://github.com/plotfi/swiftdasm)
 	- [gdbinit/MachOView: MachOView fork](https://github.com/gdbinit/MachOView)
 	- [Hopper](https://www.hopperapp.com/)
-- *[macOS](macOS.md)*
+- *[macOS](Programming/OS's/macOS.md)*
 	- [steven-michaud/reverse-engineering-on-osx: Reverse Engineering on OS X](https://github.com/steven-michaud/reverse-engineering-on-osx)

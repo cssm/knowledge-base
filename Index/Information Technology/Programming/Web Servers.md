@@ -1,6 +1,6 @@
 - **Notes**
 	- [Hosting](Hosting.md)
-- *[iOS](iOS.md)*
+- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	- [swisspol/GCDWebServer: The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server)](https://github.com/swisspol/GCDWebServer)
 - *[Swift](Swift.md)*
 	- [apple/swift-nio: Event-driven network application framework for high performance protocol servers & clients, non-blocking.](https://github.com/apple/swift-nio)

@@ -1,2 +1,2 @@
-- [LaTeX](LaTeX.md)
-- [Markdown](Markdown.md)
+- [LaTeX](Programming/LaTeX.md)
+- [Markdown](../Markdown.md)

@@ -1,5 +1,5 @@
 - **Notes**
-	- [Hit Test](Hit%20Test.md)
-	- [Responder Chain](Responder%20Chain.md)
+	- [Hit Test](iOS%20User%20Interaction/Hit%20Test.md)
+	- [Responder Chain](iOS%20User%20Interaction/Responder%20Chain.md)
 - **Links**
 	- [Обработка жестов в iOS / Хабр](https://habr.com/ru/post/584100/)

@@ -1,7 +1,7 @@
 > iOS 13+
 
 - **Notes**
-	- Safe *inserting*, *deleting* of  rows and sections for [UITableView](UITableView.md) and [UICollectionVIew](UICollectionVIew.md)
+	- Safe *inserting*, *deleting* of  rows and sections for [UITableView](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit/UITableView.md) and [UICollectionVIew](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit/UICollectionVIew.md)
 - **Links**
 	- [Using Diffable Data Source iOS 13 API in UITableView | Xcoding with Alfian](https://www.alfianlosari.com/posts/using-ios13-diffable-datasource-api-in-tableview/)
 	- [A first look at the new diffable data sources for table views and collection views | WWDC by Sundell](https://www.wwdcbysundell.com/2019/diffable-data-sources-first-look/)

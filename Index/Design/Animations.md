@@ -1,6 +1,6 @@
 - **Links**
 	- [Damped Springs. Deep dive into math of animations](https://www.ryanjuckett.com/damped-springs/)
-- *[iOS](iOS.md), [UIKit](UIKit.md)*
+- *[iOS](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md), [UIKit](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit.md)*
 	- [Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
 
 ```swift

@@ -1,3 +1,3 @@
 - **Notes**
-	- [Video Editing Theory](Video%20Editing%20Theory.md)
-	- [Videos on Computers](Videos%20on%20Computers.md)
+	- [Video Editing Theory](../Video%20Editing%20Theory.md)
+	- [Videos on Computers](../Information%20Technology/Programming/Videos%20on%20Computers.md)

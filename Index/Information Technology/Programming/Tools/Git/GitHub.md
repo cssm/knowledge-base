@@ -6,13 +6,13 @@
 	- [GitHub Code Search (Preview)](https://cs.github.com/)
 - *[Git LFS](Git%20LFS.md)*
 	- [Configuring Git Large File Storage - GitHub Docs](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage)
-- *[Browsing](Browsing.md)*
+- *[Browsing](../../../Browsing.md)*
 	- [refined-github/refined-github: Browser extension that simplifies the GitHub interface and adds useful features](https://github.com/refined-github/refined-github)
 	- [ovity/octotree: Repo file bar like in your favorite IDE](https://github.com/ovity/octotree)
 - *Actions*
 	- [nektos/act: Run your GitHub Actions locally 🚀](https://github.com/nektos/act)
-- *[Xcode](Xcode.md)*
+- *[Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)*
 	- [kishikawakatsumi/xcresulttool: A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.](https://github.com/kishikawakatsumi/xcresultto)
-- *[CLI](CLI.md)*
+- *[CLI](../../Shell/CLI.md)*
 	- [cli/cli: GitHub’s official command line tool](https://github.com/cli/cli)
 	- [CLI for GitHub before gh](https://github.com/github/hub)

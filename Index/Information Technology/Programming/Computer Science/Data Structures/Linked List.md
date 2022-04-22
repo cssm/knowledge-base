@@ -1,3 +1,3 @@
 # Linked List
 
-[Finding Cycle](Finding%20Cycle.md)
+[Finding Cycle](Linked%20List/Finding%20Cycle.md)

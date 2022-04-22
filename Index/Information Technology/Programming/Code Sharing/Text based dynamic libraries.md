@@ -1,4 +1,4 @@
-For example [UIKit](UIKit.md)  or [Foundation](Foundation.md) is frameworks that contains dynamic libraries but they don't link directly, they link through `.tbd` 
+For example [UIKit](../Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit.md)  or [Foundation](../Apple%20Technologies/Apple%20Platform%20Frameworks/Foundation.md) is frameworks that contains dynamic libraries but they don't link directly, they link through `.tbd` 
 
 ## What it is?
 

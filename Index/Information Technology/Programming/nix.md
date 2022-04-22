@@ -11,5 +11,5 @@
 	- [LnL7/nix-darwin: nix modules for darwin](https://github.com/LnL7/nix-darwin)
 	- [nix-community/awesome-nix: 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]](https://github.com/nix-community/awesome-nix#readme)
 	- [NixOS/nixpkgs: Nix Packages collection](https://github.com/NixOS/nixpkgs)
-- *[iOS](iOS.md)*
+- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	- [iOS | nixpkgs](https://ryantm.github.io/nixpkgs/languages-frameworks/ios/#ios)

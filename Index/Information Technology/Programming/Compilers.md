@@ -1,5 +1,5 @@
-- *[Function Inlining](Function%20Inlining.md)*
-- *[LLVM](LLVM.md)*
+- *[Function Inlining](Compilers/Function%20Inlining.md)*
+- *[LLVM](Compilers/LLVM.md)*
 - *[Language Server Protocol](Language%20Server%20Protocol.md)*
 - **Notes**
 	- *Frontend* - parses programming language syntax and optimize constructions 

@@ -122,7 +122,7 @@ print(force[5])
 print(force[-1, default: "The Vulture"])
 ```
 
-- Check if array of [Swift Metatypes](Swift%20Metatypes.md) contains some type
+- Check if array of [Swift Metatypes](Swift%20Notes/Swift%20Metatypes.md) contains some type
 ```swift
 protocol Animal {}
 

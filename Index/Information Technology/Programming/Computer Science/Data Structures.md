@@ -1,15 +1,15 @@
 - **Notes**
-	- [CRDTs](CRDTs)
-	- [Array](Array.md)
-	- [Dynamic Array](Dynamic%20Array.md)
-	- [Hashtable](Hashtable.md)
-	- [Set](Set)
-	- [Dictionary](Dictionary.md)
-	- [Linked List](Linked%20List.md)
-	- [Trees](Trees.md)
+	- [CRDTs](CRDTs.md)
+	- [Array](Data%20Structures/Array.md)
+	- [Dynamic Array](../../../Dynamic%20Array.md)
+	- [Hashtable](../Performance%20Engineering/Hashtable.md)
+	- [Set](Set.md)
+	- [Dictionary](../../../Dictionary.md)
+	- [Linked List](Data%20Structures/Linked%20List.md)
+	- [Trees](Data%20Structures/Trees.md)
 	- [State Machine](State%20Machine.md)
 - **Links**
 	- [Advanced Data Structures (6.851)](https://courses.csail.mit.edu/6.851/fall17/)
 	- [CS166: Data Structures](https://web.stanford.edu/class/cs166/)
-- *[Swift](Swift.md)*
+- *[Swift](../Swift.md)*
 	- [apple/swift-collections: Commonly used data structures for Swift](https://github.com/apple/swift-collections)

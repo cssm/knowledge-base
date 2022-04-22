@@ -1,10 +1,10 @@
 - **Notes**
-	- renders graphic on [GPU](GPU.md)
-	- responds for how [UIView](UIView.md) looks (color, shape etc.)
-	- it’s like [UIView](UIView.md)  but it **can’t take any events** neither touches or events from any system
-	- **Every** [UIView](UIView.md) creates with build-in `CALayer` which we can access through `.layer` property
+	- renders graphic on [GPU](../../../../Hardware/Components/GPU.md)
+	- responds for how [UIView](../UIKit/UIView.md) looks (color, shape etc.)
+	- it’s like [UIView](../UIKit/UIView.md)  but it **can’t take any events** neither touches or events from any system
+	- **Every** [UIView](../UIKit/UIView.md) creates with build-in `CALayer` which we can access through `.layer` property
 		- This layer is tightly coupled with view, so for example if we change `backgroundColor` of `layer ` -> we change background color of view
-	- with `CALayer` you can do more complex stuff than with [UIView](UIView.md)
+	- with `CALayer` you can do more complex stuff than with [UIView](../UIKit/UIView.md)
 		- Make round borders	
 		- Make shadow
 		- Draw stroke around edges

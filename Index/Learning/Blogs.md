@@ -1,18 +1,18 @@
-- *[Programming](Programming.md)*
+- *[Programming](../Information%20Technology/Programming.md)*
 	- [The If Works – The If Works](https://blog.jcoglan.com/)
 	- [Bruno Rocha](https://rockbruno.com/)
 	- [Cool videos about CS related concepts and programming in general](https://www.youtube.com/user/briantwill)
 	- [hhp3. Nice explanation of different CS and general programming related stuff](https://www.youtube.com/user/hhp3/videos)
-- *[Rust](Rust.md)*
+- *[Rust](../Information%20Technology/Programming/Rust.md)*
 	- [Jon Gjengset - YouTube](https://www.youtube.com/c/JonGjengset/videos)
-- *[Computer Science](Computer%20Science.md)*
+- *[Computer Science](../Information%20Technology/Programming/Computer%20Science.md)*
 	- [base.cs](https://medium.com/basecs)
-- *[iOS](iOS.md)*
+- *[iOS](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	- [Swiftjective-C](https://www.swiftjectivec.com/a-best-in-class-app/)
 	- [Technical Articles | Swiftjective-C](https://www.swiftjectivec.com/tuts)
 	- [The Daily iOS (@TheDailyiOS)](https://twitter.com/thedailyios?s=21)
 	- [Яндекс.Карты Mobile – Medium](https://medium.com/yandex-maps-mobile)
-- *[Apple Technologies](Apple%20Technologies.md)*
+- *[Apple Technologies](../Information%20Technology/Programming/Apple%20Technologies.md)*
 	- [Little Bites of Cocoa - Tips and techniques for iOS and Mac development](https://littlebitesofcocoa.com/)
 	- [Blog (Swift, iOS) | kean.blog](https://kean.blog/)
 	- [Hacking with Swift](https://www.hackingwithswift.com/)

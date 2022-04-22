@@ -1,2 +1,2 @@
 - **Notes**
-	- [Spotify](Spotify.md)
+	- [Spotify](../Spotify.md)

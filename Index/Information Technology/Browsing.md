@@ -1,5 +1,5 @@
 - **Notes**
-	- [Safari](Safari.md)
+	- [Safari](Internet/Safari.md)
 	- [Firefox](Firefox.md)
 	- [Search Engines](Search%20Engines.md)
 - **Links**

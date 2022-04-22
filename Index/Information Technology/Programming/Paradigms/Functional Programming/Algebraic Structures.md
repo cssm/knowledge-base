@@ -7,5 +7,5 @@
 	-If our class (or object) satisfies all these criteria, then we can call it a functor.
 - **Links**
 	- 
-- *[JavaScript](JavaScript.md)*
+- *[JavaScript](../../JavaScript.md)*
 	- [fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)

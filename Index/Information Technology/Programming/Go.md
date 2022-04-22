@@ -1,5 +1,5 @@
 - **Notes**
-	- [Go Syntax](Go%20Syntax.md)
-	- [Go Project structure and testing](Go%20Project%20structure%20and%20testing.md)
+	- [Go Syntax](Go/Go%20Syntax.md)
+	- [Go Project structure and testing](Go/Go%20Project%20structure%20and%20testing.md)
 - **Links**
 	- [Effective Go](https://golang.org/doc/effective_go#if)

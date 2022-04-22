@@ -1,15 +1,15 @@
 - **Notes**
 	- [SQL](SQL.md)
 	- [PostgreSQL](PostgreSQL.md)
-	- [Data base relationship](Data%20base%20relationship.md)
+	- [Data base relationship](Databases/Data%20base%20relationship.md)
 	- [Database Normalization](Database%20Normalization.md)
 - **Links**
 	- [TablePlus | Modern, Native Tool for Database Management](https://tableplus.com/)
-		- [macOS](macOS.md) native app
+		- [macOS](OS's/macOS.md) native app
 	- [supabase/supabase: The open source Firebase alternative. Follow to stay updated about our public Beta.](https://github.com/supabase/supabase)
 - *[Apple Technologies](Apple%20Technologies.md)*
-	- [Realm](Realm.md)
-	- [CoreData](CoreData.md)
+	- [Realm](Apple%20Technologies/Apple%20Platform%20Persistent%20Storages/Realm.md)
+	- [CoreData](../../CoreData.md)
 - *[Swift](Swift.md)*
 	- [PersistX/PersistDB: Projection-based Database Persistence in Swift](https://github.com/PersistX/PersistDB)
 	- [stephencelis/SQLite.swift: A type-safe, Swift-language layer over SQLite3.](https://github.com/stephencelis/SQLite.swift)

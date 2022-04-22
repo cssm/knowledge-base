@@ -1,5 +1,5 @@
 - **Notes**
-	- Amazing linter for [Swift](Swift.md) code
+	- Amazing linter for [Swift](../Swift.md) code
 	- Create a `.swiftlint.yml`  in project root + add to script phase in xcode
 	- *Disabling rules from code*
 	```swift

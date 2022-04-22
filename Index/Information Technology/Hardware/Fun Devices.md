@@ -1,5 +1,5 @@
 - **Notes**
-	- [Raspberry Pi](Raspberry%20Pi.md)
+	- [Raspberry Pi](Cool%20Devices/Raspberry%20Pi.md)
 - **Links**
 	- [Nothing](https://intl.nothing.tech/)
 	- [teenage engineering](https://teenage.engineering/)

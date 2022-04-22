@@ -1,12 +1,12 @@
 > Object-oriented programming
-- [Полиморфизм](Полиморфизм.md)
-- [SOLID](SOLID.md)
+- [Полиморфизм](Object-oriented%20Programming%20/Полиморфизм.md)
+- [SOLID](Object-oriented%20Programming%20/SOLID.md)
 - [Encapsulation - changing of object can be done only by methods of this object](https://youtu.be/lbXsrHGhBAU)
 - [The fundamental problem of OOP it that it violates the rule - data should be just data. Don’t try to conceptualize data to some thing with responsibilities because you probably get it wrong.](https://youtu.be/IRTfhkiAqPw)
 	- Also conceptually adding behavior/actions to data rather than have data as a parameter to some action can be misleading and this is not the way humans like to think
 		- `behavior(data)`  - ✅ 
 		- `data.behavior()`  - ❌ 
-		- As example we can take [Math](Math.md) that uses functions to describe the world around us with abstractions and composition of them that scales and describes our world way better  than `Cat` object that can `meow()` 
+		- As example we can take [Math](../../../Math.md) that uses functions to describe the world around us with abstractions and composition of them that scales and describes our world way better  than `Cat` object that can `meow()` 
 	- The problem of all OOP tutorials and concept that it tries to apply this behavior to even small and simple task that leads as to complicated, abstracted and hard to understand code. instead we can write a few simple functions and it's will be enough for our simple task 
 - [Object-Oriented Programming is Good*](https://www.youtube.com/watch?v=0iyB0_qPvWk)
 	- *OOP problems*

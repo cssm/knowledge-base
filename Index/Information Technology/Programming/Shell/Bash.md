@@ -2,7 +2,7 @@
 
 ### Quoting Variables
 
-[Different Type Of Quotes in Bash](Different%20Type%20Of%20Quotes%20in%20Bash.md)
+[Different Type Of Quotes in Bash](../../../Different%20Type%20Of%20Quotes%20in%20Bash.md)
 
 Need to double quote them (i.e. not `$var` but `“$var”`) to prevent splitting it by spaces
 
@@ -21,7 +21,7 @@ starts a new context so need to quoted one more time
 
 `$()` - means run this command and put it’s output here
 
-Command runs in sub[Shell](Shell.md) 
+Command runs in sub[Shell](../Shell.md) 
 
 ### `${}`
 

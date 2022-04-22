@@ -1,5 +1,5 @@
 - **Notes**
-	- [Software Achitecture](Software%20Achitecture)
+	- [Software Achitecture](Software%20Achitecture.md)
 - **Links**
 	- [Как прокачаться в проектировании программного обеспечения — список книг | by Alexander Polomodov | Medium](https://apolomodov.medium.com/software-design-books-743be52e4c71)
 	- [Episode 06: Intro to Architecture and Systems Design Interviews - YouTube](https://www.youtube.com/watch?v=ZgdS0EUmn70)

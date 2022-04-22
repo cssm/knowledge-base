@@ -1,15 +1,15 @@
-- *[git](git.md)*
+- *[git](../../Tools/git.md)*
 	- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
 	- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
-- *[Diffing](Diffing.md)*
+- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*
 	- [Kaleidoscope](https://kaleidoscope.app/)
 	- [japanese-goblinn/PerfectMatch: Tool to check if your files match](https://github.com/japanese-goblinn/PerfectMatch)
 - **Notes**
-	- [Karabiner](Karabiner)
+	- [Karabiner](Karabiner.md)
 	- [iTerm](iTerm.md)
 	- [Raycast](Raycast.md)
-	- [Alfred](Alfred.md)
-	- [Xcode](Xcode.md)
+	- [Alfred](macOS%20Apps/Alfred.md)
+	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
 	- [Little useful tools for macOS](https://onethingwell.org)
 	- [Quick jump between opened apps and windows](https://contexts.co/)

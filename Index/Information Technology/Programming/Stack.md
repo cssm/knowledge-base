@@ -1,4 +1,4 @@
-- Addresses are mapped to [RAM](RAM.md)
+- Addresses are mapped to [RAM](../Hardware/Components/RAM.md)
 - Used fixed memory addresses from `0100` to `01F`F and grows from bigger address to lower. If stack is reached `0100` address it’s jumps back to `01FF` address. 
 - `Stack overflow` - situation all addresses is user
 	- Modern systems terminates process if this situation happens

@@ -4,7 +4,7 @@
 - **Notes**
 	- **Container** - running system process in image
 	- **Image** - separated file system
-- [macOS](macOS.md)
+- [macOS](../OS's/macOS.md)
 	- [abiosoft/colima: Better docker experience for macOS](https://github.com/abiosoft/colima)
 - *Commands*
 	- `docker build -t  docker-image-name .` - Create image from docker file in current directory

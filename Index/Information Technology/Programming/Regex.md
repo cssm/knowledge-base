@@ -10,7 +10,7 @@
 	- To match any whitespace character use `\s` 
 		- equivalent to `[ \t\n\r\f\v]` 
 		- [Extended regular expressions. Search for `:class:`](https://www.gnu.org/software/bash/manual/bash.html)
-			- in [Bash](Bash.md)  instead of `\s` use `[[:space:]]`
+			- in [Bash](Shell/Bash.md)  instead of `\s` use `[[:space:]]`
 			- to match `space` or `tab` use `[[:blank:]]`
 	-  Match group
 		```

@@ -1,8 +1,8 @@
 - **Notes**
-	- [Cargo](Cargo.md)
-	- [Rust Useful Libraries](Rust%20Useful%20Libraries)
+	- [Cargo](Rust/Cargo.md)
+	- [Rust Useful Libraries](Rust%20Useful%20Libraries.md)
 	- [Rust Analyzer](Rust%20Analyzer.md)
-	- [Rust Debugging](Rust%20Debugging)
+	- [Rust Debugging](Rust%20Debugging.md)
 	- [`rustup` - rust toolchain installer](https://rustup.rs/)
 	- `rustc` - rust compiler
 	- `rustdoc` - generate documentation for project as beautiful static web-site

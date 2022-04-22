@@ -1,8 +1,8 @@
 - **Links**
-	- [GraphQL Caching](GraphQL%20Caching.md)
+	- [GraphQL Caching](../../GraphQL%20Caching.md)
 	- [Introduction to GraphQL](https://graphql.org/learn/)	
 	- [apollographql/apollo-client:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.](https://github.com/apollographql/apollo-client)
-- [SwiftUI](SwiftUI.md)
+- [SwiftUI](Apple%20Technologies/Apple%20Platform%20Frameworks/SwiftUI.md)
 	- [nerdsupremacist/Graphaello: A Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL](https://github.com/nerdsupremacist/Graphaello)
 
 ## Variables

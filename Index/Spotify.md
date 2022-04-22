@@ -2,8 +2,8 @@
 	- [Cool Big Sur Icon](https://www.dropbox.com/s/fjdw5mva5v8lfox/Spotify.icns?dl=0)
 	- [Spotify Rainbow Collage Generator](https://www.chartmymusic.com/spotify/rainbowcollage/)
 	- [raffomania/songsonar: 📻 A smart spotify playlist with new releases from artists you follow](https://github.com/raffomania/songsonar)
-- *[Rust](Rust.md)*
+- *[Rust](Information%20Technology/Programming/Rust.md)*
 	- [jpochyla/psst: Fast and multi-platform Spotify client with native GUI](https://github.com/jpochyla/psst)
-- *[CLI](CLI.md) && [Rust](Rust.md)*
+- *[CLI](Information%20Technology/Programming/Shell/CLI.md) && [Rust](Information%20Technology/Programming/Rust.md)*
 	- [Rigellute/spotify-tui: Spotify for the terminal written in Rust 🚀](https://github.com/Rigellute/spotify-tui)
 	- [Spotifyd/spotifyd: A spotify daemon](https://github.com/Spotifyd/spotifyd)

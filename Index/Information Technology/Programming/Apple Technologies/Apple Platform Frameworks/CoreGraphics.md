@@ -1,3 +1,3 @@
 # CoreGraphics
 
-Draws using [CPU](CPU.md)
+Draws using [CPU](../../../Hardware/Components/CPU.md)

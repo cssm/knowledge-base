@@ -1,4 +1,4 @@
 - **Notes**
-	- [Static Library](Static%20Library.md)
-	- [Dynamic Library](Dynamic%20Library.md)
-	- [Text based dynamic libraries](Text%20based%20dynamic%20libraries.md)	
+	- [Static Library](Code%20Sharing/Static%20Library.md)
+	- [Dynamic Library](Code%20Sharing/Dynamic%20Library.md)
+	- [Text based dynamic libraries](Code%20Sharing/Text%20based%20dynamic%20libraries.md)	

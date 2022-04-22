@@ -1,4 +1,4 @@
-- *[macOS](macOS.md)*
+- *[macOS](../Information%20Technology/Programming/OS's/macOS.md)*
 	- [Designing LookUp for macOS](https://medium.com/lookup-design/designing-lookup-for-macos-bf5b8fea1a01)
 - **Links**
 	- [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)

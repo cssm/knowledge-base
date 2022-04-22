@@ -9,7 +9,7 @@
 	- APNS token configuration depends on provision profile. If app is signed with Developer certificate - develop environment will be used. If app is signed with AddHoc or AppStore certificate - production environment will be used.
 	> Tokens for develop environment and production environment **are different**
 - *Testing*
-	- [Test APNS in CLI script](Test%20APNS%20in%20CLI%20script.md)
+	- [Test APNS in CLI script](Appel%20Push%20Notifications/Test%20APNS%20in%20CLI%20script.md)
 	- [KnuffApp/Knuff: The debug application for Apple Push Notification Service (APNs).](https://github.com/KnuffApp/Knuff)
 - *Sending image*
 	- We need create an [Notification Service Extension](https://www.raywenderlich.com/20201639-firebase-cloud-messaging-for-ios-push-notifications#toc-anchor-012) to download image for push

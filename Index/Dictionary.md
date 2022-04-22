@@ -1,3 +1,3 @@
 - Reading element is amortized $O(1)$. amortized because sometimes a collision can happen 
 - **Implementations** 
-	- [Swift Dictionary](Swift%20Dictionary.md)
+	- [Swift Dictionary](Information%20Technology/Programming/Swift/Swift%20Notes/Swift%20Dictionary.md)

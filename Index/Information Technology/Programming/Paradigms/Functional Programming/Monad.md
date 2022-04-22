@@ -2,7 +2,7 @@
 
 ![](Screenshot_2021-02-28_at_18.52.42.png)
 
-Maybe monad in [Swift](Swift.md) is [Optionals](Optionals.md) 
+Maybe monad in [Swift](../../Swift.md) is [Optionals](../../Swift/Swift%20Notes/Optionals.md) 
 
 ```swift
 let a: Int? = 3 // return operation Int -> Optional<Int>

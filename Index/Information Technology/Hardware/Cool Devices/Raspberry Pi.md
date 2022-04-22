@@ -12,7 +12,7 @@
 	- [Raspberry Pi - Everything I know](https://wiki.nikitavoloboev.xyz/hardware/raspberry-pi)
 	- [Projects | Raspberry Pi Projects](https://projects.raspberrypi.org/en)
 	- [Setting up a Raspberry Pi 4 as an development machine for your iPad Pro | by Sau Sheong | sausheong’s space | Medium](https://medium.com/sausheong/setting-up-a-raspberry-pi-4-as-an-development-machine-for-your-ipad-pro-3813f872fccc)
-- *[Swift](Swift.md)*
+- *[Swift](../../Programming/Swift.md)*
 	- [CSCIX65G/SwiftCrossCompilers: SPM toolchain to cross compile Raspberry Pi Swift binaries on macOS](https://github.com/CSCIX65G/SwiftCrossCompilers)
 
 

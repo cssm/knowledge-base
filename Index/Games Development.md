@@ -7,7 +7,7 @@
 	- [Channel about game-dev in C++](https://youtube.com/c/MollyRocket)
 	- [Introducing the GAME ENGINE series! - YouTube](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 	- [Space Invaders from Scratch - Part 1 | NICK TASIOS](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
-- *[Swift](Swift.md)*
+- *[Swift](Information%20Technology/Programming/Swift.md)*
 	- [junebash/Lark: A game engine built with SDL and Swift.](https://github.com/junebash/Lark)
 	- [nicklockwood/Swiftenstein: Simple Wolfenstein 3D clone written in Swift](https://github.com/nicklockwood/Swiftenstein)
 	- [nicklockwood/RetroRampage: Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift](https://github.com/nicklockwood/RetroRampage)

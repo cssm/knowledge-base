@@ -1,7 +1,7 @@
 - **Notes**
-	- [Nintendo Switch](Nintendo%20Switch.md)
-	- [Dead Cells](Dead%20Cells.md)
-	- [Factorio](Factorio.md)
+	- [Nintendo Switch](../Nintendo%20Switch.md)
+	- [Dead Cells](../Dead%20Cells.md)
+	- [Factorio](../Factorio.md)
 - **Links**
 	- [Starbound](https://playstarbound.com/)
 	- [Stardew Valley](https://www.stardewvalley.net/)

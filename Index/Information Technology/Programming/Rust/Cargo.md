@@ -1,5 +1,5 @@
 - **Notes**
-	- `cargo` - build tool (like [Swift Package Manager](Swift%20Package%20Manager.md))
+	- `cargo` - build tool (like [Swift Package Manager](../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Dependencies/Swift%20Package%20Manager.md))
 		```bash
 		cargo new <project_name>
 		cargo build

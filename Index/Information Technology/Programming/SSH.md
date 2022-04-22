@@ -1,4 +1,4 @@
-- *[CLI](CLI.md)*
+- *[CLI](Shell/CLI.md)*
 	- [xxh/xxh: 🚀 Bring your favorite shell wherever you go through the ssh.](https://github.com/xxh/xxh)
 - *SSH key*
 	- Thing after = is a comment

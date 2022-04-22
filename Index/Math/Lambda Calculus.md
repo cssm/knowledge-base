@@ -1,5 +1,5 @@
 - **Notes**
-	- It's a basics of [Functional Programming](Functional%20Programming.md)
+	- It's a basics of [Functional Programming](../Information%20Technology/Programming/Paradigms/Functional%20Programming.md)
 	- Function is a *black box* that takes *input* and produces *output* 
 	- Function == Operator
 	- `λ` - way to define a function

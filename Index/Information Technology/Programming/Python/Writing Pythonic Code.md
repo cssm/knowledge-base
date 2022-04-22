@@ -1,4 +1,4 @@
-How to write [Clean And Extendable Code](Clean%20And%20Extendable%20Code.md) in [Python](Python.md)
+How to write [Clean And Extendable Code](../Clean%20And%20Extendable%20Code.md) in [Python](../Python.md)
 
 ## Read Data From File
 ```python

@@ -2,11 +2,11 @@
 	- *Make your critical section as small as possible*
 	- *Critical section* - section of code between call of `mutex.lock()` and `mutex.unlock()`
 	- If you want to avoid *race conditions* make sure that every *mutable, shared* object in the system is either protected by `mutex` or `atomic`
-	- [Atomics](Atomics.md)
-	- [Structured Concurrency](Structured%20Concurrency.md)
-	- [Concurrency VS Parallelism](Concurrency%20VS%20Parallelism.md)
-	- [Actor Model](Actor%20Model.md)
-	- [Mutex VS Binary Semaphore](Mutex%20VS%20Binary%20Semaphore.md)
-	- [Cache Line](Cache%20Line.md)
+	- [Atomics](Performance%20Engineering/Atomics.md)
+	- [Structured Concurrency](Performance%20Engineering/Structured%20Concurrency.md)
+	- [Concurrency VS Parallelism](Performance%20Engineering/Concurrency%20VS%20Parallelism.md)
+	- [Actor Model](Performance%20Engineering/Actor%20Model.md)
+	- [Mutex VS Binary Semaphore](Performance%20Engineering/Mutex%20VS%20Binary%20Semaphore.md)
+	- [Cache Line](../../Cache%20Line.md)
 - **Links**
 	- [The Deadlock Empire. Learn concurrency and deadlocks](http://deadlockempire.github.io/)

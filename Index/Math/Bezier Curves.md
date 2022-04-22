@@ -1,5 +1,5 @@
 - **Notes**
-	- Used to describe [Animations](Animations.md)
+	- Used to describe [Animations](../Design/Animations.md)
 - **Links**
 	- [Book. A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 	- [I've never really considered how the pen tool works. Turns out, it relies on Bezier Curves and how they work is super interesting🧵](https://twitter.com/danhollick/status/1458498461167280130?s=21)

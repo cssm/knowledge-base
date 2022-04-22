@@ -1,3 +1,3 @@
 - **Notes**
-	- [Google Search](Google%20Search.md)
-	- [DuckDuckGo](DuckDuckGo.md)
+	- [Google Search](../Google%20Search.md)
+	- [DuckDuckGo](../DuckDuckGo.md)

@@ -22,7 +22,7 @@ if stuff { doStuff() }
 
 ## Naming
 
-### [Swift Enums](Swift%20Enums.md)
+### [Swift Enums](Swift%20Notes/Swift%20Enums.md)
 
 If enum is used for namespacing - use plural name e.g.
 

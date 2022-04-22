@@ -2,24 +2,24 @@
 	- [sindresorhus/awesome:  Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 	- [neutraltone/awesome-stock-resources: A collection of links for free stock photography, video and Illustration websites](https://github.com/neutraltone/awesome-stock-resources)
 	- [awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- *[The Composable Architecture (TCA)](The%20Composable%20Architecture%20(TCA).md)*
+- *[The Composable Architecture (TCA)](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Architecture/The%20Composable%20Architecture%20(TCA).md)*
 	- [antranapp/awesome-tca](https://github.com/antranapp/awesome-tca)
-- *[Fonts](Fonts.md)*
+- *[Fonts](Design/Fonts.md)*
 	- [Jolg42/awesome-typography: ✏︎ Curated list about digital typography 🔥](https://github.com/Jolg42/awesome-typography)
-- *[Telegram](Telegram.md)*
+- *[Telegram](Information%20Technology/Apps/Telegram.md)*
 	- [ebertti/awesome-telegram: Collection great groups, channels, bots and libraries for Telegram](https://github.com/ebertti/awesome-telegram)
 - *[System Design](System%20Design.md)*
 	- [madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Systems) resources.](https://github.com/madd86/awesome-system-design)
-- *[Shell](Shell.md)*
+- *[Shell](Information%20Technology/Programming/Shell.md)*
 	- [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell)
-- *[macOS](macOS.md), [CLI](CLI.md)*
+- *[macOS](Information%20Technology/Programming/OS's/macOS.md), [CLI](Information%20Technology/Programming/Shell/CLI.md)*
 	- [rgcr/m-cli:  Swiss Army Knife for macOS](https://github.com/rgcr/m-cli)
 	- [herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-macos-command-line)
-- *[Reverse Engineering](Reverse%20Engineering.md)*
+- *[Reverse Engineering](Information%20Technology/Reverse%20Engineering.md)*
 	- [tylerha97/awesome-reversing: A curated list of awesome reversing resources](https://github.com/tylerha97/awesome-reversing)
-- *[Metal](Metal.md)*
+- *[Metal](Information%20Technology/Programming/Apple%20Technologies/Metal.md)*
 	- [adamnemecek/awesome-metal: A collection of Metal and MetalKit projects and resources](https://github.com/adamnemecek/awesome-metal) 
-- *[Raspberry Pi](Raspberry%20Pi.md)*
+- *[Raspberry Pi](Information%20Technology/Hardware/Cool%20Devices/Raspberry%20Pi.md)*
 	- [thibmaek/awesome-raspberry-pi: 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
-	- *[Privacy](Privacy.md)*
+	- *[Privacy](Information%20Technology/Privacy.md)*
 		- [pluja/awesome-privacy: Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.](https://github.com/pluja/awesome-privacy)

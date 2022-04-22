@@ -2,7 +2,7 @@
 	 - [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
 		 - because it's breaks animations 
  - `withAnimation`
-	- Will add view to view hierarchy with default [SwiftUI](SwiftUI.md)  animation
+	- Will add view to view hierarchy with default [SwiftUI](../SwiftUI.md)  animation
 	```swift
 	@Binding internal var isInFocus: Bool
 

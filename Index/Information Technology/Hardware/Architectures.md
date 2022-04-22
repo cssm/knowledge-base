@@ -1,1 +1,1 @@
-- [ARM](ARM.md)
+- [ARM](Architectures/ARM.md)

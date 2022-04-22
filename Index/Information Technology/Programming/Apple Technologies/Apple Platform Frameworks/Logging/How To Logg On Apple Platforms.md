@@ -9,13 +9,13 @@ Types that can be logged:
 - simple types (`Int, Double`, etc.)
 - types that conforms to `CustomStringConvertible`
 
-### [Log Levels](Log%20Levels.md)
+### [Log Levels](Logging/Log%20Levels.md)
 
 ![](Logging/Untitled.png)
 
 ![](Logging/Untitled%201.png)
 
-[Log Levels](Log%20Levels.md)
+[Log Levels](Logging/Log%20Levels.md)
 
 ## Usage
 

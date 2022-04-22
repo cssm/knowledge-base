@@ -1,2 +1,2 @@
-- *[UIKit](UIKit.md)*
+- *[UIKit](Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit.md)*
 	- [How to Swizzle All of UIKit - Bryce Pauken](https://bryce.co/swizzle-all-uikit/)

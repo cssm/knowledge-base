@@ -1,4 +1,4 @@
-- *[macOS](macOS.md)*
+- *[macOS](Programming/OS's/macOS.md)*
 	- [App That resizes windows when connect/disconnect monitors](https://cordlessdog.com/stay/)
 	- [Macs and 4K 120Hz displays compatibility list](https://tonsky.me/blog/monitors-mac/)
 	- [Time to upgrade your monitor @ tonsky.me](https://tonsky.me/blog/monitors/)

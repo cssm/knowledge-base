@@ -2,7 +2,7 @@
 	- [Create temporary email](https://www.emaildrop.io/)
 - *[Email](Email.md)*
 	- [Convert email newsletters to RSS](https://kill-the-newsletter.com/)
-- *[CLI](CLI.md)*
+- *[CLI](Shell/CLI.md)*
 	- [sdushantha/tmpmail: A temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
-- *[iOS](iOS.md)*
+- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	- [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail)

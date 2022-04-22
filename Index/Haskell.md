@@ -1,4 +1,4 @@
 - **Links**
 	- [Documentation](https://www.haskell.org/documentation/)
 	- [Functional Programming & Haskell - Computerphile - YouTube](https://www.youtube.com/watch?v=LnX3B9oaKzw)
-	- [Chapters - Learn You a Haskell for Great Good!](learnyouahaskell.com/chapters)
+	- [Chapters - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)

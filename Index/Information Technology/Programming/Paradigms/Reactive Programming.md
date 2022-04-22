@@ -1,7 +1,7 @@
 - **Notes**
-	- [Combine](Combine.md)
-	- [Reactive Swift](Reactive%20Swift.md)
-	- [RxSwift](RxSwift.md)
+	- [Combine](../Apple%20Technologies/Apple%20Platform%20Frameworks/Combine.md)
+	- [Reactive Swift](../Swift/Swift%20Notes/Reactive%20Swift.md)
+	- [RxSwift](../Swift/Swift%20Notes/RxSwift.md)
 	- [Throttle & Debounce](https://devsign.co/notes/throttle-and-debounce)
 		- *Throttle*
 			- “I want to perform action every $n$ seconds”.

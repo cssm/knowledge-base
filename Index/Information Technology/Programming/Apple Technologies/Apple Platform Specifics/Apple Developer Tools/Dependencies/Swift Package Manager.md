@@ -1,6 +1,6 @@
 - **Notes**
 	- a.k.a `SPM`
-	- [Binary dependencies in SPM](Binary%20dependencies%20in%20SPM.md)
+	- [Binary dependencies in SPM](Swift%20Package%20Manager/Binary%20dependencies%20in%20SPM.md)
 - **Links**
 	- [apple/swift-package-manager: The Package Manager for the Swift Programming Language](https://github.com/apple/swift-package-manager)
 	- [SwiftPackageIndex/PackageList: The master list of repositories for the Swift Package Index.](https://github.com/SwiftPackageIndex/PackageList)

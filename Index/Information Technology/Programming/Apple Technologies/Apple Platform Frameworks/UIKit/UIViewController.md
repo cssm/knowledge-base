@@ -1,5 +1,5 @@
 - **Notes**
-	- [Create UIViewController from xib](Create%20UIViewController%20from%20xib.md) 
+	- [Create UIViewController from xib](UIViewController/Create%20UIViewController%20from%20xib.md) 
 	- *Showing VC*
 		- `present()`
 		-  `show(:)` 
@@ -10,7 +10,7 @@
 			- from code with `init` ->
 			- or from storyboard or `.xib` with `init(nibName:bundle:)`  -> segues preparation -> `IBOutlets` get set ->
 		- `loadView` ->
-			- only called if  `view` property accessed by our code or by [UIKit](UIKit.md) under the hood
+			- only called if  `view` property accessed by our code or by [UIKit](../UIKit.md) under the hood
 		- `viewDidLoad` ->
 		- `viewWillAppear` -> `viewDidAppear`
 		- `viewWillLayoutSubviews` -> `viewDidLayoutSubviews`

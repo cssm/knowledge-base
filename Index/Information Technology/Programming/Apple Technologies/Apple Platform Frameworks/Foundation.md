@@ -1,9 +1,9 @@
 - **Notes**
 	- Data is just array of bytes so we can represent it without depending on Foundation
 		- [Supporting Foundation.Data Without Depending On It](https://duan.ca/2018/08/18/supporting-data-without-depending-on-it/)
-	- [URLComponents](URLComponents.md)
-	- [URLSession](URLSession.md)
-	- [Date Formats](Date%20Formats.md)
+	- [URLComponents](Foundation/URLComponents.md)
+	- [URLSession](Foundation/URLSession.md)
+	- [Date Formats](Foundation/Date%20Formats.md)
 - *Working with JSON*
 	 ```swift
 	// To get any JSON

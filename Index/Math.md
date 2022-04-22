@@ -1,16 +1,16 @@
 - **Notes**
 	- 
-	- [Lambda Calculus](Lambda%20Calculus.md)
-	- [Mathematical Logic](Mathematical%20Logic.md)
-	- [Probability Theory](Probability%20Theory.md)
-	- [Bezier Curves](Bezier%20Curves.md)
+	- [Lambda Calculus](Math/Lambda%20Calculus.md)
+	- [Mathematical Logic](Math/Mathematical%20Logic.md)
+	- [Probability Theory](Math/Probability%20Theory.md)
+	- [Bezier Curves](Math/Bezier%20Curves.md)
 	- [Discrete mathematics](Discrete%20mathematics.md)
-	- [Trigonometry](Trigonometry.md)
-	- [Graphs](Graphs.md)
-	- [Быстрое умножение на 11](Быстрое%20умножение%20на%2011.md)
-	- [Linear Algebra](Linear%20Algebra.md)
-	- [Необходимость и достаточность](Необходимость%20и%20достаточность.md)
-	- [Теория Игр](Теория%20Игр.md)
+	- [Trigonometry](Math/Trigonometry.md)
+	- [Graphs](Math/Graphs.md)
+	- [Быстрое умножение на 11](Math/Быстрое%20умножение%20на%2011.md)
+	- [Linear Algebra](Math/Linear%20Algebra.md)
+	- [Необходимость и достаточность](Math/Необходимость%20и%20достаточность.md)
+	- [Теория Игр](Math/Теория%20Игр.md)
 - **Links**
 	- [Twitter. Nice explanation of derivatives and math in general](https://twitter.com/dan_abramov/status/1439569980341821444)
 	- [Tao's Analysis. Learn how to prove in mathematical way](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
@@ -32,8 +32,8 @@
 	- [That weird light at the bottom of a mug](https://www.youtube.com/watch?v=fJWnA4j0_ho)
 - *Linear Algebra*
 	- [Много лет назад один профессор показал нам отличный метод умножения матриц](https://twitter.com/ValeriiZhyla/status/1447493685323739136)
-- *[Programming](Programming.md)*
+- *[Programming](Information%20Technology/Programming.md)*
 	- [A Programmer’s Introduction to Mathematics – BIT-101](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
 	- [math-as-code: a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
-- *[Swift](Swift.md)*
+- *[Swift](Information%20Technology/Programming/Swift.md)*
 	- [mattt/Euler: Swift Custom Operators for Mathematical Notation](https://github.com/mattt/Euler)

@@ -1,2 +1,2 @@
 - *Cache normalization* - reducing amount of duplicated data in cache
-	- Basically this is the same as [Database Normalization](Database%20Normalization.md) 
+	- Basically this is the same as [Database Normalization](Information%20Technology/Programming/Database%20Normalization.md) 

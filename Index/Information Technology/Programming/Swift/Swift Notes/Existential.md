@@ -14,7 +14,7 @@ let a: CustomStringConvertible // existential type with constrains provided by C
 
 let b: Any // also an existential type with no constrains
 ```
-- From [Swift](Swift.md) 5.6
+- From [Swift](../../Swift.md) 5.6
 	-  `var a: any Protocol`
 	- Using `var a: Protocol` instead of `var a: any Protocol` *produces warning*. You can use an existential type alias to make that refactor a smaller diff. For example:
 		```swift

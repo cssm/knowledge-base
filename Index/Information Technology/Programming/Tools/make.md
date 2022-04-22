@@ -1,4 +1,4 @@
-- *[Python](Python.md)*
+- *[Python](../Python.md)*
 	- [Automate your Python project with Makefile](https://antonz.org/makefile-automation/)
 - **Links**
 	- [Makefile Tutorial by Example](https://makefiletutorial.com/#getting-started)

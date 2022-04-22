@@ -2,4 +2,4 @@
 	- Use `.id()` property
 	- Continent way to say to `SwiftUI` drawing engine to update some view
 		- Новый айди это необходимое свойство чтобы сказать что вьюхи одинаковые, но это необходимое и достаточное свойство чтобы сказать что они разные. Это позволяет например в случае с обновлением списка не сравнивать каждый ряд чтобы понять одинакове списки или нет, а просто посмотреть что айди отличаются и обновить весь список сразу.
-	- [How to fix slow List updates in SwiftUI](How%20to%20fix%20slow%20List%20updates%20in%20SwiftUI.md)
+	- [How to fix slow List updates in SwiftUI](SwiftUI%20Toggle%20layout%20redraw/How%20to%20fix%20slow%20List%20updates%20in%20SwiftUI.md)

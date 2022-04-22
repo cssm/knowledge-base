@@ -9,13 +9,13 @@
 	- [Тред о том как я получил оффер в Google, а ещё в Amazon, Microsoft, Яндекс и Box, не завалив ни одного собеседования (ну, почти)](https://mobile.twitter.com/okinasaru/status/1454449701726695428)
 - *[System Design](System%20Design.md)*
 	- [weeeBox/mobile-system-design: A simple framework for mobile system design interviews](https://github.com/weeeBox/mobile-system-design)
-- *[iOS](iOS.md)*
+- *[iOS](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 	- [iOS Dev Jobs](https://iosdevjobs.com)
 	- [Interview Guide](https://iosinterviewguide.com/ios-interview-questions-for-senior-developers-in-2020)
 	-  [raywenderlich/ios-interview: The resources and instructions for the iOS Sample Project interview question.](https://github.com/raywenderlich/ios-interview)
-- *[LaTeX](LaTeX.md)*
+- *[LaTeX](Information%20Technology/Programming/LaTeX.md)*
 	- [posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
-- *[Computer Science](Computer%20Science.md)*
-	- [Leetcode](Leetcode.md)
+- *[Computer Science](Information%20Technology/Programming/Computer%20Science.md)*
+	- [Leetcode](Information%20Technology/Programming/Leetcode.md)
 	- [The HackerRank Interview Preparation Kit | HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 

@@ -1,7 +1,7 @@
 - client-side and server-side hooks
 - stored in `.git/hooks/`
 - not copied on repo clone
-	- you can store them in some indexed directory and then make [Symbolic Link](Symbolic%20Link.md) to those scripts in `.git/hooks/`
+	- you can store them in some indexed directory and then make [Symbolic Link](../Symbolic%20Link.md) to those scripts in `.git/hooks/`
 	- from `git 2.9` you can run `git config core.hooksPath <path_to_hooks_dir>` to setup new path to hooks instead of default `.git/hooks/` and add this path to `git` index
 - can be written in any programming language
 - some hooks can be skipped

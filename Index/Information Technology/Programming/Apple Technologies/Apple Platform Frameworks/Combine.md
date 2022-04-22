@@ -1,15 +1,15 @@
-- *[Open Source](Open%20Source.md)*
+- *[Open Source](../../../../Open%20Source.md)*
 	- [OpenCombine/OpenCombine: Open source implementation of Apple's Combine framework for processing values over time.](https://github.com/OpenCombine/OpenCombine)
 - **Links**
 	- [Book about Combine](https://heckj.github.io/swiftui-notes/)
 	- [pointfreeco/combine-schedulers: A few schedulers that make working with Combine more testable and more versatile.](https://github.com/pointfreeco/combine-schedulers)
-- [RunLoop](RunLoop.md)
+- [RunLoop](../../RunLoop.md)
 	- [RunLoop.main vs DispatchQueue.main: The differences explained](https://www.avanderlee.com/combine/runloop-main-vs-dispatchqueue-main/)
 		- If using `RunLoop.main` as scheduler Default RunLoop mode is used  -> Complition will not complete until RunLoop changes from UIHandling mode back to Default Mode
 - **Notes**
 	- `Publisher` - object that emits values
 		- `Just` - emits event ones and finishes
-		- `Future` - allows to wrap [Swift Closures](Swift%20Closures.md)  into publishers
+		- `Future` - allows to wrap [Swift Closures](../../Swift/Swift%20Notes/Swift%20Closures.md)  into publishers
 			- emits value only ones
 			- stores the result of body in publisher and emits `promise(Result)` only on subscribe
 			- subscribing to the same `Future` multiple times will yield in the same result

@@ -2,7 +2,7 @@
 
 [github/gitignore](https://github.com/github/gitignore)
 
-## [Apple Technologies](Apple%20Technologies.md)
+## [Apple Technologies](../../Apple%20Technologies.md)
 
 `xcuserdata` - breakpoints, etc.
 

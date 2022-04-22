@@ -1,9 +1,9 @@
 - **Notes**
-	- [UI-UX](UI-UX.md)
-	- [Color Theory](Color%20Theory.md)
-	- [Fonts](Fonts.md)
-	- [Icons](Icons.md)
-	- [Animations](Animations)
-	- [Accessibility](Accessibility.md)
+	- [UI-UX](Design/UI-UX.md)
+	- [Color Theory](Design/Color%20Theory.md)
+	- [Fonts](Design/Fonts.md)
+	- [Icons](Design/Icons.md)
+	- [Animations](Design/Animations.md)
+	- [Accessibility](Design/Accessibility.md)
 - **Links**
 	- [Pages Checklists - Checklist Design](https://www.checklist.design/pages-checklists)

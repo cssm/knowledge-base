@@ -1,4 +1,4 @@
-# [whereis](whereis.md)  vs [where](where.md)
+# [whereis](../CLI/whereis.md)  vs [where](../CLI/where.md)
 
 first one seraches in `usr/bin` by default only 
 

@@ -1,4 +1,4 @@
--  [Swift](Swift.md) 
+-  [Swift](../../../Swift.md) 
 	```swift
 	e -l Swift -- import UIKit // `--` here is a separator between lldb command and expression itself
 	```

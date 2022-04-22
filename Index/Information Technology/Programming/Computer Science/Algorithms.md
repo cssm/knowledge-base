@@ -1,15 +1,15 @@
 - **Notes**
-	- [Complexity](Complexity.md)
-	- [Quick Sort](Quick%20Sort.md)
-	- [Swap Two Variables With No Extra Memory](Swap%20Two%20Variables%20With%20No%20Extra%20Memory.md)
-	- [Float Values](Float%20Values.md)
-	- [Fast Inverse Square Root](Fast%20Inverse%20Square%20Root.md)
-	- [Diffing](Diffing.md)
-	- [Garbage Collection](Garbage%20Collection.md)
+	- [Complexity](Algorithms/Complexity.md)
+	- [Quick Sort](Algorithms/Quick%20Sort.md)
+	- [Swap Two Variables With No Extra Memory](Algorithms/Swap%20Two%20Variables%20With%20No%20Extra%20Memory.md)
+	- [Float Values](Algorithms/Float%20Values.md)
+	- [Fast Inverse Square Root](Algorithms/Fast%20Inverse%20Square%20Root.md)
+	- [Diffing](Algorithms/Diffing.md)
+	- [Garbage Collection](../../../Garbage%20Collection.md)
 - **Links**
 	- [MIT 6.006 Introduction to Algorithms, Fall 2011 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 	- [coells/100days: 100 days of algorithms](https://medium.com/100-days-of-algorithms/latest)
 	- [algorithm-visualizer/algorithm-visualizer: Interactive Online Platform that Visualizes Algorithms from Code](https://github.com/algorithm-visualizer/algorithm-visualizer)
 	- [Algorithm Visualizer](https://algorithm-visualizer.org)
-- *[Swift](Swift.md)*
+- *[Swift](../Swift.md)*
 	- [apple/swift-algorithms: Commonly used sequence and collection algorithms for Swift](https://github.com/apple/swift-algorithms)

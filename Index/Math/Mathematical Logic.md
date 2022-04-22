@@ -1,4 +1,4 @@
-> Formalization of [Logic](Logic.md) in mathematical way
+> Formalization of [Logic](../Logic.md) in mathematical way
 
 - **Notes**
 	- *Axiom* - any proposition that is deemed "obviously true" by rote fiat

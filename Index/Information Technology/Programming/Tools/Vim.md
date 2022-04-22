@@ -11,7 +11,7 @@
 - **Links**
 	- [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
 	- [Helix. A post-modern modal text editor](https://github.com/helix-editor/helix)
-- *[Safari](Safari.md)*
+- *[Safari](../../Internet/Safari.md)*
 	- [televator-apps/vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
-- *[macOS](macOS.md)*
+- *[macOS](../OS's/macOS.md)*
 	- [dwarvesf/VimMotionApp: Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.](https://github.com/dwarvesf/VimMotionApp)

@@ -1,10 +1,10 @@
 - *MRC* 
 	- manual reference counting
-	- been used in [Objective-C](Objective-C.md)
+	- been used in [Objective-C](../../Objective-C.md)
 - *ARC*
 	- automatic reference counting 
 	- modern way to count references
-	- available in [Swift](Swift.md) and [Objective-C](Objective-C.md)
+	- available in [Swift](../../Swift.md) and [Objective-C](../../Objective-C.md)
 	- 3 counters strong unowned and weak
 	- Strong and unowned variables point at the object.
 	- Weak variables point at the object's side table.

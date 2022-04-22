@@ -1,2 +1,2 @@
-- *[GraphQL](GraphQL.md)*
+- *[GraphQL](../../../../GraphQL.md)*
 	- [GitHub - apollographql/xcode-graphql: 🛠 Xcode add-ons that add syntax highlighting for GraphQL query document files](https://github.com/apollographql/xcode-graphql)

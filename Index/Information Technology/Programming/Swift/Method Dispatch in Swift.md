@@ -2,9 +2,9 @@
 - **Static dispatch** - we now which function implementation to call at compile time
 - **Dynamic dispatch** - decision on what function implementation to call will be made at runtime
 - **Devirtualization** - when compiler try to staticly dispatch methods
-- [Swift](Swift.md) uses virtual table and message dispatch to dynamically (in runtime) determinate witch method implementation to call. Message dispatch in contrast to virtual table allows to change itself in runtime (because of this we can swizzle methods)
+- [Swift](../Swift.md) uses virtual table and message dispatch to dynamically (in runtime) determinate witch method implementation to call. Message dispatch in contrast to virtual table allows to change itself in runtime (because of this we can swizzle methods)
 - witness table is used in protocols instead of vtable (virtual table)
-- `@inline` force static dispatch [Inlining in Swift](Inlining%20in%20Swift.md)
+- `@inline` force static dispatch [Inlining in Swift](../Compilers/Function%20Inlining/Inlining%20in%20Swift.md)
 - Methods in extensions are staticly dispatched
 	```swift
 	protocol Kek {}

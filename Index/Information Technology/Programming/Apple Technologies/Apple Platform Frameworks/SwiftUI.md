@@ -1,12 +1,12 @@
-> UI Framework to write applications for all Apple platforms, [iOS](iOS.md), [macOS](macOS.md), etc.
+> UI Framework to write applications for all Apple platforms, [iOS](../Apple%20Platform%20Specifics/iOS.md), [macOS](../../OS's/macOS.md), etc.
 
 - **Notes**
-	- [SwiftUI Conditional Modifiers](SwiftUI%20Conditional%20Modifiers.md)
-	- [SwiftUI Data State](SwiftUI%20Data%20State.md)
-	- [SwiftUI Toggle layout update](SwiftUI%20Toggle%20layout%20update.md)
-	- [SwiftUI Elements positioning](SwiftUI%20Elements%20positioning.md)
+	- [SwiftUI Conditional Modifiers](SwiftUI/SwiftUI%20Conditional%20Modifiers.md)
+	- [SwiftUI Data State](SwiftUI/SwiftUI%20Data%20State.md)
+	- [SwiftUI Toggle layout update](SwiftUI/SwiftUI%20Toggle%20layout%20update.md)
+	- [SwiftUI Elements positioning](SwiftUI/SwiftUI%20Elements%20positioning.md)
 - *Components*
-	- [SwiftUI Text](SwiftUI%20Text.md)
+	- [SwiftUI Text](SwiftUI/SwiftUI%20Text.md)
 	- [GroupBox. Card style elements group](https://developer.apple.com/documentation/swiftui/groupbox/)
 	- *Lazy Components*
 		- `LazyHStack` - horizontal stack that **do not** render off-screen elements
@@ -15,7 +15,7 @@
 	- [SwiftUI Data Flow | kean.blog](https://kean.blog/post/swiftui-data-flow#binding)
 	- [Data Flow Through SwiftUI - WWDC19 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/226/)
 - *Animations*
-	 - [SwiftUI Animations](SwiftUI%20Animations.md)
+	 - [SwiftUI Animations](SwiftUI/SwiftUI%20Animations.md)
 	- [Transactions and Animations · objc.io](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
 - **Links**
 	- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/)

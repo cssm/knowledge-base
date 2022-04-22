@@ -1,6 +1,6 @@
-- [iOS](iOS.md)
+- [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
 	- [StyleShare/HLSCachingReverseProxyServer: A simple local reverse proxy server for HLS segment cache](https://github.com/StyleShare/HLSCachingReverseProxyServer)
-- *[CLI](CLI.md)*
+- *[CLI](Shell/CLI.md)*
 	- [FFmpeg. Edit and manipulate videos](https://ffmpeg.org/)
 - *Codecs*
 	- Shorthand for coder-decoder. **Codecs not always means compression**

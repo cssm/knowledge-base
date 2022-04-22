@@ -1,4 +1,4 @@
-- *[Swift](Swift.md)*
+- *[Swift](../../Swift.md)*
 	- [pointfreeco/swift-tagged: 🏷 A wrapper type for safer, expressive code.](https://github.com/pointfreeco/swift-tagged)
 
 > ***Phantom type*** - a generic type that is declared but never used inside a type where it is declared

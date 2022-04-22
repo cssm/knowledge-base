@@ -1,1 +1,1 @@
-[iOS](iOS.md) /[macOS](macOS.md)  makes sure that in app’s data is secured, so its creates a separate directory in system for each app and restricts accessing other apps directories
+[iOS](iOS.md) /[macOS](../../OS's/macOS.md)  makes sure that in app’s data is secured, so its creates a separate directory in system for each app and restricts accessing other apps directories

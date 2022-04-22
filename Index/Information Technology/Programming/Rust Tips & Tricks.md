@@ -1,6 +1,6 @@
 - **Notes**
-	- [Writing Ideomatic Rust](Writing%20Ideomatic%20Rust)
-	- [Learning Rust](Learning%20Rust)
+	- [Writing Ideomatic Rust](Writing%20Ideomatic%20Rust.md)
+	- [Learning Rust](Learning%20Rust.md)
 	- [Rust Variables Shadowing](Rust%20Variables%20Shadowing.md)
 	- if we want to suppress compiler warning *that variable is not used*
 		```rust

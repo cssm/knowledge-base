@@ -9,8 +9,8 @@
 			- `full-screen-api.warning.timeout` set `0` to disable - configure *enter full screen* pop up  
 			- `extensions.pocket.enabled` set it to `false` - disables Pocket integration
 			- `network.captive-portal-service.enabled` set it to `false`- stop sending data about browser usage
-			- `apz.allow_zooming` and `apz.allow_zooming_out` - add/remove pinch to zoom like in [Safari](Safari.md)
-			- `accessibility.force_disabled` - set to `-1` to allow copy of *current tab [URL](URL.md)*
+			- `apz.allow_zooming` and `apz.allow_zooming_out` - add/remove pinch to zoom like in [Safari](Internet/Safari.md)
+			- `accessibility.force_disabled` - set to `-1` to allow copy of *current tab [URL](Internet/URL.md)*
 - **Links**
 	- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
 	- [Download Firefox Browser — Fast, Private & Free — from Mozilla](https://www.mozilla.org/en-US/firefox/new/)

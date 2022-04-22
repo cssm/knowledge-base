@@ -4,9 +4,9 @@
 	- `DispatchQueue.concurrentPeform(iterations: Int) {}`  - allows to cuncurrently iterate (very effective with good amount of `iterations`
 	- `DispatchIO` - allows to work with files using dispatch groups
 	- `DispatchWorkItem` - allows to cancel task (only if it already not excuting)
-	- [DispatchSource](DispatchSource.md)
-	- [Modernizing use of GCD](Modernizing%20use%20of%20GCD.md)
-	- [GCD Efficiency Tips](GCD%20Efficiency%20Tips.md)
+	- [DispatchSource](GCD%20(Grand%20Central%20Dispatch)/DispatchSource.md)
+	- [Modernizing use of GCD](GCD%20(Grand%20Central%20Dispatch)/Modernizing%20use%20of%20GCD.md)
+	- [GCD Efficiency Tips](GCD%20(Grand%20Central%20Dispatch)/GCD%20Efficiency%20Tips.md)
 
 ## Performance
 

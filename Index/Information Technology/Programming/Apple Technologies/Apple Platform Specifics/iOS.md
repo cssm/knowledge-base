@@ -1,11 +1,11 @@
 - **Notes**
 	- [iOS Launch Screen](iOS%20Launch%20Screen.md)
-	- [iOS Apps](iOS%20Apps.md)
-	- [iOS App Structure](iOS%20App%20Structure.md)
-	- [iOS Keyboard Types](iOS%20Keyboard%20Types.md)
-	- [iPhone's Screens Info](iPhone's%20Screens%20Info.md)
-	- [Spotlight](Spotlight.md)
-	- [iOS User Interaction](iOS%20User%20Interaction.md)
+	- [iOS Apps](iOS/iOS%20Apps.md)
+	- [iOS App Structure](iOS/iOS%20App%20Structure.md)
+	- [iOS Keyboard Types](iOS/iOS%20Keyboard%20Types.md)
+	- [iPhone's Screens Info](iOS/iPhone's%20Screens%20Info.md)
+	- [Spotlight](iOS/Spotlight.md)
+	- [iOS User Interaction](iOS/iOS%20User%20Interaction.md)
 	- *Secrets Management*
 		- [“How do I store secrets securely on the client?”](https://nshipster.com/secrets/). Answer: **“Don’t (but if you must, obfuscation wouldn’t hurt).”**
 - **Links**

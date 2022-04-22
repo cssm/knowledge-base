@@ -1,14 +1,14 @@
 - **Notes**
 	- [Shell Scripting](Shell%20Scripting.md)
-	- [Shell Snippets](Shell%20Snippets.md)
-	- [Shells](Shells.md)
-	- [Paths](Paths.md)
-	- [Pipes](Pipes.md)
-	- [CLI](CLI.md)
+	- [Shell Snippets](Shell/Shell%20Snippets.md)
+	- [Shells](Shell/Shell%20Notes/Shells.md)
+	- [Paths](Shell/Shell%20Notes/Paths.md)
+	- [Pipes](Shell/Shell%20Notes/Pipes.md)
+	- [CLI](Shell/CLI.md)
 	- [Dotifles](Dotifles.md)
 	- [Terminals](Terminals.md)
 	- [Symbolic Link](Symbolic%20Link.md)
-	- [Glob](Glob.md)
+	- [Glob](Shell/Glob.md)
 	- *Console VS Terminal*
 		- `Terminal` - thing that runs a shell
 		- `Console` - physical terminal e.g computer with keyboard and monitor, laptop

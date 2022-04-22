@@ -1,4 +1,4 @@
-> Graphics Rendering process can be done efficient only by using [GPU](GPU.md)
+> Graphics Rendering process can be done efficient only by using [GPU](../Hardware/Components/GPU.md)
 
 - **Notes**
 	- `Shader` - a program that runs parallel processing of pixels on the screen

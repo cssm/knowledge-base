@@ -1,5 +1,5 @@
 - **Notes**
-	- [zshrc](zshrc.md)
+	- [zshrc](Shell/Shell%20Notes/zshrc.md)
 		- `rc` means `run command` or `run control`
 - **Links**
 	- [anishathalye/dotbot: A tool that bootstraps your dotfiles](https://github.com/anishathalye/dotbot)

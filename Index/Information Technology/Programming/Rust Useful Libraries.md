@@ -10,5 +10,5 @@
 	- [watchexec/cargo-watch: Watches over your Cargo project's source.](https://github.com/watchexec/cargo-watch)
 	- [flamegraph-rs/flamegraph: Easy flamegraphs (how much time each module is compiling) for Rust projects and everything else](https://github.com/flamegraph-rs/flamegraph)
 	- [clap-rs/clap: A full featured, fast Command Line Argument Parser for Rust](https://github.com/clap-rs/clap)
-- *[CLI](CLI.md)*
+- *[CLI](Shell/CLI.md)*
 	- [redox-os/termion: A bindless library for controlling terminals/TTY.](https://github.com/redox-os/termion)
