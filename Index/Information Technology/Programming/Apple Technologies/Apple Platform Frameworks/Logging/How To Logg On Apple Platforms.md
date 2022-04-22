@@ -9,13 +9,13 @@ Types that can be logged:
 - simple types (`Int, Double`, etc.)
 - types that conforms to `CustomStringConvertible`
 
-### [[Log Levels]]
+### [Log Levels](Log%20Levels.md)
 
-![[Logging/Untitled.png]]
+![](Logging/Untitled.png)
 
-![[Logging/Untitled 1.png]]
+![](Logging/Untitled%201.png)
 
-[[Log Levels]]
+[Log Levels](Log%20Levels.md)
 
 ## Usage
 
@@ -36,11 +36,11 @@ logger.log("log")
     ```
     
 
-![[Logging/Untitled 2.png]]
+![](Logging/Untitled%202.png)
 
-![[Logging/Untitled 3.png]]
+![](Logging/Untitled%203.png)
 
-![[Logging/Untitled 4.png]]
+![](Logging/Untitled%204.png)
 
 ## Collecting Logs
 

@@ -6,11 +6,11 @@
 
 **NSUserActivity** - use it when you want so save some kind of state, we can’t manipulate indexes
 
-![[Spotlight/CoreSpotlight.png]]
+![](Spotlight/CoreSpotlight.png)
 
-![[Spotlight/NSUserActivity.png]]
+![](Spotlight/NSUserActivity.png)
 
-![[Spotlight/print(userActivity.activityType_userActivity.activityType).png]].png)
+![](Spotlight/print(userActivity.activityType_userActivity.activityType).png).png)
 
 When you choose to index an item publicly, a hash of the indexed item is sent to Apple's servers. When other user's devices start sending the same hash to Apple's servers, Apple will begin recognizing your indexed item as useful, or important. Note that having many users send the same item once doesn't mean much to Apple. They are looking for indexes items that are accessed regularly by each user.
 

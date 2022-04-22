@@ -3,7 +3,7 @@
 	- basically `URL` and `URN` is a subset of `URI`
 		- `URL` - an `URI` with a help of witch we can locate a thing
 		- `URN` - an `URI` with constraints of `URN` format 
-	- ![[URL/Untitled.png]]
+	- ![](URL/Untitled.png)
 		- `scheme:[//authority]path[?query][#fragment]`
 		- `path` can be ended with *slug -* a human readable identifier for page
 		-`authority = [userinfo@]host[:port]`

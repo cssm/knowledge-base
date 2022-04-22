@@ -1,6 +1,6 @@
 # Finding Cycle
 
-![[Finding Cycle/Untitled.png]]
+![](Finding%20Cycle/Untitled.png)
 
 Just add to pointers: one that visit every node, and second that visit every second node. If cycle exists this two pointers mets, if not - second pointer will reach end of list first. 
 

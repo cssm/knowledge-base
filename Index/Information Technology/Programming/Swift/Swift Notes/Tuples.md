@@ -12,7 +12,7 @@ let tuple = (one: 1, two: 2)
 let one, two = tuple 
 ```
 
-Tuples doesn't support desctucting in [[Swift Closures]] parameters
+Tuples doesn't support desctucting in [Swift Closures](Swift%20Closures.md) parameters
 
 ```swift
 let cl: ((Int, Int)) -> Void = { a, b in // error

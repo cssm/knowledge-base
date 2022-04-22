@@ -1,6 +1,6 @@
 # Collections Protocol
 
-![[Collections Protocol/2019-03-26-protocol-hierarchy-07a31a97.png]]
+![](Collections%20Protocol/2019-03-26-protocol-hierarchy-07a31a97.png)
 
 **`Sequence`** - provides a generator to iterate
 

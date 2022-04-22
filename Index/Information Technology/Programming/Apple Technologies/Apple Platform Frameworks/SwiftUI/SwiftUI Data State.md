@@ -1,6 +1,6 @@
 # SwiftUI Data State
 
-![[SwiftUI Data State/Untitled.png]]
+![](SwiftUI%20Data%20State/Untitled.png)
 
 ## Process Lifetime
 

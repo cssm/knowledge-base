@@ -70,9 +70,9 @@ echo ${(%):-%x}
 echo ${BASH_SOURCE[0]}
 ```
 
-## Allow only [[Importing scripts]]  but not run
+## Allow only [Importing scripts](Importing%20scripts.md)  but not run
 
-works if script is marked with bash [[Shebang]] 
+works if script is marked with bash [Shebang](Shebang.md) 
 
 ```bash
 if [ "${BASH_SOURCE[0]}" -ef "$0" ]; then

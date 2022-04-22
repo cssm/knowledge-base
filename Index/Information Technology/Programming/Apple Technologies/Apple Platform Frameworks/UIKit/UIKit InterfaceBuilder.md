@@ -1,6 +1,6 @@
 # UIKit InterfaceBuilder
 
-[[Segues]]
+[Segues](Segues.md)
 
 **`@IBDesignable`**- для классов View чтоб они отображались в сторибордах
 

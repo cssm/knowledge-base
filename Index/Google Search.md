@@ -17,4 +17,4 @@
 	- `filetype:<file_type>` - search only for specific file type
 	- `related:<url>` - find sites somehow related to `<url>`
 	- `cache:<url>` - see a cached version by google search of web-page
-	-  *same operators supported by [[DuckDuckGo]]*
+	-  *same operators supported by [DuckDuckGo](DuckDuckGo.md)*

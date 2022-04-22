@@ -1,3 +1,3 @@
 # CoreGraphics
 
-Draws using [[CPU]]
+Draws using [CPU](CPU.md)

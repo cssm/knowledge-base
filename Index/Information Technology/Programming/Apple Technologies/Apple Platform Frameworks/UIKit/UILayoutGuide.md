@@ -28,6 +28,6 @@ v.snp.makeConstraints { make in
 }
 ```
 
-![[UILayoutGuide/Screenshot_2021-03-23_at_21.32.31.png]]
+![](UILayoutGuide/Screenshot_2021-03-23_at_21.32.31.png)
 
 `UILayoutGuide` result

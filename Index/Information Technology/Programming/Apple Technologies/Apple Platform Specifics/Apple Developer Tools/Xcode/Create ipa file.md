@@ -1,3 +1,3 @@
-1. ![[Create ipa file/Untitled.png]]
-2. ![[Create ipa file/Untitled 1.png]]
-3. ![[Create ipa file/Untitled 2.png]]
+1. ![](Create%20ipa%20file/Untitled.png)
+2. ![](Create%20ipa%20file/Untitled%201.png)
+3. ![](Create%20ipa%20file/Untitled%202.png)

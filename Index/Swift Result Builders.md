@@ -29,9 +29,9 @@ Add `buildOptional` to use `if` statement in result builders
 
 Adding more relevant errors 
 
-![[Swift Result builders/Untitled.png]]
+![](Swift%20Result%20builders/Untitled.png)
 
-![[Swift Result builders/Untitled 1.png]]
+![](Swift%20Result%20builders/Untitled%201.png)
 
 Basicly result builder rewrites `switch` as a bunch of nested `if-else` statements. Same for the `else if`
 

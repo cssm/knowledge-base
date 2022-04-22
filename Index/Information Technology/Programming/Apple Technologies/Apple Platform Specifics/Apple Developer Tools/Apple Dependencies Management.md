@@ -1,2 +1,2 @@
-- [[Swift Package Manager]]
-- [[CocoaPods]]
+- [Swift Package Manager](Swift%20Package%20Manager.md)
+- [CocoaPods](CocoaPods.md)

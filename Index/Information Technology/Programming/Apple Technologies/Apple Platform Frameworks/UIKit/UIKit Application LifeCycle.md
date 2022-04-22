@@ -6,6 +6,6 @@
 		- Background - in memory and can execute some code
 		- Suspended - in memory but can't execute code
 			- When app is in suspened mode - `applicationWillTerminate` do **not** called.
-		- ![[UIKit Application LifeCycle/Screen_Shot_2020-08-25_at_23.36.17.png]]
+		- ![](UIKit%20Application%20LifeCycle/Screen_Shot_2020-08-25_at_23.36.17.png)
 - Scene Based Life-cycle
-	- ![[UIKit Application LifeCycle/Screen_Shot_2020-08-25_at_23.36.03.png]]
+	- ![](UIKit%20Application%20LifeCycle/Screen_Shot_2020-08-25_at_23.36.03.png)

@@ -1,3 +1,3 @@
 # iOS Keyboard Types
 
-![[iOS Keyboard Types/Untitled.png]]
+![](iOS%20Keyboard%20Types/Untitled.png)

@@ -47,13 +47,13 @@ Calling `await` *may* suspend function
 
 ## Manually manage suspending and continuation
 
-![[Swift Concurrency/Untitled.png]]
+![](Swift%20Concurrency/Untitled.png)
 
-![[Swift Concurrency/Untitled 1.png]]
+![](Swift%20Concurrency/Untitled%201.png)
 
 warnings that we should be considered about
 
-![[Swift Concurrency/Untitled 2.png]]
+![](Swift%20Concurrency/Untitled%202.png)
 
 adopting `async` in delegates methods
 
@@ -61,7 +61,7 @@ adopting `async` in delegates methods
 
 `Task` - the way to add cuncurrency 
 
-![[Swift Concurrency/Untitled 3.png]]
+![](Swift%20Concurrency/Untitled%203.png)
 
 Which means that each `Task` will run cuncurrently
 
@@ -74,23 +74,23 @@ Types of tasks:
     
     The child-task created to initialize the `async let` by default runs on the global concurrent, width-limited, executor that comes with the Swift Concurrency runtime.
     
-    ![[Swift Concurrency/Untitled 4.png]]
+    ![](Swift%20Concurrency/Untitled%204.png)
     
-    ![[Untitled_0.jpg]]
+    ![](Untitled_0.jpg)
     
     - Parent task will wait until all child dask eather succeed and finished or canceled
     - If some of child tasks throws - other child task canceled
 - Group task - will spawn a dynamic number of task in **PARALLEL**
     
-    ![[Swift Concurrency/Untitled 5.png]]
+    ![](Swift%20Concurrency/Untitled%205.png)
     
     - `withTaskGroup(of: Type.self) { group in }`
     
-    ![[Swift Concurrency/Untitled 6.png]]
+    ![](Swift%20Concurrency/Untitled%206.png)
     
     ⛔️
     
-    ![[Swift Concurrency/Untitled 7.png]]
+    ![](Swift%20Concurrency/Untitled%207.png)
     
     ✅
     

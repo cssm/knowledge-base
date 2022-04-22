@@ -25,7 +25,7 @@ disadvantages:
     - Not changing module API
     - Consider not using `@inline(__always)` in general
         - It may be useful in cases where you're sure that this will increase performance
-- Use `@inlinable` only for [Generics [[Generics Specialisation in Swift]]
+- Use `@inlinable` only for [Generics [Generics Specialisation in Swift](Generics%20Specialisation%20in%20Swift.md)
 
 a function that is @inline(__always), but not @inlinable, will not be available for inlining outside of its module, because the function body that would be inlined is not available.
 

@@ -13,7 +13,7 @@ bar(x: 1, y: 2) // ok
 bar(x: 1, y: "kek") // error
 ```
 
-In other case `value-level abstraction` provided by [Existential [[Existential]] 's
+In other case `value-level abstraction` provided by [Existential [Existential](Existential.md) 's
 
 ```swift
 protocol Kek { func lol() }

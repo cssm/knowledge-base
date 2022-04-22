@@ -22,7 +22,7 @@ let b: Any // also an existential type with no constrains
 		typealias Bar = any BarProtocol
 		```
 	- Then you can continue to use `Bar` in type position without `any`.
-- Due to knowledge from [[Swift Metatypes]]  even that instance of type is erased to existntial, it's metatype ***still hold*** information about ***concreate meta type***
+- Due to knowledge from [Swift Metatypes](Swift%20Metatypes.md)  even that instance of type is erased to existntial, it's metatype ***still hold*** information about ***concreate meta type***
 	```swift
 	let kek = Kek()
 	let lol: MyProtocol = kek

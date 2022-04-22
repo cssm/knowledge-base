@@ -18,7 +18,7 @@ query HeroNameAndFriends($episode: Episode) {
 query HeroNameAndFriends($episode: Episode = JEDI) { ... }
 ```
 
-![[GraphQL/Untitled.png]]
+![](GraphQL/Untitled.png)
 
 ## Types
 
@@ -88,7 +88,7 @@ type Character {
 
 ### Interfaces
 
-To include type exclusive field in operation use [[#Inline fragments]]
+To include type exclusive field in operation use [Inline fragments](#Inline%20fragments)
 
 ```graphql
 interface Character {
@@ -124,7 +124,7 @@ Members of a union type need to be concrete object types, not interfaces nor uni
 union SearchResult = Human | Droid | Starship
 ```
 
-Fetch of union type requires to use [[#Inline fragments]]
+Fetch of union type requires to use [Inline fragments](#Inline%20fragments)
 
 ## Inputs
 

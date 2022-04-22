@@ -6,7 +6,7 @@
 
 Need to double quote them (i.e. not `$var` but `“$var”`) to prevent splitting it by spaces
 
-If arguments need to expanded [[Glob]]  (e.g. to loop over them) do not quote part with /*
+If arguments need to expanded [Glob](Glob.md)  (e.g. to loop over them) do not quote part with /*
 
 `"$HOME/$dir/src/*.c"` will not expand, but `"$HOME/$dir/src"/*.c` will
 
@@ -21,7 +21,7 @@ starts a new context so need to quoted one more time
 
 `$()` - means run this command and put it’s output here
 
-Command runs in sub[[Shell]] 
+Command runs in sub[Shell](Shell.md) 
 
 ### `${}`
 

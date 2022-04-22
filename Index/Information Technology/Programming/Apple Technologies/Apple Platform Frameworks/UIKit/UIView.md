@@ -18,7 +18,7 @@ UIView has no intrinsic content size
 
 **Frame** - граница рамки ограничивающий элемент (т.е координаты относительно родительского вью или наименьший прямоугльник в который можно вписать view)
 
-![[UIView/30022.png]]
+![](UIView/30022.png)
 
 ## Interaction with view
 

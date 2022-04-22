@@ -2,11 +2,11 @@
 
 > `KeyPath` - reference to some property of `struct`/`class`
 
-- Also there some implementations of `CasePath` - reference to [[Swift Enums]] case
+- Also there some implementations of `CasePath` - reference to [Swift Enums](Swift%20Enums.md) case
 	- [pointfreeco/swift-case-paths: 🧰 Case paths bring the power and ergonomics of key paths to enums!](https://github.com/pointfreeco/swift-case-paths)
 - Use `ReferenceKeyPath` for reference types
 	- You can gain some painful crashes especially when using `WritableKeyPath`  instead of `ReferenceWritableKeyPath`
--  `KeyPath` and [[Swift Closures]] are **same**
+-  `KeyPath` and [Swift Closures](Swift%20Closures.md) are **same**
 	-  `KeyPath` can be implicitly converted to closure, but no vice versa (check code examples below)
 
 ## Examples

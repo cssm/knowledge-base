@@ -12,4 +12,4 @@ from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 ```
 
-[[In a virtual environment]]
+[In a virtual environment](In%20a%20virtual%20environment.md)

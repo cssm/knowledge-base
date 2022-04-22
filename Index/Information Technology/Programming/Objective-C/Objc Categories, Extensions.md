@@ -10,4 +10,4 @@ Extensions add they implementation at ***compile time*** when Categories at the 
 
 If we have to categories with same methods the last added category implementation will be used in our class.
 
-![[Categories, Extensions/Category.png]]
+![](Categories,%20Extensions/Category.png)

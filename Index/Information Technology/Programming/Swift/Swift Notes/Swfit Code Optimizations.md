@@ -130,13 +130,13 @@ func kek() {
 
 Use += instead of + in reduce
 
-![[Writing High-Performance Swift Code/group(by_)_loop_with_subscript__get_set.png]]_loop_with_subscript__get_set.png)
+![](Writing%20High-Performance%20Swift%20Code/group(by_)_loop_with_subscript__get_set.png)_loop_with_subscript__get_set.png)
 
 Red line is exclusive access (like & param)
 
-`yield` only can be called once (due to exclusive access to value). It's like [[inout]]  returned value
+`yield` only can be called once (due to exclusive access to value). It's like [inout](inout.md)  returned value
 
-![[Writing High-Performance Swift Code/mutation_happens_in-place.png]]
+![](Writing%20High-Performance%20Swift%20Code/mutation_happens_in-place.png)
 
 ```swift
 [1, 2, 3].reduce(into: [], +) // O(n^2) - creating array on every iteration 

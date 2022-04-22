@@ -4,7 +4,7 @@
 
 ### Universal links
 
-- Uses stored on web page `apple-app-site-association file` (contains bundle id and stuff) for [[iOS]]
+- Uses stored on web page `apple-app-site-association file` (contains bundle id and stuff) for [iOS](iOS.md)
 - Do not open browser
 - Can work with any platfrom if configured propertly
 - Can do stuff if app is not installed

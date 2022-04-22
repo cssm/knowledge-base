@@ -1,1 +1,1 @@
-> **Portable Operating System Interface** - family of standarts that all UNIX systems (e.g [[macOS]]) support. For example `pipe` is a piece of POSIX
+> **Portable Operating System Interface** - family of standarts that all UNIX systems (e.g [macOS](macOS.md)) support. For example `pipe` is a piece of POSIX

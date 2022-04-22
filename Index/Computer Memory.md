@@ -4,13 +4,13 @@
 
 **Each byte of memory is associated with address of 8 byte size in virtual space (in case of 64 bit system)**
 
-![[Computer Memory/Address.png]]
+![](Computer%20Memory/Address.png)
 
 Pointer is pointing to a first byte of memory block and general length of type is counting by first address + sizeof(type)
 
 **THAT MEANS THAT ADDRESS IS TAKE 8 BYTES TO BE STORED BUT NOT MEANS THAT DIFFERENCE BETWEEN VALUES IT’S STORED (ACTUAL ADDRESS REPRESENTATION) WILL BE 8 BYTES TOO. This is because pointer size is not connected to actual data it refers too and for example if we have an array of int32 values than if we get addresses of each element of array they difference will be equal to 4 bytes (32 bit), but if we’ll get sizeof() pointer to that items it will be 8 bytes.**
 
-**[[32bit system vs 64bit system: 32bit is system where maximum memory address size is 4 bytes, 64bits - 8 bytes]]**
+**[32bit system vs 64bit system: 32bit is system where maximum memory address size is 4 bytes, 64bits - 8 bytes](32bit%20system%20vs%2064bit%20system:%2032bit%20is%20system%20where%20maximum%20memory%20address%20size%20is%204%20bytes,%2064bits%20-%208%20bytes)**
 
 **[Word - 8 bytes]([https://medium.com/swlh/unsafe-swift-a-road-to-memory-15e7d7e701f9](https://medium.com/swlh/unsafe-swift-a-road-to-memory-15e7d7e701f9))**
 
@@ -33,19 +33,19 @@ So type is aligned if:
 - Type is 4 bytes (**machine word** on 32-bit system) the it allows to be stored at addresses that are **divisible by 4**
 - Type is 8 bytes (**double machine word** on 32-bit system) the it allows to be stored at addresses that are **divisible by 8**
 
-**Better example of this in [[Swift memory layout]]**
+**Better example of this in [Swift memory layout](Swift%20memory%20layout)**
 
 **[Swift memory layout]**
 
 **[https://stevenpcurtis.medium.com/memorylayout-in-swift-c4e70bb32e3f](https://stevenpcurtis.medium.com/memorylayout-in-swift-c4e70bb32e3f)**
 
-![[all_memory.png]]
+![](all_memory.png)
 
 **Size**: It is the number of bytes required for that type in memory (padding included).
 
 **Alignment**: size of the memory chunk so data type was read efficiently (equals to the largest basic type size stored in that type).
 
-Always start at even addresses of memory [[part abount mapping]]
+Always start at even addresses of memory [part abount mapping](part%20abount%20mapping)
 
 ```swift
 public func printMemoryLayoutInfo<T>(_ item: T.Type) {
@@ -96,7 +96,7 @@ print(MemoryLayout<Example>.stride)    // 16
 print(MemoryLayout<Example>.alignment) // 8
 ```
 
-![[Computer Memory/All_memory.png]]
+![](Computer%20Memory/All_memory.png)
 
 ```swift
 struct Example {
@@ -109,7 +109,7 @@ print(MemoryLayout<Example>.stride)    // 16
 print(MemoryLayout<Example>.alignment) // 8
 ```
 
-![[Computer Memory/16_bytes_stride_(8x2).png]]
+![](Computer%20Memory/16_bytes_stride_(8x2).png)
 
 **Reference types**
 
@@ -146,13 +146,13 @@ print(class_getInstanceSize(Example.self)) // 32 (16 + 16)
 
 ## Memory Layout
 
-Each process has 4 gb (in case of 32bit systems) of virtual addresses in [[virtual address space]]
+Each process has 4 gb (in case of 32bit systems) of virtual addresses in [virtual address space](virtual%20address%20space)
 
-[[Computer Memory/16_bytes_stride_(8x2) 1.png]]
+[Computer Memory/16_bytes_stride_(8x2) 1.png](Computer%20Memory/16_bytes_stride_(8x2)%201.png)
 
 [https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/)
 
-The stack and heap are traditionally located at opposite ends of the process's virtual address space. [[Stack Hardware]]
+The stack and heap are traditionally located at opposite ends of the process's virtual address space. [Stack Hardware](Stack%20Hardware)
 
 Kernel space
 
@@ -172,8 +172,8 @@ User space is separated onto **segments**
     - Machine code of program located here
     
 
-[[Виртуальная память]]
+[Виртуальная память](Виртуальная%20память)
 
-Виртуальная память aka Memory Swap - расширение адресного пространства RAM за счет использования жесткого диска (те делаем вид что оперативной памяти больше чем на самом деле). [[Memory address resolving]]
+Виртуальная память aka Memory Swap - расширение адресного пространства RAM за счет использования жесткого диска (те делаем вид что оперативной памяти больше чем на самом деле). [Memory address resolving](Memory%20address%20resolving)
 
-![[Computer Memory/OS_Kernel_Space.png]]
+![](Computer%20Memory/OS_Kernel_Space.png)

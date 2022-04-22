@@ -15,4 +15,4 @@ struct ContentView: View {
   }
 }
 ```
-![[Pasted image 20211204173702.png]]
+![](Pasted%20image%2020211204173702.png)

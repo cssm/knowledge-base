@@ -2,7 +2,7 @@
 
 ## Parallel in script
 
-Programs can not be canceled correctly so consider run something [[#Parallel in terminal]]
+Programs can not be canceled correctly so consider run something [Parallel in terminal](#Parallel%20in%20terminal)
 
 ```bash
 some_command &

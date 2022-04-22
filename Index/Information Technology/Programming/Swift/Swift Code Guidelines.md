@@ -4,7 +4,7 @@
 
 ## General
 
-Most of guidelines is provided by using personal [[swiftlint]]  and `swift-format` configuration
+Most of guidelines is provided by using personal [swiftlint](swiftlint.md)  and `swift-format` configuration
 
 Tab is 2 spaces
 
@@ -22,7 +22,7 @@ if stuff { doStuff() }
 
 ## Naming
 
-### [[Swift Enums]]
+### [Swift Enums](Swift%20Enums.md)
 
 If enum is used for namespacing - use plural name e.g.
 

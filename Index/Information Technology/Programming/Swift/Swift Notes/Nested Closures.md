@@ -1,4 +1,4 @@
-# Nested [[Swift Closures]]
+# Nested [Swift Closures](Swift%20Closures.md)
 
 ```swift
 class ViewControllerB: UIViewController {

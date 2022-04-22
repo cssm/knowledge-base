@@ -13,7 +13,7 @@ extension CustomError: LocalizedError {
 print(CustomError().localizedDescription) // lel
 ```
 
-## `try` with Optionals in [[Swift]] 5
+## `try` with Optionals in [Swift](Swift.md) 5
 
 ```swift
 func foo() throws -> Int { 0 }

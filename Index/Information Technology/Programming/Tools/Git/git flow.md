@@ -1,18 +1,18 @@
 # git flow
 
-![[git flow/feature.png]]
+![](git%20flow/feature.png)
 
 Two main branches **master** and **develop**
 
 **feature, release, hotfix** - after merge they can be deleted
 
-![[git flow/Develop.png]]
+![](git%20flow/Develop.png)
 
 **feature** branches creates from **develop** and merged to **develop**
 
 You can delete **feature** after merge into **develop**
 
-![[git flow/Develop 1.png]]
+![](git%20flow/Develop%201.png)
 
 **release** branches create from **develop** and merged to **develop** and **master**
 
@@ -26,7 +26,7 @@ It’s important to merge back into **develop** because critical updates may hav
 
 **release** branches should be marked with version i.e **release-0.1.0**
 
-![[git flow/Release.png]]
+![](git%20flow/Release.png)
 
 If there are issue in the **master** than **hotfix** is created based on **master** and merged to **master** and **develop** (when a **release** branch currently exists, the **hotfix** changes need to be merged into that **release** branch, instead of **develop**)
 
@@ -34,4 +34,4 @@ If there are issue in the **master** than **hotfix** is created based on **maste
 
 **hotfix** is used to fix critical bugs in **master**
 
-![[git flow/Release 1.png]]
+![](git%20flow/Release%201.png)

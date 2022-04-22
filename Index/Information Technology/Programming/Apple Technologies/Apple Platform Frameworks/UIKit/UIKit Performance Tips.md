@@ -19,6 +19,6 @@ Because if thread pool is empty GCD will create new threads and this operations 
 
 ## Don’t use **DispatchQueue.global()** because it’s QoS is not obvious
 
-![[UIKit Performance Tips/The_concurrent_queues_you_get_from_dispatch_get_global_queue_are_bad_at_forwarding_QoS_information.png]]
+![](UIKit%20Performance%20Tips/The_concurrent_queues_you_get_from_dispatch_get_global_queue_are_bad_at_forwarding_QoS_information.png)
 
 So if it’s possible you should create internal serial queues with meaningful names

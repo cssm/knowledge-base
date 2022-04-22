@@ -1,8 +1,8 @@
 ## General
 
-**Can be used on any system that supports [[Swift]] **
+**Can be used on any system that supports [Swift](Swift.md) **
 
-- we can use different sources of output ([[Pipes]], files, Slack, etc.)
+- we can use different sources of output ([Pipes](Pipes.md), files, Slack, etc.)
 - we can create our custom log output sources be conforming to `LogHandler` protocol
 
 ## Resources

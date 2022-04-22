@@ -1,8 +1,8 @@
 **Monad** - something that have two operations: operation on turning pure type into monad and operation of sequencing monad's
 
-![[Functional Programming (FP)/Screenshot_2021-02-28_at_18.52.42.png]]
+![](Screenshot_2021-02-28_at_18.52.42.png)
 
-Maybe monad in [[Swift]] is [[Optionals]] 
+Maybe monad in [Swift](Swift.md) is [Optionals](Optionals.md) 
 
 ```swift
 let a: Int? = 3 // return operation Int -> Optional<Int>

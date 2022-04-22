@@ -15,7 +15,7 @@
 - [Objc id, instancetype](Objc%20id,%20instancetype.md)
 - [Objc Methods](Objc%20Methods.md)
 - **Nullability**
-	- Elvis operator `?:` is used instead of [[Swift]] nil coalescing operator `??` 
+	- Elvis operator `?:` is used instead of [Swift](Swift.md) nil coalescing operator `??` 
 - [Objc Objects](Objc%20Objects.md)
 - [Objc Properties](Objc%20Properties.md)
 - [Objc Protocols](Objc%20Protocols.md)

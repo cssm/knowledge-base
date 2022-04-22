@@ -9,13 +9,13 @@
 
 ## Flow of tokens
 
-![[Petri Nets/Screen_Shot_2020-11-03_at_01.41.41.png]]
+![](Petri%20Nets/Screen_Shot_2020-11-03_at_01.41.41.png)
 
 ## Input and Output matrixes
 
 Lets take a look on this petri net
 
-![[Petri Nets/Screen_Shot_2020-11-06_at_00.46.18.png]]
+![](Petri%20Nets/Screen_Shot_2020-11-06_at_00.46.18.png)
 
 For this net we get this output matrix (remember output is in relation to transitions i.e. output for transition)
 
@@ -32,7 +32,7 @@ $$\begin{bmatrix}
 
 or
 
-![[Petri Nets/Screen_Shot_2020-11-06_at_01.21.17.png]]
+![](Petri%20Nets/Screen_Shot_2020-11-06_at_01.21.17.png)
 
 ## Reachability graph
 
@@ -48,10 +48,10 @@ The reachability graph of a PN contains all the necessary information to decide:
     
     is the number of reachable markings bounded ?
     
-    ![[Petri Nets/Screen_Shot_2020-11-06_at_01.01.46.png]]
+    ![](Petri%20Nets/Screen_Shot_2020-11-06_at_01.01.46.png)
     
 - **Place Invarience**
     
     Is number of tokens for set of places consant?
     
-    ![[Petri Nets/Screen_Shot_2020-11-06_at_01.18.05.png]]
+    ![](Petri%20Nets/Screen_Shot_2020-11-06_at_01.18.05.png)

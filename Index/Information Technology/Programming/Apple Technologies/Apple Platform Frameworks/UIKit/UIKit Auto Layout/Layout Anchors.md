@@ -6,25 +6,25 @@ Allows us to write less code when we need to set constraints in code
 
 Constraint in code without anchors
 
-![[Layout Anchors/let_constraint__NSLayoutConstraint(.png]]
+![](Layout%20Anchors/let_constraint__NSLayoutConstraint(.png)
 
 And with
 
-![[Layout Anchors/equalTo_button.heightAnchor.png]]
+![](Layout%20Anchors/equalTo_button.heightAnchor.png)
 
 Than we need to activate an anchor
 
-![[Layout Anchors/Both_of_these_are_valid_ways_to_activate_a_constraint.png]]
+![](Layout%20Anchors/Both_of_these_are_valid_ways_to_activate_a_constraint.png)
 
 Each anchor can only form a constraint with an anchor of the same axis
 
 ## Example of using anchors to place button and label
 
-![[Layout Anchors/let_button__UIButton().png]].png)
+![](Layout%20Anchors/let_button__UIButton().png).png)
 
 code
 
-![[Layout Anchors/SSSSSSS.png]]
+![](Layout%20Anchors/SSSSSSS.png)
 
 result
 

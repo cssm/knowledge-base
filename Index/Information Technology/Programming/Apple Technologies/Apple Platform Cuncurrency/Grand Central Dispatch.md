@@ -123,9 +123,9 @@ for _ in 0 ..< 4 {
 }
 ```
 
-![[GCD (Grand Central Dispatch)/Thread_1.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/Thread_1.png)
 
-![[GCD (Grand Central Dispatch)/Thread_2.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/Thread_2.png)
 
 `wait()` - if the value is not 0, decrement it, otherwise block until something signals the semaphore
 
@@ -136,15 +136,15 @@ for _ in 0 ..< 4 {
 `DispatchGroup.wait(timeout:)` vs `.wait(wallTimeout:)` 
 	- First one is [Monotonic Time](Monotonic%20Time.md) and second one is not
 
-![[GCD (Grand Central Dispatch)/DispatchGroup.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/DispatchGroup.png)
 
-![[GCD (Grand Central Dispatch)/DispatchGroup 1.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/DispatchGroup%201.png)
 
-![[GCD (Grand Central Dispatch)/Thread_1 1.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/Thread_1%201.png)
 
-![[GCD (Grand Central Dispatch)/Thread_2 1.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/Thread_2%201.png)
 
-![[GCD (Grand Central Dispatch)/Thread_2 2.png]]
+![](GCD%20(Grand%20Central%20Dispatch)/Thread_2%202.png)
 
 `enter()` - increments
 

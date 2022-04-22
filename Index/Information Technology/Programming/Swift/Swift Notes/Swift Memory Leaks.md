@@ -11,4 +11,4 @@ let someClosure = { [weak self] in
 }
 ```
 
-![[when_weak_self.png]]
+![](when_weak_self.png)

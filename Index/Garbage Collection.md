@@ -1,4 +1,4 @@
 - **Notes**
-	- [[Swift Garbage Collection]]
+	- [Swift Garbage Collection](Swift%20Garbage%20Collection.md)
 - **Links**
 	- [A Unified Theory of Garbage Collection](https://courses.cs.washington.edu/courses/cse590p/05au/p50-bacon.pdf)

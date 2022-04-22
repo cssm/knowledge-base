@@ -4,7 +4,7 @@
 
 > It's more easy to layout elements in scrollview if they're in another view and this view in scrollView
 
-![[UIScrollView/Screen_Shot_2020-08-30_at_21.22.20.png]]
+![](UIScrollView/Screen_Shot_2020-08-30_at_21.22.20.png)
 
 `restorationIdentifier` - a thing to save some scroll view properties after application reload
 
@@ -14,11 +14,11 @@ To zoom we need to implement `viewForZoomingInScrollView` method
 
 `contentInset` - its a margins from `scrollView` to it's inner view
 
-![[UIScrollView/scrollView.contentInset__VIdgeIn.png]]
+![](UIScrollView/scrollView.contentInset__VIdgeIn.png)
 
-![[UIScrollView/_1_cW_-_I_1_.png]]
+![](UIScrollView/_1_cW_-_I_1_.png)
 
-![[UIScrollView/scrollView._bounces__true.png]]
+![](UIScrollView/scrollView._bounces__true.png)
 
 ## Delegates
 

@@ -1,5 +1,5 @@
 - **Notes**
 	- If `vc` name and `.xib` file name is the same -> we can create controller like this `VC()`
 	- Should look like this
-		- ![[Create from xib/Screen_Shot_2020-08-27_at_00.25.13.png]]
-		- ![[Create from xib/Screen_Shot_2020-08-27_at_00.25.02.png]]
+		- ![](Create%20from%20xib/Screen_Shot_2020-08-27_at_00.25.13.png)
+		- ![](Create%20from%20xib/Screen_Shot_2020-08-27_at_00.25.02.png)

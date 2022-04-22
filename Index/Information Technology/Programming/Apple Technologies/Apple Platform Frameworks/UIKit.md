@@ -1,6 +1,6 @@
 > [iOS](iOS.md) UI framework
 
-> BitMap - raw pixel data to display ([[UIImage]] translates compressed [[PNG]], [[JPEG]] etc to bitmap, and do it on main thread)
+> BitMap - raw pixel data to display ([UIImage](UIImage) translates compressed [PNG](PNG), [JPEG](JPEG) etc to bitmap, and do it on main thread)
 
 > `Offscreen rendering (pass)` - when iOS render server need to create separate place to determinate how to render something (for example to determinate how to render shadow) and then copy it.
 

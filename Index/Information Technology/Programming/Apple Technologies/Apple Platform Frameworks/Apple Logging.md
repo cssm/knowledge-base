@@ -1,4 +1,4 @@
-> If app is running we can see logs in [[Xcode]]  console
+> If app is running we can see logs in [Xcode](Xcode.md)  console
 
 > Logging is more efficient then `print` because no strings are created (? if message is not dispalyed ?). Its generates compile optimized string representation (`OSLogMessage` type) using type of logged item
 

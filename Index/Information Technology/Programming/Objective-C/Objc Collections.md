@@ -25,7 +25,7 @@ Similar to ***NSSet*** but like ***NSPointerArray*** or ***NSMapTable***  ******
 
 ## Collections copy
 
-![[Collections/Types_of_Copies.png]]
+![](Collections/Types_of_Copies.png)
 
 Collections-1
 
@@ -41,13 +41,13 @@ In case of nested arrays deep copy won’t work
 
 For real deep copy use next approach
 
-![[Collections/Deep_Copy.png]]
+![](Collections/Deep_Copy.png)
 
 Collections-2
 
 Example of when deep copy not working
 
-![[Collections/NSArray_array____string.png]]
+![](Collections/NSArray_array____string.png)
 
 Collections-3
 
@@ -66,4 +66,4 @@ Generics in objc is lightweight (that means that we can get only warning from co
 
 Collections-4
 
-![[Collections/NSArrayNSString__arr__L_Hi_Hello_1.png]]
+![](Collections/NSArrayNSString__arr__L_Hi_Hello_1.png)

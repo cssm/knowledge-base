@@ -16,10 +16,10 @@ Parallelism requires that at least two processes/tasks are actively being perfor
 
 Here’s a diagram to put it all together. The white terms represent concepts, and the green terms represent ways in which they are implemented or effected:
 
-![[Concurrency VS Parallelism/Concurrency.png]]
+![](Concurrency%20VS%20Parallelism/Concurrency.png)
 
-![[Concurrency VS Parallelism/Thread_-1.png]]
+![](Concurrency%20VS%20Parallelism/Thread_-1.png)
 
-![[Concurrency VS Parallelism/Synchronous.png]]
+![](Concurrency%20VS%20Parallelism/Synchronous.png)
 
-![[Concurrency VS Parallelism/Asynchronous.png]]
+![](Concurrency%20VS%20Parallelism/Asynchronous.png)

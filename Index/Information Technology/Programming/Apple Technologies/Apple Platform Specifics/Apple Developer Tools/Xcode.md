@@ -15,9 +15,9 @@
 	- *Editor Configuration *
 		- Show invisible (like tabs, spaces, new lines etc.)
 			- `Editor -> Invisibles` 
-	- *Fixing Known Issues on [[M1]]*
+	- *Fixing Known Issues on [M1](M1.md)*
 		- First option
-			- turn on rosetta use for [[Xcode]]  (find app in finder -> get info -> turn on)
+			- turn on rosetta use for [Xcode](Xcode.md)  (find app in finder -> get info -> turn on)
 			- in .xcproj file Build Settings -> Architectures-> Architectures specify **armv7, armv7s, arm64, arm64e, x86_64 (commas need to be there)**
 			- Build active architecture only set to NO
 		- Or

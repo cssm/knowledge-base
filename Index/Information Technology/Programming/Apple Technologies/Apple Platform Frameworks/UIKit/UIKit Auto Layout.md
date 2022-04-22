@@ -12,7 +12,7 @@
 
 ## Constraints
 
-![[UIKit Auto Layout/RedView._Leading.png]]
+![](UIKit%20Auto%20Layout/RedView._Leading.png)
 
 Minimum 2 constraints on each dimension
 
@@ -46,7 +46,7 @@ Because of it we do not need to set all constraint. Regularly we can just set co
 
 ## Compression resistance and content hugging
 
-![[UIKit Auto Layout/Untitled.png]]
+![](UIKit%20Auto%20Layout/Untitled.png)
 
 The first constraint (with the >= sign) is called **compression resistance** because it says that the view’s width should not be smaller than its intrinsic content width.
 

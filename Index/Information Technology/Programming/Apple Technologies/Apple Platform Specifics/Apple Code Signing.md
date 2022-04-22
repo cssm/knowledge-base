@@ -41,7 +41,7 @@
 
 > A team provisioning profile is downloaded from your developer account and embedded in the app bundle, and the entire bundle is code-signed.
 
-![[Apple Code signing/Team_Provisioning_Profile.png]]
+![](Apple%20Code%20signing/Team_Provisioning_Profile.png)
 
 Dev provision profile - will run with dev certificates included in this profile
 
@@ -53,7 +53,7 @@ Ad-Hoc profile - only for specified set of device IDs
 
 If all the above steps are successful the **signed binary is sent** to the device and is **validated** against the **same provisioning profile** in the app and finally **launched**.
 
-![[Apple Code signing/1YqhNRf3-OE5DZ5j_yyYeog.png]]
+![](Apple%20Code%20signing/1YqhNRf3-OE5DZ5j_yyYeog.png)
 
 1. **Xcode** will be installed and the **Intermediate Certificate** will be pushed into the Keychain
 2. **Certificate Signing Request (CSR)** will be created.

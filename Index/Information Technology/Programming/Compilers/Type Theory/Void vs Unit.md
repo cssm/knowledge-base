@@ -1,6 +1,6 @@
 # Void vs Unit
 
-Most languages even if they call they type `void` it still acts like and `unit` type (e.g [[Swift]], and [other](https://en.wikipedia.org/wiki/Unit_type)). True `void` exists only in [[C++]], `C`, `C#` and `D`
+Most languages even if they call they type `void` it still acts like and `unit` type (e.g [Swift](Swift.md), and [other](https://en.wikipedia.org/wiki/Unit_type)). True `void` exists only in [C++](C++.md), `C`, `C#` and `D`
 
 - `void` can't be used as function argument
     

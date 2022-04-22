@@ -1,4 +1,4 @@
-![[GCD vs Operations/CpaBHeHne_GCD_Onepaunn.png]]
+![](GCD%20vs%20Operations/CpaBHeHne_GCD_Onepaunn.png)
 
 - Операции позволяют отменить выполнение в любой момент. В GCD это можно сделать с помощью DispatchWorkItem, только если задача не была поставлена на выполнение.
 - Операции имею модель зависимостей

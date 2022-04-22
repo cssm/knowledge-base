@@ -1,1 +1,1 @@
-![[MVVM/Data_and_user.png]]
+![](MVVM/Data_and_user.png)

@@ -6,7 +6,7 @@
 
 **Refresh token**  - used to get new access token (gained for one sign in session i.e. if expiers we need to re-sign in)
 
-### JWT ([[JSON]] Web Token)
+### JWT ([JSON](JSON.md) Web Token)
 
 `base64url` encoded token with **header**, **payload** and **signature**
 

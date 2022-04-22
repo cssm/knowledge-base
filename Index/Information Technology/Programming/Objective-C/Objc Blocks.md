@@ -70,14 +70,14 @@ Global and static variables not capturing as ***const*** so no need in ***__bloc
 
 Problem
 
-![[Blocks/property(nonatomic_copy)_int_(myBlock)(int).png]]_int_(myBlock)(int).png)
+![](Blocks/property(nonatomic_copy)_int_(myBlock)(int).png)_int_(myBlock)(int).png)
 
 To solve it we can use: - ***__weak ***to make a weak reference and capture it*** (this only for ARC) ***-*** __strong ***to make a strong ref in block
 
-![[Blocks/Make_weakify_using___weak_modifier.png]]
+![](Blocks/Make_weakify_using___weak_modifier.png)
 
-![[Blocks/Make_weakify_using__weak_modifier.png]]
+![](Blocks/Make_weakify_using__weak_modifier.png)
 
 `__block` makes reference weak in MRC
 
-![[Blocks/Make_weakify_using____block_modifier.png]]
+![](Blocks/Make_weakify_using____block_modifier.png)

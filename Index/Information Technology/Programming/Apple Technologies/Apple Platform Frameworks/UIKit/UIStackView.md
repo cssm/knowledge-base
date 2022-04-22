@@ -12,15 +12,15 @@ The horizontal stack view has **.top** instead of .**leading** and has **.bottom
 
 ### Vertical axis
 
-![[UIStackView/Screen_Shot_2020-09-19_at_14.29.33.png]]
+![](UIStackView/Screen_Shot_2020-09-19_at_14.29.33.png)
 
 ### Horizontal axis
 
-![[UIStackView/Screen_Shot_2020-09-19_at_14.29.09.png]]
+![](UIStackView/Screen_Shot_2020-09-19_at_14.29.09.png)
 
 ## Distribution
 
-![[UIStackView/Screen_Shot_2020-09-19_at_14.31.21.png]]
+![](UIStackView/Screen_Shot_2020-09-19_at_14.31.21.png)
 
 ## Code snippets
 

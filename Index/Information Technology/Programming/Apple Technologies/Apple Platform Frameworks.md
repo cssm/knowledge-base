@@ -1,4 +1,4 @@
-> ***Framework*** - a package that can contain resources such as [[Dynamic Library]] 's, [[Static Library]]'s, strings, headers, images, storyboards etc. In `iOS` dynamic libraries linked using [[Text based dynamic libraries]]
+> ***Framework*** - a package that can contain resources such as [Dynamic Library](Dynamic%20Library.md) 's, [Static Library](Static%20Library.md)'s, strings, headers, images, storyboards etc. In `iOS` dynamic libraries linked using [Text based dynamic libraries](Text%20based%20dynamic%20libraries.md)
 
 > ***Umbrella framework*** - aggregates other frameworks
 

@@ -4,7 +4,7 @@ Two phases of initialization
 
 1. First phase
     
-    ![[Initialization/Untitled.png]]
+    ![](Initialization/Untitled.png)
     
     - calling of `designed` init or `convenience`
     - initializing `self` properties with values
@@ -12,7 +12,7 @@ Two phases of initialization
     - do it for all inheritance chain
 2. Second phase
     
-    ![[Initialization/Untitled 1.png]]
+    ![](Initialization/Untitled%201.png)
     
     - From top of inheritance chain configure inherited properties
 

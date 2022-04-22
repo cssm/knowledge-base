@@ -1,6 +1,6 @@
 # iOS App Structure
 
-![[iOS App Structure/Untitled.png]]
+![](iOS%20App%20Structure/Untitled.png)
 
 Everything is in a ‣ 
 
@@ -15,10 +15,10 @@ Everything is in a ‣
                 - `Entitlements` - push notifications, icloud storage and etc. permissions for app
             - App's binary
             
-            ![[iOS App Structure/Untitled 1.png]]
+            ![](iOS%20App%20Structure/Untitled%201.png)
             
-            ![[iOS App Structure/Untitled 2.png]]
+            ![](iOS%20App%20Structure/Untitled%202.png)
             
-            ![[iOS App Structure/Untitled 3.png]]
+            ![](iOS%20App%20Structure/Untitled%203.png)
             
-            ![[iOS App Structure/Untitled 4.png]]
+            ![](iOS%20App%20Structure/Untitled%204.png)

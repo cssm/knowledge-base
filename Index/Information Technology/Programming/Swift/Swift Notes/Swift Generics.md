@@ -5,7 +5,7 @@
 			- Uses `Value Witness Table (VWT)` to extract this metadata
 				- Generated at compile time for all types and contains all info about type needed for run time
 			- If type constraints is used ( `func test<T: Equatable>(_ element: T)`) also `Protocol Witness Table (PWT)` is passed
-		- Compile time way ([[Generics Specialisation in Swift]])
+		- Compile time way ([Generics Specialisation in Swift](Generics%20Specialisation%20in%20Swift.md))
 	- `func get<T: Equatable>() -> T {}` == `func get<T>() -> T where T: Equatable {}`
 - **Links**
 	- [Swift under the hood: Generic implementation](https://habr.com/ru/post/451704/)

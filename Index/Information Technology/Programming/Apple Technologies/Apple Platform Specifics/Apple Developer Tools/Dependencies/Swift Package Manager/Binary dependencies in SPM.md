@@ -47,7 +47,7 @@ xcodebuild -create-xcframework -framework YandexMapsMobile_sim/YandexMap
 
 
 
-> binary frameworks cannot depend on [[Swift Package Manager]]
+> binary frameworks cannot depend on [Swift Package Manager](Swift%20Package%20Manager.md)
 
 ```swift
 xcrun lipo -i Carthage/Build/iOS/Foo.framework/Foo

@@ -4,4 +4,4 @@
 
 **`+ (int)someInt**// class method`
 
-![[Methods/method_type.png]]
+![](Methods/method_type.png)

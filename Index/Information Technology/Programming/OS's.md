@@ -1,5 +1,5 @@
 - [Time On Computers](Time%20On%20Computers.md)
-- [[Videos on Computers]]
+- [Videos on Computers](Videos%20on%20Computers.md)
 - [Операционные системы](Операционные%20системы.md)
 	- [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 	- [Processes](Processes.md)

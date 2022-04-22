@@ -13,9 +13,9 @@
 `Non-nominal` types:
 
 - Function types: `(Int) -> Void`
-- [[Tuples]] : `(Int, Int)`
+- [Tuples](Tuples.md) : `(Int, Int)`
 - Metatypes: `String.Type` i.e. `String.self`
-- [Existential [[Existential]] : e.g. `CustomStringConvertible & Error`
+- [Existential](Existential.md) : e.g. `CustomStringConvertible & Error`
 
 `Non-nominal` types **can't:**
 
@@ -32,10 +32,10 @@ For example in this case:
 extension CustomStringConvertible {}
 ```
 
-we thread `CustomStringConvertible` as [[Swift Protocols]] but in this case:
+we thread `CustomStringConvertible` as [Swift Protocols](Swift%20Protocols.md) but in this case:
 
 ```swift
 let a: CustomStringConvertible
 ```
 
-constant `a` here is an [Existential [[Existential]] not a [[Swift Protocols]]
+constant `a` here is an [Existential [Existential](Existential.md) not a [Swift Protocols](Swift%20Protocols.md)
