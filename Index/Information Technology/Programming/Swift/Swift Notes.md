@@ -43,7 +43,7 @@
 - [Nested Closures](Nested%20Closures.md)
 - [@dynamicCallable](@dynamicCallable.md)
 - [Property Wrappers](Property%20Wrappers.md)
-- [When weak self](When%20weak%20self.md)
+- [Swift Memory Leaks](Swift%20Memory%20Leaks.md)
 - [RxSwift](RxSwift.md)
 - [Pattern matching on custom type](Pattern%20matching%20on%20custom%20type.md)
 - [Memory layout in Swift](Memory%20layout%20in%20Swift.md)

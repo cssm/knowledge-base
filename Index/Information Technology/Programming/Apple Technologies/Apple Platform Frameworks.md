@@ -5,7 +5,8 @@
 Framework generally contains different architectures in a single binary file. Which is called Fat / Universal binary.
 However in XCFramework we have different binary files for different architecture.
 
-- [[CoreML]]
+- [AVFoundation](AVFoundation)
+- [CoreML](CoreML.md)
 - [MetricKit](MetricKit.md)
 - [CoreText](CoreText.md)
 - [Apple Foundation](Apple%20Foundation.md)

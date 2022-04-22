@@ -1,43 +1,16 @@
-# URLSession
-
-we can user `URLSessionDelegate` to handle redirects on some `URLSession` task
-
-## Basics
-
-`waitsForConnectivity = true` - if connection will lost request will resented after connection will established once again
-
-```swift
-// Task creation
-let task = URLSession.shared.dataTask(with: url) { data, response, error in
-		print("DONE")
-		DispatchQueue.main.async { [weak self] in
-				self?.label.text = "ok"
-		}
-}
-
-task.resume() // start task executing
-```
-
-```swift
-// Error handling
-if let response = response as? HTTPURLRespons {
-		switch response.statusCode {
-		case 200..<300:
-				break
-		default:
-				print(response.statusCode)
-		}
-}
-```
-
-## URLSessionDelegate
-
-```swift
-public func urlSession(
-		_ session: URLSession,
-		task: URLSessionTask,
-		willPerformHTTPRedirection response: HTTPURLResponse,
-		newRequest request: URLRequest,
-		completionHandler: @escaping (URLRequest?) -> Void
-) {}
-```
+- **Links**
+	- [Technical Q&A QA1941: Handling “The network connection was lost” Errors](https://developer.apple.com/library/archive/qa/qa1941/_index.html#//apple_ref/doc/uid/DTS40017602)
+	- [URLSession Tutorial: Getting Started | raywenderlich.com](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started#toc-anchor-009)
+	- [Resumable Downloads | kean.blog](https://kean.blog/post/resumable-downloads)
+- **Notes**
+	- `waitsForConnectivity = true` - if connection will lost request will resented after connection will established once again
+	- we can user `URLSessionDelegate` to handle redirects on some `URLSession` task
+		```swift
+		public func urlSession(
+				_ session: URLSession,
+				task: URLSessionTask,
+				willPerformHTTPRedirection response: HTTPURLResponse,
+				newRequest request: URLRequest,
+				completionHandler: @escaping (URLRequest?) -> Void
+		) {}
+		```

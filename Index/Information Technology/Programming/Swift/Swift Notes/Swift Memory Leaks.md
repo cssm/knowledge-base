@@ -1,5 +1,3 @@
-# When [weak self]
-
 ```swift
 // in ViewController
 let someClosure = { 
