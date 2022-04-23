@@ -4,4 +4,4 @@
 - **Notes**
 	- Use `snake_case` for methods, namespaces, variables
 	- Use `CamelCase`  for types (enums cases incuded)
-	- ![](Pasted%20image%2020211207171904.png)
+	- ![](media/Pasted%20image%2020211207171904.png)

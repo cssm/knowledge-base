@@ -6,10 +6,10 @@
 
 $$[3*2] * [2*4] = [3*4] ([N*M] * [M*K] = [N*K])$$
 
-![](matrix_dot.png)
+![](Matrixes/matrix_dot.png)
 
 ## **Транспонирование**
 
 1 row becomes 1 column
 
-![](matrix_t.jpeg)
+![](Matrixes/matrix_t.jpeg)
