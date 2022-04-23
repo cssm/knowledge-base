@@ -1,5 +1,9 @@
 > Homebrew
 
+- **Notes**
+	- 
+- **Links**
+	- [Homebrew Shell Completion — Homebrew Documentation](https://docs.brew.sh/Shell-Completion)
 - *[Docker](Docker.md)*
 	- [Homebrew, but with Docker images](https://github.com/whalebrew/whalebrew)
 - *Snippets*

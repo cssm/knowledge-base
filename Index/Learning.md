@@ -3,6 +3,7 @@
 	- [Knowledge Bases](Knowledge%20Bases.md)
 	- [Blogs](Learning/Blogs.md)
 	- [Task Management](Learning/Task%20Management.md)
+	- [Learn In Public](Learn%20In%20Public.md)
 - **Links**
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
 	- [Explained from First Principles](https://explained-from-first-principles.com/)

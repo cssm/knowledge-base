@@ -1,3 +1,4 @@
-# Linked List
-
-[Finding Cycle](Linked%20List/Finding%20Cycle.md)
+- **Notes**
+	- [Finding Cycle](Linked%20List/Finding%20Cycle.md)
+- **Links**
+	- [A Production Unsafe Deque - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/sixth.html)
