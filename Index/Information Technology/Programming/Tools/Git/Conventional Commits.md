@@ -15,13 +15,15 @@ Tell your users that you use the Conventional Commits specification
         - How does it differ from the previous implementation?
     - Use present tense for commits (i.e. use “change” instead of “changed” or “changes”)
     - Use this naming convention **“TAG: message”**
-        - **INIT:**
+        - `init:`
             - Initial commit for project
-        - **FEAT:**
+        - `feat:`
             - Some new feature implemented
-        - **FIX:**
+        - `fix:`
             - Fixed some previous issue
-        - **REFACTOR:**
+        - `refactor:`
             - Changes that doesn’t affect functionality
-        - **DOCS:**
+        - `docs:`
             - When working with documentation e.g. README
+        - `chore:`
+			- dependencies update or other maintainence stuff
