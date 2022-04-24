@@ -1,6 +1,6 @@
 # 🧠 My Knowledge Base
 
-[![My Twitter](https://img.shields.io/badge/My%20Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=twitter)](https://twitter.com/japanese_goblin) [![My Telegram Channel](https://img.shields.io/badge/My Telegram Channel-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=telegram)](https://t.me/japanese_goblinn_mind)
+[![My Twitter](https://img.shields.io/badge/Follow%20Me-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=twitter)](https://twitter.com/japanese_goblin)  [![My Telegram Channel](https://img.shields.io/badge/Blog-0a0a0a.svg?style=flat&colorA=0a0a0a&logo=telegram)](https://t.me/japanese_goblinn_mind)
 
 Hi everyone! This is my knowledge base. It's a collection of almost **everything I know**. I started writing these notes in 2018 and continue to improve them almost every day. 
 
