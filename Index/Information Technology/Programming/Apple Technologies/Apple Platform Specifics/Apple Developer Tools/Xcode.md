@@ -1,4 +1,5 @@
 - **Notes**
+	- [Tuist](Tuist.md)
 	- [Xcode Appereance](Xcode%20Appereance.md)
 	- [Xcode Custom Behaviours](Xcode%20Custom%20Behaviours.md)
 	- [Xcode Build System](Xcode/Xcode%20Build%20System.md)
@@ -25,7 +26,6 @@
 			- Build active architecture only set to YES
 - **Links**
 	- [Customizing the file header comment and other text macros in Xcode 9 – Ole Begemann](https://oleb.net/blog/2017/07/xcode-9-text-macros)
-	- [tuist/tuist: 🚀 Create, maintain, and interact with Xcode projects at scale](https://github.com/tuist/tuist)
 	- [yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project](https://github.com/yonaskolb/XcodeGen)
 	- [Xcode Documentation Syntax](https://sarunw.com/posts/swift-documentation/)
 	- [cntrump/xcode-github-theme: Ported version of github-vscode-theme](https://github.com/cntrump/xcode-github-theme)

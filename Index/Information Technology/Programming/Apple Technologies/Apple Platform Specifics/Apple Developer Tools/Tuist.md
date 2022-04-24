@@ -1,0 +1,5 @@
+- **Notes**
+	- 
+- **Links**
+	- [tuist/tuist: 🚀 Create, maintain, and interact with Xcode projects at scale](https://github.com/tuist/tuist)
+	- [Tuist: Xcode-проект на стероидах / Хабр](https://habr.com/ru/company/hh/blog/564988/)

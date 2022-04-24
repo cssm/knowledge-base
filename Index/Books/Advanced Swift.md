@@ -8,5 +8,5 @@
 	var b = a // no content copy
 	b.append(4) // content copied to b
 
-	fun a() rethrows - indicated that functions rethrows all exeptions that may happend in it to the caller
+	fun a() rethrows // indicated that functions rethrows all exeptions that may happend in it to the caller
 	```
