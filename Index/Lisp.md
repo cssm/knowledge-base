@@ -1,3 +1,3 @@
 - **Notes**
-	- [Clojure](Clojure.md)
+	- [Clojure](Information%20Technology/Programming/Clojure.md)
 	- In Lisp, (+) evaluates to 0 and (*) evaluates to 1. This is consistent with the math convention that an empty sum is 0 and an empty product is 1. [source](https://twitter.com/compscifact/status/1454095884602548226?s=21)

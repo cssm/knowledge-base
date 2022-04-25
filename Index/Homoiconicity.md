@@ -1,6 +1,6 @@
 - **Notes**
 	- a.k.a *code as data*
-- *[Clojure](Clojure.md)*
+- *[Clojure](Information%20Technology/Programming/Clojure.md)*
 	- A good example of homoiconic language
 		```clojure
 		; call a function (code)
