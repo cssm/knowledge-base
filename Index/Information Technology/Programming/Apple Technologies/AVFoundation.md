@@ -1,13 +1,14 @@
-- **Notes**
-	- 
 - **Links**
-	- [Selecting Subtitles and Alternative Audio Tracks | Apple Developer Documentation](https://developer.apple.com/documentation/avfoundation/media_playback_and_selection/selecting_subtitles_and_alternative_audio_tracks)
-	- [Building native video Pins | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/building-native-video-pins-7ff89ad3ec33)
-	- [How to set up video streaming in your app with AVPlayer | by Payal Gupta | We’ve moved to freeCodeCamp.org/news | Medium](https://medium.com/free-code-camp/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
-	- [ios - Customizing subtitles with AVPlayer - Stack Overflow](https://stackoverflow.com/questions/18113659/customizing-subtitles-with-avplayer)
-	- [Exploring AVFoundation](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/MediaPlaybackGuide/Contents/Resources/en.lproj/ExploringAVFoundation/ExploringAVFoundation.html)
-	- [neekeetab/CachingPlayerItem: Play and cache media content simultaneously on your iOS device](https://github.com/neekeetab/CachingPlayerItem)
-	- [AVFoundation Introduction to AVPlayerLayer | by Yevhenii Peteliev 🇺🇦 | Prototypr](https://blog.prototypr.io/avfoundation-introduction-to-avplayerlayer-5ac63bb0aec0)
-		- `AVPlayerLayer properties`
-			- `isReadyForDisplay: Bool`: a value that indicates whether the first video frame has been made ready to display.
-	- [Jared Sinclair | Implementing AVAssetResourceLoaderDelegate: a How-To Guide](https://jaredsinclair.com/2016/09/03/implementing-avassetresourceload.html)
+	- *Audio*
+		- [Correctly playing audio in iOS applications - Igor Kulman](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
+	- *Video*
+		- [Selecting Subtitles and Alternative Audio Tracks | Apple Developer Documentation](https://developer.apple.com/documentation/avfoundation/media_playback_and_selection/selecting_subtitles_and_alternative_audio_tracks)
+		- [Building native video Pins | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/building-native-video-pins-7ff89ad3ec33)
+		- [How to set up video streaming in your app with AVPlayer | by Payal Gupta | We’ve moved to freeCodeCamp.org/news | Medium](https://medium.com/free-code-camp/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
+		- [ios - Customizing subtitles with AVPlayer - Stack Overflow](https://stackoverflow.com/questions/18113659/customizing-subtitles-with-avplayer)
+		- [Exploring AVFoundation](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/MediaPlaybackGuide/Contents/Resources/en.lproj/ExploringAVFoundation/ExploringAVFoundation.html)
+		- [neekeetab/CachingPlayerItem: Play and cache media content simultaneously on your iOS device](https://github.com/neekeetab/CachingPlayerItem)
+		- [AVFoundation Introduction to AVPlayerLayer | by Yevhenii Peteliev 🇺🇦 | Prototypr](https://blog.prototypr.io/avfoundation-introduction-to-avplayerlayer-5ac63bb0aec0)
+			- `AVPlayerLayer properties`
+				- `isReadyForDisplay: Bool`: a value that indicates whether the first video frame has been made ready to display.
+		- [Jared Sinclair | Implementing AVAssetResourceLoaderDelegate: a How-To Guide](https://jaredsinclair.com/2016/09/03/implementing-avassetresourceload.html)

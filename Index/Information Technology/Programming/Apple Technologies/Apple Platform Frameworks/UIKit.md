@@ -4,7 +4,6 @@
 
 > `Offscreen rendering (pass)` - when iOS render server need to create separate place to determinate how to render something (for example to determinate how to render shadow) and then copy it.
 
-- [krzysztofzablocki/Inject. Hot Reload for UIKit applications](https://github.com/krzysztofzablocki/Inject)
 - [About the UI Restoration Process | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/view_controllers/preserving_your_app_s_ui_across_launches/about_the_ui_restoration_process)
 - [Development with Mike Nachbaur | UIMotionEffect: Easily adding depth to your UI](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [TN3105: Customizing the UIKit status bar style | Apple Developer Documentation](https://developer.apple.com/documentation/technotes/tn3105-customizing-uistatusbar-syle)
@@ -24,6 +23,7 @@
 	- [kean/Nuke: Image loading system](https://github.com/kean/Nuke)
 	- [kean/NukeUI: Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit](https://github.com/kean/NukeUI)
 - **Notes**
+	- [Hot Reloading UIKit Applications](Hot%20Reloading%20UIKit%20Applications.md)
 	- [tintColor](UIKit/tintColor.md)
 	- [UIKit Performance Tips](UIKit/UIKit%20Performance%20Tips.md)
 	- [UIKit updates in iOS 15](UIKit/UIKit%20updates%20in%20iOS%2015.md)
