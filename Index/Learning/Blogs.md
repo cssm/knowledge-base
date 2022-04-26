@@ -1,4 +1,5 @@
 - *[Programming](../Information%20Technology/Programming.md)*
+	- [(21) Chris Kanich - YouTube](https://www.youtube.com/c/ChrisKanich/videos)
 	- [The If Works – The If Works](https://blog.jcoglan.com/)
 	- [Bruno Rocha](https://rockbruno.com/)
 	- [Cool videos about CS related concepts and programming in general](https://www.youtube.com/user/briantwill)
