@@ -1,6 +1,6 @@
 > [iOS](../Apple%20Platform%20Specifics/iOS.md) UI framework
 
-> BitMap - raw pixel data to display (`UIImage` translates compressed `PNG`, `JPEG` etc to bitmap, and do it on main thread)
+> BitMap - raw pixel data to display ([UIImage](UIImage.md) translates compressed `PNG`, `JPEG` etc to bitmap, and do it on main thread)
 
 > `Offscreen rendering (pass)` - when iOS render server need to create separate place to determinate how to render something (for example to determinate how to render shadow) and then copy it.
 
@@ -23,6 +23,7 @@
 	- [kean/Nuke: Image loading system](https://github.com/kean/Nuke)
 	- [kean/NukeUI: Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit](https://github.com/kean/NukeUI)
 - **Notes**
+	- [UIImage](UIImage.md)
 	- [Hot Reloading UIKit Applications](Hot%20Reloading%20UIKit%20Applications.md)
 	- [tintColor](UIKit/tintColor.md)
 	- [UIKit Performance Tips](UIKit/UIKit%20Performance%20Tips.md)

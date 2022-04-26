@@ -2,6 +2,7 @@
 	- *Audio*
 		- [Correctly playing audio in iOS applications - Igor Kulman](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
 	- *Video*
+		- [AVPlayer Notes](https://www.craft.do/s/MufKJHAFJDgN9T)
 		- [Selecting Subtitles and Alternative Audio Tracks | Apple Developer Documentation](https://developer.apple.com/documentation/avfoundation/media_playback_and_selection/selecting_subtitles_and_alternative_audio_tracks)
 		- [Building native video Pins | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/building-native-video-pins-7ff89ad3ec33)
 		- [How to set up video streaming in your app with AVPlayer | by Payal Gupta | We’ve moved to freeCodeCamp.org/news | Medium](https://medium.com/free-code-camp/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)

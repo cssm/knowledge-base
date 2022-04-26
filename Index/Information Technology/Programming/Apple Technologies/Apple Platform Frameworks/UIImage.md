@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [How to resize an UIImageView to fit a container view using auto layout | Sarunw](https://sarunw.com/posts/how-to-resize-uiimageview-to-fit-container-view-using-auto-layout/#solution)
