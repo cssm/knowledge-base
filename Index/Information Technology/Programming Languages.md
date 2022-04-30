@@ -16,4 +16,3 @@
 - **Links**
 	- [thesephist/oak: An expressive, simple, dynamic programming language.](https://github.com/thesephist/oak)
 	- [janet-lang/janet: A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
-	- 

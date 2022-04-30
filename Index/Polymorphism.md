@@ -1,0 +1,5 @@
+- **Notes**
+	- Operators overloading or [Ad hoc polymorphism](https://en.m.wikipedia.org/wiki/Ad_hoc_polymorphism)
+	- Parametric polymorphism or generic functions
+- **Links**
+	- 

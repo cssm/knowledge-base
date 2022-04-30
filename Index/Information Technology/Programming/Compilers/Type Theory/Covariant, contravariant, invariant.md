@@ -1,4 +1,17 @@
-# Covariant, contravariant, invariant
+- **Notes**
+	- in [Swift](Swift.md)
+		- Swift’s **built-in generic types are covariant**, which allows generic types to be sub-types of other generics. 
+		- Generics are invariant for our custom types. This means that even if a generic type wraps a subtype, it doesn’t make it a subtype of a generic wrapping its super-type.
+			```swift
+			class A {}
+			class B: A {}
+			struct Wrap<T> { let item: T }
+
+			var arr: Array<A> = Array<B>()
+			let i: Wrap<A> = Wrap<B>(item: .init()) // error
+			```
+- **Links**
+	- 
 
 If A and B are types, f is a type transformation, and ≤ the subtype relation (i.e. A ≤ B means that A is a subtype of B), we have
 

@@ -1,3 +1,5 @@
+- **Links**
+	- [Graphical depiction of ownership and borrowing in Rust - Rufflewind's Scratchpad](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 - **Notes**
 	- [Rust Borrowing](Rust%20Borrowing.md)
 	- It's a type of memory management like garbage collection or manual memory management

@@ -2,5 +2,5 @@
 	- 
 - **Links**
 	- [Figma — новый индустриальный стандарт? (Обзор программы) - YouTube](https://www.youtube.com/watch?v=5HKP_318fQM)
-	- *[iOS](iOS.md)*
+	- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
 		- [RedMadRobot/figma-export: Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project](https://github.com/RedMadRobot/figma-export)

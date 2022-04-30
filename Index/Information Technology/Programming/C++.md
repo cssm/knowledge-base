@@ -14,6 +14,7 @@
 	- [std vector](C++/C++%20Notes/std%20vector.md)
 	- [std optional](C++/C++%20Notes/std%20optional.md)
 - **Links**
+	- [practicode-org/practice-cpp: Practice C++ by solving well-prepared exercises on different topics](https://github.com/practicode-org/practice-cpp)
 	- [C++ vtables - Part 1 - Basics | Shahar Mike's Web Spot](https://shaharmike.com/cpp/vtable-part1/)
 	- [Guide to undefined behavior](https://github.com/Nekrolm/ubbook)
 	- [Obscure C++ Features](http://madebyevan.com/obscure-cpp-features/)

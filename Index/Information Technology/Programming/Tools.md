@@ -3,17 +3,17 @@
 	- [Maps](Maps.md)
 	- [Text Editors](Text%20Editors.md)
 	- [Package Managers](Package%20Managers.md)
-	- [Hints for writing UNIX tools](Hints%20for%20writing%20UNIX%20tools.md)
 	- [Manage Dependencies](Manage%20Dependencies.md)
 	- [Writing Grammar](Writing%20Grammar.md)
+	- *[Design](../../Design.md)*
+		- [Figma](Figma.md)
 - **Links**
 	- [Syncthing. Sync files between computers](https://syncthing.net)
 	- [everestpipkin/tools-list: Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list#Coding)
 	- [Draw Unicode symbol and recognize it](http://shapecatcher.com/)
 	- [Create beautiful images of your code](https://ray.so/)
 	- [Code to monotone image](https://code-to-image.vercel.app/)
-- *[Design](../../Design.md)*
-	- [Figma](Figma.md)
+	- [Valgrind. Tool to find memory leaks in C & C++ code](https://valgrind.org/docs/manual/quick-start.html)
 - *[Web Servers](Web%20Servers.md)*
 	- [inconshreveable/ngrok: I want to expose a local server behind a NAT or firewall to the internet.](https://github.com/inconshreveable/ngrok)
 	- [localhost.run. Alternative to ngrok, no install needed, only ssh](http://localhost.run/)

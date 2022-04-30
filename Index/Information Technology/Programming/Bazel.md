@@ -1,0 +1,1 @@
+- [Building iOS apps faster using Bazel | by Anurag Ajwani | Apr, 2022 | Better Programming](https://betterprogramming.pub/building-ios-apps-faster-using-bazel-b960f6788fab)

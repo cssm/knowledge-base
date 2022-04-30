@@ -1,0 +1,3 @@
+- One of the pedagogy “frameworks” called *SQ3R*.
+- *SQ3R*: survey, question, read, recite and review.
+- You open a book’s chapter, observe (survey) the whole chapter before starting reading the text. Due observing it some things will be outlined to you and you’re going to start asking “what is X about?” Then you start reading and due read the chapter you start to find the answers on your own questions

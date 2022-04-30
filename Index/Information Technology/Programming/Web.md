@@ -4,6 +4,8 @@
 	- [JavaScript](JavaScript.md)
 	- [Web Servers](Web%20Servers.md)
 	- [Storing data in Web](Storing%20data%20in%20Web.md)
+	- [Web Hooks](Web%20Hooks.md)
+	- [Web Socktes](Web%20Socktes.md)
 - **Links**
 	- [Дока](https://doka.guide/)
 	- [Interneting Is Hard](https://www.internetingishard.com/)

@@ -1,4 +1,5 @@
 - **Notes**
+	- [How to learn & recall what you read in the book?](How%20to%20learn%20&%20recall%20what%20you%20read%20in%20the%20book?.md)
 	- [Advanced Swift](Books/Advanced%20Swift.md)
 	- [Чистый код](Books/Чистый%20код.md)
 	- [Адская Неделя](Books/Адская%20Неделя.md)
