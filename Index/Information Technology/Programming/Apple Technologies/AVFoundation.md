@@ -1,7 +1,14 @@
+- **Notes**
+	- We can use `AVPlayer` to stream audio & video
+	- Use `AVAudioPlayer` only for local files
+	- We can use [AVPlayerLooper](https://developer.apple.com/documentation/avfoundation/avplayerlooper#) to 🔁  loop asset play without doing it manually
+	- [AudioFileStreamOpen](https://developer.apple.com/documentation/audiotoolbox/1391498-audiofilestreamopen) is Apple [recommendation](https://developer.apple.com/library/archive/qa/qa1634/_index.html) for audio streaming
 - **Links**
 	- *Audio*
+		- [Play Audio and Video Using AVFoundation Framework in Swift](http://www.theappguruz.com/blog/play-audio-and-video-using-avfoundation-framework-in-swift)
 		- [Correctly playing audio in iOS applications - Igor Kulman](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
 	- *Video*
+		- [AVFoundation Overview - Apple Developer](https://developer.apple.com/av-foundation/)
 		- [AVPlayer Notes](https://www.craft.do/s/MufKJHAFJDgN9T)
 		- [Selecting Subtitles and Alternative Audio Tracks | Apple Developer Documentation](https://developer.apple.com/documentation/avfoundation/media_playback_and_selection/selecting_subtitles_and_alternative_audio_tracks)
 		- [Building native video Pins | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/building-native-video-pins-7ff89ad3ec33)

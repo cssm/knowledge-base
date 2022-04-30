@@ -2,4 +2,5 @@
 	- 
 - **Links**
 	- [krzysztofzablocki/Inject. Hot Reload for UIKit applications](https://github.com/krzysztofzablocki/Inject)
+	- [johnno1962/InjectionIII: Re-write of Injection for Xcode in (mostly) Swift](https://github.com/johnno1962/InjectionIII)
 	- [Hot reloading for iOS and macOS Xcode Projects | Dario Roa](https://darioroa.com/posts/hot-reloading-xcode-projects/)
