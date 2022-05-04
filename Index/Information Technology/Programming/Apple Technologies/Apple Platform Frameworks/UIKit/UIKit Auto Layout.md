@@ -68,7 +68,7 @@ override func layoutSubviews() {
 }
 ```
 
-`setNeedsLayout()` **** - marks layout as invalid. Update view layout (and all subviews) on the next update cycle
+`setNeedsLayout()` - marks layout as invalid. Update view layout (and all subviews) on the next update cycle
 
 `layoutIfNeeded()` - recalculate layout of views that was invalidated with `setNeedsLayout()`
 

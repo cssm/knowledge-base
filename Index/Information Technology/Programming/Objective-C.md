@@ -1,6 +1,7 @@
 > We should always call `mutableCopy` because returning mutable pointer ≠ pointer of mutable type
 
 - **Links**
+	- [mikeash.com: Friday Q&A 2009-03-13: Intro to the Objective-C Runtime](https://www.mikeash.com/pyblog/friday-qa-2009-03-13-intro-to-the-objective-c-runtime.html)
 	- [What is a meta-class in Objective-C?](https://www.cocoawithlove.com/2010/01/what-is-meta-class-in-objective-c.html)
 	- [raywenderlich/objective-c-style-guide: A style guide that outlines the coding conventions for raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
 - **Notes**

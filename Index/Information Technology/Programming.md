@@ -9,7 +9,7 @@
 	- [Open Source](../Open%20Source.md)
 	- [Programming Languages](Programming%20Languages.md)
 	- [Function parameter vs argument](Function%20parameter%20vs%20argument.md)
-	- [Linting](Linting.md)
+	- [Linters](Linters.md)
 	- [Testing](Testing.md)
 	- [Benchmarking](Benchmarking.md)
 	- [Errors Reporting](Errors%20Reporting.md)

@@ -1,4 +1,5 @@
 - **Links**
+	- [Kat's Mastodon Quickstart for Twitter Users - DEV Community](https://dev.to/zkat/kat-s-mastodon-quickstart-for-twitter-users-39db)
 	- [Giving social networking back to you - Mastodon](https://joinmastodon.org/)
 	- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE)
 	- [mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)

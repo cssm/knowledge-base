@@ -1,12 +1,8 @@
-# Layout Anchors
-
-[Snap Kit. More Beautiful DSL](http://snapkit.io/docs/)
-
 Allows us to write less code when we need to set constraints in code
 
 Constraint in code without anchors
 
-![](Layout%20Anchors/let_constraint__NSLayoutConstraint(.png)
+![](Layout%20Anchors/let_constraint__NSLayoutConstraint.png)
 
 And with
 

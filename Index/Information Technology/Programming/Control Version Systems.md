@@ -1,0 +1,4 @@
+- **Notes**
+	- [git](Tools/git.md)
+- **Links**
+	- [sturdy-dev/sturdy: 🐥 Sturdy is an open-source, real-time, version control platform for startups (https://getsturdy.com)](https://github.com/sturdy-dev/sturdy)

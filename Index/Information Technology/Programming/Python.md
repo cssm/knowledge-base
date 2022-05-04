@@ -11,6 +11,7 @@
 	- [[Python] Decorators](Python/Python%20Notes/Python%20Decorators.md)
 	- [[Python] Virtual Environment](Python/Python%20Notes/Python%20Virtual%20Environment.md)
 - **Links**
+	- [Caching slow functions in Python](https://antonz.org/functools-cache/)
 	- [ZeroIntensity/pointers.py: Bringing the hell of pointers to Python.](https://github.com/ZeroIntensity/pointers.py)
 	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 	- [📓 wdesert's awesome resources](https://www.notion.so/wdesert/wdesert-s-awesome-resources-d88ee314c2ac4cbcbf0960f41d2c3bba)

@@ -1,4 +1,5 @@
 - **Notes**
+	- [NSAttributedString](NSAttributedString.md)
 	- We can add image to text by using `NSTextAttachment`
 		```swift
 		 guard let arrowImage = UIImage(systemName: .arrowDown) else { return }

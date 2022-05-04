@@ -1,5 +1,5 @@
 - **Notes**
-	- [Polymorphism](Polymorphism)
+	- [Polymorphism](Polymorphism.md)
 	- [Homoiconicity](Homoiconicity.md)
 	- [Compilers](Information%20Technology/Programming/Compilers.md)
 	- [Type Theory](Information%20Technology/Programming/Compilers/Type%20Theory.md)

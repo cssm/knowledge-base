@@ -1,0 +1,4 @@
+- **Notes**
+	- 
+- **Links**
+	- [AttributedString’s Codable format and what it has to do with Unicode – Ole Begemann](https://oleb.net/2022/attributedstring-codable/)

@@ -1,5 +1,5 @@
 - **Notes**
-	- in [Swift](Swift.md)
+	- in [Swift](../../Swift.md)
 		- Swift’s **built-in generic types are covariant**, which allows generic types to be sub-types of other generics. 
 		- Generics are invariant for our custom types. This means that even if a generic type wraps a subtype, it doesn’t make it a subtype of a generic wrapping its super-type.
 			```swift

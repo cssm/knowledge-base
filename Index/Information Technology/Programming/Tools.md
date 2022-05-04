@@ -1,4 +1,5 @@
 - **Notes**
+	- [Control Version Systems](Control%20Version%20Systems.md)
 	- [TLDR](Tools/TLDR.md)
 	- [Maps](Maps.md)
 	- [Text Editors](Text%20Editors.md)
@@ -14,9 +15,6 @@
 	- [Create beautiful images of your code](https://ray.so/)
 	- [Code to monotone image](https://code-to-image.vercel.app/)
 	- [Valgrind. Tool to find memory leaks in C & C++ code](https://valgrind.org/docs/manual/quick-start.html)
-- *[Web Servers](Web%20Servers.md)*
-	- [inconshreveable/ngrok: I want to expose a local server behind a NAT or firewall to the internet.](https://github.com/inconshreveable/ngrok)
-	- [localhost.run. Alternative to ngrok, no install needed, only ssh](http://localhost.run/)
 - *[git](Tools/git.md)*
 	- [lazygit](Tools/lazygit.md)
 	- [Commitlint/Commitizen Online - lint commit messages online](https://commitlint.io/)
@@ -24,6 +22,9 @@
 	- [wfxr/forgit: A utility tool powered by fzf for using git interactively.](https://github.com/wfxr/forgit)
 	- [chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
 	- [tkellogg/dura: You shouldn't ever lose your work if you're using Git](https://github.com/tkellogg/dura)
+- *[Web Servers](Web%20Servers.md)*
+	- [inconshreveable/ngrok: I want to expose a local server behind a NAT or firewall to the internet.](https://github.com/inconshreveable/ngrok)
+	- [localhost.run. Alternative to ngrok, no install needed, only ssh](http://localhost.run/)
 - *[CLI](Shell/CLI.md)*
 	- [Docker](Tools/Docker.md)
 	- [fzf](Tools/fzf.md)
@@ -32,6 +33,7 @@
 	- [chubin/wttr.in: The right way to check the weather](https://github.com/chubin/wttr.in)
 	- [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 	- [watchexec/watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
+	- [eradman/entr: Run arbitrary commands when files change](https://github.com/eradman/entr)
 - *[VSCode](Tools/VSCode.md)*
 	- [hediet/vscode-drawio: This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.](https://github.com/hediet/vscode-drawio)
 - *[HTTP](../Internet/HTTP.md)*

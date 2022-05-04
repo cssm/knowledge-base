@@ -25,6 +25,7 @@
 			- turn on rosetta use for Xcode (find app in finder -> get info -> turn on)
 			- Build active architecture only set to YES
 - **Links**
+	- [QMUI/LookinServer: Free macOS app for iOS view debugging.](https://github.com/QMUI/LookinServer)
 	- [Customizing the file header comment and other text macros in Xcode 9 – Ole Begemann](https://oleb.net/blog/2017/07/xcode-9-text-macros)
 	- [yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project](https://github.com/yonaskolb/XcodeGen)
 	- [Xcode Documentation Syntax](https://sarunw.com/posts/swift-documentation/)
