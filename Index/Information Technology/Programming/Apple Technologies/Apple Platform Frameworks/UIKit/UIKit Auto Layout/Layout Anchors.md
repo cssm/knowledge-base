@@ -1,3 +1,15 @@
+- **Notes**
+	- *Update constraint constant*
+	```swift
+		private lazy var contentStackViewConstraint = contentStackView.topAnchor
+			.constraint(equalTo: imageView.bottomAnchor)
+		// ...
+		contentStackViewConstraint.constant = imageView.image == nil ? 24 : 16
+		contentStackView.setNeedsUpdateConstraints()
+	```
+- **Links**
+	- 
+
 Allows us to write less code when we need to set constraints in code
 
 Constraint in code without anchors
