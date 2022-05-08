@@ -32,6 +32,7 @@
 	- [KittyKatt/screenFetch: Fetches system/theme information in terminal for Linux desktop screenshots.](https://github.com/KittyKatt/screenFetch) 
 	- [chubin/wttr.in: The right way to check the weather](https://github.com/chubin/wttr.in)
 	- [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+	- [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 	- [watchexec/watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 	- [eradman/entr: Run arbitrary commands when files change](https://github.com/eradman/entr)
 - *[VSCode](Tools/VSCode.md)*

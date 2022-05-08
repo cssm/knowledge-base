@@ -2,6 +2,8 @@
 	- *Game-design*
 		- *Internal reward* - win a boss
 		- *External reward* - get new loot
+	- *[Math](Math.md)*
+		- [Случайные блуждания и цепи Маркова в геймдизайне / Хабр](https://habr.com/ru/company/mygames/blog/664392/)
 - **Links**
 	- [Useful functions for game development - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/usefulfunctions.html)
 	- [Channel about game-dev in C++](https://youtube.com/c/MollyRocket)

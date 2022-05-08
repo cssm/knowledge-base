@@ -1,4 +1,7 @@
 > [`NSLock` the best choice for locking in Swift](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057)
+
+> [Acquiring an uncontended `os_unfair_lock` is just doing an atomic compare and swap of the current thread id with the lock int, and then checking if it failed due to being nonzero before. Releasing it is similar](https://twitter.com/Catfish_Man/status/1523337550076604417)
+
 - **Notes**
 	- [Swift Concurrency](../Swift/Swift%20Notes/Swift%20Concurrency.md)
 	- [Grand Central Dispatch](Apple%20Platform%20Cuncurrency/Grand%20Central%20Dispatch.md)
