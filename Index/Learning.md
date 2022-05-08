@@ -5,6 +5,8 @@
 	- [Task Management](Learning/Task%20Management.md)
 	- [Learn In Public](Learning/Learn%20In%20Public.md)
 - **Links**
+	- [Learn Anything](https://learn-anything.xyz/)
+	- [Elicit | The AI Papers Research Assistan](https://elicit.org/search)
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
 	- [Explained from First Principles](https://explained-from-first-principles.com/)
 	- [Algorithm Archive · Arcane Algorithm Archive](https://www.algorithm-archive.org/)

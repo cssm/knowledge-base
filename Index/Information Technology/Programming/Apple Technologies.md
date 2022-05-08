@@ -2,8 +2,8 @@
 	- [Screen Sizes](https://www.screensizes.app/?model=iphone-13)
 	- [Reducing Your App’s Launch Time | Apple Developer Documentation](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time)
 	- [All - Downloads - Apple Developer](https://developer.apple.com/download/all/)
-	- [QMUI/LookinServer: Free macOS app for iOS view debugging.](https://github.com/QMUI/LookinServer)
 - **Notes**
+	- [Apple Platform Working With Text](Apple%20Platform%20Working%20With%20Text.md)
 	- [WWDC](WWDC.md)
 	- [UserDefaults](UserDefaults.md)
 	- [NSNotification](NSNotification.md)

@@ -1,0 +1,7 @@
+- **Notes**
+	- [SwiftUI Text](SwiftUI%20Text.md)
+	- [UILabel](UILabel.md)
+	- [CoreText](CoreText.md)
+- **Links**
+	- [simonbs/Runestone: 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.](https://github.com/simonbs/Runestone)
+	- [twostraws/Sourceful: A syntax highlighting source editor for iOS and macOS using UITextView and NSTextView.](https://github.com/twostraws/Sourceful)

@@ -49,8 +49,6 @@
 	- [Upload an image to turn into emoji mosaic](http://ericandrewlewis.github.io/emoji-mosaic/)
 - *[Math](../../Math.md)*
 	- [Mathpix Snip Notes](https://mathpix.com/)
-- *[Learning](../../Learning.md)*
-	- [Learn Anything](https://learn-anything.xyz/)
 - *Prototyping*
 	- [Cool open source drawing in browser](https://www.tldraw.com/)
 	- [Hand drawn like diagrams](https://excalidraw.com/)

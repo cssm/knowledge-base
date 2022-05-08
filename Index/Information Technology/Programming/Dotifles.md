@@ -7,6 +7,7 @@
 	- [nikitavoloboev/dotfiles: Zsh, Karabiner, VS Code, Sublime, Neovim, Nix](https://github.com/nikitavoloboev/dotfiles)
 	- [Managing Your Dotfiles](https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
 	- [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io)
+	- [chezmoi - Manage your dotfiles across multiple diverse machines, securely.](https://www.chezmoi.io)
 - *Prompts*
 	- [sindresorhus/pure: Pretty, minimal and fast ZSH prompt](https://github.com/sindresorhus/pure)
 	- [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)

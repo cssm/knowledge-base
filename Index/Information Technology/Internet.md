@@ -1,3 +1,6 @@
+- **Links**
+	- [Подробный курс про Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
+	- [Why isn't the internet more fun and weird?](https://jarredsumner.com/codeblog/)
 - **Notes**
 	- [VPN](VPN.md)
 	- [Social Networks](Social%20Networks.md)
@@ -21,5 +24,3 @@
 	- [BGB](BGB.md)
 	- [ASN](ASN.md)
 	- [Port Forwarding](Port%20Forwarding.md)
-- **Links**
-	- [Why isn't the internet more fun and weird?](https://jarredsumner.com/codeblog/)

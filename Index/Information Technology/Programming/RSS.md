@@ -1,2 +1,5 @@
-- *[macOS](OS's/macOS.md) && [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
-	- [Ranchero-Software/NetNewsWire: RSS reader for macOS and iOS.](https://github.com/Ranchero-Software/NetNewsWire)
+- **Notes**
+	- *[macOS](OS's/macOS.md) && [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
+		- [Ranchero-Software/NetNewsWire: RSS reader for macOS and iOS.](https://github.com/Ranchero-Software/NetNewsWire)
+- **Links**
+	- [RSSHub. Open Source Tool to add anything as RSS](https://docs.rsshub.app/en/)

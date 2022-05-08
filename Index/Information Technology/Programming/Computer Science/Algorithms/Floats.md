@@ -1,6 +1,5 @@
-# Float Values
-
 - **Links**
+	- [Exposing Floating Point – Bartosz Ciechanowski](https://ciechanow.ski/exposing-floating-point/)
 	- [Comparing Floating-Point Numbers Is Tricky](https://bitbashing.io/comparing-floats.html)
 	- [Float Toy](http://evanw.github.io/float-toy/)
 	- [floating point](https://wizardzines.com/comics/floating-point/)
