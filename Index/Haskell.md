@@ -4,7 +4,7 @@
 	- [Documentation](https://www.haskell.org/documentation/)
 	- [Functional Programming & Haskell - Computerphile - YouTube](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 	- [Chapters - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-	- *[Type Theory](Type%20Theory.md)*
+	- *[Type Theory](Information%20Technology/Programming/Compilers/Type%20Theory.md)*
 		- [Typing Haskell in Haskell.pdf](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
-	- *[Lambda Calculus](Lambda%20Calculus.md)*
+	- *[Lambda Calculus](Math/Lambda%20Calculus.md)*
 		- [LambdaPi.pdf](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf)

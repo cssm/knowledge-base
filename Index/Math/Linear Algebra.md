@@ -2,3 +2,4 @@
 	- [Matrixes](Matrixes.md)
 - **Links**
 	- [Matrix factorizations. LU decomposition, QR decomposition, Singular Value Decomposition (SVD)](https://twitter.com/TivadarDanka/status/1504751979729285122)
+	- [Много лет назад один профессор показал нам отличный метод умножения матриц](https://twitter.com/ValeriiZhyla/status/1447493685323739136)

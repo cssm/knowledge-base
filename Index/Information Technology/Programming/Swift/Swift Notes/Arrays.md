@@ -1,10 +1,8 @@
-# Arrays
-
 ## General
 
 ```swift
 let array1 = [1, 2, 3, 4]	
-let array2 = [[Int]]
+let array2 = [Int]()
 let array3 = Array<Int>()
 let array4: [Int] = []
 

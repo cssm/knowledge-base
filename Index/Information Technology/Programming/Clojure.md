@@ -1,5 +1,5 @@
 > [When you combine two pieces of data you get **data**. When you combine two machines you get **trouble**](https://www.youtube.com/watch?v=C-kF25fWTO8)
-> [OOP](OOP.md)
+> [OOP](Paradigms/OOP.md)
 
 - **Links**
 	- [Clojure - Wikipedia](https://en.wikipedia.org/wiki/Clojure)

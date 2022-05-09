@@ -1,9 +1,3 @@
-- *[git](../../Tools/git.md)*
-	- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
-	- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
-- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*
-	- [Kaleidoscope](https://kaleidoscope.app/)
-	- [japanese-goblinn/PerfectMatch: Tool to check if your files match](https://github.com/japanese-goblinn/PerfectMatch)
 - **Notes**
 	- [Karabiner](Karabiner.md)
 	- [iTerm](iTerm.md)
@@ -29,6 +23,11 @@
 	- [czarny/brisync: Control brightness of external display on macOS and OSX automatically](https://github.com/czarny/brisync)
 	- [calibre. Any e-book format converter](https://calibre-ebook.com/)
 	- [keycastr/keycastr: KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)
+	- *[git](../../Tools/git.md)*
+		- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
+		- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
+	- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*
+		- [Kaleidoscope](https://kaleidoscope.app/)
 	- *Hide items from menu bar*
 		- `$ paid` [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com)
 		- [Mortennn/Dozer: Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)

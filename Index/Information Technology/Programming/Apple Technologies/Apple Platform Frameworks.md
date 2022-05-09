@@ -2,7 +2,7 @@
 
 > ***Umbrella framework*** - aggregates other frameworks
 
-Framework generally contains different architectures in a single binary file. Which is called Fat / Universal binary.
+> Framework generally contains different architectures in a single binary file. Which is called Fat / Universal binary.
 However in XCFramework we have different binary files for different architecture.
 
 - [AVFoundation](AVFoundation.md)

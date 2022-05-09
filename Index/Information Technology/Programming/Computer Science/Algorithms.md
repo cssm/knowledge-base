@@ -2,7 +2,7 @@
 	- [Complexity](Algorithms/Complexity.md)
 	- [Quick Sort](Algorithms/Quick%20Sort.md)
 	- [Swap Two Variables With No Extra Memory](Algorithms/Swap%20Two%20Variables%20With%20No%20Extra%20Memory.md)
-	- [Floats](Floats.md)
+	- [Floats](Algorithms/Floats.md)
 	- [Fast Inverse Square Root](Algorithms/Fast%20Inverse%20Square%20Root.md)
 	- [Diffing](Algorithms/Diffing.md)
 	- [Garbage Collection](../../../Garbage%20Collection.md)

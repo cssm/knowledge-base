@@ -75,7 +75,7 @@ withExtendedLifetime(head) {
   // _withUnsafeGuaranteedRef allows the compiler to remove the ultimate
   // retain/release across the call/access.
 
-  while let xext = ref._withUnsafeGuaranteedRef { $0.next } {
+  while let next = ref._withUnsafeGuaranteedRef { $0.next } {
     ...
     ref = Unmanaged.passUnretained(Next)
   }
@@ -128,15 +128,15 @@ func kek() {
 
 ## Lifehacks
 
-Use += instead of + in reduce
+![](Writing%20High-Performance%20Swift%20Code/group(by_)_loop_with_subscript__get_set.png)
 
-![](Writing%20High-Performance%20Swift%20Code/group(by_)_loop_with_subscript__get_set.png)_loop_with_subscript__get_set.png)
+![](Writing%20High-Performance%20Swift%20Code/mutation_happens_in-place.png)
 
-Red line is exclusive access (like & param)
+> Red line is exclusive access (like & param)
 
 `yield` only can be called once (due to exclusive access to value). It's like [inout](inout.md)  returned value
 
-![](Writing%20High-Performance%20Swift%20Code/mutation_happens_in-place.png)
+> Use += instead of + in reduce
 
 ```swift
 [1, 2, 3].reduce(into: [], +) // O(n^2) - creating array on every iteration 

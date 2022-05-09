@@ -1,6 +1,7 @@
 > UI Framework to write applications for all Apple platforms, [iOS](../Apple%20Platform%20Specifics/iOS.md), [macOS](../../OS's/macOS.md), etc.
 
 - **Notes**
+	- [SwiftUI Color](SwiftUI%20Color.md)
 	- [SwiftUI Conditional Modifiers](SwiftUI/SwiftUI%20Conditional%20Modifiers.md)
 	- [SwiftUI Data State](SwiftUI/SwiftUI%20Data%20State.md)
 	- [SwiftUI Toggle layout update](SwiftUI/SwiftUI%20Toggle%20layout%20update.md)

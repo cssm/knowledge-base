@@ -1,5 +1,4 @@
 - **Notes**
-	- 
 	- [Lambda Calculus](Math/Lambda%20Calculus.md)
 	- [Mathematical Logic](Math/Mathematical%20Logic.md)
 	- [Probability Theory](Math/Probability%20Theory.md)
@@ -27,13 +26,12 @@
 	- [Pick's theorem: The wrong, amazing proof](https://www.youtube.com/watch?v=uh-yRNqLpOg)
 		- how to find area of any shape
 	- [Entropy. A thread. Twitter](https://twitter.com/TivadarDanka/status/1475456688547250176?s=20)
-
-- *Envelopes*
-	- [That weird light at the bottom of a mug](https://www.youtube.com/watch?v=fJWnA4j0_ho)
-- *Linear Algebra*
-	- [Много лет назад один профессор показал нам отличный метод умножения матриц](https://twitter.com/ValeriiZhyla/status/1447493685323739136)
-- *[Programming](Information%20Technology/Programming.md)*
-	- [A Programmer’s Introduction to Mathematics – BIT-101](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
-	- [math-as-code: a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
-- *[Swift](Information%20Technology/Programming/Swift.md)*
-	- [mattt/Euler: Swift Custom Operators for Mathematical Notation](https://github.com/mattt/Euler)
+	- *Envelopes*
+		- [That weird light at the bottom of a mug](https://www.youtube.com/watch?v=fJWnA4j0_ho)
+	- *[Programming](Information%20Technology/Programming.md)*
+		- [A Programmer’s Introduction to Mathematics – BIT-101](https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/)
+		- [math-as-code: a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
+	- *[Swift](Information%20Technology/Programming/Swift.md)*
+		- [mattt/Euler: Swift Custom Operators for Mathematical Notation](https://github.com/mattt/Euler)
+	- *[Learning](Learning.md)*
+		- [Tivadar Danka 🇺🇦 (@TivadarDanka) / Twitter](https://twitter.com/TivadarDanka)

@@ -23,6 +23,7 @@
 	- [kean/Nuke: Image loading system](https://github.com/kean/Nuke)
 	- [kean/NukeUI: Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit](https://github.com/kean/NukeUI)
 - **Notes**
+	- [UIKit Snippets](UIKit%20Snippets.md)
 	- [UIImage](UIImage.md)
 	- [Hot Reloading UIKit Applications](Hot%20Reloading%20UIKit%20Applications.md)
 	- [tintColor](UIKit/tintColor.md)

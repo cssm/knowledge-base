@@ -1,7 +1,7 @@
 - **Links**
 	- [Back to the Mac](https://backtomac.org/)
 	- [URL Schemes (Updated)](https://gist.github.com/deanlyoung/368e274945a6929e0ea77c4eca345560)
-	- [Complete list of key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
+	- [Complete list of keyboard key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 	- [wigging/swift-macos: Swift Programming for macOS](https://github.com/wigging/swift-macos)
 	- [lucasderraugh/AppleProg-Cocoa-Tutorials: Cocoa tutorials from YouTube](https://github.com/lucasderraugh/AppleProg-Cocoa-Tutorials)
 	- [hisaac/macOS-Developer-Resources: Resources useful in learning about development for native macOS apps](https://github.com/hisaac/macOS-Developer-Resources)
@@ -9,6 +9,9 @@
 	- [sparkle-project/Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
 	- [Growl:  notification system for OS X](https://growl.github.io/growl/)
 	- [Book. Helge Heß on Twitter: "Look what arrived. "Examples include ... XML-RPC, SOAP and more". There we go! https://t.co/dPwz9FWFN8" / Twitter](https://twitter.com/helje5/status/1512049038731980802)
-	- People
+	- *[Design](../../../Design.md)*
+		- [Designing macOS menu bar extras](https://bjango.com/articles/designingmenubarextras/)
+			- Apple’s HIG is great, but it doesn‘t contain much information related to designing menu bar extras. This article aims to provide additional details and context needed to create icons for macOS menu bar extras.
+	- *People*
 		- [helje5 (Helge Heß)(https://github.com/helje5)
 		- [neilsardesai (Neil Sardesai)](https://github.com/neilsardesai)
