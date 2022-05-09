@@ -29,7 +29,7 @@
 - [Swift Metatypes](Swift%20Notes/Swift%20Metatypes.md)
 - [Type-level abstraction vs value-level abstraction](Swift%20Notes/Type-level%20abstraction%20vs%20value-level%20abstraction.md)
 - [Nominal and non-nominal types](Swift%20Notes/Nominal%20and%20non-nominal%20types.md)
-- [Swfit Code Optimizations](Swift%20Notes/Swfit%20Code%20Optimizations.md)
+- [Swift Code Optimizations](Swift%20Notes/Swift%20Code%20Optimizations.md)
 - [Generics Specialisation in Swift](Swift%20Notes/Generics%20Specialisation%20in%20Swift.md)
 - [Protocol Witnesses](Swift%20Notes/Protocol%20Witnesses.md)
 - [Collections Protocol](Swift%20Notes/Collections%20Protocol.md)

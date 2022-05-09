@@ -1,5 +1,5 @@
 - **Notes**
-	- For more info  read [code optimizations note](Swfit%20Code%20Optimizations.md#Lifehacks)
+	- For more info read [in code optimizations](Swift%20Notes/Swift%20Code%20Optimizations.md#Lifehacks)
 		```swift
 		private extension CopyOnWrite {
 		  final class Ref<T> {
