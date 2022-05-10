@@ -5,6 +5,7 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- [Dato. Show different timezones in menu bar, check what time is in other timezone and more](https://sindresorhus.com/dato)
 	- [Little useful tools for macOS](https://onethingwell.org)
 	- [Quick jump between opened apps and windows](https://contexts.co/)
 	- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)

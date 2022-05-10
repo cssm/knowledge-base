@@ -1,5 +1,3 @@
-# @dynamicMemberLookup
-
 ```swift
 @dynamicMemberLookup
 struct Kek<T> {

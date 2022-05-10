@@ -1,4 +1,3 @@
-- **Notes**
-	- 
 - **Links**
+	- [How to clean the iOS app launch screen cache?](https://developerinsider.co/how-to-clean-the-ios-app-launch-screen-cache/)
 	- [TN3118: Debugging your app’s launch screen | Apple Developer Documentation](https://developer.apple.com/documentation/technotes/tn3118-debugging-your-apps-launch-screen)
