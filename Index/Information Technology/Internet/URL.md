@@ -1,3 +1,7 @@
+- **Links**
+	- [Храним состояние в URL](https://antonz.ru/urls-state-potatoes/)
+	- [URL Decode and Encode - Online](https://www.urldecoder.org/)
+	- [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
 - **Notes**
 	-  `URL` - Uniform Resource Locator
 	- basically `URL` and `URN` is a subset of `URI`
@@ -9,6 +13,3 @@
 		-`authority = [userinfo@]host[:port]`
 		- `host` - hostname (google.com) or ip address
 		- in `userinfo` we can send for example username and password (don't do it, it's not secure): `https://username:password@example.com`
-- **Links**
-	-  [URL Decode and Encode - Online](https://www.urldecoder.org/)
-	-  [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
