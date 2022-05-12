@@ -1,6 +1,4 @@
-# UILayoutGuide
-
-Defines a rectangular area (like a dummy view but not a view) 
+> Defines a rectangular area (like a dummy view but not a view) 
 
 ## Example
 
