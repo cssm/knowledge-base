@@ -1,0 +1,1 @@
+- Better `cp` with a lot of options + allows to copy files to remote
