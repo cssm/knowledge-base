@@ -1,22 +1,9 @@
-- By default created with `Mac Roman` encoding (for example`touch script.applescript`)
-
-## Functions
-
-They called `AppleScript Handlers` and starts with `to` or `on` keyword
-
-```
-on displayError()
-    display dialog "The script encountered a problem."
-end displayError
-
-to displayError()
-    display dialog "The script encountered a problem."
-end displayError
-```
-
-## Check if app is running
-
-[https://twitter.com/nebelch/status/1423740067260997635?s=12](https://twitter.com/nebelch/status/1423740067260997635?s=12)
+- **Notes**
+	- [AppleScript Functions](AppleScript%20Functions.md)
+	- By default created with `Mac Roman` encoding (for example`touch script.applescript`)
+- **Links**
+	- [Check if app is running](https://twitter.com/nebelch/status/1423740067260997635?s=12)
+	- [Commands Reference](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_cmds.html)
 
 ## Show notification
 
