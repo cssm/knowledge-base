@@ -12,6 +12,7 @@
 	- [Необходимость и достаточность](Math/Необходимость%20и%20достаточность.md)
 	- [Теория Игр](Math/Теория%20Игр.md)
 - **Links**
+	- [Coding Math | Educational videos that teach the math needed in programming](http://www.codingmath.com)
 	- [Twitter. Nice explanation of derivatives and math in general](https://twitter.com/dan_abramov/status/1439569980341821444)
 	- [Tao's Analysis. Learn how to prove in mathematical way](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
 	- [The Map of Mathematics](https://mathmap.quantamagazine.org/map/)

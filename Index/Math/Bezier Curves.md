@@ -1,6 +1,7 @@
 - **Notes**
 	- Used to describe [Animations](../Design/Animations.md)
 - **Links**
+	- [Drawing Bézier Curves – Bartosz Ciechanowski](https://ciechanow.ski/drawing-bezier-curves/)
 	- [Book. A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 	- [I've never really considered how the pen tool works. Turns out, it relies on Bezier Curves and how they work is super interesting🧵](https://twitter.com/danhollick/status/1458498461167280130?s=21)
 	- [The Beauty of Bézier Curves - YouTube](https://www.youtube.com/watch?v=aVwxzDHniEw)
