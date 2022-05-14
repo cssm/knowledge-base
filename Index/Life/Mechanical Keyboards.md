@@ -1,0 +1,12 @@
+- **Links**
+	- [(2) Keychron K6. Обзор добротной механической клавиатуры. - YouTube](https://www.youtube.com/watch?v=DY-iwkjQ2iM)
+	- [Keychron K3 Ultra-slim Wireless Mechanical Keyboard (Version 2)](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard)
+	- [(2) ОПТИЧЕСКИЙ ХОТСВАП ЛОУПРОФИЛЬ!? Keychron K3! - YouTube](https://www.youtube.com/watch?v=njX-W1Hn8GY)
+	- [дэн on Twitter: "Recommend me a nice keyboard. Requirements: - works great with a MacBook, no special USB sticks that I’ll lose - relatively quiet keys (assume multiple people working from home) - ergonomic is nice but not so much that I’d have to learn an unusual layout - doesn’t feel cheap" / Twitter](https://twitter.com/dan_abramov/status/1402048600234995713)
+	- [Christian Selig on Twitter: "One of the most satisfying parts of having a split keyboard https://t.co/C814jQVXft" / Twitter](https://twitter.com/ChristianSelig/status/1407462919034572801)
+	- [Epomaker GK96S. Хороша со всех сторон. Обзор механической клавиатуры / Хабр](https://habr.com/ru/post/563170/)
+	- [Ортолинейная сплит клавиатура — это что такое? Обзор Iris Keyboard / Хабр](https://habr.com/ru/company/dododev/blog/511664/)
+	- [iris vs corne - Пошук Google](https://www.google.com/search?q=iris+vs+corne&hl=be)
+	- [devpew/corne-keyboard-layout](https://github.com/devpew/corne-keyboard-layout)
+	- [Corne Keyboard - Пошук Google](https://www.google.com/search?rls=en&q=Corne+Keyboard&oe=UTF-8)
+	- [devpew/iris-rev4-keyboard-layout](https://github.com/devpew/iris-rev4-keyboard-layout)

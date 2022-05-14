@@ -10,6 +10,8 @@
 	- [Bash Scripts Debugging](Shell/Shell%20Notes/Bash%20Scripts%20Debugging.md)
 	- [Variables](Shell/Shell%20Notes/Variables.md)
 - **Links**
+	- [shell · knowledge](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
+	- [Bash scripting cheatsheet](https://devhints.io/bash)
 	- [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
 	- [Best Practices](https://betterprogramming.pub/best-practices-for-bash-scripts-17229889774d)
 	- [Shell Script Basics](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/shell_scripts/shell_scripts.html)

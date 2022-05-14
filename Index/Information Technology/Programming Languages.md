@@ -9,7 +9,7 @@
 	- [Lisp](../Lisp.md)
 	- [Haskell](../Haskell.md)
 	- [Java](../Java.md)
-	- [AppleScript](AppleScript.md)
+	- [AppleScript](Programming/AppleScript.md)
 	- [Elm](Elm.md)
 	- [Elixir](Elixir.md)
 	- [Lua](Lua.md)

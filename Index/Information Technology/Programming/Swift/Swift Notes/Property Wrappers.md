@@ -1,5 +1,3 @@
-# Property Wrappers
-
 ## General
 
 Often we need to code something like this

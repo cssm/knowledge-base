@@ -1,4 +1,6 @@
 - **Notes**	
+	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)
+	- [Lego](Life/Lego.md)
 	- [Life Hacks](Life/Life%20Hacks.md)
 	- [Board Games](Life/Board%20Games.md)
 	- *Карго культ* - придерживание атрибутов чего-то (богатая жизнь, зож, продуктивность и тд) но не придерживания для чего это делается и почему, те сути самого феномена

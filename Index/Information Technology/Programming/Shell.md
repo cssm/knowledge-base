@@ -1,18 +1,14 @@
 - **Notes**
-	- [Shell Scripting](Shell%20Scripting.md)
-	- [Shell Snippets](Shell/Shell%20Snippets.md)
-	- [Shells](Shell/Shell%20Notes/Shells.md)
-	- [Paths](Shell/Shell%20Notes/Paths.md)
-	- [Pipes](Shell/Shell%20Notes/Pipes.md)
 	- [CLI](Shell/CLI.md)
 	- [Dotifles](Dotifles.md)
+	- [Shells](Shell/Shell%20Notes/Shells.md)
+	- [Shell Scripting](Shell%20Scripting.md)
+	- [Shell Snippets](Shell/Shell%20Snippets.md)
+	- [Paths](Shell/Shell%20Notes/Paths.md)
+	- [Pipes](Shell/Shell%20Notes/Pipes.md)
 	- [Terminals](Terminals.md)
 	- [Symbolic Link](Symbolic%20Link.md)
 	- [Glob](Shell/Glob.md)
 	- *Console VS Terminal*
 		- `Terminal` - thing that runs a shell
 		- `Console` - physical terminal e.g computer with keyboard and monitor, laptop
-- **Links**
-	- [shell · knowledge](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
-	- [Bash scripting cheatsheet](https://devhints.io/bash)
-	- [xonsh/xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
