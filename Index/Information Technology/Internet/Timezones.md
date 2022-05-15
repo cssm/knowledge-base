@@ -1,6 +1,0 @@
-- *GMT*
-	- Greenwich Mean Time
-- *UTC*
-	- Coordinated Universal Time 
-	- modern version of `GMT` that uses atomic clock
-	- `2022-04-29T23:00:00Z` - `Z` here indicates that this is UTC

@@ -11,6 +11,8 @@
 	- [[Python] Decorators](Python/Python%20Notes/Python%20Decorators.md)
 	- [[Python] Virtual Environment](Python/Python%20Notes/Python%20Virtual%20Environment.md)
 - **Links**
+	- [Как изменилась стандартная библиотека Python за последние годы / Хабр](https://habr.com/ru/post/665020/)
+		- Good overview of less known Python standard library modules
 	- [Caching slow functions in Python](https://antonz.org/functools-cache/)
 	- [ZeroIntensity/pointers.py: Bringing the hell of pointers to Python.](https://github.com/ZeroIntensity/pointers.py)
 	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)

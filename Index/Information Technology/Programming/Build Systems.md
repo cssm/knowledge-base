@@ -1,9 +1,9 @@
 - **Notes**
 	- [Linkers](../../Linkers.md)
 	- [make](Tools/make.md)
+	- [Bazel](Bazel.md)
 - *[Apple Technologies](Apple%20Technologies.md)*
 	- [Xcode Build System](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode/Xcode%20Build%20System.md)
-	- [Bazel](Bazel.md)
 	- [Buck: A fast build tool](https://buck.build/)
 - *[Python](Python.md)*
 	- [Python as a build tool](https://tonsky.me/blog/python-build/)

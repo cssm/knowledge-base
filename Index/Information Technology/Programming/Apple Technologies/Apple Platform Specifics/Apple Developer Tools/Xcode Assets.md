@@ -1,0 +1,5 @@
+- **Notes**
+	- Prefer `SVG` instead of `PDF`
+	- If your assets don't use `Preserve Vector Data` (only needed for runtime scale), you can use SVG format for any platform (otherwise only `iOS 13+ etc.` .
+- **Links**
+	- [SVG image assets supported in Xcode 12 | Sarunw](https://sarunw.com/posts/svg-image-assets-supported-in-xcode12/)

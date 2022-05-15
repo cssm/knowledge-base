@@ -9,6 +9,7 @@
 		- [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
 		- [More Efficient/Faster Average Color of Image](https://christianselig.com/2021/04/efficient-average-color/)
 - **Notes**
+	- [[Fluent Interfaces.md]]
 	- [Apple Platform Working With Text](Apple%20Platform%20Working%20With%20Text.md)
 	- [WWDC](WWDC.md)
 	- [UserDefaults](UserDefaults.md)

@@ -20,7 +20,7 @@
 	- [Authentication vs Authorization](Internet/Authentication%20vs%20Authorization.md)
 	- [SSL Pining](Internet/SSL%20Pining.md)
 	- [URL](Internet/URL.md)
-	- [Timezones](Internet/Timezones.md)
+	- [Timezones & Dates](Internet/Timezones%20&%20Dates.md)
 	- [BGB](BGB.md)
 	- [ASN](ASN.md)
 	- [Port Forwarding](Port%20Forwarding.md)

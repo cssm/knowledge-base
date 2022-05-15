@@ -1,4 +1,5 @@
 - **Notes**
+	- [Discord](Discord.md)
 	- [Telegram](Apps/Telegram.md)
 	- [Slack](Slack.md)
 - **Links**

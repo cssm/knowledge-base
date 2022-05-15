@@ -2,8 +2,12 @@
 	- [Sublime Text](Tools/Sublime%20Text.md)
 	- [VSCode](Tools/VSCode.md)
 	- [Vim](Tools/Vim.md)
+	- [Emacs](Emacs.md)
 - **Links**
-	- [EditorConfig](https://editorconfig.org/)
-- *[CLI](Shell/CLI.md)*
-	- [zyedidia/micro: A modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro)
+	- [tree-sitter/tree-sitter: An incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
+		- good library to implement syntax highlighting in your app
+	- [EditorConfig](https://editorconfig.org/)	
+		- Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs
+	- *[CLI](Shell/CLI.md)*
+		- [zyedidia/micro: A modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro)
 
