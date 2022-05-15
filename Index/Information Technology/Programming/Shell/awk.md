@@ -1,4 +1,4 @@
-> [Programming Language](Programming%20Languages.md) to work with text
+> [Programming Language](../../Programming%20Languages.md) to work with text
 
 - **Links**
 	- [awk Man Page - macOS - SS64.com](https://ss64.com/osx/awk.html)

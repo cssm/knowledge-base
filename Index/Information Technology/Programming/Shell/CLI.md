@@ -1,9 +1,10 @@
 > Command Line Interface
 
 - **Notes**
-	- [env](env)
-	- [awk](awk)
-	- [sed](sed)
+	- [[osascript.md]]
+	- [env](env.md)
+	- [awk](awk.md)
+	- [sed](sed.md)
 	- [man](man.md)
 	- [rsync](rsync.md)
 	- [open](open.md)

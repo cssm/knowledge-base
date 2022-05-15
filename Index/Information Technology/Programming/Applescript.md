@@ -1,12 +1,7 @@
 - **Notes**
+	- [Call AppleScript from CLI](Shell/osascript.md)
 	- [AppleScript Functions](AppleScript%20Functions.md)
 	- By default created with `Mac Roman` encoding (for example`touch script.applescript`)
 - **Links**
 	- [Check if app is running](https://twitter.com/nebelch/status/1423740067260997635?s=12)
 	- [Commands Reference](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_cmds.html)
-
-## Show notification
-
-```bash
-osascript -e "display notification \"Собираю ${PRODUCT_MODULE_NAME}\" with title \"Xcode\""
-```
