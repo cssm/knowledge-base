@@ -2,10 +2,13 @@
 	- [Navigation Bar Customisation. Part 1 - The Basics.](https://dmtopolog.com/navigation-bar-customization/)
 	- [Navigation Bar Customisation. Part 2 - UINavigationBarAppearance and proper view/model separation.](https://dmtopolog.com/navigation-bar-customisation-2/)
 	- [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uinavigationcontroller/customizing_your_app_s_navigation_bar)
-	- [How to change a back button image | Sarunw](https://sarunw.com/posts/how-to-change-back-button-image/)
 	- [How to make good looking large titles](https://twitter.com/katleta3000/status/1259400743771156480)
 	- [TN3106: Customizing the appearance of UINavigationBar | Apple Developer Documentation](https://developer.apple.com/documentation/technotes/tn3106-customizing-uinavigationbar-appearance)
 	- [Customizing Your App’s Navigation Bar | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uinavigationcontroller/customizing_your_app_s_navigation_bar)
+	- *Back Button*
+		- [How to change a back button image | Sarunw](https://sarunw.com/posts/how-to-change-back-button-image/)
+		- [How to remove back button titles | Sarunw](https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/)
+		- [A new way to manage the back button title in iOS 14 with backButtonDisplayMode | Sarunw](https://sarunw.com/posts/new-way-to-manage-back-button-title-in-ios14/)
 
 
 ## General
