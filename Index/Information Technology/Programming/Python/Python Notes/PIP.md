@@ -7,4 +7,7 @@
 
 	# install all dependencies from file in current venv
 	pip install -r requirements.txt
+	
+	# uninstall all 
+	pip freeze | xargs pip uninstall -y
 	```

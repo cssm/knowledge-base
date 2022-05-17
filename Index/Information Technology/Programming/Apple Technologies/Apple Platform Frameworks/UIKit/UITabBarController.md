@@ -1,5 +1,3 @@
-# UITabBarController
-
 ```swift
 let tabBarController = UITabBarController()
 let loginController = LoginViewController()

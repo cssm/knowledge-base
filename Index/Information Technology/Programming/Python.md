@@ -1,6 +1,6 @@
 - **Notes**
 	- [Writing Pythonic Code](Python/Writing%20Pythonic%20Code.md)
-	- [PIP](Python/Python%20Notes/PIP.md)
+	- [pip](Python/Python%20Notes/pip.md)
 	- [[Python] Jupyter Notebook](Python/Python%20Jupyter%20Notebook.md)
 	- [[Python] Lists](../../Python%20Lists.md)
 	- [[Python] Print](../../Python%20Print.md)
