@@ -1,4 +1,5 @@
 - **Links**
+	- [rzashakeri/beautify-github-profile: This repository helps you to have a more beautiful and attractive github profile, and you can access a set of tools and guides for beautifying your github profile. 🚩](https://github.com/rzashakeri/beautify-github-profile)
 	- [Include diagrams in your Markdown files with Mermaid | The GitHub Blog](https://leetcode.com/problems/lru-cache/description/)
 	- [Naereen/badges: Markdown code for lots of small badges (shields.io, forthebadge.com etc) . Contributions are welcome! Please add yours!](https://github.com/Naereen/badges)
 	- [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
