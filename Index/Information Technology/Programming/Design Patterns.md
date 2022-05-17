@@ -1,1 +1,4 @@
-- [Builder](Design%20Patterns/Builder.md)
+- **Notes**
+	- [Builder](Design%20Patterns/Builder.md)	
+- **Links**
+	- [ochococo/Design-Patterns-In-Swift: 📖 Design Patterns implemented in Swift 5.0](https://github.com/ochococo/Design-Patterns-In-Swift)
