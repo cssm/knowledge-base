@@ -4,6 +4,7 @@
 - **Links**
 	- [apple/swift-package-manager: The Package Manager for the Swift Programming Language](https://github.com/apple/swift-package-manager)
 	- [SwiftPackageIndex/PackageList: The master list of repositories for the Swift Package Index.](https://github.com/SwiftPackageIndex/PackageList)
+	- [Creating Objective-C and C++ packages using Swift Package Manager – ankit.im](http://ankit.im/swift/2016/05/21/creating-objc-cpp-packages-with-swift-package-manager/)
 	- [The Swift package manifest file - The.Swift.Dev.](https://theswiftdev.com/the-swift-package-manifest-file/)
 
 ## Package
