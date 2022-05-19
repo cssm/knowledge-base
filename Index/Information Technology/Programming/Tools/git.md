@@ -1,4 +1,6 @@
  - *Snippets* 
+	 - Apply patch
+		 - `git apply <path_to_patch>`
 	- Rename file on case-insensitive systems (`UNIX`-like)
 		- `git mv readme.md README.md`
 	- Remove from remote everything that not match with local    
@@ -6,6 +8,7 @@
 	- Remove file only from git
 		 - `git rm --cached <file>`
 - **Notes**
+	- `Git Index` - a.k.a `Staging area`
 	- [Git Attributes](Git%20Attributes.md)
 	- [Git Hooks](Git%20Hooks.md)
 	- [Learning Git](Git/Learning%20Git.md)

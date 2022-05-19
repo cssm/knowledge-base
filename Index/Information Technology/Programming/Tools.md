@@ -15,6 +15,7 @@
 	- [Create beautiful images of your code](https://ray.so/)
 	- [Code to monotone image](https://code-to-image.vercel.app/)
 	- [Valgrind. Tool to find memory leaks in C & C++ code](https://valgrind.org/docs/manual/quick-start.html)
+	- [Kinopio Help. Mindmap kinda tool](https://help.kinopio.club)
 - *[git](Tools/git.md)*
 	- [lazygit](Tools/lazygit.md)
 	- [Commitlint/Commitizen Online - lint commit messages online](https://commitlint.io/)

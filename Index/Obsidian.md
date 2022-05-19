@@ -1,21 +1,7 @@
+- **Notes**
+	- [Obsidian Plugins](Obsidian%20Plugins.md)
+	- [Obsidian Themes](Obsidian%20Themes.md)
+	- [Obsidian Tools](Obsidian%20Tools.md)
+	- [Obsidian Icons](Obsidian%20Icons.md)
 - **Links**
 	- [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
-- **Tools**
-	- [Converts exported Notion notes to work with Obsidian.](https://github.com/connertennery/Notion-to-Obsidian-Converter)
-	- [Another Notion Exporter](https://github.com/visualcurrent/Notion-2-Obsidan)
-- **Icons**
-	- [Big Sur Icon](https://forum.obsidian.md/t/big-sur-icon/8121)
-	- [Obsidian Icon](https://gnelson.gumroad.com/l/obsidian2)
-- **Themes**
-	- [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
-	- [gavinmn/obsidian-minimal: Meticulously designed to make Obsidian feel native on desktop, mobile and tablet. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.](https://github.com/gavinmn/obsidian-minimal)
-	- [mgmeyers/obsidian-california-coast-theme: A minimalist obsidian theme inspired by macOS Big Sur](https://github.com/mgmeyers/obsidian-california-coast-theme)
-		- [obsidian-california-coast-theme configuraion](https://twitter.com/blaked_84/status/1374627137429377025)
-- **Plugins**
-	- [kepano/obsidian-hider: Hide Obsidian UI elements such as tooltips, status, titlebar and more](https://github.com/kepano/obsidian-hider)
-	- [mgmeyers/obsidian-style-settings: Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables](https://github.com/mgmeyers/obsidian-style-settings)
-	- [kepano/obsidian-system-dark-mode: Automatically use the operating system's setting to switch between light and dark mode.](https://github.com/kepano/obsidian-system-dark-mode)
-	- [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian)
-	- [tadashi-aikawa/obsidian-another-quick-switcher: This is an Obsidian plugin which is another choice of Quick switcher.](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
-		- Replacing default `Quick Switcher` + search backlinks
-	- [dy-sh/obsidian-consistent-attachments-and-links: Obsidian plugin. Move note with attachments.](https://github.com/dy-sh/obsidian-consistent-attachments-and-links)

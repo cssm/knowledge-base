@@ -27,6 +27,7 @@ tabItemAppereance.selected.titleTextAttributes = [
     .font: UIFont.caption1().withSize(13),
     .foregroundColor: UIColor.baseBlueDark
 ]
+// unselected state
 tabItemAppereance.normal.iconColor = .baseGray80
 tabItemAppereance.normal.titleTextAttributes = [
     .font: UIFont.caption1().withSize(13),

@@ -1,0 +1,3 @@
+- **Links**
+	- [Big Sur Icon](https://forum.obsidian.md/t/big-sur-icon/8121)
+	- [Obsidian Icon](https://gnelson.gumroad.com/l/obsidian2)

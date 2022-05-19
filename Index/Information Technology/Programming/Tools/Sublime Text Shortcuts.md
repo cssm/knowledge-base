@@ -5,3 +5,4 @@
 -  `Select Text` -> `cmd+shift+l` - add cursor to the end selected text
 -  `Hold option` + `Select Text` - add cursor
 -  `option+l` - scroll to selection (where cursor is)
+-  

@@ -7,6 +7,8 @@
 	- *Audio*
 		- [Play Audio and Video Using AVFoundation Framework in Swift](http://www.theappguruz.com/blog/play-audio-and-video-using-avfoundation-framework-in-swift)
 		- [Correctly playing audio in iOS applications - Igor Kulman](https://blog.kulman.sk/correctly-playing-audio-in-ios-apps/)
+		- [Visualizing Sound as an Audio Spectrogram | Apple Developer Documentation](https://developer.apple.com/documentation/accelerate/visualizing_sound_as_an_audio_spectrogram)
+		- [Как нативно визуализировать голос в iOS / Хабр](https://habr.com/ru/company/surfstudio/blog/664792/)
 	- *Video*
 		- [AVFoundation Overview - Apple Developer](https://developer.apple.com/av-foundation/)
 		- [AVPlayer Notes](https://www.craft.do/s/MufKJHAFJDgN9T)
