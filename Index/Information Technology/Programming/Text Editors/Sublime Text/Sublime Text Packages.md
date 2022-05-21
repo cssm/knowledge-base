@@ -2,5 +2,5 @@
 	- [tonsky/sublime-profiles: Profile Switcher for Sublime Text](https://github.com/tonsky/sublime-profiles)
 	- [randy3k/AlignTab: An alignment plugin for Sublime Text using regular expression](https://github.com/randy3k/AlignTab)
 	- [randy3k/Terminus: Bring a real terminal to Sublime Text](https://github.com/randy3k/Terminus)
-- *[Rust](../Rust.md)*
+- *[Rust](../../Rust.md)*
 	- [rust-lang/rust-enhanced: The official Sublime Text 3 package for the Rust Programming Language](https://github.com/rust-lang/rust-enhanced)

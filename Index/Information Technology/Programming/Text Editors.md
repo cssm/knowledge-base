@@ -1,8 +1,8 @@
 - **Notes**
-	- [Sublime Text](Tools/Sublime%20Text.md)
-	- [VSCode](Tools/VSCode.md)
-	- [Vim](Tools/Vim.md)
-	- [Emacs](Emacs.md)
+	- [Sublime Text](Text%20Editors/Sublime%20Text.md)
+	- [VSCode](Text%20Editors/VSCode.md)
+	- [Vim](Text%20Editors/Vim.md)
+	- [Emacs](Text%20Editors/Emacs.md)
 - **Links**
 	- [tree-sitter/tree-sitter: An incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
 		- good library to implement syntax highlighting in your app

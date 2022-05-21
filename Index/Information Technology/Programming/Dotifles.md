@@ -1,6 +1,3 @@
-- **Notes**
-	- [zshrc](Shell/Shell%20Notes/zshrc.md)
-		- `rc` means `run command` or `run control`
 - **Links**
 	- [anishathalye/dotbot: A tool that bootstraps your dotfiles](https://github.com/anishathalye/dotbot)
 	- [japanese-goblinn/.dotfiles: 🔮 Collection of my macOS configs](https://github.com/japanese-goblinn/.dotfiles)

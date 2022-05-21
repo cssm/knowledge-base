@@ -1,0 +1,9 @@
+- **Notes**
+	- Special text file type `.org` that allows to do everything in it (take notes, manage tasks, write code with executable blocks)
+- **Links**
+	- *[Emacs](../Emacs.md)*
+		- [Org mode for Emacs](https://orgmode.org)
+		- [Introducing Babel](https://orgmode.org/worg/org-contrib/babel/intro.html)
+			- `Org Mode` with executable blocks of code 
+	- *[VSCode](../VSCode.md)*
+		- [vscode-org-mode/vscode-org-mode: Emacs Org Mode for Visual Studio Code](https://github.com/vscode-org-mode/vscode-org-mode)

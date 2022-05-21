@@ -1,8 +1,0 @@
-- *[Swift](../Swift.md)*
-	- [swift-server/vscode-swift: VSCode Extension for Swift](https://github.com/swift-server/vscode-swift)
-- **Notes**
-	- [VSCode Tips & Tricks](VSCode/VSCode%20Tips%20&%20Tricks.md)
-	- [VSCode C++ Config](VSCode/VSCode%20C++%20Config.md)
-	- [VSCode Python Config](VSCode/VSCode%20Python%20Config.md)
-- **Links**
-	- 

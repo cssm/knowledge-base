@@ -1,1 +1,5 @@
-> Is called when new zsh session is started 
+- **Notes**
+	- Is called when new zsh session is started 
+	- `rc` means `run command` or `run control`
+- **Links**
+	- 

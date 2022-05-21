@@ -1,12 +1,5 @@
-> Homebrew
-
 - **Notes**
-	- 
-- **Links**
-	- [Homebrew Shell Completion — Homebrew Documentation](https://docs.brew.sh/Shell-Completion)
-- *[Docker](Docker.md)*
-	- [Homebrew, but with Docker images](https://github.com/whalebrew/whalebrew)
-- *Snippets*
+	- `Homebrew`
 	```bash
 	brew bundle dump # dump all installed stuff to brefile
 
@@ -16,3 +9,6 @@
 
 	brew tap <filename> # set track of some repo
 	```
+- **Links**
+	- [macOS migrations with Brewfile - Open Folder](https://openfolder.sh/macos-migrations-with-brewfile)
+	- [Homebrew Shell Completion — Homebrew Documentation](https://docs.brew.sh/Shell-Completion)

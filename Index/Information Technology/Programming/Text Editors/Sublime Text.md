@@ -1,8 +1,8 @@
 - **Notes**
-	- [Sublime Working With Markdown](Sublime%20Working%20With%20Markdown.md)
-	- [Sublime Text Packages](Sublime%20Text%20Packages.md)
-	- [Sublime Text Shortcuts](Sublime%20Text%20Shortcuts.md)
-	- [Sublime Themes](Sublime%20Themes.md)
+	- [Sublime Working With Markdown](Sublime%20Text/Sublime%20Working%20With%20Markdown.md)
+	- [Sublime Text Packages](Sublime%20Text/Sublime%20Text%20Packages.md)
+	- [Sublime Text Shortcuts](Sublime%20Text/Sublime%20Text%20Shortcuts.md)
+	- [Sublime Themes](Sublime%20Text/Sublime%20Themes.md)
 	- *See all sublime actions with names and everything happening in console*
 		- Open console
 		- Enable everything 

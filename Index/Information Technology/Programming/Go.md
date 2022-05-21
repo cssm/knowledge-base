@@ -3,3 +3,8 @@
 	- [Go Project structure and testing](Go/Go%20Project%20structure%20and%20testing.md)
 - **Links**
 	- [Effective Go](https://golang.org/doc/effective_go#if)
+	- *Good critique of Go*
+	- [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+		- Go thinks that all paths are valid [Unicode](../../Unicode.md) (there're not)
+		- 
+	- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)

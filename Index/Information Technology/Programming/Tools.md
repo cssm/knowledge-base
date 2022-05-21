@@ -36,7 +36,7 @@
 	- [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 	- [watchexec/watchexec: Executes commands in response to file modifications](https://github.com/watchexec/watchexec)
 	- [eradman/entr: Run arbitrary commands when files change](https://github.com/eradman/entr)
-- *[VSCode](Tools/VSCode.md)*
+- *[VSCode](Text%20Editors/VSCode.md)*
 	- [hediet/vscode-drawio: This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.](https://github.com/hediet/vscode-drawio)
 - *[HTTP](../Internet/HTTP.md)*
 	- [asciimoo/wuzz: Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)

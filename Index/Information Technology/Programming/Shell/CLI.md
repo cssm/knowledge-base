@@ -1,7 +1,7 @@
 > Command Line Interface
 
 - **Notes**
-	- [[osascript.md]]
+	- [osascript](osascript.md)
 	- [env](env.md)
 	- [awk](awk.md)
 	- [sed](sed.md)

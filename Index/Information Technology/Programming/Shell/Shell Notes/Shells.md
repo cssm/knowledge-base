@@ -1,6 +1,7 @@
 > They are at the same time is environment to interact with kernel directly and programming language
 
 - **Notes**
+	- [zsh](zsh.md)
 	- `sh` - [POSIX](../../OS's/POSIX.md) shell (Bourne shell)
 	- `bash` - *Born again* shell, a dialect of `sh`
 	- `zsh` - modern dialect of `sh` with a lot of things from `bash`

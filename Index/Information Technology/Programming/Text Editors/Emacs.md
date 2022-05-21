@@ -1,2 +1,4 @@
+- **Notes**
+	- [Org Mode](Emacs/Org%20Mode.md)
 - **Links**
 	- [doomemacs/doomemacs: An Emacs framework for the stubborn martian hacker](https://github.com/doomemacs/doomemacs)
