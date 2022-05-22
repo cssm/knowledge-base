@@ -4,7 +4,14 @@
 - **Links**
 	- [Effective Go](https://golang.org/doc/effective_go#if)
 	- *Good critique of Go*
-	- [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
-		- Go thinks that all paths are valid [Unicode](../../Unicode.md) (there're not)
-		- 
+		- [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+			- Tricks you with simplicity even when it's not
+				- Go thinks that all paths are valid [Unicode](../../Unicode.md) (there're not) as a result they're using strings for path's everywhere
+				- Go thinks that there is only `\\` separator in paths on Windows (but it's also can be just `\`)
+			- Not producing valid program interfaces for different platforms 
+				- We can get file permissions on Windows and it gives as `666` value (there's no file permission concept on Windows). This is a result of that it's hard to write cross-platform code in Go
+			- Ignoring [Computer Science](Computer%20Science.md) concepts like [Optionals](Swift/Swift%20Notes/Optionals.md) and others
+				- `int` having value of `0` by default and no [Optionals](Swift/Swift%20Notes/Optionals.md)
+			- Go until some version didn't have anything for [Monotonic Time](Apple%20Technologies/Apple%20Platform%20Cuncurrency/Monotonic%20Time.md). After they added it they're decided to keep monotonic and non-monotonic time in the same object, even if don't need them both 🤷‍♂️
+			- Wierd 
 	- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)

@@ -1,11 +1,12 @@
 - **Notes**
+	- [Learn In Public](Learning/Learn%20In%20Public.md)
 	- [TIL](Learning/TIL.md)
-	- [Knowledge Bases](Knowledge%20Bases.md)
 	- [Blogs](Learning/Blogs.md)
 	- [Task Management](Learning/Task%20Management.md)
-	- [Learn In Public](Learning/Learn%20In%20Public.md)
 - **Links**
 	- [Learn Anything](https://learn-anything.xyz/)
+	- [Archives – BetterExplained](https://betterexplained.com/archives/)
+		- [Programming](Information%20Technology/Programming.md), [Math](Math.md), etc.
 	- *Search Papers*
 		- [Papers We Love](https://paperswelove.org/)
 		- [Elicit | The AI Papers Research Assistan](https://elicit.org/search)

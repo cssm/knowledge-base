@@ -3,3 +3,4 @@
 	- [zsh completions](zsh%20completions.md)
 - **Links**
 	- [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins, themes and tutorials.](https://github.com/unixorn/awesome-zsh-plugins)
+	- [Переход с bash на zsh / Хабр](https://habr.com/ru/post/326580/)

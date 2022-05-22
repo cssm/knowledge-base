@@ -1,0 +1,4 @@
+- **Notes**
+	- Allows us to use local repos as [git remote](Git/git%20remote.md)
+- **Links**
+	- [What is a bare git repository? | Jon Saints](https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)

@@ -1,5 +1,5 @@
 - **Notes**
-	- [macOS Tiling Windows Managers](macOS%20Tiling%20Windows%20Managers.md)
+	- [macOS Tiling Windows Managers](../macOS%20Tiling%20Windows%20Managers.md)
 	- [Karabiner](Karabiner.md)
 	- [iTerm](iTerm.md)
 	- [Raycast](Raycast.md)

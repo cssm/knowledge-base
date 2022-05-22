@@ -21,7 +21,6 @@
 	- [Visually stunning math concepts which are easy to explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
 	- [Vectors & Dot Product • Math for Game Dev [Part 1] - YouTube](https://www.youtube.com/watch?v=MOYiVLEnhrw)
 	- [Coding Math - YouTube](https://www.youtube.com/user/codingmath/videos)
-	- [Archives – BetterExplained](https://betterexplained.com/archives/)
 	- [MathBook.Info: интерактивные книги по математике](https://mathbook.info/)
 	- [Active Preparation for Calculus | opencalculus](https://opencalculus.wordpress.com/2019/01/02/active-preparation-for-calculus/)
 	- [Calculus with Julia](https://docs.juliahub.com/CalculusWithJulia/AZHbv/0.0.5/)
