@@ -1,10 +1,16 @@
 - **Notes**
+	- [macOS Tiling Windows Managers](macOS%20Tiling%20Windows%20Managers.md)
 	- [Karabiner](Karabiner.md)
 	- [iTerm](iTerm.md)
 	- [Raycast](Raycast.md)
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- *Time Tracking*
+		- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
+		- [Pandan on the Mac App Store](https://apps.apple.com/us/app/pandan/id1569600264?mt=12)
+	- [Keyboard Maestro 10.1.1: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/)
+		- Automate tasks, create macros.
 	- [Dato. Show different timezones in menu bar, check what time is in other timezone and more](https://sindresorhus.com/dato)
 	- [Little useful tools for macOS](https://onethingwell.org)
 	- [Quick jump between opened apps and windows](https://contexts.co/)

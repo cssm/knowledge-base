@@ -1,6 +1,6 @@
 - **Notes**
 	- [Control Version Systems](Control%20Version%20Systems.md)
-	- [TLDR](Tools/TLDR.md)
+	- [tldr](Tools/tldr.md)
 	- [Maps](Maps.md)
 	- [Text Editors](Text%20Editors.md)
 	- [Package Managers](Package%20Managers.md)

@@ -1,4 +1,6 @@
 - **Links**
+	- [The Planck EZ](http://bicycleforyourmind.com/page/4#planck-ez-helps-me-write)
+	- [Keychron K2](http://bicycleforyourmind.com/page/12#keychron-k2-clicks-with-me)
 	- [(2) Keychron K6. Обзор добротной механической клавиатуры. - YouTube](https://www.youtube.com/watch?v=DY-iwkjQ2iM)
 	- [Keychron K3 Ultra-slim Wireless Mechanical Keyboard (Version 2)](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard)
 	- [(2) ОПТИЧЕСКИЙ ХОТСВАП ЛОУПРОФИЛЬ!? Keychron K3! - YouTube](https://www.youtube.com/watch?v=njX-W1Hn8GY)

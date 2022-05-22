@@ -1,3 +1,4 @@
 - **Links**
 	- [Using a Tiling Window Manager on macOS](https://chrishannah.me/using-a-tiling-window-manager-on-macos/)
 	- [koekeishiya/yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
+	- [ianyh/Amethyst: Automatic tiling window manager for macOS à la xmonad.](https://github.com/ianyh/Amethyst)

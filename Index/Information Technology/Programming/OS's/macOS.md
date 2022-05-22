@@ -1,5 +1,4 @@
 - **Notes**
-	- [macOS Tiling Windows Managers](macOS%20Tiling%20Windows%20Managers.md)
 	- [macOS Development](macOS%20Development.md)
 	- [macOS Apps](macOS/macOS%20Apps.md)
 	- [macOS Shortcuts](macOS/macOS%20Shortcuts.md)
