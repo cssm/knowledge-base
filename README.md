@@ -8,6 +8,6 @@ In the beginning I wrote everything in *Notion*, then I switched to *Apple Notes
 
 Special thanks to [Nikita](https://github.com/nikitavoloboev) for inspiring me to do this thing in the first place.
 
-![My Mind](Media/graph.png)
-
 [🧭 Start to explore](Index.md)
+
+![My Mind](Media/graph.png)
