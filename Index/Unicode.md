@@ -4,9 +4,11 @@
 - **Notes**
 	- Unicode is just a concept of code points
 	- Main difference that Unicode itself do not say anything about how it stores it symbols (like ASCII) it just describes a concept of symbol
-	- `U+03423` (◌͂)
-		- Where U - Unicode
-		- 03423 - Hexadecimal representation
+	- *Code Point*
+		- `U+03423` (◌͂)
+			- Where 
+				- `U` - Unicode
+				- 03423 - Hexadecimal representation
 	- *UTF-8*
 		- UTF-8 encoding uses first bits to indicate how many bytes in sequence
 		- Bytes starting with 10… are “data” bytes and contain information for the codepoint. A 2-byte example looks like this: `110xxxxx 10xxxxxx`
