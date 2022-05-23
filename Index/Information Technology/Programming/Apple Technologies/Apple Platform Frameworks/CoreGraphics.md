@@ -1,3 +1,5 @@
-# CoreGraphics
-
-Draws using [CPU](../../../Hardware/Components/CPU.md)
+- **Notes**
+	- Draws using [CPU](../../../Hardware/Components/CPU.md)
+	- [CGAffineTransform](CGAffineTransform.md)
+- **Links**
+	- 

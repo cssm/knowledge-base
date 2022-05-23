@@ -1,7 +1,7 @@
 - **Notes**
 	- `Crate` - unit of compilation that defines root (unnamed) module 
 		- Unit of compilation means that all used and nested modules are compiled too
-		- Crate is know nothing about it's own name 
+		- Crate knows nothing about it's own name 
 			```rust
 			// foo.rs
 			pub fn foo() { println!("FOO!"); }
