@@ -1,6 +1,7 @@
 - **Notes**
 	- [Cargo](Rust/Cargo.md)
 	- [Rust Modules](Rust%20Modules.md)
+	- [Rust Imports](Rust%20Imports.md)
 	- [Rust Useful Libraries](Rust%20Useful%20Libraries.md)
 	- [Rust Analyzer](Rust%20Analyzer.md)
 	- [Rust Debugging](Rust%20Debugging.md)
