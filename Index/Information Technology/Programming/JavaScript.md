@@ -5,6 +5,7 @@
 		>  где cutoff выставляется в какое-нибудь вменяемое значение.
 		>  Плюс обрезать текст по ближайшему окончанию предложения, например, а не посередине слова
 - **Links**
+	- [SolidJS · Reactive Javascript Library](https://www.solidjs.com)
 	- [Introduction | $mol framework](https://mol.hyoo.ru)
 	- [Marko](https://markojs.com)
 	- [SolidJS · Reactive Javascript Library](https://www.solidjs.com)

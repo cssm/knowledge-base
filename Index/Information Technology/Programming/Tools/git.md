@@ -4,6 +4,11 @@
 		 - `git apply <path_to_patch>`
 	- Rename file on case-insensitive systems (`UNIX`-like)
 		- `git mv readme.md README.md`
+		- in case of directory we need
+			```shell
+			git mv dir/ tmp/
+			git mv tmp/ Dir/
+			```
 	- Remove from remote everything that not match with local    
 		- `git push --force-with-lease origin $BRANCH`
 	- Remove file only from git
