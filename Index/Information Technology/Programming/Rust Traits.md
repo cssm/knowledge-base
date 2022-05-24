@@ -1,4 +1,5 @@
 - **Notes**
+	- [Rust Display](Rust%20Display.md)
 	- [Rust FromStr](Rust%20FromStr.md)
 	- [Rust PartialEq](Rust%20PartialEq.md)
 - **Links**
