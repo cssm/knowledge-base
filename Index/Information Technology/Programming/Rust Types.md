@@ -1,6 +1,6 @@
 - **Notes**
 	- [Rust Result](Rust%20Result)
-	- [[Rust Option]]
+	- [Rust Option](Rust%20Option.md)
 	- [Rust Structs](Rust%20Structs.md)
 	- [Rust Enums](Rust%20Enums.md)
 	- [Rust Ranges](Rust%20Ranges.md)

@@ -1,2 +1,3 @@
 - **Links**
+	- [kirilife - Food blog](http://kirilife.com)
 	- [Cooklang: recipe markup language](https://cooklang.org/docs/)
