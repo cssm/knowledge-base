@@ -67,7 +67,7 @@
 - [Useful Global Functions](Swift%20Notes/Useful%20Global%20Functions.md)
 - [static](Swift%20Notes/static.md)
 - [defer](Swift%20Notes/defer.md)
-- [Arrays](Swift%20Notes/Arrays.md)
+- [Swift Arrays](Swift%20Notes/Swift%20Arrays.md)
 - [Phantom Types](Swift%20Notes/Phantom%20Types.md)
 - [Casting](Swift%20Notes/Casting.md)
 - [Swift Working With Files](../../../Swift%20Working%20With%20Files.md)

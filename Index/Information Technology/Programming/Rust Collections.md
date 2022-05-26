@@ -1,0 +1,4 @@
+- **Notes**
+	- [Rust Array](Rust%20Array.md)
+	- [Rust Vector](Rust%20Vector.md)
+	- [Rust HashMap](Rust%20HashMap.md)

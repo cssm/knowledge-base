@@ -1,5 +1,5 @@
 - **Notes**
-	- [Rust Result](Rust%20Result)
+	- [Rust Result](Rust%20Result.md)
 	- [Rust Option](Rust%20Option.md)
 	- [Rust Structs](Rust%20Structs.md)
 	- [Rust Enums](Rust%20Enums.md)
@@ -7,7 +7,7 @@
 	- [Rust Traits](Rust%20Traits.md)
 	- [Rust Strings](Rust%20Strings.md)
 	- [Rust Scalars](Rust%20Scalars.md)
-	- [Rust Arrays](Rust%20Arrays.md)
+	- [Rust Collections](Rust%20Collections.md)
 	- [Rust Tuples](Rust%20Tuples.md)
 	- [Rust Functions](Rust%20Functions.md)
 	- [What is a reference in Rust?](What%20is%20a%20reference%20in%20Rust?.md)

@@ -10,5 +10,6 @@
 	- [Rust Ownership Model](Rust%20Ownership%20Model.md)
 	- [Concurrency in Rust](Concurrency%20in%20Rust.md)
 	- [Rust Community](Rust%20Community.md)
+	- [Rust Functional Programming](Rust%20Functional%20Programming.md)
 
 
