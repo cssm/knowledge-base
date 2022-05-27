@@ -1,8 +1,16 @@
-- `cmd+f` - find
-- `cmd+option+f` - find and replace
-- `ctrl+shift+up/down` - add cursor
+- `cmd + F` - find
+- `cmd + option + F` - find and replace
+- add cursor
+	- `ctrl+shift+up/down` 
+	- `cmd + click` 
 -  `cmd+option+<1-2-3-4-5>` - split on `<num>` of panes
 -  `Select Text` -> `cmd+shift+l` - add cursor to the end selected text
 -  `Hold option` + `Select Text` - add cursor
 -  `option+l` - scroll to selection (where cursor is)
--  
+-  `cmd + D` - select next occurrence of the work
+	-  `cmd + K` - ignore selection and proceed
+- `ctrl + cmd + G` - select all occurrences of this work
+	- we can do the same with find 
+		- `cmd + F` -> `option + enter`
+- `cmd + L` - select whole line
+- 
