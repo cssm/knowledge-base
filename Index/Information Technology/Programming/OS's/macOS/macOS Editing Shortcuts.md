@@ -1,8 +1,9 @@
 - **Notes**
+	- `cmd + ;` - show spellcheck
 	- `option + left/right arrow` - jump between words
 	- *Emacs style*
-		- `ctrl + d` - delete next symbol after cursor
-		- `ctrl + k` - delete everything in this line after cursor
+		- `ctrl + D` - delete next symbol after cursor
+		- `ctrl + K` - delete everything in this line after cursor
 		- `ctrl + left/right arrow` - jump between parts of word
 			- e.g. `|` - cursor
 			-  `addMoreInfo|` -> `addMore|Info` -> `add|MoreInfo` -> `|addMoreInfo`
