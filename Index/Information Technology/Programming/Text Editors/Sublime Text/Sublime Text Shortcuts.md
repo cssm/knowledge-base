@@ -1,16 +1,24 @@
-- `cmd + F` - find
-- `cmd + option + F` - find and replace
-- add cursor
+-  `option+l` - scroll to selection (where cursor is)
+-  `cmd + option + <1-2-3-4-5>` - split on `<num>` of columns
+-  `cmd + option + shift + <1-2-3-4-5>` - split on `<num>` of rows
+- *Add Cursor*
 	- `ctrl+shift+up/down` 
 	- `cmd + click` 
--  `cmd+option+<1-2-3-4-5>` - split on `<num>` of panes
--  `Select Text` -> `cmd+shift+l` - add cursor to the end selected text
--  `Hold option` + `Select Text` - add cursor
--  `option+l` - scroll to selection (where cursor is)
--  `cmd + D` - select next occurrence of the work
+	- Hold `option` + `Select Text` 
+	- `Select Text` -> `cmd+shift+l` - add cursor to the end selected text
+	- `cmd + shift + L` - add cursor to end of each selected line
+- *Search & Replace*
+	- `cmd + F`  - find
+	- `cmd + option + F` -  find and replace
+- *Selection*
+	-  `cmd + D` - select next occurrence of the work
 	-  `cmd + K` - ignore selection and proceed
-- `ctrl + cmd + G` - select all occurrences of this work
-	- we can do the same with find 
-		- `cmd + F` -> `option + enter`
-- `cmd + L` - select whole line
-- 
+	-  `ctrl + cmd + G` - select all occurrences of this work
+		- we can do the same with find   `cmd + F` -> `option + enter`
+	- `cmd + L` - select whole line
+	- `ctrl + shift + M` - select text between `()`, `{}` etc.
+- *Text Manipulation*
+	- `cmd + X` - cut whole line
+	- `cmd + shift + D` - duplicate selected text below
+	- `cmd + K, cmd + U` - uppercase selected text
+	- `cmd + K, cmd + L` - lowercase selected text
