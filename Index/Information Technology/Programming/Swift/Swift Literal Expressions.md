@@ -1,0 +1,4 @@
+- **Notes**
+	- `#file`, `#function`, `#line` etc.
+- **Links**
+	- [Expressions. Literal Expression  — The Swift Programming Language (Swift 5.6)](https://docs.swift.org/swift-book/ReferenceManual/Expressions.html#ID390)

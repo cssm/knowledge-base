@@ -1,3 +1,6 @@
+- **Links**
+	- [BarredEwe/awesome-swift-inlinable: Information about inlinable optimisations in Swift.](https://github.com/BarredEwe/awesome-swift-inlinable)
+
 ## General
 
 **@inline** is used for internal inlining (in one module)

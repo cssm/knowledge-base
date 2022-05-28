@@ -1,0 +1,4 @@
+- **Notes**
+	- Cloud based `CI` system
+- **Links**
+	- [Setting up Xcode Cloud for Automated Builds, Tests and Distribution](https://www.createwithswift.com/tutorial-setting-up-xcode-cloud-for-automated-builds-tests-and-distribution/)

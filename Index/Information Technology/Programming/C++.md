@@ -1,4 +1,5 @@
 - **Links**
+	- [Retrofitting Temporal Memory Safety on C++](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html)
 	- [practicode-org/practice-cpp: Practice C++ by solving well-prepared exercises on different topics](https://github.com/practicode-org/practice-cpp)
 	- [C++ vtables - Part 1 - Basics | Shahar Mike's Web Spot](https://shaharmike.com/cpp/vtable-part1/)
 	- [Guide to undefined behavior](https://github.com/Nekrolm/ubbook)

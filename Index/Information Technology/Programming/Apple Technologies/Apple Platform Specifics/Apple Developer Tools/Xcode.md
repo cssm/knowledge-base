@@ -1,4 +1,5 @@
 - **Notes**
+	- [Xcode Cloud](Xcode%20Cloud.md)
 	- [Xcode Assets](Xcode%20Assets.md)
 	- [Tuist](Tuist.md)
 	- [Xcode Appereance](Xcode%20Appereance.md)

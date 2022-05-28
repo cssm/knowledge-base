@@ -1,6 +1,7 @@
+- **Links**
+	- [Different ways to compare string in Swift | Sarunw](https://sarunw.com/posts/different-ways-to-compare-string-in-swift/)
+
 ![](photo_2021-12-16%2020.06.27.jpeg)
-
-
 
 ```swift
 let string = "Hello, world!"

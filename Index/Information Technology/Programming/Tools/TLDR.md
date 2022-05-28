@@ -2,6 +2,7 @@
 
 - **Links**
 	-  [TLDR for different terms of services](https://tosdr.org/)
+	-  [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com)
 - [CLI](../Shell/CLI.md)
 	- [tldr-pages/tldr: 📚 Collaborative cheatsheets for console commands](https://github.com/tldr-pages/tldr)
 	- [dbrgn/tealdeer: A very fast implementation of tldr in Rust.](https://github.com/dbrgn/tealdeer)

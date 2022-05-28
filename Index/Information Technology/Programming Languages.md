@@ -1,4 +1,5 @@
 - **Notes**
+	- [Assembly](Assembly.md)
 	- [Swift](Programming/Swift.md)
 	- [Rust](Programming/Rust.md)
 	- [Objective-C](Programming/Objective-C.md)

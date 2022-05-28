@@ -1,6 +1,4 @@
-## General
-
-Available from `iOS 14`
+> Available from `iOS 14`
 
 ### Logged Types
 

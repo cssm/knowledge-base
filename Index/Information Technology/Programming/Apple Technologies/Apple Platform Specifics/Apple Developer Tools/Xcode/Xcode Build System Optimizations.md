@@ -12,3 +12,6 @@
 	- [Xcode Build Time Optimization - Part 2 · On Swift Wings](https://www.onswiftwings.com/posts/build-time-optimization-part2/)
 	- [Xcode Build Time Optimization - Part 1 · On Swift Wings](https://www.onswiftwings.com/posts/build-time-optimization-part1/)
 	- [Improve Xcode Compile and Run Time | Better Programming](https://betterprogramming.pub/improve-xcode-compile-and-run-time-8b8f812c17f8)
+	- [Introducing XCRemoteCache: The iOS Remote Caching Tool that Cut Our Clean Build Times by 70% : Spotify Engineering](https://engineering.atspotify.com/2021/11/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/)
+	- [matopeto/xcode-build-times: This BitBar/SwiftBar plugin shows the time you spend waiting for Xcode to do your builds](https://github.com/matopeto/xcode-build-times)
+	- [AllDmeat/xcode-test-times](https://github.com/AllDmeat/xcode-test-times)

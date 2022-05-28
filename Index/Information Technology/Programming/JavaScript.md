@@ -5,6 +5,8 @@
 		>  где cutoff выставляется в какое-нибудь вменяемое значение.
 		>  Плюс обрезать текст по ближайшему окончанию предложения, например, а не посередине слова
 - **Links**
+	- [Replicache](https://replicache.dev)
+		- `Replicache` is a JavaScript library for building zero-latency, live-updating web UI's based on Realtime Sync.
 	- [SolidJS · Reactive Javascript Library](https://www.solidjs.com)
 	- [Introduction | $mol framework](https://mol.hyoo.ru)
 	- [Marko](https://markojs.com)

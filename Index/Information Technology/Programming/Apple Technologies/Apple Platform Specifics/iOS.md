@@ -1,4 +1,6 @@
 - **Notes**
+	- [iOS Email Check](iOS%20Email%20Check.md)
+	- [iOS Haptic Engine](iOS%20Haptic%20Engine.md)
 	- [iOS Launch Screen](iOS%20Launch%20Screen.md)
 	- [iOS Apps](iOS/iOS%20Apps.md)
 	- [iOS App Structure](iOS/iOS%20App%20Structure.md)

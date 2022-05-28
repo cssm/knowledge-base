@@ -2,10 +2,8 @@
 	- [Linkers](../../Linkers.md)
 	- [make](Tools/make.md)
 	- [Bazel](Bazel.md)
-- *[Apple Technologies](Apple%20Technologies.md)*
-	- [Xcode Build System](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode/Xcode%20Build%20System.md)
-	- [Buck: A fast build tool](https://buck.build/)
-- *[Python](Python.md)*
-	- [Python as a build tool](https://tonsky.me/blog/python-build/)
-- *[CLI](Shell/CLI.md)*
 	- [lipo](../../lipo.md)
+	- [Xcode Build System](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode/Xcode%20Build%20System.md)
+- **Links**
+	- [Python as a build tool](https://tonsky.me/blog/python-build/)
+	- [airbnb/BuckSample: An example app showing how Buck can be used to build a simple iOS app.](https://github.com/airbnb/BuckSample)

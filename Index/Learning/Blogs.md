@@ -14,6 +14,7 @@
 	- [The Daily iOS (@TheDailyiOS)](https://twitter.com/thedailyios?s=21)
 	- [Яндекс.Карты Mobile – Medium](https://medium.com/yandex-maps-mobile)
 - *[Apple Technologies](../Information%20Technology/Programming/Apple%20Technologies.md)*
+	- [Flight School](https://flight.school)
 	- [Little Bites of Cocoa - Tips and techniques for iOS and Mac development](https://littlebitesofcocoa.com/)
 	- [Blog (Swift, iOS) | kean.blog](https://kean.blog/)
 	- [Hacking with Swift](https://www.hackingwithswift.com/)
