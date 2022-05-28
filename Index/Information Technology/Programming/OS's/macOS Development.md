@@ -1,4 +1,7 @@
 - **Links**
+	- [marioaguzman/toolbar: Programmatically constructing an NSToolbar](https://github.com/marioaguzman/toolbar)
+	- [Authoring macOS Help Books in 2020 (and beyond) – Mario Guzman](https://marioaguzman.wordpress.com/2020/09/12/auth/)
+		- how to create `?` help menu in your app (checkout bottom right corner of `Desktop & Screen Saver` in `System Preferences`)
 	- [Back to the Mac](https://backtomac.org/)
 	- [URL Schemes (Updated)](https://gist.github.com/deanlyoung/368e274945a6929e0ea77c4eca345560)
 	- [Complete list of keyboard key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
