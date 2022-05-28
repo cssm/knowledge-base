@@ -172,8 +172,6 @@ User space is separated onto **segments**
     - Machine code of program located here
     
 
-[Виртуальная память](Виртуальная%20память)
-
 Виртуальная память aka Memory Swap - расширение адресного пространства RAM за счет использования жесткого диска (те делаем вид что оперативной памяти больше чем на самом деле). [Memory address resolving](Memory%20address%20resolving)
 
 ![](Computer%20Memory/OS_Kernel_Space.png)

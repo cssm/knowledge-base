@@ -62,7 +62,7 @@
 - [Opaque Types](Swift%20Notes/Opaque%20Types.md)
 - [Initialization](Swift%20Notes/Initialization.md)
 - [Swift Dictionary](Swift%20Notes/Swift%20Dictionary.md)
-- [Swift lazy](Swift%20lazy.md)
+- [Swift lazy](Swift%20Notes/Swift%20lazy.md)
 - [Errors, Exceptions, try](Swift%20Notes/Errors,%20Exceptions,%20try.md)
 - [Useful Global Functions](Swift%20Notes/Useful%20Global%20Functions.md)
 - [static](Swift%20Notes/static.md)

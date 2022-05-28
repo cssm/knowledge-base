@@ -33,6 +33,7 @@
 	- *[git](../../Tools/git.md)*
 		- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
 		- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
+			- CLI name `smerge`
 	- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*
 		- [Kaleidoscope](https://kaleidoscope.app/)
 	- *Hide items from menu bar*
