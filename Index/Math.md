@@ -1,5 +1,6 @@
 - **Notes**
 	- [Linear Programming](Linear%20Programming.md)
+	- [Category Theory](Math/Category%20Theory.md)
 	- [Lambda Calculus](Math/Lambda%20Calculus.md)
 	- [Mathematical Logic](Math/Mathematical%20Logic.md)
 	- [Probability Theory](Math/Probability%20Theory.md)

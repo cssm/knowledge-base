@@ -1,9 +1,10 @@
-- **Notes**
+- **Notes*
+	- [Category Theory](../../../Math/Category%20Theory.md)
 	- [Idempotency](Idempotency.md)
 	- [Lambda Calculus](../../../Math/Lambda%20Calculus.md)
 	- [First-class functions](../../../First-class%20functions.md)
 	- [High Order Functions](../../../High%20Order%20Functions.md)
-	- [Functors](../../../Functors.md)
+	- [Functor](../../../Functor.md)
 	- [Monad](Functional%20Programming/Monad.md)
 	- [Algebraic Structures](Functional%20Programming/Algebraic%20Structures.md)
 	- *Type Classes*

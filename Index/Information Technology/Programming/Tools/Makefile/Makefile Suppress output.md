@@ -9,8 +9,3 @@ target:
 		@echo "hi"
 		-@kill Xcode # !important! no spaces 
 	```
-- `%` - in name means a `*`
-	```makefile
-	target: prerequisites (dependencies)
-   	echo "kek"
-	```

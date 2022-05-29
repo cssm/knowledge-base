@@ -1,9 +1,6 @@
-## Functors
 
-**Functors** - thing that allows us not to operate with a **Type** but with `Box<Type>` like with just `Type`
-
+- *Functor* - thing that allows us not to operate with a `Type` but with `Box<Type>` like with just `Type`
 Example:
-
 ```swift
 let a: Int? = 4
 
