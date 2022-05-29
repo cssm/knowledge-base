@@ -1,6 +1,8 @@
 > UI Framework to write applications for all Apple platforms, [iOS](../Apple%20Platform%20Specifics/iOS.md), [macOS](../../OS's/macOS.md), etc.
 
 - **Notes**
+	- Use `@warn_unqualified_access` to avoid forgetting `.` before `.padding()` in views and crashing the app
+		- [Make your SwiftUI view modifiers safer](https://blog.eidinger.info/make-your-swiftui-view-modifiers-safer)
 	- [SwiftUI Color](SwiftUI%20Color.md)
 	- [SwiftUI Conditional Modifiers](SwiftUI/SwiftUI%20Conditional%20Modifiers.md)
 	- [SwiftUI Data State](SwiftUI/SwiftUI%20Data%20State.md)
