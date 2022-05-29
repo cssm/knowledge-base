@@ -1,6 +1,6 @@
 - **Notes**
 	- [Linkers](../../Linkers.md)
-	- [make](Tools/make.md)
+	- [Makefile](Tools/Makefile.md)
 	- [Bazel](Bazel.md)
 	- [lipo](../../lipo.md)
 	- [Xcode Build System](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode/Xcode%20Build%20System.md)

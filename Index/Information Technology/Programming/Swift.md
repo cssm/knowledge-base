@@ -7,6 +7,7 @@
 	- [Swift Code Guidelines](Swift/Swift%20Code%20Guidelines.md)
 	- [Detecting unused code in Swift](Detecting%20unused%20code%20in%20Swift.md)
 - **Links**
+	- [kylef/swiftenv: Swift Version Manager](https://github.com/kylef/swiftenv)
 	- [Swift Evolution](https://apple.github.io/swift-evolution/)
 	- [Swift.org - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
 	- [The Ultimate Guide To Swift for CLI](https://www.fivestars.blog/articles/ultimate-guide-swift-executables/)

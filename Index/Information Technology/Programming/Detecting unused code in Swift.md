@@ -1,3 +1,4 @@
 - **Links**
 	- [peripheryapp/periphery: A tool to identify unused code in Swift projects.](https://github.com/peripheryapp/periphery)
 	- [uber/SwiftCodeSan: SwiftCodeSan is a tool that "sanitizes" code written in Swift.](https://github.com/uber/swiftcodesan)
+	- [woshiccm/Pecker: CodePecker is a tool to detect unused Swift code.](https://github.com/woshiccm/Pecker)
