@@ -1,0 +1,3 @@
+- **Links**
+	- [Identifiable | Apple Developer Documentation](https://developer.apple.com/documentation/swift/identifiable#)
+	- [ObjectIdentifier | Apple Developer Documentation](https://developer.apple.com/documentation/swift/objectidentifier#)

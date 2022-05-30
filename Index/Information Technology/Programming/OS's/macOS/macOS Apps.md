@@ -39,5 +39,6 @@
 	- *Hide items from menu bar*
 		- `$ paid` [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com)
 		- [Mortennn/Dozer: Hide menu bar icons on macOS](https://github.com/Mortennn/Dozer)
+		- [dwarvesf/hidden: An ultra-light MacOS utility that helps hide menu bar icons](https://github.com/dwarvesf/hidden)
 
 

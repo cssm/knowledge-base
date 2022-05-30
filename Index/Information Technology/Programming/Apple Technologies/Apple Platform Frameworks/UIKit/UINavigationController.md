@@ -5,6 +5,8 @@
 	- [How to make good looking large titles](https://twitter.com/katleta3000/status/1259400743771156480)
 	- [TN3106: Customizing the appearance of UINavigationBar | Apple Developer Documentation](https://developer.apple.com/documentation/technotes/tn3106-customizing-uinavigationbar-appearance)
 	- [Customizing Your App’s Navigation Bar | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/uinavigationcontroller/customizing_your_app_s_navigation_bar)
+	- *Transparent Navigation Bar*
+		- [How to make a transparent navigation bar in iOS | Sarunw](https://sarunw.com/posts/how-to-make-transparent-navigation-bar-in-ios/)
 	- *Back Button*
 		- [How to change a back button image | Sarunw](https://sarunw.com/posts/how-to-change-back-button-image/)
 		- [How to remove back button titles | Sarunw](https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/)
