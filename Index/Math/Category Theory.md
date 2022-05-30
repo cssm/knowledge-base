@@ -1,4 +1,10 @@
 - **Notes**
+	- *Category Theory* - main goal of it is to abstract some concept to just bunch of objects, bunch of relations between this objects (morphisms) and composition of this relations and turns out that this can be very useful
+		- For example there is a `Set` category where
+			- objects - sets 
+				- we know nothing about structure of this sets and we don't care about it when we build `Set` category
+			- morphisms - mathematical functions that map element from one set to another
+				- we also don't care between which elements this mappings happens - we only care about amount of them and between which sets (objects in our category) 
 	- [Category Theory What is a category](Category%20Theory%20What%20is%20a%20category.md)
 - **Links**
 	- [Category Theory for Programmers: The Preface |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)

@@ -1,2 +1,31 @@
-> objects *can* form a set
-> morphisms between any two objects always form a set 
+- *Category* - bunch (class) of objects + set of morphisms
+	- *Elements Of Category*
+		- *Objects*
+			- primitive that has no properties (it's like a dot in mathematics, so we can't define what it is)
+			- only exists to mark *morphisms*
+			-  objects *can* form a set
+				- if they do -> *small category*, if they don't -> *large category*
+		- *Morphisms (arrows, maps)*
+			- primitive that have beginning and end
+			- `f: a -> b` - morphism `f` from object `a` to `b` 
+			- morphisms between any two objects form a set
+				- if they don't -> *high-order category* and this morphisms form objects in a category
+	- *Definition Of Category*
+		- *Composition Axiom*
+			- If we have `f: a -> b` and `g: b -> c` then there's must exist morphism `g ∘ f: a -> c` that is a composition of `g` and `f`
+				- Category is defined by this compositions that forms a *composition table*
+					> Different composition tables will give you different categories. Objects and arrows don't contain any information, but composition contains the information
+		- *Identity Axiom*
+			-  For every object must have *identity morphism*
+				-  For example for object `a` there always exists `id_a: a -> a`
+			- if `f: a -> b`, and `id_a: a -> a` then `f ∘ id_a = f` (same morphism)
+				- this called `right identity`
+			- if `g: a -> b` and `id_b: b -> b` then `id_b ∘ g = g` (same morphism)
+				- this called `left identity`
+		- *Assiosativity Axiom*
+			- if `f: a -> b`, `g: b -> c`, `h: c -> d` => `h ∘ (g ∘ f) = (h ∘ g) ∘ f` (same morphism)
+				- some people call this composition of morphisms `weak identity` or `isomorphic` 
+					> So what do you mean that two compositions are isomorphic? That means that there is a transformation that turns `h ∘ (g ∘ f)` into `(h ∘ g) ∘ f`, that is not an identity.
+				- if morphisms are not defined by composition -> they always have identity (means that they are not the same)
+					- `f: a -> b, g: a -> b` => `f != g`
+					- `h ∘ (g ∘ f): a -> d, (h ∘ g) ∘ f: a -> d` => `h ∘ (g ∘ f) ~= (h ∘ g) ∘ f`, `~=` - weak identity, isomorphic
