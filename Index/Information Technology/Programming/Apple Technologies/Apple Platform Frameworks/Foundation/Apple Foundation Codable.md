@@ -1,0 +1,3 @@
+- **Links**
+	- [Customize Codable iOS 15+](https://twitter.com/PDucks32/status/1415131799584313345)
+	- [Codable cheat sheet – Hacking with Swift](https://www.hackingwithswift.com/articles/119/codable-cheat-sheet)
