@@ -13,6 +13,7 @@
 		- `git push --force-with-lease origin $BRANCH`
 	- Remove file only from git
 		 - `git rm --cached <file>`
+	- [git-worktree](git-worktree.md)
 	- [git bare repositories](git%20bare%20repositories.md)
 	- [Git Attributes](Git%20Attributes.md)
 	- [Git Hooks](Git%20Hooks.md)

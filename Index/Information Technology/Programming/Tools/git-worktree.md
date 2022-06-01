@@ -1,0 +1,5 @@
+- **Links**
+	- [Git - git-worktree Documentation](https://git-scm.com/docs/git-worktree)
+	- [This git worktree add example lets you never switch branches again - Coffee Talk: Java, News, Stories and Opinions](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Use-this-git-worktree-add-example-and-never-switch-branches-again)
+	- *[Xcode](../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)*
+		- [Faster Xcode builds when switching branches | by Max Godfrey | May, 2022 | Engineering @ Empower](https://engineering.empower.me/faster-xcode-builds-when-switching-branches-67133ccfdc33)
