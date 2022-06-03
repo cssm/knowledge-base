@@ -1,6 +1,7 @@
 - **Notes**
 	- [Call AppleScript from CLI](Shell/osascript.md)
 	- [AppleScript Functions](AppleScript%20Functions.md)
+	- [AppleScript Code Examples](AppleScript%20Code%20Examples.md)
 	- By default created with `Mac Roman` encoding (for example`touch script.applescript`)
 - **Links**
 	- [Check if app is running](https://twitter.com/nebelch/status/1423740067260997635?s=12)

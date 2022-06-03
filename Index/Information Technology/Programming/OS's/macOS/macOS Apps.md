@@ -6,7 +6,7 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
-	- *[Discord](Discord.md), [Slack](Slack.md)*
+	- *[Discord](../../../Discord.md), [Slack](../../../Slack.md)*
 		- [Ripcord: Desktop Chat Client](https://cancel.fm/ripcord/)
 	- *Time Tracking*
 		- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
