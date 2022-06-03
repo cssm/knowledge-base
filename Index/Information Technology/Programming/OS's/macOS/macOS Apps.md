@@ -1,7 +1,7 @@
 - **Notes**
 	- [macOS Tiling Windows Managers](../macOS%20Tiling%20Windows%20Managers.md)
 	- [Karabiner](Karabiner.md)
-	- [iTem](iTerm.md)
+	- [iTerm](iTerm.md)
 	- [Raycast](Raycast.md)
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
