@@ -1,3 +1,2 @@
 - **Links**
-	- *[Swift](Programming/Swift.md), [macOS](Programming/OS's/macOS.md), [SwiftUI](Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/SwiftUI.md)*
-		- [cryptoAlgorithm/Swiftcord: A completely native Discord client for macOS built 100% in Swift and SwiftUI!](https://github.com/cryptoAlgorithm/Swiftcord)
+	- [cryptoAlgorithm/Swiftcord: A completely native Discord client for macOS built 100% in Swift and SwiftUI!](https://github.com/cryptoAlgorithm/Swiftcord)

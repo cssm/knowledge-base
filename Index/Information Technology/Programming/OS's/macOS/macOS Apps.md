@@ -1,11 +1,13 @@
 - **Notes**
 	- [macOS Tiling Windows Managers](../macOS%20Tiling%20Windows%20Managers.md)
 	- [Karabiner](Karabiner.md)
-	- [iTerm](iTerm.md)
+	- [iTem](iTerm.md)
 	- [Raycast](Raycast.md)
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- *[Discord](Discord.md), [Slack](Slack.md)*
+		- [Ripcord: Desktop Chat Client](https://cancel.fm/ripcord/)
 	- *Time Tracking*
 		- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
 		- [Pandan on the Mac App Store](https://apps.apple.com/us/app/pandan/id1569600264?mt=12)

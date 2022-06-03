@@ -5,3 +5,4 @@
 - **Links**
 	- [Check if app is running](https://twitter.com/nebelch/status/1423740067260997635?s=12)
 	- [Commands Reference](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_cmds.html)
+	- [How to get reminder creation date from Apple Reminders](https://gist.github.com/japanese-goblinn/358556dcb2805df70ed7caa144f8ab82)
