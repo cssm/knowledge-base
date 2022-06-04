@@ -3,13 +3,11 @@
 	- [TIL](Learning/TIL.md)
 	- [Blogs](Learning/Blogs.md)
 	- [Task Management](Learning/Task%20Management.md)
+	- [Search Papers](Search%20Papers.md)
 - **Links**
 	- [Learn Anything](https://learn-anything.xyz/)
 	- [Archives – BetterExplained](https://betterexplained.com/archives/)
 		- [Programming](Information%20Technology/Programming.md), [Math](Math.md), etc.
-	- *Search Papers*
-		- [Papers We Love](https://paperswelove.org/)
-		- [Elicit | The AI Papers Research Assistan](https://elicit.org/search)
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
 	- [Explained from First Principles](https://explained-from-first-principles.com/)
 	- [Algorithm Archive · Arcane Algorithm Archive](https://www.algorithm-archive.org/)

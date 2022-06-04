@@ -1,0 +1,4 @@
+- **Links**
+	- [Papers We Love](https://paperswelove.org/)
+	- [Elicit | The AI Papers Research Assistan](https://elicit.org/search)
+	- [Sci-Hub:](https://sci-hub.se)

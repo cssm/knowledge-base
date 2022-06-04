@@ -1,9 +1,11 @@
 - **Links**
 	- [regex101: build, test, and debug regex](https://regex101.com/)
 	- [RegExr: Learn, Build, & Test RegEx](https://regexr.com)
+	- [Regex Learn - Step by step, from zero to advanced.](https://regexlearn.com)
 	- [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com)
 	- [GitHub - ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 	- [pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases](https://github.com/pemistahl/grex)
+	- [Regex Crossword](https://regexcrossword.com)
 	- [The Regex Coach - interactive regular expressions](http://www.weitz.de/regex-coach/)
 	- [Regex Tutorial - Named Capturing Groups - Backreference Names](https://www.regular-expressions.info/named.html)
 - **Notes**

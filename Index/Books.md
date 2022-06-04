@@ -4,6 +4,8 @@
 	- [Чистый код](Books/Чистый%20код.md)
 	- [Адская Неделя](Books/Адская%20Неделя.md)
 - **Links**
+	- [Welcome to Open Library | Open Library](https://openlibrary.org)
+	- [Library Genesis](https://libgen.is)
 	- [Free eBooks | Project Gutenberg](https://www.gutenberg.org)
 	- [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 	- [Books people (re)read](https://rauchg.com/2020/books-people-reread)

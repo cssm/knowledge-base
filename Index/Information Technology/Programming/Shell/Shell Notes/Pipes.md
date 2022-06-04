@@ -26,6 +26,6 @@ echo 1>file1.txt 2>file2.txt # same
 
 # when we write into stream
 echo "kek"
-echo "kek" >&1 # same as aboce
+echo "kek" >&1 # same as above
 echo "kek" >&2 # into stderr
 ```
