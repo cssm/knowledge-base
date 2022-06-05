@@ -10,9 +10,9 @@
 	- [Bash Scripts Debugging](Shell/Shell%20Notes/Bash%20Scripts%20Debugging.md)
 	- [Variables](Shell/Shell%20Notes/Variables.md)
 - **Links**
+	- [Learn bash in Y Minutes](https://learnxinyminutes.com/docs/bash/)
 	- [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible)
 	- [Bash Strict Mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-	- [Learn bash in Y Minutes](https://learnxinyminutes.com/docs/bash/)
 	- [Bash scripting cheatsheet](https://devhints.io/bash)
 	- [shell · knowledge](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
 	- [jp2011/bash-playground: This is a collection of miscellaneous notes on unix, bash and some code samples for the latter. Most of the material is from @cinsk.](https://github.com/jp2011/bash-playground)

@@ -11,10 +11,11 @@
 	- [Fun with Redirection](https://christine.website/blog/fun-with-redirection-2021-09-22)
 
 ```bash
-# Ignore error output
-
 # stderr to "nowhere" aka /dev/null 
 find / -name '*something*' 2>/dev/null
+
+# all output (stderr and stdout) to nowhere
+find / -name '*something*' &>/dev/null
 ```
 
 ```bash
