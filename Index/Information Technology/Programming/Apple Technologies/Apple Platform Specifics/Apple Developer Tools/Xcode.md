@@ -27,6 +27,7 @@
 			- turn on rosetta use for Xcode (find app in finder -> get info -> turn on)
 			- Build active architecture only set to YES
 - **Links**
+	- [RobotsAndPencils/xcodes: The best command-line tool to install and switch between multiple versions of Xcode.](https://github.com/RobotsAndPencils/xcodes)
 	- [QMUI/LookinServer: Free macOS app for iOS view debugging.](https://github.com/QMUI/LookinServer)
 	- [Customizing the file header comment and other text macros in Xcode 9 – Ole Begemann](https://oleb.net/blog/2017/07/xcode-9-text-macros)
 	- [yonaskolb/XcodeGen: A Swift command line tool for generating your Xcode project](https://github.com/yonaskolb/XcodeGen)

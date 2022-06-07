@@ -2,7 +2,7 @@
 
 **Can be used on any system that supports [Swift](../../Swift.md) **
 
-- we can use different sources of output ([Pipes](../../Shell/Shell%20Notes/Pipes.md), files, Slack, etc.)
+- we can use different sources of output ([Shell Redirections](../../Shell/Shell%20Notes/Shell%20Redirections.md), files, Slack, etc.)
 - we can create our custom log output sources be conforming to `LogHandler` protocol
 
 ## Resources

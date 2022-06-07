@@ -5,7 +5,7 @@
 	- [Shell Scripting](Shell%20Scripting.md)
 	- [Shell Snippets](Shell/Shell%20Snippets.md)
 	- [Paths](Shell/Shell%20Notes/Paths.md)
-	- [Pipes](Shell/Shell%20Notes/Pipes.md)
+	- [Shell Redirections](Shell/Shell%20Notes/Shell%20Redirections.md)
 	- [Terminals](Terminals.md)
 	- [Symbolic Link](Symbolic%20Link.md)
 	- [Glob](Shell/Glob.md)

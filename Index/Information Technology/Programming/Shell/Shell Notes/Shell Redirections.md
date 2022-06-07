@@ -1,0 +1,4 @@
+- **Notes**
+	- [Standard Streams](Standard%20Streams.md)
+- **Links**
+	- [Fun with Redirection](https://christine.website/blog/fun-with-redirection-2021-09-22)

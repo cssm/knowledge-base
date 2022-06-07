@@ -1,14 +1,12 @@
-- **Notes**
-	-  `stdin`, `stdout`, `stderr`
-		- Under the hood all of them are *file descriptors*- unsigned number that identify opened file
+
+-  `stdin`, `stdout`, `stderr`
+		- Under the hood all of them are *file descriptors* - unsigned number that identify opened file
 			- `stdin` || Standard input || `0` descriptor
 				- The default data stream for input, for example in a command pipeline. In the terminal, this defaults to keyboard input from the use
 			- `stdout` || Standard output || `1` descriptor
 				- The default data stream for output, for example when a command prints text. In the terminal, this defaults to the user's screen
 			- `stderr` || Standard error || `2` descriptor
 				- The default data stream for output that relates to an error occurring. In the terminal, this defaults to the user's screen
-- **Links**
-	- [Fun with Redirection](https://christine.website/blog/fun-with-redirection-2021-09-22)
 
 ```bash
 # stderr to "nowhere" aka /dev/null 
