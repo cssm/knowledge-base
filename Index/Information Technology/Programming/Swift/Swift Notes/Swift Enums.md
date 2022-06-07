@@ -1,5 +1,3 @@
-# Enums
-
 ```swift
 typealias Version = String
 enum OperationSystem {

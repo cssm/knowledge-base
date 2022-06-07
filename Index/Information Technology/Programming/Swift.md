@@ -4,7 +4,6 @@
 	- [Foundation](Apple%20Technologies/Apple%20Platform%20Frameworks/Foundation.md)
 	- [Swift Notes](Swift/Swift%20Notes.md)
 	- [Swift Code Snippets](Swift/Swift%20Code%20Snippets.md)
-	- [Swift Code Guidelines](Swift/Swift%20Code%20Guidelines.md)
 	- [Detecting unused code in Swift](Detecting%20unused%20code%20in%20Swift.md)
 - **Links**
 	- [kylef/swiftenv: Swift Version Manager](https://github.com/kylef/swiftenv)
