@@ -3,6 +3,7 @@
 - **Notes**
 	- Use `@warn_unqualified_access` to avoid forgetting `.` before `.padding()` in views and crashing the app
 		- [Make your SwiftUI view modifiers safer](https://blog.eidinger.info/make-your-swiftui-view-modifiers-safer)
+	- [[SwiftUI Gradients]]
 	- [SwiftUI Color](SwiftUI%20Color.md)
 	- [SwiftUI Conditional Modifiers](SwiftUI/SwiftUI%20Conditional%20Modifiers.md)
 	- [SwiftUI Data State](SwiftUI/SwiftUI%20Data%20State.md)
