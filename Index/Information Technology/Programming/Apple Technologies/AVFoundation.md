@@ -1,4 +1,5 @@
 - **Notes**
+	- [CMTime](CMTime.md)
 	- We can use `AVPlayer` to stream audio & video
 	- Use `AVAudioPlayer` only for local files
 	- We can use [AVPlayerLooper](https://developer.apple.com/documentation/avfoundation/avplayerlooper#) to 🔁  loop asset play without doing it manually

@@ -15,6 +15,30 @@ func makeSentence3() -> String {
     "a Prince?"
 }
 ```
+```swift
+@resultBuilder
+public struct ConfigurationBuilder<T> {
+  public static func buildBlock(_ components: [T]...) -> [T] {
+    return components.flatMap { $0 }
+  }
+  
+  public static func buildExpression(_ expression: T) -> [T] {
+    return [expression]
+  }
+  
+  public static func buildOptional(_ component: [T]?) -> [T] {
+    return component ?? []
+  }
+  
+  public static func buildEither(first component: [T]) -> [T] {
+    return component
+  }
+  
+  public static func buildEither(second component: [T]) -> [T] {
+    return component
+  }
+}
+```
 
 Input of result builder specified by `buildBlock` method
 
@@ -25,7 +49,7 @@ static func buildExpression(_ expression: T) -> [T] { [expression] }
 
 Add `buildOptional` to use `if` statement in result builders
 
-`buildEither(first:)` and `buildEither(second:)` to add suport of `if-else if-else if`  and `switch`
+`buildEither(first:)` and `buildEither(second:)` to add support of `if-else if-else if`  and `switch`
 
 Adding more relevant errors 
 

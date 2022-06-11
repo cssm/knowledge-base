@@ -61,4 +61,4 @@ struct B {
 
 ## StaticStings
 
-Known at comilte time so has a low overhead of creating
+Known at compile time so has a low overhead of creating
