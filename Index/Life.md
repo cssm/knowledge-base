@@ -1,4 +1,5 @@
 - **Notes**	
+	- [Traveling](Traveling.md)
 	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)
 	- [Lego](Life/Lego.md)
 	- [Life Hacks](Life/Life%20Hacks.md)

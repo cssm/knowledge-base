@@ -1,11 +1,14 @@
-- *[Open Source](../../../../Open%20Source.md)*
-	- [OpenCombine/OpenCombine: Open source implementation of Apple's Combine framework for processing values over time.](https://github.com/OpenCombine/OpenCombine)
 - **Links**
+	- [Controlling Publishing with Connectable Publishers](https://developer.apple.com/documentation/combine/controlling-publishing-with-connectable-publishers)
 	- [Book about Combine](https://heckj.github.io/swiftui-notes/)
 	- [pointfreeco/combine-schedulers: A few schedulers that make working with Combine more testable and more versatile.](https://github.com/pointfreeco/combine-schedulers)
-- [RunLoop](../../RunLoop.md)
-	- [RunLoop.main vs DispatchQueue.main: The differences explained](https://www.avanderlee.com/combine/runloop-main-vs-dispatchqueue-main/)
-		- If using `RunLoop.main` as scheduler Default RunLoop mode is used  -> Complition will not complete until RunLoop changes from UIHandling mode back to Default Mode
+	- *[UIKit](UIKit.md)*
+		- [CombineCommunity/CombineCocoa: Combine publisher bridges for UIKit](https://github.com/CombineCommunity/CombineCocoa) 
+	- *[Open Source](../../../../Open%20Source.md)*
+		- [OpenCombine/OpenCombine: Open source implementation of Apple's Combine framework for processing values over time.](https://github.com/OpenCombine/OpenCombine)
+	- *[RunLoop](../../RunLoop.md)*
+		- [RunLoop.main vs DispatchQueue.main: The differences explained](https://www.avanderlee.com/combine/runloop-main-vs-dispatchqueue-main/)
+			- If using `RunLoop.main` as scheduler Default RunLoop mode is used  -> Complition will not complete until RunLoop changes from UIHandling mode back to Default Mode
 - **Notes**
 	- `Publisher` - object that emits values
 		- `Just` - emits event ones and finishes
