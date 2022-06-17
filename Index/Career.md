@@ -1,6 +1,7 @@
 - **Notes**
 	- [Good Questions To Ask Your Interviewer](Good%20Questions%20To%20Ask%20Your%20Interviewer.md)
 - **Links**
+	- [Про хорошее резюме– Thread Reader App](https://threadreaderapp.com/thread/1509459431284789250.html)
 	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
 	- [Glassdoor. Check if company is cringe](https://www.glassdoor.com/index.htm)
 	- [Как правильно составить текст с рассказом о себе](https://vc.ru/hr/8750-about-myself)

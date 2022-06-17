@@ -11,6 +11,10 @@
 		- [How to change a back button image | Sarunw](https://sarunw.com/posts/how-to-change-back-button-image/)
 		- [How to remove back button titles | Sarunw](https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/)
 		- [A new way to manage the back button title in iOS 14 with backButtonDisplayMode | Sarunw](https://sarunw.com/posts/new-way-to-manage-back-button-title-in-ios14/)
+		- Hide Back Button
+			```swift
+			navigationItem.setHidesBackButton(true, animated: false)
+			```
 
 
 ## General

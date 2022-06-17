@@ -1,5 +1,3 @@
-# callAsFunction
-
 ```swift
 struct A {
     func callAsFunction(a: Int) {
