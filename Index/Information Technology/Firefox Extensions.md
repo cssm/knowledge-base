@@ -3,3 +3,5 @@
 	- [Privacy Badger](https://privacybadger.org)
 	- [HTTPS Everywhere | Electronic Frontier Foundation](https://www.eff.org/https-everywhere)
 	- [Kevin / ClearURLs · GitLab](https://gitlab.com/KevinRoebert/ClearUrls)
+	- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
+		- [Sticky Window Containers – Get this Extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/sticky-window-containers/)

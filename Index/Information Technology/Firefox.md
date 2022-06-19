@@ -12,6 +12,6 @@
 			- `apz.allow_zooming` and `apz.allow_zooming_out` - add/remove pinch to zoom like in [Safari](Internet/Safari.md)
 			- `accessibility.force_disabled` - set to `-1` to allow copy of *current tab [URL](Internet/URL.md)*
 - **Links**
-	- [Multi-Account Containers](https://support.mozilla.org/en-US/kb/containers)
 	- [Download Firefox Browser — Fast, Private & Free — from Mozilla](https://www.mozilla.org/en-US/firefox/new/)
 	- [How to manage notifications from web pages](https://support.mozilla.org/en-US/kb/push-notifications-firefox#w_upgraded-notifications)
+	- [How to import login data from a file in Mozilla Firefox](https://www.thewindowsclub.com/how-to-import-passwords-from-a-file-in-firefox)

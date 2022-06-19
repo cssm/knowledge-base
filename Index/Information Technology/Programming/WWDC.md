@@ -1,4 +1,4 @@
 - **Links**
 	- [WWDC NOTES](https://www.wwdcnotes.com)
 	- [#swiftui-lounge #wwdc22](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d)
-		- A lot of good [SwiftUI](SwiftUI.md) stuff 
+		- A lot of good [SwiftUI](Apple%20Technologies/Apple%20Platform%20Frameworks/SwiftUI.md) stuff 
