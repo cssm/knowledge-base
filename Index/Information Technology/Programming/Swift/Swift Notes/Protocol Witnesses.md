@@ -1,25 +1,15 @@
-# Protocol Witnesses
-
-## Naming
-
-`Diffable` -> `Diffing`
-
-## Core Idea
-
-```swift
-// Instead of 
-
-protocol Diffable {	
+- **Notes**
+	- `Diffable` -> `Diffing`
+	```swift
+	// Instead of
+	protocol Diffable {	
 		func diff(old: Self, new: Self) -> String
-}
+	}
 
-// Do 
-
-struct Diffing<Value> {
+	// Do 
+	struct Diffing<Value> {
 		let diff: (Value, Value) -> String
-}
-```
-
-## Resources
-
-[Protocol Witnesses - Brandon Williams - App Builders 2019](https://www.youtube.com/watch?v=3BVkbWXcFS4)
+	}
+	```
+- **Links**
+	- [Protocol Witnesses - Brandon Williams - App Builders 2019](https://www.youtube.com/watch?v=3BVkbWXcFS4)

@@ -1,3 +1,7 @@
+
+- **Links**
+	- [Emerge Tools Blog | The Surprising Cost of Protocol Conformances in Swift](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
+
 ## Associated types (Generic protocol)
 
 Associated types is like generics. So protocols with associated types can be called **generics protocols**
