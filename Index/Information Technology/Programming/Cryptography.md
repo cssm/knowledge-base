@@ -1,5 +1,5 @@
 - **Notes**
-	- [SSH](SSH.md)
+	- [ssh](ssh.md)
 	- [PEM](Cryptography/PEM.md)
 	- [Hamming Codes](Cryptography/Hamming%20Codes.md)
 - **Links**
