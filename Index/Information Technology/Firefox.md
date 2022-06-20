@@ -2,7 +2,7 @@
 	- [Firefox Search Shortcuts](Firefox%20Search%20Shortcuts.md)
 	- [Firefox Extensions](Firefox%20Extensions.md)
 	- Type this one into search bar
-		- `about:logins` - open firefox password manager
+		- `about:logins` - open Firefox password manager
 		- `about:performance` - memory usage and energy impact of open tabs, add-on's etc.
 		- Type `about:config` in search bar -> press `Accept the Risk and Continue` -> in `Search preference name` bar paste any command listed below
 			- `services.sync.prefs.dangerously_allow_arbitrary` - set to `true` to sync ALL configs
@@ -11,6 +11,12 @@
 			- `network.captive-portal-service.enabled` set it to `false`- stop sending data about browser usage
 			- `apz.allow_zooming` and `apz.allow_zooming_out` - add/remove pinch to zoom like in [Safari](Internet/Safari.md)
 			- `accessibility.force_disabled` - set to `-1` to allow copy of *current tab [URL](Internet/URL.md)*
+			- `mousewheel.with_meta.action` - `cmd` + two fingers scroll 
+				- Possible values
+					- 0: Nothing happens
+					- 1: Scrolling contents
+					- 2: Go back or go forward, in your history
+					- 3: Zoom in or out
 - **Links**
 	- [Download Firefox Browser — Fast, Private & Free — from Mozilla](https://www.mozilla.org/en-US/firefox/new/)
 	- [How to manage notifications from web pages](https://support.mozilla.org/en-US/kb/push-notifications-firefox#w_upgraded-notifications)
