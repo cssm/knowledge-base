@@ -1,6 +1,8 @@
 - **Links**
+	- [Creating animations with UIKit and Core Animation | Ordinary Coding](https://ordinarycoding.com/articles/creating-animations-with-uikit-ca/)
 	- [jtrivedi/Wave: Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.](https://github.com/jtrivedi/Wave)
 - **Notes**
+	- [CALayer animations](CALayer%20animations.md)
 	- [UIViewPropertyAnimator](UIViewPropertyAnimator.md)
 	- Basic animations
 		```swift
