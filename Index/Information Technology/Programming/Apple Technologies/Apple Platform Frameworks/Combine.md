@@ -10,6 +10,7 @@
 		- [RunLoop.main vs DispatchQueue.main: The differences explained](https://www.avanderlee.com/combine/runloop-main-vs-dispatchqueue-main/)
 			- If using `RunLoop.main` as scheduler Default RunLoop mode is used  -> Complition will not complete until RunLoop changes from UIHandling mode back to Default Mode
 - **Notes**
+	- [Combine flatMap](Combine%20flatMap.md)
 	- `Publisher` - object that emits values
 		- `Just` - emits event ones and finishes
 		- `Future` - allows to wrap [Swift Closures](../../Swift/Swift%20Notes/Swift%20Closures.md)  into publishers
