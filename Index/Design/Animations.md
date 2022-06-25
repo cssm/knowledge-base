@@ -4,6 +4,7 @@
 	- [Damped Springs. Deep dive into math of animations](https://www.ryanjuckett.com/damped-springs/)
 	- [Demystifying UIKit Spring Animations](https://medium.com/ios-os-x-development/demystifying-uikit-spring-animations-2bb868446773)
 - **Notes**	
+	- [UIKit Animations](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit/UIKit%20Animations.md)
 	```swift
 	// UIScrollView default deceleration rate
 	let decelerationRate = UIScrollView.DecelerationRate.normal
