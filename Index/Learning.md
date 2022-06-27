@@ -5,6 +5,7 @@
 	- [Task Management](Learning/Task%20Management.md)
 	- [Search Papers](Search%20Papers.md)
 - **Links**
+	- [The Missing Semester of Your CS Education · the missing semester of your cs education](https://missing.csail.mit.edu)
 	- [Learn Anything](https://learn-anything.xyz/)
 	- [Archives – BetterExplained](https://betterexplained.com/archives/)
 		- [Programming](Information%20Technology/Programming.md), [Math](Math.md), etc.

@@ -6,6 +6,7 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- [Orion Browser by Kagi](https://browser.kagi.com)
 	- [lra/mackup: Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
 	- *[Discord](../../../Discord.md), [Slack](../../../Slack.md)*
 		- [Ripcord: Desktop Chat Client](https://cancel.fm/ripcord/)

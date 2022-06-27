@@ -1,5 +1,7 @@
 - **Notes**
 	- Used to describe [Animations](../Design/Animations.md)
+	- *[iOS](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
+		- [Drawing Shapes Using Bézier Paths](https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/BezierPaths/BezierPaths.html)
 - **Links**
 	- [Drawing Bézier Curves – Bartosz Ciechanowski](https://ciechanow.ski/drawing-bezier-curves/)
 	- [Book. A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)

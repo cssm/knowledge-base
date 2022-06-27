@@ -19,3 +19,4 @@ However in XCFramework we have different binary files for different architecture
 - [CoreGraphics](Apple%20Platform%20Frameworks/CoreGraphics.md)
 - [WebKit](Apple%20Platform%20Frameworks/WebKit.md)
 - [Metal](Metal.md)
+- [Swift Charts](Swift%20Charts.md)
