@@ -10,3 +10,4 @@
 	- [Category Theory for Programmers: The Preface |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 	- [Category Theory 1.2: What is a category? - YouTube](https://www.youtube.com/watch?v=p54Hd7AmVFU)
 	- [Category Theory for Programmers: Chapter 1 - Category - YouTube](https://www.youtube.com/watch?v=SmXB2K_5lcA)
+	- [(1) A Sensible Introduction to Category Theory - YouTube](https://www.youtube.com/watch?v=yAi3XWCBkDo)

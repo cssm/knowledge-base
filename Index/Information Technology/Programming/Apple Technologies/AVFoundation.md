@@ -25,4 +25,3 @@
 		- [Jared Sinclair | Implementing AVAssetResourceLoaderDelegate: a How-To Guide](https://jaredsinclair.com/2016/09/03/implementing-avassetresourceload.html)
 		- [macos - Get number of frames in a video via AVFoundation - Stack Overflow](https://stackoverflow.com/questions/13645306/get-number-of-frames-in-a-video-via-avfoundation)
 			- using this with `videoPlayer?.currentItem?.step(byCount:)` can improve performance of seek
-		- [Technical Q&A QA1820: How do I achieve smooth video scrubbing with AVPlayer seekToTime:?](https://developer.apple.com/library/archive/qa/qa1820/_index.html)
