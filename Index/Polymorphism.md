@@ -1,4 +1,5 @@
 - **Notes**
+	- `Polymorphism` - ability for abstract code to work differently on different concrete types
 	- Operators overloading or [Ad hoc polymorphism](https://en.m.wikipedia.org/wiki/Ad_hoc_polymorphism)
 	- Parametric polymorphism or generic functions
 - **Links**
