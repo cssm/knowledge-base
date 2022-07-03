@@ -1,6 +1,9 @@
 - **Notes**
 	- `Polymorphism` - ability for abstract code to work differently on different concrete types
-	- Operators overloading or [Ad hoc polymorphism](https://en.m.wikipedia.org/wiki/Ad_hoc_polymorphism)
-	- Parametric polymorphism or generic functions
+	- Types of polymorphism
+		- [Ad-hoc polymorphism](https://en.m.wikipedia.org/wiki/Ad_hoc_polymorphism) or operators overloading
+		- *Subtype polymorphism*
+			- if `B: A` we can assign `let b: A = B()`
+		- *Parametric polymorphism* or generic functions
 - **Links**
-	- 
+	- [Embrace Swift generics - WWDC22 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2022/110352/)
