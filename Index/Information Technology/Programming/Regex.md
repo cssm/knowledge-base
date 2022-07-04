@@ -8,6 +8,8 @@
 	- [Regex Crossword](https://regexcrossword.com)
 	- [The Regex Coach - interactive regular expressions](http://www.weitz.de/regex-coach/)
 	- [Regex Tutorial - Named Capturing Groups - Backreference Names](https://www.regular-expressions.info/named.html)
+	- [Telegram: Contact @nikitonsky_pub](https://t.me/nikitonsky_pub/325)
+		- `Давайте регэкспам научу за один пост?`
 - **Notes**
 	- To match any whitespace character use `\s` 
 		- equivalent to `[ \t\n\r\f\v]` 

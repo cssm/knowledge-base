@@ -1,4 +1,5 @@
 - **Notes**
+	- [Fork](Fork.md)
 	- [macOS Tiling Windows Managers](../macOS%20Tiling%20Windows%20Managers.md)
 	- [Karabiner](Karabiner.md)
 	- [iTerm](iTerm.md)
@@ -38,7 +39,6 @@
 	- [calibre. Any e-book format converter](https://calibre-ebook.com/)
 	- [keycastr/keycastr: KeyCastr, an open-source keystroke visualizer](https://github.com/keycastr/keycastr)
 	- *[git](../../Tools/git.md)*
-		- [Fork - a fast and friendly git client for Mac and Windows](https://fork.dev/)
 		- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
 			- CLI name `smerge`
 	- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*

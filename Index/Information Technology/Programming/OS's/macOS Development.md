@@ -1,4 +1,6 @@
 - **Links**
+	- [Hog Bay Software – Moby Dick Workout](https://hogbaysoftware.netlify.app/posts/moby-dick-workout/)
+		- How to test if mac app is working good
 	-  [How to make absolutely any app look like a macOS app — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/how-to-make-absolutely-any-app-look-like-a-macos-app)
 	- [marioaguzman/toolbar: Programmatically constructing an NSToolbar](https://github.com/marioaguzman/toolbar)
 	- [Authoring macOS Help Books in 2020 (and beyond) – Mario Guzman](https://marioaguzman.wordpress.com/2020/09/12/auth/)
