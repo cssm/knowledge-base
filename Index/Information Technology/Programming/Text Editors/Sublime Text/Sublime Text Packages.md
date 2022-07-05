@@ -1,4 +1,6 @@
 - **Links**
+	- [skuroda/PackageResourceViewer: Sublime Text plugin to view package resources.](https://github.com/skuroda/PackageResourceViewer)
+		- Good to tweak some internal preferences of the package (for example background color in color-scheme)
 	- [tonsky/sublime-profiles: Profile Switcher for Sublime Text](https://github.com/tonsky/sublime-profiles)
 	- [randy3k/AlignTab: An alignment plugin for Sublime Text using regular expression](https://github.com/randy3k/AlignTab)
 	- [randy3k/Terminus: Bring a real terminal to Sublime Text](https://github.com/randy3k/Terminus)
