@@ -1,4 +1,4 @@
-- [Full Guide](https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/#orthogonal-scrolling)
+- [Full Guide](https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/)
 - [Apple Developer Documentation](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views)
 - [Compositional Layout в iOS 13. Основы](https://habr.com/ru/post/495076/)
 - [Using compositional collection view layouts in iOS 13 - Donny Wals](https://www.donnywals.com/using-compositional-collection-view-layouts-in-ios-13/)

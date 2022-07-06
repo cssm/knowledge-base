@@ -1,5 +1,8 @@
-- *FLUX*
-		- *REDUX* - implementation of *FLUX* paradigm 
 - **Notes**
+	- *FLUX*
+		- *REDUX* - implementation of *FLUX* paradigm
 	- [Apple Platform Architecture](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Architecture.md)
 	- [RIBs](Information%20Technology/Programming/Apple%20Technologies/RIBs.md)
+- **Links**
+	- [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee)
+		- `ADR's` - document important project architecture decisions

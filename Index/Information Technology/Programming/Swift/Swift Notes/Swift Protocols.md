@@ -1,22 +1,25 @@
 
 - **Links**
 	- [Emerge Tools Blog | The Surprising Cost of Protocol Conformances in Swift](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
+- **Notes**
+	- Associated types is like generics. So protocols with associated types can be called *generics protocols*
+	- [swift-evolution/0358-primary-associated-types-in-stdlib.md at main · apple/swift-evolution](https://github.com/apple/swift-evolution/blob/main/proposals/0358-primary-associated-types-in-stdlib.md)
+	```swift
+	protocol Employee {
+		// Associated types can have constraints like this
+		associatedtype Manager: Employee
+		var manager: Manager? { get set }
+	}
+	
+	// starting from swift 5.7 we can declare primary associated type
+	protocol Collection<Element> {
+		associatedtype Element 
+		associatedtype Index // not a primary associatedtype
+	}
 
-## Associated types (Generic protocol)
-
-Associated types is like generics. So protocols with associated types can be called **generics protocols**
-
-```swift
-protocol Employee {
-	// Associated types can have constraints like this
-	associatedtype Manager: Employee
-	var manager: Manager? { get set }
-}
-```
-
-Properties are always declared as var. Can by `{ get set }` or `{ get }` ****(only `{ set }`is impossible)
-
-When you create a variable without type, but which only conforms to the protocol instead, it is always created in the existential container which uses static dispatch.
+	// usage 
+	let collection: some Collection<Int> = Array([1, 2, 3])
+	```
 
 ## Recursive protocols
 

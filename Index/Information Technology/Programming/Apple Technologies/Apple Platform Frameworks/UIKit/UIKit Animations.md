@@ -1,4 +1,5 @@
 - **Links**
+	- [Delightful Interactive Animations · On Swift Wings](https://www.onswiftwings.com/posts/interactive-animations/)
 	- [Creating animations with UIKit and Core Animation | Ordinary Coding](https://ordinarycoding.com/articles/creating-animations-with-uikit-ca/)
 	- [jtrivedi/Wave: Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.](https://github.com/jtrivedi/Wave)
 - **Notes**
