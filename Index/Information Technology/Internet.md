@@ -1,4 +1,5 @@
 - **Links**
+	- [How the Internet works :: Jon Gjengset](https://thesquareplanet.com/blog/how-the-internet-works/)
 	- [Подробный курс про Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
 	- [Why isn't the internet more fun and weird?](https://jarredsumner.com/codeblog/)
 - **Notes**
