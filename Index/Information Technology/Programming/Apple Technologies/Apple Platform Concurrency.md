@@ -4,7 +4,7 @@
 
 - **Notes**
 	- [Swift Concurrency](../Swift/Swift%20Notes/Swift%20Concurrency.md)
-	- [Grand Central Dispatch](Apple%20Platform%20Cuncurrency/Grand%20Central%20Dispatch.md)
+	- [GCD. Grand Central Dispatch](Apple%20Platform%20Cuncurrency/GCD.%20Grand%20Central%20Dispatch.md)
 		- [Concurrency by Tutorial](Apple%20Platform%20Cuncurrency/Concurrency%20by%20Tutorial.md)
 	- [Apple Operations](Apple%20Operations.md)
 	- [GCD vs Operations](Apple%20Platform%20Cuncurrency/GCD%20vs%20Operations.md)

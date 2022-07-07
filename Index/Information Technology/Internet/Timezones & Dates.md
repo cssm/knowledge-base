@@ -6,4 +6,5 @@
 		- modern version of `GMT` that uses atomic clock
 		- `2022-04-29T23:00:00Z` - `Z` here indicates that this is UTC
 - **Links**
+	- [Date/Time Formats With The Unicode Text Adapter](https://help.scribesoft.com/scribeinsight/en/Subsystems/Insight/create_dts_files/manageconnections/textadapternew/date_time_formats.htm)
 	- [RFC 3339 vs ISO 8601 vs HTML](https://ijmacd.github.io/rfc3339-iso8601/)

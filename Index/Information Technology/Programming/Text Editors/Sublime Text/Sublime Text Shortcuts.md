@@ -1,3 +1,4 @@
+- `cmd + ctrl + shift + f` - focus mode
 - `ctrl + g` - jump to line
 -  `option+l` - scroll to selection (where cursor is)
 -  `cmd + option + <1-2-3-4-5>` - split on `<num>` of columns

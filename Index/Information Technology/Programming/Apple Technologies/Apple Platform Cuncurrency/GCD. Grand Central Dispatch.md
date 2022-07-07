@@ -1,5 +1,6 @@
+- **Links**
+	- [GCD Internals](http://newosxbook.com/articles/GCD.html)
 - **Notes**
-	- *GCD (Grand Central Dispatch)*
 	- There’re some optimisations in GCD that guarantee that when we run **sync** task on some queue this task **will executed on caller thread** not the queue. There’re only exception for **main queue - sync task will always executed on the main thread, not the caller**.
 	- `DispatchQueue.concurrentPeform(iterations: Int) {}`  - allows to cuncurrently iterate (very effective with good amount of `iterations`
 	- `DispatchIO` - allows to work with files using dispatch groups

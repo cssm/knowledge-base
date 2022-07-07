@@ -1,4 +1,5 @@
 - **Links**
+	- [Email explained from first principles. Email](https://explained-from-first-principles.com/email/#official-architecture)
 	- [Create temporary email](https://www.emaildrop.io/)
 - *[Email](Email.md)*
 	- [Convert email newsletters to RSS](https://kill-the-newsletter.com/)

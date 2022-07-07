@@ -5,6 +5,7 @@
 	- *[Math](Math.md)*
 		- [Случайные блуждания и цепи Маркова в геймдизайне / Хабр](https://habr.com/ru/company/mygames/blog/664392/)
 - **Links**
+	- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/)
 	- [Useful functions for game development - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/usefulfunctions.html)
 	- [Channel about game-dev in C++](https://youtube.com/c/MollyRocket)
 	- [Introducing the GAME ENGINE series! - YouTube](https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)

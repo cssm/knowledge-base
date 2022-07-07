@@ -1,5 +1,5 @@
 - **Notes**
-	- [Rust Synchronization Primitives](Rust%20Synchronization%20Primitives)
+	- [Rust Synchronization Primitives](Rust%20Synchronization%20Primitives.md)
 - **Links**
 	- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
 	-   [tokio - Rust](https://docs.rs/tokio/latest/tokio/)
