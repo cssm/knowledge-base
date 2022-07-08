@@ -11,6 +11,9 @@
 			- `network.captive-portal-service.enabled` set it to `false`- stop sending data about browser usage
 			- `apz.allow_zooming` and `apz.allow_zooming_out` - add/remove pinch to zoom like in [Safari](Internet/Safari.md)
 			- `accessibility.force_disabled` - set to `-1` to allow copy of *current tab [URL](Internet/URL.md)*
+				- [macos - Get URL of opened Firefox tabs from terminal - Ask Different](https://apple.stackexchange.com/questions/404841/get-url-of-opened-firefox-tabs-from-terminal)
+				- or use second approach (may not work)
+					- [Getting URL and Tab Title from Firefox with AppleScript | Matt’s programming blog](https://matthewbilyeu.com/blog/2018-08-24/getting-url-and-tab-title-from-firefox-with-applescript)
 			- `mousewheel.with_meta.action` - `cmd` + two fingers scroll 
 				- Possible values
 					- 0: Nothing happens
