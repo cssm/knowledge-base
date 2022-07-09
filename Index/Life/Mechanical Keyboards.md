@@ -1,4 +1,6 @@
 - **Links**
+	- [(3) It's So THIN! - Vissles LP85 - YouTube](https://www.youtube.com/watch?v=cYO--jWekXQ)
+		- mac-like mechanical keyboard 
 	- [The Planck EZ](http://bicycleforyourmind.com/page/4#planck-ez-helps-me-write)
 	- [Keychron K2](http://bicycleforyourmind.com/page/12#keychron-k2-clicks-with-me)
 	- [(2) Keychron K6. Обзор добротной механической клавиатуры. - YouTube](https://www.youtube.com/watch?v=DY-iwkjQ2iM)

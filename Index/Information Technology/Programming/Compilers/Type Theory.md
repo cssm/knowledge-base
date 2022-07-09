@@ -1,5 +1,6 @@
 - **Notes**
-	-  [Algebraic Data Types](Type%20Theory/Algebraic%20Data%20Types.md)
+	- [Enums](Enums.md)
+	- [Algebraic Data Types](Type%20Theory/Algebraic%20Data%20Types.md)
 	- [Static Typing and Strong Typing](Type%20Theory/Static%20Typing%20and%20Strong%20Typing.md)
 	- [Covariant, contravariant, invariant](Type%20Theory/Covariant,%20contravariant,%20invariant.md)
 	- [Void vs Unit](Type%20Theory/Void%20vs%20Unit.md)

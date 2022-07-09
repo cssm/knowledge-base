@@ -2,6 +2,7 @@
 	- *Make your critical section as small as possible*
 	- *Critical section* - section of code between call of `mutex.lock()` and `mutex.unlock()`
 	- If you want to avoid *race conditions* make sure that every *mutable, shared* object in the system is either protected by `mutex` or `atomic`
+	- [Assembly](../Assembly.md)
 	- [Atomics](Performance%20Engineering/Atomics.md)
 	- [Structured Concurrency](Performance%20Engineering/Structured%20Concurrency.md)
 	- [Concurrency VS Parallelism](Performance%20Engineering/Concurrency%20VS%20Parallelism.md)

@@ -1,2 +1,3 @@
 - **Links**
-	-  [Writing (Better) Markdown in Sublime Text 3 - Bicycle For Your Mind](http://bicycleforyourmind.com/markdown%20in%20sublime%20text%203)
+	- [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
+	- [Writing (Better) Markdown in Sublime Text 3 - Bicycle For Your Mind](http://bicycleforyourmind.com/markdown%20in%20sublime%20text%203)

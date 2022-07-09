@@ -9,14 +9,13 @@
 		- Enable everything 
 			- `sublime.log_input(True); sublime.log_commands(True); sublime.log_result_regex(True)`
 		- Disable everything
-			- `sublime.log_input(False); sublime.log_commands(False); sublime.log_result_regex(False)`
+			- `sublime.log_input(False); sublime.log_commands(False);sublime.log_result_regex(False)`
 	- *Location*
 		- on `macOS`
 			- `cd "$HOME/Library/Application Support/Sublime Text/Packages/User/"`
 		- [Use symlink to User directory instead of symlinks to config files](https://github.com/sublimehq/sublime_text/issues/5020)
 - **Links**
 	- [Issue tracker for Sublime Text](https://github.com/sublimehq/sublime_text)
-	- [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
 	- [OdatNurd - Sublime Text Tutorials - YouTube](https://www.youtube.com/c/OdatNurd/videos)
 	- [Key Bindings – Sublime Text Documentation](https://www.sublimetext.com/docs/key_bindings.html)
 	- [All you need to know about Sublime mousemap files.](https://gist.github.com/Ultra-Instinct-05/e1ca9a4d48641cc6c0af46fec0010611)
