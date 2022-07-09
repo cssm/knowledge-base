@@ -1,0 +1,4 @@
+- **Notes**
+	- *we can lower the resolution of image to blur it more efficiently* (classic complexity of bluring is $O(n*r^2)$ where $n$ - number of pixels, $r$ - radius of blur
+- **Links**
+	- [Blurring an Image | Apple Developer Documentation](https://developer.apple.com/documentation/accelerate/vimage/blurring_an_image)

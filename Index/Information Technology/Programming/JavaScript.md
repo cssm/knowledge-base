@@ -5,6 +5,7 @@
 		>  где cutoff выставляется в какое-нибудь вменяемое значение.
 		>  Плюс обрезать текст по ближайшему окончанию предложения, например, а не посередине слова
 - **Links**
+	- [Jarred-Sumner/bun: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.](https://github.com/Jarred-Sumner/bun)
 	- [Replicache](https://replicache.dev)
 		- `Replicache` is a JavaScript library for building zero-latency, live-updating web UI's based on Realtime Sync.
 	- [SolidJS · Reactive Javascript Library](https://www.solidjs.com)

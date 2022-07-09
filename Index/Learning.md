@@ -5,11 +5,12 @@
 	- [Task Management](Learning/Task%20Management.md)
 	- [Search Papers](Search%20Papers.md)
 - **Links**
-	- [The Missing Semester of Your CS Education · the missing semester of your cs education](https://missing.csail.mit.edu)
 	- [Learn Anything](https://learn-anything.xyz/)
 	- [Archives – BetterExplained](https://betterexplained.com/archives/)
 		- [Programming](Information%20Technology/Programming.md), [Math](Math.md), etc.
 	- [Learn X in Y minutes](https://learnxinyminutes.com/)
+	- [The Missing Semester of Your CS Education · the missing semester of your cs education](https://missing.csail.mit.edu)
+	- [prathyvsh/knowledge-atlases: Catalogue of portals that maps out roadmap for self learners](https://github.com/prathyvsh/knowledge-atlases)
 	- [Explained from First Principles](https://explained-from-first-principles.com/)
 	- [Algorithm Archive · Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 		- Explains stuff in [Computer Science](Information%20Technology/Programming/Computer%20Science.md), [Math](Math.md), [Computer Graphics](Information%20Technology/Programming/Computer%20Graphics.md) and more

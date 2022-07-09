@@ -1,4 +1,5 @@
 - **Notes**
+	- [CAShapeLayer](CAShapeLayer.md)
 	- [CALayer animations](../UIKit/CALayer%20animations.md)
 	- renders graphic on [GPU](../../../../Hardware/Components/GPU.md)
 	- responds for how [UIView](../UIKit/UIView.md) looks (color, shape etc.)

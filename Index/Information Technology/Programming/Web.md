@@ -1,4 +1,5 @@
 - **Notes**
+	- [Parsing](Parsing.md)
 	- [HTML](HTML.md)
 	- [CSS](CSS.md)
 	- [JavaScript](JavaScript.md)
@@ -7,6 +8,7 @@
 	- [Web Hooks](Web%20Hooks.md)
 	- [Web Sockets](Web%20Sockets.md)
 - **Links**
+	- [web.dev](https://web.dev)
+	- [Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn)
 	- [Дока](https://doka.guide/)
 	- [Interneting Is Hard](https://www.internetingishard.com/)
-	- [Как спарсить любой сайт? / Хабр](https://habr.com/ru/post/579336/)

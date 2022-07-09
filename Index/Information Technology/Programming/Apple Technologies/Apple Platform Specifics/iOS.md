@@ -16,5 +16,5 @@
 	- [iOS Design Tips](https://twitter.com/JordanMorgan10/status/1266717673053917184)
 	- [URL Schemes (Updated)](https://gist.github.com/deanlyoung/368e274945a6929e0ea77c4eca345560)
 	- [ArtSabintsev/Siren: Notify users when a new version of your app is available and prompt them to upgrade.](https://github.com/ArtSabintsev/Siren)
-	- [saagarjha/EffectivePower: viewer for Apple's power logging diagnostics in PLSQL format](https://github.com/saagarjha/EffectivePower)
-		- tool to monitor battery usage 
+	- [Solving CPU Usage Crashes with Xcode's Energy Organizer](https://swiftrocks.com/debug-cpu-exceptions-xcode-energy-reports)
+

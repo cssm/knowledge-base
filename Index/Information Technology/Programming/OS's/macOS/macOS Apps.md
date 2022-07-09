@@ -7,6 +7,7 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- [ExistentialAudio/BlackHole: BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.](https://github.com/ExistentialAudio/BlackHole)
 	- [folivora.ai - Great Tools for your Mac!](https://folivora.ai/keyboardcleantool)
 		- `KeyboardCleanTool` - app to lock your keyboard while cleaning your mac
 	- [Orion Browser by Kagi](https://browser.kagi.com)

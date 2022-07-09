@@ -7,3 +7,4 @@
 		- `2022-04-29T23:00:00Z` - `Z` here indicates that this is UTC
 - **Links**
 	- [RFC 3339 vs ISO 8601 vs HTML](https://ijmacd.github.io/rfc3339-iso8601/)
+	- [Weird time zones around the world - City Monitor](https://citymonitor.ai/community/here-are-some-worlds-most-stupid-time-zones-2863)

@@ -1,0 +1,6 @@
+- **Notes**
+	- [Bezier Curves](../../../../Math/Bezier%20Curves.md)
+- **Links**
+	- [Drawing Shapes Using Bézier Paths](https://developer.apple.com/library/archive/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/BezierPaths/BezierPaths.html)
+	- [A Beginner's Guide to Bezier Paths and Shape Layers | AppCoda](https://www.appcoda.com/bezier-paths-introduction/)
+		- *[CAShapeLayer](CoreAnimation/CAShapeLayer.md)*

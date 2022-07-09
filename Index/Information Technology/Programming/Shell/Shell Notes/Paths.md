@@ -1,3 +1,4 @@
+- [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to do it Correctly](https://dwheeler.com/essays/filenames-in-shell.html)
 ```bash
 # let's say we are in ~/folder/some_folder/file.sh
 
