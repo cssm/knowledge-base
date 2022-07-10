@@ -1,0 +1,13 @@
+- **Links**
+	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
+	- [Glassdoor](https://www.glassdoor.com/index.htm)
+	- [Relocate.me | Find Developer Jobs, IT Jobs Abroad 🌍](https://relocate.me)
+	- [∏ρØƒuñçτØρ Øπτµç∑ | 👁‍🗨›››› ::: profunctor optics](https://profunctor.io)
+	- [Jobs | People-First Jobs](https://peoplefirstjobs.com/jobs)
+	- [Remote Jobs in Programming, Design, Sales and more #OpenSalaries](https://remoteok.com)
+	- [Remote Jobs Europe | Work from home jobs EMEA](https://euremotejobs.com)
+	- [Remote Jobs - NoDesk](https://nodesk.co/remote-jobs/)
+	- [We Work Remotely: Remote jobs in design, programming, marketing and more](https://weworkremotely.com)
+	- [Startup Jobs | F6S](https://www.f6s.com/jobs?sort=newest)
+	- [Web3 and Crypto Jobs - Find Blockchain Startup Jobs Near You | AngelList Talent](https://angel.co/jobs)
+	- [Job Search | Indeed](https://www.indeed.com)

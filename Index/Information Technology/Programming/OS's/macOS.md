@@ -9,6 +9,7 @@
 	- [Remote Login macOS](macOS/macOS%20Notes/Remote%20Login%20macOS.md)
 	- [Using TouchID for sudo authentication](Using%20TouchID%20for%20sudo%20authentication.md)
 - **Links**
+	- [How to Create a Transparent PNG From a Mac App Icon in 3 Easy Steps](https://eshop.macsales.com/blog/64099-how-to-save-a-mac-app-icon-as-a-png/)
 	- [Fetch info about processes without `ps`](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/sysctl.3.html)
 		-[ `/proc`](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html) do not exist on macOS
 	- [macOS expert guide](https://gambala.notion.site/macOS-expert-guide-47546dd2d9ca482fa013032bcfb58cee)
