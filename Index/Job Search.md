@@ -11,3 +11,4 @@
 	- [Startup Jobs | F6S](https://www.f6s.com/jobs?sort=newest)
 	- [Web3 and Crypto Jobs - Find Blockchain Startup Jobs Near You | AngelList Talent](https://angel.co/jobs)
 	- [Job Search | Indeed](https://www.indeed.com)
+	- [Just Join IT: #1 Job Board for tech industry in Europe](https://justjoin.it)

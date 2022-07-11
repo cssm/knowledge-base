@@ -1,5 +1,6 @@
 - **Links**
 	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
+	- [Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com)
 - **Notes**	
 	- [Traveling](Traveling.md)
 	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)
