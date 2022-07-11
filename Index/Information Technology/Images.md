@@ -1,3 +1,3 @@
 - **Notes**
 	- [SVG](SVG.md)
-	- `PNG (Portable Network Graphics)` - bitmap based images that was developed as replacement for `GIF (Graphics Interchange Format)``
+	- [PNG](PNG.md)
