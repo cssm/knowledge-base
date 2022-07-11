@@ -1,3 +1,5 @@
+- **Links**
+	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
 - **Notes**	
 	- [Traveling](Traveling.md)
 	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)
