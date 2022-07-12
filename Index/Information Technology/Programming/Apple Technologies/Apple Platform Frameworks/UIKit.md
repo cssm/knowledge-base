@@ -23,7 +23,7 @@
 	- [kean/Nuke: Image loading system](https://github.com/kean/Nuke)
 	- [kean/NukeUI: Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit](https://github.com/kean/NukeUI)
 - **Notes**
-	- [[UIBezierPath.md]]
+	- [UIBezierPath](UIBezierPath.md)
 	- [UIKit make view hide sensetive content](UIKit%20make%20view%20hide%20sensetive%20content.md)
 	- [UIKit Snippets](UIKit%20Snippets.md)
 	- [UIImage](UIImage.md)
