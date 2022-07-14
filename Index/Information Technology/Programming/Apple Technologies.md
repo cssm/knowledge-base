@@ -9,6 +9,7 @@
 		- [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
 		- [More Efficient/Faster Average Color of Image](https://christianselig.com/2021/04/efficient-average-color/)
 - **Notes**
+	- [Apple Modular Architecture](Apple%20Modular%20Architecture.md)
 	- [Fastlane](Apple%20Technologies/Apple%20Platform%20Specifics/Fastlane.md)
 	- [Fluent Interfaces](Fluent%20Interfaces.md)
 	- [Apple Platform Working With Text](Apple%20Platform%20Working%20With%20Text.md)

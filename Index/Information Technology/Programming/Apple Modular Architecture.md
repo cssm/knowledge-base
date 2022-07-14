@@ -1,0 +1,5 @@
+- **Notes**
+	- We can achieve it using different technologies
+		- Using [Swift Package Manager](Swift%20Package%20Manager.md)
+		- Using [CocoaPods](CocoaPods.md)
+			- [Modular Architecture in iOS | by Leandro Pérez | Medium](https://medium.com/@leandromperez/a-modular-architecture-in-swift-aafd9026aa99)
