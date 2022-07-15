@@ -11,6 +11,7 @@
 	- *Secrets Management*
 		- [“How do I store secrets securely on the client?”](https://nshipster.com/secrets/). Answer: **“Don’t (but if you must, obfuscation wouldn’t hurt).”**
 - **Links**
+	- [Simulate poor internet connection on iOS device or simulator](https://levelup.gitconnected.com/simulate-poor-internet-connection-on-ios-device-or-simulator-5e0650cb44d8)
 	- [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/)
 	- [iOS Snippets](https://github.com/jrasmusson/ios-starter-kit)
 	- [iOS Design Tips](https://twitter.com/JordanMorgan10/status/1266717673053917184)
