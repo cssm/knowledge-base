@@ -6,6 +6,7 @@
 	- **Image** - separated file system
 - [macOS](../OS's/macOS.md)
 	- [abiosoft/colima: Better docker experience for macOS](https://github.com/abiosoft/colima)
+	- [lima-vm/lima: Linux virtual machines, typically on macOS, for running containerd](https://github.com/lima-vm/lima)
 - *Commands*
 	- `docker build -t  docker-image-name .` - Create image from docker file in current directory
 	- `docker images` - See all images
