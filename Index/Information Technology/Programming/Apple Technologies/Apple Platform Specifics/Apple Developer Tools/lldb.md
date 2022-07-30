@@ -1,3 +1,14 @@
+- To print string without escaping characters use `po print(str)` instead of `po str`
+	```
+	po json
+	// "{\n \"key\": \"value\"\n}\n\n"
+
+	po print(json)
+	// { 
+	//    "key": "value"
+	// }
+	```
+```
 -  [Swift](../../../Swift.md) 
 	```swift
 	e -l Swift -- import UIKit // `--` here is a separator between lldb command and expression itself
