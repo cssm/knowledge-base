@@ -3,3 +3,5 @@
 - **Links**
 	- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=1215s)
 	- [Blockchain platform to store files](https://www.arweave.org/)
+	- [Crypto Startup School](https://a16z.com/crypto-startup-school/)
+		- Learn How to Build a Crypto Company

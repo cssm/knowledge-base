@@ -1,6 +1,6 @@
 - **Notes**
 	- We can achieve it using different technologies
-		- Using [Swift Package Manager](Swift%20Package%20Manager.md)
-		- Using [CocoaPods](CocoaPods.md)
+		- Using [Swift Package Manager](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Dependencies/Swift%20Package%20Manager.md)
+		- Using [CocoaPods](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Dependencies/CocoaPods.md)
 			- [Modular iOS Part 1: Strangling the Monolith | by Sam Dods | Kin + Carta Created | Medium](https://medium.com/kinandcartacreated/modular-ios-strangling-the-monolith-4a6843a28992)
 			- [Modular Architecture in iOS | by Leandro Pérez | Medium](https://medium.com/@leandromperez/a-modular-architecture-in-swift-aafd9026aa99)
