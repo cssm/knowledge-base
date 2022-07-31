@@ -9,6 +9,7 @@
 	- *[Design](../../Design.md)*
 		- [Figma](Figma.md)
 - **Links**
+	- [Watermark Remover - Remove Watermarks Online from Images for Free](https://www.watermarkremover.io)
 	- [Syncthing. Sync files between computers](https://syncthing.net)
 	- [everestpipkin/tools-list: Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list#Coding)
 	- [Draw Unicode symbol and recognize it](http://shapecatcher.com/)
