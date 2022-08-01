@@ -1,4 +1,5 @@
 - **Notes**
+	- [iOS Analysing Metrics](iOS%20Analysing%20Metrics.md)
 	- [iOS Email Check](iOS%20Email%20Check.md)
 	- [iOS Haptic Engine](iOS%20Haptic%20Engine.md)
 	- [iOS Launch Screen](iOS%20Launch%20Screen.md)
@@ -6,7 +7,7 @@
 	- [iOS App Structure](iOS/iOS%20App%20Structure.md)
 	- [iOS Keyboard Types](iOS/iOS%20Keyboard%20Types.md)
 	- [iPhone's Screens Info](iOS/iPhone's%20Screens%20Info.md)
-	- [Spotlight](iOS/Spotlight.md)
+	- [iOS Spotlight](iOS/iOS%20Spotlight.md)
 	- [iOS User Interaction](iOS/iOS%20User%20Interaction.md)
 	- *Secrets Management*
 		- [“How do I store secrets securely on the client?”](https://nshipster.com/secrets/). Answer: **“Don’t (but if you must, obfuscation wouldn’t hurt).”**
@@ -17,5 +18,4 @@
 	- [iOS Design Tips](https://twitter.com/JordanMorgan10/status/1266717673053917184)
 	- [URL Schemes (Updated)](https://gist.github.com/deanlyoung/368e274945a6929e0ea77c4eca345560)
 	- [ArtSabintsev/Siren: Notify users when a new version of your app is available and prompt them to upgrade.](https://github.com/ArtSabintsev/Siren)
-	- [Solving CPU Usage Crashes with Xcode's Energy Organizer](https://swiftrocks.com/debug-cpu-exceptions-xcode-energy-reports)
 

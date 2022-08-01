@@ -9,7 +9,5 @@
 - **Links**
 	- [Pinouts.org. Quick reference for remembering the different pinout functions in your electronics projects.](https://pinouts.org/)
 	- [Паять просто by Mikhail Sannikov - Issuu](https://issuu.com/atarity/docs/soldering_is_easy_rus)
-- *[Telegram](Apps/Telegram.md)*
-	- [@embedded_system](https://t.me/embedded_system)
 - *Touch Screen*
 	- [I had no idea how touch screens worked until today. Twitter](https://twitter.com/danhollick/status/1455952225239326723?s=28)

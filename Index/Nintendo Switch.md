@@ -1,5 +1,3 @@
-- *[Telegram](Information%20Technology/Apps/Telegram.md)*
-	- [Discounts for Nintendo Switch in eShop](https://t.me/psprices_ru_switch)
 - **Links**
 	- [eShop-Prices.com – The best price comparison tool for Nintendo Switch games](https://eshop-prices.com/)
 	- [exelix11/SwitchThemeInjector: Create custom themes for the nintendo switch !](https://github.com/exelix11/SwitchThemeInjector)
