@@ -1,5 +1,8 @@
 - **Links**
 	- [kepano/obsidian-minimal: Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.](https://github.com/kepano/obsidian-minimal)
+		- [Home - Minimal Documentation](https://minimal.guide/Home)
+		- *[Obsidian Plugins](Obsidian%20Plugins.md)*
+			- [kepano/obsidian-minimal-settings: Settings plugin to control colors and fonts in Minimal Theme](https://github.com/kepano/obsidian-minimal-settings)
 	- [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
 	- [mgmeyers/obsidian-california-coast-theme: A minimalist obsidian theme inspired by macOS Big Sur](https://github.com/mgmeyers/obsidian-california-coast-theme)
 		- [obsidian-california-coast-theme configuraion](https://twitter.com/blaked_84/status/1374627137429377025)

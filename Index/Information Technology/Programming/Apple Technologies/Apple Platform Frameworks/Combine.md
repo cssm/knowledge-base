@@ -32,7 +32,8 @@
 				  print("Closure executed")
 				  promise(.success(42))
 				}
-			  }.eraseToAnyPublisher()
+			  }
+			  .eraseToAnyPublisher()
 			}
 
 			let regular = createRegularFuture() // "Closure executed"
