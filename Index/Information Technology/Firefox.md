@@ -21,6 +21,7 @@
 					- 2: Go back or go forward, in your history
 					- 3: Zoom in or out
 - **Links**
+	- [Firefox — Spyware Watchdog](https://spyware.neocities.org/articles/firefox.html)
 	- [Download Firefox Browser — Fast, Private & Free — from Mozilla](https://www.mozilla.org/en-US/firefox/new/)
 	- [How to manage notifications from web pages](https://support.mozilla.org/en-US/kb/push-notifications-firefox#w_upgraded-notifications)
 	- [How to import login data from a file in Mozilla Firefox](https://www.thewindowsclub.com/how-to-import-passwords-from-a-file-in-firefox)
