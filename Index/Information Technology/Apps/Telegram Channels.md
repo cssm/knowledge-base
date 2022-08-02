@@ -1,4 +1,4 @@
 - *[Hardware](../Hardware.md)*
 	- [@embedded_system](https://t.me/embedded_system)
-- *[Nintendo Switch](Nintendo%20Switch.md)*
+- *[Nintendo Switch](../../Nintendo%20Switch.md)*
 	- [Discounts for Nintendo Switch in eShop](https://t.me/psprices_ru_switch)

@@ -1,3 +1,5 @@
+- **Notes**
+	- You can modify look of Obsidian without creating a separate theme by adding your custom `*.css` files to `.obsidian/snippets/` + go to obsidian settings -> appearance -> scroll to `CSS Snipepts` section -> Your custom `css` will appear there (you may need press refresh button)
 - **Links**
 	- [kepano/obsidian-minimal: Meticulously designed to make Obsidian feel native across platforms. You can customize colors, fonts and more with the companion plugin Minimal Theme Settings.](https://github.com/kepano/obsidian-minimal)
 		- [Home - Minimal Documentation](https://minimal.guide/Home)

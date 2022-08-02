@@ -1,4 +1,5 @@
 - **Notes**
+	- `Obsidian` is a web-based application so you can press `cmd+option+i` to inspect [HTML](Information%20Technology/Programming/HTML.md) elements of layout and hide which you do not need
 	- [Obsidian Plugins](Obsidian%20Plugins.md)
 	- [Obsidian Themes](Obsidian%20Themes.md)
 	- [Obsidian Tools](Obsidian%20Tools.md)
