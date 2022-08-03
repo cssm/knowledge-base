@@ -15,3 +15,6 @@
 	- [macOS expert guide](https://gambala.notion.site/macOS-expert-guide-47546dd2d9ca482fa013032bcfb58cee)
 	- [nikitavoloboev/my-mac-os: List of applications and tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os)
 	- [barrykn/big-sur-micropatcher: A primitive USB patcher for installing macOS Big Sur on unsupported Macs](https://github.com/barrykn/big-sur-micropatcher)
+	- *[CLI](../Shell/CLI.md)*
+		- [rgcr/m-cli:  Swiss Army Knife for macOS](https://github.com/rgcr/m-cli)
+		- [herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-macos-command-line)

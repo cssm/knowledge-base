@@ -1,4 +1,5 @@
 - **Notes**
+	- [Figma](Information%20Technology/Programming/Figma.md)
 	- [UI-UX](Design/UI-UX.md)
 	- [Color Theory](Design/Color%20Theory.md)
 	- [Fonts](Design/Fonts.md)

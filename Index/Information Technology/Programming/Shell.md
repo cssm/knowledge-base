@@ -1,3 +1,5 @@
+- **Links**
+	- [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell)
 - **Notes**
 	- [CLI](Shell/CLI.md)
 	- [Dotifles](Dotifles.md)

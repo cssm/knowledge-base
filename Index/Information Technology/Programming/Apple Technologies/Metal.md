@@ -1,6 +1,7 @@
 > GPU rendering low-overhead API
 
 - **Links**
+	- [adamnemecek/awesome-metal: A collection of Metal and MetalKit projects and resources](https://github.com/adamnemecek/awesome-metal) 
 	- [dehesa/Metal: Examples for Apple's Metal APIs (rendering and compute).](https://github.com/dehesa/Metal)
 	- [Metal Part 1: Basics - Moog Engineering](https://engineering.moogmusic.com/2021/10/20/metal-part-1-basics/)
 		- Metal Part 1-4

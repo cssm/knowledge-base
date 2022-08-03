@@ -1,4 +1,5 @@
 - **Links**
+	- - [Jolg42/awesome-typography: ✏︎ Curated list about digital typography 🔥](https://github.com/Jolg42/awesome-typography)
 	- [Fonts - Apple Developer](https://developer.apple.com/fonts/)
 	- [iaolo/iA-Fonts: Free variable writing fonts from iA](https://github.com/iaolo/iA-Fonts)
 	- [Font Flipper - Find Free Fonts](https://fontflipper.com/upload)

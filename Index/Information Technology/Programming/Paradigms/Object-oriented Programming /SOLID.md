@@ -2,6 +2,7 @@
 	- *S*
 		- *Single Responsibility Principle*
 		- one class - one responsibility
+		- Means that  *Module should have only one reason to change*
 	- *O*
 		- *Open-Closed Principle*
 		- classes are easy to gain new functionality. ideally no need to change code written before

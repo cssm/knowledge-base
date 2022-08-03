@@ -9,5 +9,6 @@
 - **Links**
 	- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
 	- [Composable Architecture › A Tour of the Composable Architecture](https://www.pointfree.co/collections/composable-architecture/a-tour-of-the-composable-architecture)
+	- [antranapp/awesome-tca](https://github.com/antranapp/awesome-tca)
 	- [tgrapperon/swift-composable-environment: A library to derive and compose Environment's in The Composable Architecture.](https://github.com/tgrapperon/swift-composable-environment)
 		- Inspired by [SwiftUI](../Apple%20Platform%20Frameworks/SwiftUI.md) `Environment`
