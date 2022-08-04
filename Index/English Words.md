@@ -1,0 +1,36 @@
+- *e.g.* - например
+	- аббревиатура от латинской фразы *exempli gratia [ ig'zempli 'grætiə ]*, которая означает "например". Она может произноситься как *e.g. [ 'i'ʤi ]* или *for example*.
+		- A one-way journey, **e.g.** London – Frankfurt.
+- *i.e.* - то есть
+    - аббревиатура от латинской фразы *id est*, переводится как *that is*– *то есть*. Используется особенно часто в письменном языке для ввода дополнительной информации о чем-либо.
+	    - Applications are invited from university graduates, **i.e.** people with a first degree or higher.
+- `concession` - уступка
+- `constellation` - группировка, расстановка, созвездие
+- `woe to me` - горе мне
+- `deify` - обожествлять
+- `covenant` - договоренность
+- `clipped` - обрезанный
+- `sermon` - поучение, проповедь
+- `chewing (гл)` - жевать
+- `culpable` - виновный
+- `distort` - искажать
+- `eviscerated` - выпотрошенный
+- `penance` - искупление, кара
+- `coping` - справляться, преодолевать
+- `outcast` - изгой
+- `impermanence` - непостоянство, бренность
+- `relapse` - рецидив, повторение, возврат болезни
+- `to run an errand` - Как в рабочем чате нескучно сказать, что тебе нужно отойти по личным делам. 
+- `repent` - каяться
+- `lenient` - снисходительный
+- `fungable` - взаимозаменяемый 
+- `distinguished` - выдающийся, видный, изысканый, утонченный, отличный, безупречный
+- `dichotomy (дайкотоми)` - contrast between things
+- `umbiquitous (эмбикьютес)` - everywhere, all around
+- `plethora` - a lot of
+- `brag` - хвастаться
+- `fond of reading` - обожаю читать
+- `accustomed` - привыкший
+- `typical OF him` - типично для него
+- `angry WITH him` - зол на него
+- `keen on` - увлекаться

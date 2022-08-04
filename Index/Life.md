@@ -2,11 +2,13 @@
 	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
 	- [Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com)
 - **Notes**	
+	- [[English.md]]
+	- [Phone Numbers](Phone%20Numbers.md)
 	- [Traveling](Traveling.md)
 	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)
 	- [Lego](Life/Lego.md)
 	- [Life Hacks](Life/Life%20Hacks.md)
 	- [Board Games](Life/Board%20Games.md)
-	- *Карго культ* - придерживание атрибутов чего-то (богатая жизнь, зож, продуктивность и тд) но не придерживания для чего это делается и почему, те сути самого феномена
+	- *Карго культ* - придерживание атрибутов чего-то (богатая жизнь, зож, продуктивность и тд) но не придерживание для чего это делается и почему, те сути самого феномена
 	- *Single Event Upset (SEU)* или нарушение в результате единичного события - например случайная заряженная частича заряжает электронами транзистор в резуьтате чего бит меняется с 0 на 1 (это может привести к различным сбоям, например на выборах в бельгии кандидат резко получил 4096 голосов)
 		- [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)

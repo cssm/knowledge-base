@@ -29,6 +29,7 @@
 	- [Regex](Programming/Regex.md)
 	- [GraphQL](Programming/GraphQL.md)
 	- [JSON](Programming/JSON.md)
+	- [CSV](CSV.md)
 	- [protobuf](protobuf.md)
 	- [System Design](../System%20Design.md)
 	- [[Software Licensing.md]]

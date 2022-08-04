@@ -1,7 +1,7 @@
 - **Notes**
+	- [iPhone](iPhone.md)
 	- [Monitors](Monitors.md)
 	- [Fun Devices](Hardware/Fun%20Devices.md)
-	- [iPhone](iPhone.md)
 	- [Architectures](Hardware/Architectures.md)
 	- [Components](Hardware/Components.md)
 	- **Clock cycle** - a quant of time to execute one amount of work for CPU (commands can take more than one clock cycle to be completed)

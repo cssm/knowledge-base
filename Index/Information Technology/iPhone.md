@@ -1,4 +1,4 @@
-> running [iOS](Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
-
 - **Links**
+	- [(80) How to patina your phone case - YouTube](https://www.youtube.com/watch?v=0L7fP8HxYXo)
+		- как искусственно состарить официальный leather case
 	- [iPhone 12 Leather Cases & Folios | NOMAD®](https://nomadgoods.com/collections/iphone-12-cases)
