@@ -30,6 +30,7 @@
 	- [JSON](Programming/JSON.md)
 	- [protobuf](protobuf.md)
 	- [System Design](../System%20Design.md)
+	- [[Software Licensing]]
 	- [Clean And Extendable Code](Programming/Clean%20And%20Extendable%20Code.md)
 	- [Performance Engineering](Programming/Performance%20Engineering.md)
 	- [Computer Science](Programming/Computer%20Science.md)

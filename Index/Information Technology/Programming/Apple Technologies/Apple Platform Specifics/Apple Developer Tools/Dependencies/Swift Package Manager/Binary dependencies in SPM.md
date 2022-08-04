@@ -1,3 +1,6 @@
+- **Links**
+	- [Binary Frameworks in Swift - WWDC19 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/416/)
+
 we can add binary dependency by using `.binaryTarget` it can be local (using path) or remote using url and checksum (to verify that it's the same file))
 
 `XCFramework` or Binary frameword
