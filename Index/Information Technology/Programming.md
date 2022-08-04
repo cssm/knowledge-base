@@ -1,7 +1,8 @@
 - **Notes**
 	- A perfect abstraction is a black box that you never have to open. A leaky abstraction is a black box that you have to open up occasionally.
-	- Sanitise Data - make user input safe (remove what you don't need)
-	- Data Normalization - change data to format that we need
+	- *Sanitise Data* - make user input safe (remove what you don't need)
+	- *Data Normalisation* - change data to format that we need
+	- [Tabs vs Spaces](Tabs%20vs%20Spaces.md)
 	- [Developer Experience](Developer%20Experience.md)
 	- [CI](CI.md)
 	- [Hints for writing UNIX tools](Programming/Hints%20for%20writing%20UNIX%20tools.md)
@@ -30,7 +31,7 @@
 	- [JSON](Programming/JSON.md)
 	- [protobuf](protobuf.md)
 	- [System Design](../System%20Design.md)
-	- [[Software Licensing]]
+	- [[Software Licensing.md]]
 	- [Clean And Extendable Code](Programming/Clean%20And%20Extendable%20Code.md)
 	- [Performance Engineering](Programming/Performance%20Engineering.md)
 	- [Computer Science](Programming/Computer%20Science.md)

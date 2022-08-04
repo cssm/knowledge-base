@@ -1,0 +1,7 @@
+- **Notes**
+	- Use spaces when you want to enforce you style
+	- Use tabs when you want everybody to decide how code looks on there's screens
+		- also good for accessibility
+			- on Braille displays one tab is one symbol while one space also a one symbol, so typical indentation occupies *4 symbols instead of 1*
+- **Links** 
+	- [xcode - Indenting with white spaces, tabs, and how many spaces or the tab width - Stack Overflow](https://stackoverflow.com/questions/3335966/indenting-with-white-spaces-tabs-and-how-many-spaces-or-the-tab-width)
