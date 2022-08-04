@@ -1,7 +1,8 @@
 - **Links**
+	- [ozntel/oz-image-in-editor-obsidian: This Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.](https://github.com/ozntel/oz-image-in-editor-obsidian)
+	- [scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian](https://github.com/scambier/obsidian-omnisearch)
 	- [kepano/obsidian-hider: Hide Obsidian UI elements such as tooltips, status, titlebar and more](https://github.com/kepano/obsidian-hider)
 	- [mgmeyers/obsidian-style-settings: Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables](https://github.com/mgmeyers/obsidian-style-settings)
-	- [kepano/obsidian-system-dark-mode: Automatically use the operating system's setting to switch between light and dark mode.](https://github.com/kepano/obsidian-system-dark-mode)
 	- [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian)
 	- [tadashi-aikawa/obsidian-another-quick-switcher: This is an Obsidian plugin which is another choice of Quick switcher.](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 		- Replacing default `Quick Switcher` + search backlinks

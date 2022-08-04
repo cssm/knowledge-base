@@ -5,4 +5,5 @@
 	- [Obsidian Tools](Obsidian%20Tools.md)
 	- [Obsidian Icons](Obsidian%20Icons.md)
 - **Links**
+	- [Obsidian | Everything I know](https://github.com/Yeboster/autocomplete-obsidian)
 	- [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)

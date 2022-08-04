@@ -57,7 +57,7 @@ Adding more relevant errors
 
 ![](Swift%20Result%20builders/Untitled%201.png)
 
-Basicly result builder rewrites `switch` as a bunch of nested `if-else` statements. Same for the `else if`
+Basically result builder rewrites `switch` as a bunch of nested `if-else` statements. Same for the `else if`
 
 ```swift
 let v0: Region
