@@ -1,6 +1,7 @@
 - **Notes**
 	- [Software Achitecture](Software%20Achitecture.md)
 - **Links**
+	- [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true)
 	- [Как прокачаться в проектировании программного обеспечения — список книг | by Alexander Polomodov | Medium](https://apolomodov.medium.com/software-design-books-743be52e4c71)
 	- [Episode 06: Intro to Architecture and Systems Design Interviews - YouTube](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 	- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)

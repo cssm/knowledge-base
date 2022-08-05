@@ -1,6 +1,8 @@
+> Use witnesses instead of protocols if you can
+
 - **Notes**
-	- *Use Cases*
-		- When you do not want to create a new type but still want abstract something
+	- [Protocol Witnesses Advantages](Protocol%20Witnesses%20Advantages.md)
+	- [Protocol Witnesses Limitations](Protocol%20Witnesses%20Limitations.md)
 	- *Naming*
 		```swift
 		// Instead of

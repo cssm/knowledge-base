@@ -44,7 +44,7 @@ struct Person: Something {
 let array: [Something] = [Person(), Person()] // element of array could be anything: struct, class, Int, etc. so swift allocates every in heap
 ```
 
-## Has value semantics by default
+## Has_value_semantics_by_default
 
 > Use a class-only protocol when the behavior defined by that protocol’s requirements assumes or requires that a conforming type has reference semantics rather than value semantics.
 
