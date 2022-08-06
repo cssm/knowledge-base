@@ -3,6 +3,7 @@
 - **Links**
 	- [APNS ports & hostnames](https://emm.how/t/apns-ports-hostnames/224)
 	- [Apple Developer Documentation](https://developer.apple.com/documentation/bundleresources/entitlements/aps-environment)
+	- [Notification sending pipeline at Flo | by Ivan Zhamoidzin | Flo Health | Aug, 2022 | Medium](https://medium.com/flo-health/notification-sending-pipeline-at-flo-2e4621a6ab82)
 - *Environments*
 	- develop (sandbox): `api.sandbox.push.apple.com`
 	- production: `api.push.apple.com`

@@ -3,7 +3,9 @@
 	- [Go Project structure and testing](Go/Go%20Project%20structure%20and%20testing.md)
 - **Links**
 	- [Effective Go](https://golang.org/doc/effective_go#if)
+	- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 	- *Good critique of Go*
+		- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 		- [I want off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
 			- Tricks you with simplicity even when it's not
 				- Go thinks that all paths are valid [Unicode](../../Unicode.md) (there're not) as a result they're using strings for path's everywhere
@@ -14,4 +16,3 @@
 				- `int` having value of `0` by default and no [Optionals](Swift/Swift%20Notes/Optionals.md)
 			- Go until some version didn't have anything for [Monotonic Time](Apple%20Technologies/Apple%20Platform%20Cuncurrency/Monotonic%20Time.md). After they added it they're decided to keep monotonic and non-monotonic time in the same object, even if don't need them both 🤷‍♂️
 			- Wierd 
-	- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)

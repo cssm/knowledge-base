@@ -1,0 +1,1 @@
+- [cbloom rants: Library Writing Realizations](https://cbloomrants.blogspot.com/2015/09/library-writing-realizations.html)

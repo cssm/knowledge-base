@@ -2,7 +2,7 @@
 
 - **Notes**
 	```rust
-		// reduce takes first element of iterator as accumulator
+	// reduce takes first element of iterator as accumulator
 	pub fn fold_vs_reduce() {
 	  let arr: Vec<i32> = vec![1, 2, 3];
 	  let sum: Option<i32> = arr.iter().map(|v| *v).reduce(|a, b| a + b); 

@@ -14,7 +14,7 @@
 - `option + cmd + E` - select for search
 - `ctrl + I` - format code
 - `ctrl + cmd + R` - run without building
-- `ctrl + 6` - show document items
+- `ctrl + 6` - show all symbols in current file (classes, methods, etc.)
 - `cmd + L` - jump to line
 - `ctrl + 0`- open schemes list 
 - `cmd + shift + j` - show current file in file hierarchy
