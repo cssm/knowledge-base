@@ -14,7 +14,7 @@
 	- [Folder reference vs Folder group](Xcode/Folder%20reference%20vs%20Folder%20group.md)
 	- [Run Script Phase](Xcode/Run%20Script%20Phase.md)
 	- [Create ipa file](Xcode/Create%20ipa%20file.md)
-	- [Useful Extensions](Xcode/Useful%20Extensions.md)
+	- [Xcode Useful Extensions](Xcode/Xcode%20Useful%20Extensions.md)
 	- *Editor Configuration *
 		- Show invisible (like tabs, spaces, new lines etc.)
 			- `Editor -> Invisibles` 

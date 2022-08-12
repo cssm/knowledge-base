@@ -138,3 +138,18 @@ func isNormalHousePet(_ pet: Animal) -> Bool {
 print(isNormalHousePet(Cat())) // true
 print(isNormalHousePet(Lion())) // false
 ```
+
+- We can getters/setters and property observers on *local* variables
+```swift
+func test() {
+  var local0: Int {
+    get {}
+    set {}
+  }
+
+  var local1: Int = 0 {
+    willSet {}
+    didSet {}
+  }
+}
+```

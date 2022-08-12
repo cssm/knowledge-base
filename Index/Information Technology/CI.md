@@ -1,4 +1,3 @@
-
 > a.k.a. continuous integration
 
 - **Notes**

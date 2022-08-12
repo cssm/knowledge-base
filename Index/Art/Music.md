@@ -1,2 +1,5 @@
 - **Notes**
 	- [Spotify](../Spotify.md)
+- **Links**
+	- [100R — orca](https://100r.co/site/orca.html)
+		- kinda cool synthesiser

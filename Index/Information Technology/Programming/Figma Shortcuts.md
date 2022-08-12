@@ -1,0 +1,2 @@
+- `cmd + \` - toggle ui
+- `cmd + shift + \` - toggle left ui panel

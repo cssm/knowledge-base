@@ -1,5 +1,5 @@
 - **Notes**
-	- 
+	- [Figma Shortcuts](Figma%20Shortcuts.md)
 - **Links**
 	- [Figma — новый индустриальный стандарт? (Обзор программы) - YouTube](https://www.youtube.com/watch?v=5HKP_318fQM)
 	- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*

@@ -1,4 +1,5 @@
 - **Notes**
+	- [lipo](lipo.md)
 	- *[Dynamic Library](Information%20Technology/Programming/Code%20Sharing/Dynamic%20Library.md)*
 		-  Ok so what’s dynamic linking? For our purposes it’s a system where you can compile an application against some abstract *description* of an interface without providing an actual implementation of it.
 - **Links**

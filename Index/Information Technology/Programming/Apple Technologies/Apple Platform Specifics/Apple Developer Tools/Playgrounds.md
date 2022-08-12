@@ -1,7 +1,18 @@
+- **Notes**
+	- [Playground Shortcuts](Playground%20Shortcuts.md)
+- **Links**
+	- 
 # Playgrounds
 
 ```swift
 import PlaygroundSupport
+```
+
+## Stop execution
+
+```swift
+// stop the playground execution
+PlaygroundPage.current.finishExecution()
 ```
 
 ## Working on async code in a playground

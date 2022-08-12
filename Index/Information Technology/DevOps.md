@@ -1,0 +1,3 @@
+- **Notes**
+	- [CI](CI.md)
+	- [Deployment](Deployment.md)
