@@ -1,4 +1,6 @@
 - **Notes**
 	- Virtual Private Network
 - **Links**
+	- [Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
+		- recommendation from [here](https://t.me/nikitonsky_pub/367)
 	- [Outline VPN - Access to the free and open internet](https://getoutline.org/how-it-works/)

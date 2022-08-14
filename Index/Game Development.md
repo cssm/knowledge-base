@@ -5,6 +5,7 @@
 	- *[Math](Math.md)*
 		- [Случайные блуждания и цепи Маркова в геймдизайне / Хабр](https://habr.com/ru/company/mygames/blog/664392/)
 - **Links**
+	- [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org)
 	- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/)
 	- [Useful functions for game development - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/usefulfunctions.html)
 	- [Channel about game-dev in C++](https://youtube.com/c/MollyRocket)

@@ -1,7 +1,3 @@
-```sh
-# prints raw SIL to stdout
-swiftc -emit-silgen -O <file>.swift
-```
 - *Boxing* - value type wrapped in reference type i.e. allocated on the heap
 	- When this *can* happen? (this is not happening when compiler can perform inlining of the type)
 		- When conforming to protocol
@@ -128,13 +124,13 @@ func kek() {
 
 ## Lifehacks
 
-![](Writing%20High-Performance%20Swift%20Code/group(by_)_loop_with_subscript__get_set.png)
-
-![](Writing%20High-Performance%20Swift%20Code/mutation_happens_in-place.png)
+- [Ben Cohen - Fast Safe Mutable State - YouTube](https://www.youtube.com/watch?v=BXJIIQ-B4-E)
+- ![](Writing%20High-Performance%20Swift%20Code/group(by_)_loop_with_subscript__get_set.png)
+- ![](Writing%20High-Performance%20Swift%20Code/mutation_happens_in-place.png)
 
 > Red line is exclusive access (like & param)
 
-`yield` only can be called once (due to exclusive access to value). It's like [inout](inout.md)  returned value
+- `yield` only can be called once (due to exclusive access to value). It's like [inout](inout.md)  returned value
 
 > Use += instead of + in reduce
 

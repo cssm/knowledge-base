@@ -1,0 +1,4 @@
+- **Links**
+	- [Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com)
+	- [IINA - The modern media player for macOS](https://iina.io)
+	- [Infuse 7 - An Elegant Video Player | Firecore](https://firecore.com/infuse)

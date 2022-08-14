@@ -5,14 +5,14 @@
 	- [Protocol Witnesses Limitations](Protocol%20Witnesses%20Limitations.md)
 	- *Naming*
 		```swift
-		// Instead of
-		protocol Diffable {	
-		  func diff(old: Self, new: Self) -> String
+		// Instead
+		protocol Combinable {
+		  func combine(_ other: Self) -> Self
 		}
-
-		// Do 
-		struct Diffing<Value> {
-		  let diff: (Value, Value) -> String
+		
+		// Do
+		struct Combining<Value> {
+		  let combine: (_ self: Value, _ other: Value) -> Value
 		}
 		```
 - **Links**

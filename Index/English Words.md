@@ -4,6 +4,8 @@
 - *i.e.* - то есть
     - аббревиатура от латинской фразы *id est*, переводится как *that is*– *то есть*. Используется особенно часто в письменном языке для ввода дополнительной информации о чем-либо.
 	    - Applications are invited from university graduates, **i.e.** people with a first degree or higher.
+- `envy` - зависть
+	- хороший синоним `jelosy`
 - `chimney`- дымоход
 - `concession` - уступка
 - `constellation` - группировка, расстановка, созвездие

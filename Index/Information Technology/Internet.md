@@ -1,3 +1,4 @@
+
 - **Links**
 	- [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 	- [How the Internet works :: Jon Gjengset](https://thesquareplanet.com/blog/how-the-internet-works/)
@@ -26,3 +27,5 @@
 	- [BGB](BGB.md)
 	- [ASN](ASN.md)
 	- [Port Forwarding](Port%20Forwarding.md)
+- **Docs**
+	- ![](Что_делать,_если_отключат_интернет_Гайд.pdf)
