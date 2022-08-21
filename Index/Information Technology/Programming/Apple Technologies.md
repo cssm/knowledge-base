@@ -1,13 +1,9 @@
 - **Links**
-	- [Screen Sizes](https://www.screensizes.app/?model=iphone-13)
+	- [Improving Your App's Performance | Apple Developer Documentation](https://developer.apple.com/documentation/metrickit/improving_your_app_s_performance)
 	- [Reducing Your App’s Launch Time | Apple Developer Documentation](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time)
 	- [All - Downloads - Apple Developer](https://developer.apple.com/download/all/)
-	- *[Learning](../../Learning.md)*
-		- [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
-		-  [macshome/The-Wisdom-of-Quinn: Apple Technologies Explained](https://github.com/macshome/The-Wisdom-of-Quinn)
-		- [Getting Pixels onto the Screen · objc.io](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/)
-		- [Optimizing Images](https://www.swiftjectivec.com/optimizing-images/)
-		- [More Efficient/Faster Average Color of Image](https://christianselig.com/2021/04/efficient-average-color/)
+	- [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
+	- [macshome/The-Wisdom-of-Quinn: Apple Technologies Explained](https://github.com/macshome/The-Wisdom-of-Quinn)
 - **Notes**
 	- [Apple Modular Architecture](Apple%20Modular%20Architecture.md)
 	- [Fastlane](Apple%20Technologies/Apple%20Platform%20Specifics/Fastlane.md)

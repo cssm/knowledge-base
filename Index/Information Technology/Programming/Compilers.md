@@ -6,3 +6,5 @@
 	- *Backend* - translates intermediate representation (if any exists) to corresponding machine instructions (assembly)
 - **Links**
 	-  [Performance - Luau](https://luau-lang.org/performance)
+	- *[Telegram](../Apps/Telegram.md)*
+		- https://t.me/plcomp

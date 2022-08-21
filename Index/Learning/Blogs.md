@@ -21,4 +21,4 @@
 	- [SwiftRocks](https://swiftrocks.com/)
 	- [Blog · objc.io](https://www.objc.io/blog/)
 	- [Point-Free](https://www.pointfree.co/blog)
-	-  [robb.is](https://robb.is/archive)
+	- [robb.is](https://robb.is/archive)

@@ -1,6 +1,9 @@
 - **Notes**
 	- [Meetings](Meetings.md)
 - **Links**
+	- [Несколько месяцев назад меня повысили из обычного разработчика до «тимлида»](https://bureau.ru/soviet/20190905/)
+		- помнить что в разных компаниях разные требования к тим-лимам (в стартапах обычно они делаеют все ,а в больших компаниях отвечают за найм и рост разработчиков)
+		- полезные ссылки
 	- [Egor Tolstoy on Twitter: "Тред про то, как из разработчика перейти в продакт-менеджеры без покупки дорогих курсов. 🧵Лайк, ретвит, погнали." / Twitter](https://mobile.twitter.com/igrekde/status/1432721716480970758)
 	- [Problem Solving: как решить проблему потери клиентов (кейс Авито)](https://skillsetter.io/blog/how-to-problem-solving)
 	- [University of Threads > Product Management](https://universityofthreads.com)
@@ -11,9 +14,9 @@
 	- [Data-Informed Product Building. An introduction from Sequoia's Data… | by Sequoia | Sequoia Capital Publication | Medium](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 	- [Proceedings Template - WORD - 2016CIKM_MeasuringMetrics.pdf](https://exp-platform.com/Documents/2016CIKM_MeasuringMetrics.pdf)
 	- [Виталий Черемисинов, EXPF, - Как искать прокси-метрики в продуктах - YouTube](https://www.youtube.com/watch?v=fSRKOr3L6AI)
-- *Analytics*
-	- [mikecao/umami: Umami is a simple, fast, website analytics alternative to Google Analytics.](https://github.com/mikecao/umami)
-	- [Firebase](https://firebase.google.com/)
-	- [Adjust](https://www.adjust.com/)
+	- *Analytics*
+		- [mikecao/umami: Umami is a simple, fast, website analytics alternative to Google Analytics.](https://github.com/mikecao/umami)
+		- [Firebase](https://firebase.google.com/)
+		- [Adjust](https://www.adjust.com/)
 
 

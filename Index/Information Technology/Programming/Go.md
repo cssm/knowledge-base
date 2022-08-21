@@ -2,6 +2,7 @@
 	- [Go Syntax](Go/Go%20Syntax.md)
 	- [Go Project structure and testing](Go/Go%20Project%20structure%20and%20testing.md)
 - **Links**
+	- [Go by Example](https://gobyexample.com)
 	- [Effective Go](https://golang.org/doc/effective_go#if)
 	- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 	- *Good critique of Go*

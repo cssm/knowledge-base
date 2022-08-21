@@ -1,0 +1,6 @@
+- **Notes**
+	- [Computer Science](Information%20Technology/Programming/Computer%20Science.md)
+- **Links**
+	- [Leetcode](Information%20Technology/Programming/Leetcode.md)
+	- [The HackerRank Interview Preparation Kit | HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
+	- [Telegram: Contact @coding_interviews](https://t.me/coding_interviews)

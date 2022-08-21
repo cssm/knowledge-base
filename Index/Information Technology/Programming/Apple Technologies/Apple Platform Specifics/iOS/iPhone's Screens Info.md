@@ -1,3 +1,2 @@
-# iPhone's Screens Info
-
-[https://gist.github.com/marcedwards/8236f288d8739641970b27c5ce9ee634](https://gist.github.com/marcedwards/8236f288d8739641970b27c5ce9ee634)
+- [Screen Sizes](https://www.screensizes.app/?model=iphone-13)
+- [displaysizes.txt](https://gist.github.com/marcedwards/8236f288d8739641970b27c5ce9ee634)

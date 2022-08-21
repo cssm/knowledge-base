@@ -1,4 +1,5 @@
 - **Notes**
+	- [Coding Interviews](Coding%20Interviews.md)
 	- [Independence](Independence.md)
 	- [Job Search](Job%20Search.md)
 	- [Good Questions To Ask Your Interviewer](Good%20Questions%20To%20Ask%20Your%20Interviewer.md)
@@ -16,7 +17,4 @@
 	-  [raywenderlich/ios-interview: The resources and instructions for the iOS Sample Project interview question.](https://github.com/raywenderlich/ios-interview)
 - *[LaTeX](Information%20Technology/Programming/LaTeX.md)*
 	- [posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
-- *[Computer Science](Information%20Technology/Programming/Computer%20Science.md)*
-	- [Leetcode](Information%20Technology/Programming/Leetcode.md)
-	- [The HackerRank Interview Preparation Kit | HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 

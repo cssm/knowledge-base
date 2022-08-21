@@ -11,5 +11,8 @@
 	- [Concurrency in Rust](Concurrency%20in%20Rust.md)
 	- [Rust Community](Rust%20Community.md)
 	- [Rust Functional Programming](Rust%20Functional%20Programming.md)
+- **Links**
+	- [Telegram: Contact @dereference_pointer_there](https://t.me/dereference_pointer_there)
+	- [Telegram: Contact @ihatereality](https://t.me/ihatereality)
 
 

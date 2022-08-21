@@ -1,8 +1,11 @@
 - **Links**
 	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
 	- [Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com)
+	- [The Official Passport Index Ranking | Henley & Partners](https://www.henleyglobal.com/passport-index/ranking)
 - **Notes**	
-	- [[English.md]]
+	- [Buying Things](Buying%20Things.md)
+	- [Places I Lived In](Places%20I%20Lived%20In.md)
+	- [English](English.md)
 	- [Phone Numbers](Phone%20Numbers.md)
 	- [Traveling](Traveling.md)
 	- [Mechanical Keyboards](Life/Mechanical%20Keyboards.md)

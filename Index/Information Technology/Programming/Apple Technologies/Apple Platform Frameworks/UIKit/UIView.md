@@ -1,5 +1,8 @@
-- `view.layer.presentation()?.frame`
-	- we can retrieve *position* of view *during the animation*
+- **Notes**
+	- `view.layer.presentation()?.frame`
+		- we can retrieve *position* of view *during the animation*
+- **Links**
+	- [Getting Pixels onto the Screen · objc.io](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/)
 
 ## Frame, bounds etc.
 

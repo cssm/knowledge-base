@@ -1,5 +1,4 @@
 - **Notes**
-	- [Leetcode](Leetcode.md)
 	- [Data Structures](Computer%20Science/Data%20Structures.md)
 	- [Algorithms](Computer%20Science/Algorithms.md)
 	- [Tips for problem solving](Tips%20for%20problem%20solving.md)

@@ -1,4 +1,5 @@
 - **Links**
+	- [Keyboards | Everything I know](https://wiki.nikiv.dev/keyboards/)
 	- [(3) It's So THIN! - Vissles LP85 - YouTube](https://www.youtube.com/watch?v=cYO--jWekXQ)
 		- mac-like mechanical keyboard 
 	- [The Planck EZ](http://bicycleforyourmind.com/page/4#planck-ez-helps-me-write)
