@@ -7,3 +7,4 @@
 	- [Introduction — Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
 	- [The Ultimate Guide to Architectural Decision Records](https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee)
 		- `ADR's` - document important project architecture decisions
+	- [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/) 

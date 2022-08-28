@@ -5,6 +5,7 @@
 	- [Cool videos about CS related concepts and programming in general](https://www.youtube.com/user/briantwill)
 	- [hhp3. Nice explanation of different CS and general programming related stuff](https://www.youtube.com/user/hhp3/videos)
 - *[Rust](../Information%20Technology/Programming/Rust.md)*
+	- [fasterthanli.me](https://fasterthanli.me)
 	- [Jon Gjengset - YouTube](https://www.youtube.com/c/JonGjengset/videos)
 - *[Computer Science](../Information%20Technology/Programming/Computer%20Science.md)*
 	- [base.cs](https://medium.com/basecs)

@@ -12,3 +12,5 @@
 	- [Dead Lock](Dead%20Lock.md)
 - **Links**
 	- [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/)
+	- [Memory Footprint Reduction Strategies](https://vimeo.com/649009599)
+	- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks!](https://blog.cloudflare.com/branch-predictor/)

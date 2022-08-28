@@ -10,7 +10,7 @@
 	- [Reverse Engineering](Reverse%20Engineering.md)
 	- [Hacking](Hacking.md)
 	- [Working With Text On Computer](Working%20With%20Text%20On%20Computer.md)
-	- [Linkers](../Linkers.md)
+	- [Linking](Linking.md)
 	- [Open Source](../Open%20Source.md)
 	- [Programming Languages](Programming%20Languages.md)
 	- [Function parameter vs argument](Function%20parameter%20vs%20argument.md)

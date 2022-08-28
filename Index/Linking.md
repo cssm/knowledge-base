@@ -4,4 +4,5 @@
 		-  Ok so what’s dynamic linking? For our purposes it’s a system where you can compile an application against some abstract *description* of an interface without providing an actual implementation of it.
 - **Links**
 	- [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
+	- [Dynamic Linking Is Bad For Apps And Static Linking Is Also Bad For Apps // -dealloc](https://belkadan.com/blog/2022/02/Dynamic-Linking-and-Static-Linking/)
 	- [rui314/mold: mold: A Modern Linker](https://github.com/rui314/mold)
