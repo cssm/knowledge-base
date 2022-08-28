@@ -1,3 +1,4 @@
+- [Life](Index/Life.md)
 - [Productivity](Productivity.md)
 - [Learning](Index/Learning.md)
 - [Books](Index/Books.md)
@@ -6,8 +7,5 @@
 - [Finances & Economics](Index/Finances%20&%20Economics.md)
 - [Career](Index/Career.md)
 - [Design](Index/Design.md)
-- [Health](Index/Health/Health.md)
-- [Cooking](Index/Cooking.md)
 - [Art](Index/Art/Art.md)
-- [Life](Index/Life.md)
 - [Logic](Index/Logic.md)

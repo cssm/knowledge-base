@@ -1,8 +1,6 @@
-- **Links**
-	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
-	- [Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com)
-	- [The Official Passport Index Ranking | Henley & Partners](https://www.henleyglobal.com/passport-index/ranking)
 - **Notes**	
+	- [Cooking](Cooking.md)
+	- [Health](Health/Health.md)
 	- [Buying Things](Buying%20Things.md)
 	- [Places I Lived In](Places%20I%20Lived%20In.md)
 	- [English](English.md)
@@ -15,3 +13,8 @@
 	- *Карго культ* - придерживание атрибутов чего-то (богатая жизнь, зож, продуктивность и тд) но не придерживание для чего это делается и почему, те сути самого феномена
 	- *Single Event Upset (SEU)* или нарушение в результате единичного события - например случайная заряженная частича заряжает электронами транзистор в резуьтате чего бит меняется с 0 на 1 (это может привести к различным сбоям, например на выборах в бельгии кандидат резко получил 4096 голосов)
 		- [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- **Links**
+	- [Cost of Living](https://www.numbeo.com/cost-of-living/)
+	- [Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com)
+	- [The Official Passport Index Ranking | Henley & Partners](https://www.henleyglobal.com/passport-index/ranking)
+	- [Trav White - YouTube](https://www.youtube.com/channel/UC6HEhd6eFIAmnwoi77hnNIw)

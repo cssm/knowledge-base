@@ -1,8 +1,10 @@
 - **Notes**
 	- [Nintendo Switch](../Nintendo%20Switch.md)
+	- [Legend Of Zelda](Legend%20Of%20Zelda.md)
 	- [Dead Cells](../Dead%20Cells.md)
 	- [Factorio](../Factorio.md)
 - **Links**
+	- [Starsector](https://fractalsoftworks.com)
 	- [Starbound](https://playstarbound.com/)
 	- [Stardew Valley](https://www.stardewvalley.net/)
 	- [Bad North - A Minimalistic, Real-Time Tactics Roguelite with Vikings](https://www.badnorth.com/)

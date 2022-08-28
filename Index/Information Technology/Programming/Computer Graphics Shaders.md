@@ -1,0 +1,4 @@
+- **Notes**
+	- `Shader` - a program that runs parallel processing of pixels on the screen
+- **Links**
+	- [Shaders Explained: Gradients | MTLDoc](https://mtldoc.com/metal/2022/08/04/shaders-explained-gradients.html)

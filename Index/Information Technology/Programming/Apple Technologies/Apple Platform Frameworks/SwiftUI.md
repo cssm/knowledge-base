@@ -22,6 +22,7 @@
 	 - [SwiftUI Animations](SwiftUI/SwiftUI%20Animations.md)
 	- [Transactions and Animations · objc.io](https://www.objc.io/blog/2021/11/25/transactions-and-animations/)
 - **Links**
+	- [SwiftUI performance tips – martinmitrevski](https://martinmitrevski.com/2022/04/14/swiftui-performance-tips/)
 	- [SwiftUI Index – mackuba.eu](https://mackuba.eu/swiftui/changelog)
 	- [The SwiftUI render loop](https://rensbr.eu/blog/swiftui-render-loop/)
 	- [SwiftUI View Lifecycle](https://www.vadimbulavin.com/swiftui-view-lifecycle/)

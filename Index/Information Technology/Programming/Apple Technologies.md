@@ -5,6 +5,7 @@
 	- [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
 	- [macshome/The-Wisdom-of-Quinn: Apple Technologies Explained](https://github.com/macshome/The-Wisdom-of-Quinn)
 - **Notes**
+	- [Apple Platforms Profiling](Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Platforms%20Profiling.md)
 	- [Apple Modular Architecture](Apple%20Modular%20Architecture.md)
 	- [Fastlane](Apple%20Technologies/Apple%20Platform%20Specifics/Fastlane.md)
 	- [Fluent Interfaces](Fluent%20Interfaces.md)

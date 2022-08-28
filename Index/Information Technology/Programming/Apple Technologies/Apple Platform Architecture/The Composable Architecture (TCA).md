@@ -12,3 +12,4 @@
 	- [antranapp/awesome-tca](https://github.com/antranapp/awesome-tca)
 	- [tgrapperon/swift-composable-environment: A library to derive and compose Environment's in The Composable Architecture.](https://github.com/tgrapperon/swift-composable-environment)
 		- Inspired by [SwiftUI](../Apple%20Platform%20Frameworks/SwiftUI.md) `Environment`
+	- [TCA Action Boundaries](https://www.merowing.info/boundries-in-tca/) 

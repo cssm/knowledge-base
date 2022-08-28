@@ -12,7 +12,5 @@
 	- [appleboy/telegram-action: GitHub Action that sends a Telegram message.](https://github.com/appleboy/telegram-action)
 - *[Email](../Programming/Email.md)*
 	- [Subscribe to email updates from telegram channel](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
-- *[RSS](../Programming/RSS.md)*
-	- [Telegram RSS / JSON generator](https://tg.i-c-a.su/)
 - *[Marketing](../Marketing.md)*
 	- [Telega.in — биржа рекламы в telegram каналах](https://telega.in)

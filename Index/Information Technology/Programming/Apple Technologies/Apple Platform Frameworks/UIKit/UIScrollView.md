@@ -1,5 +1,6 @@
 - **Links**
 	- [Как работает UIScrollView. О том, как работает UIScrollView, как… | by Ilya Lobanov | Medium](https://medium.com/@esskeetit/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-uiscrollview-2e7052032d97)
+	- [Механика замедления в UIScrollView | by Ilya Lobanov | Яндекс.Карты Mobile | Medium](https://medium.com/yandex-maps-mobile/механика-скролла-uiscrollview-14094e515d07)
 
 ## General
 

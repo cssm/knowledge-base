@@ -1,4 +1,5 @@
 - **Notes**
+	- [macOS Preview App](macOS%20Preview%20App.md)
 	- [macOS Apps Video Players](macOS%20Apps%20Video%20Players.md)
 	- [Fork](Fork.md)
 	- [macOS Tiling Windows Managers](../macOS%20Tiling%20Windows%20Managers.md)
@@ -25,7 +26,9 @@
 	- [Quick jump between opened apps and windows](https://contexts.co/)
 	- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 	- [Check what takes space on your mac](http://grandperspectiv.sourceforge.net)
-	- [nice timer from status bar](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)
+	- *Timer*
+		- [michaelvillar/timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
+		- [nice timer from status bar](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)
 	- [Ads blocking service](https://apps.apple.com/by/app/wipr/id1320666476?mt=12)
 	- [iA Writer. Best `Markdown` writing exirience](https://ia.net)
 	- [Create `Keynote` presentations from `Markdown`](https://hyperdeck.io)
@@ -43,7 +46,7 @@
 	- *[git](../../Tools/git.md)*
 		- [Sublime Merge | Git client from the makers of Sublime Text](https://www.sublimemerge.com)
 			- CLI name `smerge`
-	- *[Diffing](../../Computer%20Science/Algorithms/Diffing.md)*
+	- *[Algorithms Diffing](../../Computer%20Science/Algorithms/Algorithms%20Diffing.md)*
 		- [Kaleidoscope](https://kaleidoscope.app/)
 	- *Hide items from menu bar*
 		- `$ paid` [Bartender 4 - Take control of your Menu bar](https://www.macbartender.com)

@@ -1,5 +1,4 @@
 - **Notes**
-	- [iOS Analysing Metrics](iOS%20Analysing%20Metrics.md)
 	- [iOS Email Check](iOS%20Email%20Check.md)
 	- [iOS Haptic Engine](iOS%20Haptic%20Engine.md)
 	- [iOS Launch Screen](iOS%20Launch%20Screen.md)

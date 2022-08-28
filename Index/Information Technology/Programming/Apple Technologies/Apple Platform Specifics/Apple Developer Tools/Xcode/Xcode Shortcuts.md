@@ -1,6 +1,7 @@
 - *Add new cursor*
 	- `ctrl + shift + arrow up/down`
-	- `option/alt + click`
+	- `ctrl + shift + click`
+	- `option + drag up/down` 
 - *Console navigation*
 	-  `cmd + K` — clear;
 	- `s` — step into (step);
@@ -24,7 +25,7 @@
 - `option/alt + shift + cmd + T` - rename tab
 - `option + shift + command + enter` - open code review (compare file by commits)
 - `shift + ctrl + cmd + H` - show call hierarchy
-- `ctrl + option + cmd + F` - fix all errors
+- `ctrl + option + cmd + F` - fix all errors that can be autofixed
 - `ctrl + cmd + E` - rename variable in scope
 - `cmd + ;` - show wrong spelling
 - `cmd + \` - add breakpoint to current line

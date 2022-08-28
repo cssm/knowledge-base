@@ -1,5 +1,6 @@
 - **Notes**
 	- [MetricKit](../MetricKit.md)
 - **Links**
+	- [Getting Accurate Profiling Data from iOS Applications | Guardsquare](https://www.guardsquare.com/blog/how-to-get-accurate-profiling-data-from-ios-applications)
 	- [Why is my app getting killed? | WWDC NOTES](https://www.wwdcnotes.com/notes/wwdc20/10078/)
 	- [Solving CPU Usage Crashes with Xcode's Energy Organizer](https://swiftrocks.com/debug-cpu-exceptions-xcode-energy-reports)

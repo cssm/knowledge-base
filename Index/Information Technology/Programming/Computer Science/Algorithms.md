@@ -1,11 +1,11 @@
 - **Notes**
-	- [Complexity](Algorithms/Complexity.md)
-	- [Quick Sort](Algorithms/Quick%20Sort.md)
-	- [Swap Two Variables With No Extra Memory](Algorithms/Swap%20Two%20Variables%20With%20No%20Extra%20Memory.md)
-	- [Floats](Algorithms/Floats.md)
-	- [Fast Inverse Square Root](Algorithms/Fast%20Inverse%20Square%20Root.md)
-	- [Diffing](Algorithms/Diffing.md)
-	- [Garbage Collection](../../../Garbage%20Collection.md)
+	- [Algorithms Sorting](Algorithms%20Sorting.md)
+	- [Algorithms Complexity](Algorithms/Algorithms%20Complexity.md)
+	- [Algorithms Swap Two Variables With No Extra Memory](Algorithms/Algorithms%20Swap%20Two%20Variables%20With%20No%20Extra%20Memory.md)
+	- [Algorithms Floats](Algorithms/Algorithms%20Floats.md)
+	- [Algorithms Fast Inverse Square Root](Algorithms/Algorithms%20Fast%20Inverse%20Square%20Root.md)
+	- [Algorithms Diffing](Algorithms/Algorithms%20Diffing.md)
+	- [Algorithms Garbage Collection](../../../Algorithms%20Garbage%20Collection.md)
 - **Links**
 	- [MIT 6.006 Introduction to Algorithms, Fall 2011 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 	- [coells/100days: 100 days of algorithms](https://medium.com/100-days-of-algorithms/latest)

@@ -1,9 +1,10 @@
 > Graphics Rendering process can be done efficient only by using [GPU](../Hardware/Components/GPU.md)
 
 - **Notes**
-	- `Shader` - a program that runs parallel processing of pixels on the screen
-	- [Blur](Blur.md)
+	- [Computer Graphics Shaders](Computer%20Graphics%20Shaders.md)
+	- [Computer Graphics Blur](Computer%20Graphics%20Blur.md)
 - **Links**
+	- [Exponentially Better Rotations – Max Slater – Computer Graphics, Programming, and Math](https://thenumb.at/Exponential-Rotations/)
 	- [miatang (@Miamiamia0103) / Twitter](https://mobile.twitter.com/Miamiamia0103)
 		- a lot of good stuff about basics of CG and more
 		- [Mia Tang](https://mia-tang.com/#/about)

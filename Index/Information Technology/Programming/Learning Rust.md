@@ -1,6 +1,6 @@
-- **Notes**
-	- 
+
 - **Links**
+	- [Learn Rust the Dangerous Way - Cliffle](http://cliffle.com/p/dangerust/)
 	- [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 	- [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 	- [Introduction - Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)

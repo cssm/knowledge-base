@@ -22,7 +22,7 @@
 	- [gitignore](Git/gitignore.md)
 	- [Forking](Git/Forking.md)
 	- [Git LFS](Git/Git%20LFS.md)
-	- [Submodules](Git/Submodules.md)
+	- [Git Submodules](Git/Git%20Submodules.md)
 	- [Stashing](Git/Stashing.md)
 	- [How to add empty directories to index](Git/How%20to%20add%20empty%20directories%20to%20index.md)
 	- [git flow](Git/git%20flow.md)

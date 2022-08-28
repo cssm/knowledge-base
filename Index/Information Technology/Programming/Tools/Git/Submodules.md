@@ -1,2 +1,0 @@
-- **Notes**
-	- Useful tool to manage dependencies

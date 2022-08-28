@@ -1,8 +1,13 @@
-- [Time On Computers](Time%20On%20Computers.md)
-- [Videos on Computers](Videos%20on%20Computers.md)
-- [Операционные системы](OS's/Операционные%20системы.md)
-	- [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
-	- [Processes](Processes.md)
-	- [POSIX](OS's/POSIX.md)
-	- [macOS](OS's/macOS.md)
-	- [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
+- **Notes**
+	- [Virtual Machine](Virtual%20Machine.md)
+	- [Time On Computers](Time%20On%20Computers.md)
+	- [Videos on Computers](Videos%20on%20Computers.md)
+	- [Операционные системы](OS's/Операционные%20системы.md)
+		- [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
+		- [Processes](Processes.md)
+		- [POSIX](OS's/POSIX.md)
+		- [macOS](OS's/macOS.md)
+		- [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
+- **Links**
+	- [Andreas Kling - YouTube](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
+		- `SerenityOS` creator

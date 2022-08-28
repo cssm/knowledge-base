@@ -1,4 +1,5 @@
 - **Links**
+	- [Honeypot | Europe's Developer-Focused Job Platform](https://www.honeypot.io)
 	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
 	- [Glassdoor](https://www.glassdoor.com/index.htm)
 	- [Relocate.me | Find Developer Jobs, IT Jobs Abroad 🌍](https://relocate.me)

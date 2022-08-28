@@ -1,3 +1,4 @@
 - **Links**
 	- [kirilife - Food blog](http://kirilife.com)
 	- [Cooklang: recipe markup language](https://cooklang.org/docs/)
+	- [Essen Rezepte - YouTube](https://www.youtube.com/channel/UCNh35NtktYxumhyASfnF1dg)

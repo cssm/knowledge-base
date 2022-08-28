@@ -1,9 +1,8 @@
-# Swap Two Variables With No Extra Memory
-
 Do not use it in real code. No actual benefits in performance or memory usage. Can case [pain in ass](https://betterexplained.com/articles/swap-two-variables-using-xor/) if doing it to pointers/references on the same object
 
 ## XOR
 
+```
 1 XOR 1 = 0
 
 0 XOR 0 = 0
@@ -11,6 +10,7 @@ Do not use it in real code. No actual benefits in performance or memory usage. C
 1 XOR 0 = 1
 
 0 XOR 1 = 1
+```
 
 ## XOR - nice way to store values
 

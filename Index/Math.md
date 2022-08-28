@@ -4,7 +4,9 @@
 	- [Lambda Calculus](Math/Lambda%20Calculus.md)
 	- [Mathematical Logic](Math/Mathematical%20Logic.md)
 	- [Probability Theory](Math/Probability%20Theory.md)
-	- [Bezier Curves](Math/Bezier%20Curves.md)
+	- *Curves*
+		- [Bezier Curves](Math/Bezier%20Curves.md)
+		- [Math Curves](Math%20Curves.md)
 	- [Discrete mathematics](Discrete%20mathematics.md)
 	- [Trigonometry](Math/Trigonometry.md)
 	- [Graphs](Math/Graphs.md)
@@ -30,6 +32,7 @@
 	- [Pick's theorem: The wrong, amazing proof](https://www.youtube.com/watch?v=uh-yRNqLpOg)
 		- how to find area of any shape
 	- [Entropy. A thread. Twitter](https://twitter.com/TivadarDanka/status/1475456688547250176?s=20)
+	- [Eddie Woo - YouTube](https://www.youtube.com/user/misterwootube)
 	- *Envelopes*
 		- [That weird light at the bottom of a mug](https://www.youtube.com/watch?v=fJWnA4j0_ho)
 	- *[Programming](Information%20Technology/Programming.md)*

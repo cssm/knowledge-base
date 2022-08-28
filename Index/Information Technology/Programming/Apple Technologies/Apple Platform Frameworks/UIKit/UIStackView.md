@@ -1,5 +1,3 @@
-# UIStackView
-
 `removeArrangedSubview` only removes from array but view itself still a subview of stackview
 
 ## Alignment

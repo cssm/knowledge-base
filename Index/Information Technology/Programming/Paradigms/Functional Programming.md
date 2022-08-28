@@ -1,4 +1,5 @@
 - **Notes*
+	- [Functional Programming Effect](Functional%20Programming%20Effect.md)
 	- [Category Theory](../../../Math/Category%20Theory.md)
 	- [Idempotency](Idempotency.md)
 	- [Lambda Calculus](../../../Math/Lambda%20Calculus.md)

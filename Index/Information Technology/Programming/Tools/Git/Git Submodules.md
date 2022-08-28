@@ -1,0 +1,3 @@
+- **Notes**
+	- Useful tool to manage dependencies
+	- [git-subtree](https://www.atlassian.com/git/tutorials/git-subtree) is a good alternative to this
