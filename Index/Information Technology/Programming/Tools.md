@@ -8,6 +8,7 @@
 	- [Manage Dependencies](Manage%20Dependencies.md)
 	- [Writing Grammar](Writing%20Grammar.md)
 - **Links**
+	- [Kutt | Modern Open Source URL shortener.](https://kutt.it)
 	- [neutraltone/awesome-stock-resources: A collection of links for free stock photography, video and Illustration websites](https://github.com/neutraltone/awesome-stock-resources)
 	- [Watermark Remover - Remove Watermarks Online from Images for Free](https://www.watermarkremover.io)
 	- [Syncthing. Sync files between computers](https://syncthing.net)
