@@ -14,7 +14,14 @@
 
 ![](UIKit%20Auto%20Layout/RedView._Leading.png)
 
-Minimum 2 constraints on each dimension
+> Minimum 2 constraints on each dimension
+
+### `lessThanOrEqualTo` and >= `greaterThanOrEqualTo`
+
+> -   For leading or trailing anchors, the values increase as you move in the current language’s reading direction. For English, values increase as you move to the right.
+> -   For left and right anchors, the values increase as you move to the right. 
+> -   For [`NSLayoutYAxisAnchor`](https://developer.apple.com/documentation/uikit/nslayoutyaxisanchor) objects, the values increase as you move down. 
+> -   For [`NSLayoutDimension`](https://developer.apple.com/documentation/uikit/nslayoutdimension) objects, the values increase as the items increase in size.
 
 ## **`translatesAutoresizingMaskIntoConstraints`**
 

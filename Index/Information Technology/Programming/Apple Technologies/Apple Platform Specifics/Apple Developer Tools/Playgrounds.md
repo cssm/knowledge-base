@@ -53,7 +53,7 @@ NSSetUncaughtExceptionHandler { exception in
 }
 ```
 
-## Performance test
+## Running tests
 
 ```swift
 import Foundation

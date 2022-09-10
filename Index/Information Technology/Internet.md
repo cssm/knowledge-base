@@ -1,5 +1,6 @@
 
 - **Links**
+	- [Internet Speed Test | Fast.com](https://fast.com)
 	- [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 	- [How the Internet works :: Jon Gjengset](https://thesquareplanet.com/blog/how-the-internet-works/)
 	- [Подробный курс про Компьютерные сети](https://www.asozykin.ru/courses/networks_online)
