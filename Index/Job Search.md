@@ -1,4 +1,5 @@
 - **Links**
+	- [nikitavoloboev/find-work: Curated list of websites and resources to find work programming](https://github.com/nikitavoloboev/find-work)
 	- [Honeypot | Europe's Developer-Focused Job Platform](https://www.honeypot.io)
 	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
 	- [Glassdoor](https://www.glassdoor.com/index.htm)

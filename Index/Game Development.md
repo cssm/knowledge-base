@@ -5,6 +5,7 @@
 	- *[Math](Math.md)*
 		- [Случайные блуждания и цепи Маркова в геймдизайне / Хабр](https://habr.com/ru/company/mygames/blog/664392/)
 - **Links**
+	- [Programming Game AI by Example (Wordware Game Developers Library): Buckland, Mat: 9781556220784: Amazon.com: Books](https://www.amazon.com/Programming-Example-Wordware-Developers-Library/dp/1556220782/ref=as_li_ss_tl?keywords=programming+game+ai&qid=1582992592&sr=8-5&linkCode=sl1&tag=azhenley-20&linkId=94729c12ea9776c51fc4de97759011a5&language=en_US)
 	- [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org)
 	- [Architecture of Consoles | A Practical Analysis](https://www.copetti.org/writings/consoles/)
 	- [Useful functions for game development - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/usefulfunctions.html)

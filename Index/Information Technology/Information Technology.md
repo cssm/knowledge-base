@@ -1,3 +1,4 @@
+- [[Formats.md]]
 - [Programming](Programming.md)
 - [Hardware](Hardware.md)
 - [Design](../Design.md)
@@ -7,5 +8,5 @@
 - [Privacy](Privacy.md)
 - [Internet](Internet.md)
 - [Game Development](../Game%20Development.md)
-- [Tools](Programming/Tools.md)
+- [Tools](Tools.md)
 - [GPS](GPS.md)

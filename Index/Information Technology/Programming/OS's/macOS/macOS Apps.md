@@ -16,9 +16,6 @@
 	- [lra/mackup: Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
 	- *[Discord](../../../Discord.md), [Slack](../../../Slack.md)*
 		- [Ripcord: Desktop Chat Client](https://cancel.fm/ripcord/)
-	- *Time Tracking*
-		- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
-		- [Pandan on the Mac App Store](https://apps.apple.com/us/app/pandan/id1569600264?mt=12)
 	- [Keyboard Maestro 10.1.1: Work Faster with Macros for macOS](https://www.keyboardmaestro.com/main/)
 		- Automate tasks, create macros.
 	- [Dato. Show different timezones in menu bar, check what time is in other timezone and more](https://sindresorhus.com/dato)
@@ -26,9 +23,7 @@
 	- [Quick jump between opened apps and windows](https://contexts.co/)
 	- [AltTab - Windows alt-tab on macOS](https://alt-tab-macos.netlify.app/)
 	- [Check what takes space on your mac](http://grandperspectiv.sourceforge.net)
-	- *Timer*
-		- [michaelvillar/timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
-		- [nice timer from status bar](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)
+	- [Time Tracking](../../../../Time%20Tracking.md)
 	- [Ads blocking service](https://apps.apple.com/by/app/wipr/id1320666476?mt=12)
 	- [iA Writer. Best `Markdown` writing exirience](https://ia.net)
 	- [Create `Keynote` presentations from `Markdown`](https://hyperdeck.io)

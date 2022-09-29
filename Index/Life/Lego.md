@@ -1,3 +1,5 @@
 - **Links**
 	- [Brickit](https://brickit.app)
 		- Just spread out your bricks, scan them and build new models with the help of instructions and bricks map
+	- https://rebrickable.com/
+		- add your lego sets and find out what else you can build from them

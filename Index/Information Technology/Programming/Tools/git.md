@@ -1,4 +1,5 @@
 - **Notes**
+	- [git Code Snippets](git%20Code%20Snippets.md)
 	- `Git Index` - a.k.a `Staging area`
 	- Apply patch
 		 - `git apply <path_to_patch>`

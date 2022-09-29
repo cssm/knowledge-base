@@ -1,5 +1,8 @@
 # Swift Code Snippets
 
+- [Swift Working With Files](../../../Swift%20Working%20With%20Files.md)
+- [Swift Working with JSON](Swift%20Working%20with%20JSON.md)
+
 ## URLRequest as cURL
 
 ```swift

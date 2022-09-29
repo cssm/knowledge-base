@@ -9,5 +9,12 @@
 		- [macOS](OS's/macOS.md)
 		- [iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)
 - **Links**
+	- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 	- [Andreas Kling - YouTube](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
 		- `SerenityOS` creator
+	- [cfenollosa/os-tutorial: How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+	- [tuhdo/os01: Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://github.com/tuhdo/os01)
+	- [intermezzOS: a little OS](http://intermezzos.github.io/)
+		- intermezzOS is a teaching operating system, specifically focused on introducing systems programming concepts to experienced developers from other areas of programming.
+	- *[Rust](Rust.md)*
+		- [Writing an OS in Rust](https://os.phil-opp.com/)

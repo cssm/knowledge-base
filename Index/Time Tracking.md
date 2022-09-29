@@ -1,0 +1,11 @@
+
+- **Links**
+	- [ActivityWatch/activitywatch: The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.](https://github.com/ActivityWatch/activitywatch)
+	- [Timing Automatic Mac Time Tracker – Manual Timers Optional](https://timingapp.com/?lang=en)
+	- [Pandan on the Mac App Store](https://apps.apple.com/us/app/pandan/id1569600264?mt=12)
+	- [michaelvillar/timer-app: A simple Timer app for Mac](https://github.com/michaelvillar/timer-app)
+		- `backspace/esc` - edit
+		- `enter` - pause/play
+		- `cmd+n` - new timer
+		- `r` - restart previous timer
+	- [nice timer from status bar](https://apps.apple.com/us/app/gestimer/id990588172?mt=12)

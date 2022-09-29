@@ -17,6 +17,11 @@
 			```
 
 
+- Disable/enable swipe pop gesture
+	```swift
+	 navigationController.interactivePopGestureRecognizer?.isEnabled = .random()
+	```
+
 ## General
 
 > Specifically `navigationItem` is the view controller’s property which contains the model for a navigation bar. It contains the title (which by default reflects the view controller’s `title`)

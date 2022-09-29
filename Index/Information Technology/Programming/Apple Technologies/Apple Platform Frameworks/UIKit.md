@@ -24,7 +24,7 @@
 	- [kean/NukeUI: Lazy image loading for Apple platforms: SwiftUI, UIKit, AppKit](https://github.com/kean/NukeUI)
 - **Notes**
 	- [UIBezierPath](UIBezierPath.md)
-	- [UIKit make view hide sensetive content](UIKit%20make%20view%20hide%20sensetive%20content.md)
+	- [UIKit. Hide Sensitive Content On Screenshot](UIKit.%20Hide%20Sensitive%20Content%20On%20Screenshot.md)
 	- [UIKit Snippets](UIKit%20Snippets.md)
 	- [UIImage](UIImage.md)
 	- [Hot Reloading UIKit Applications](Hot%20Reloading%20UIKit%20Applications.md)

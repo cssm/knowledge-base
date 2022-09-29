@@ -17,3 +17,5 @@
 		```
 - **Links**
 	- [Protocol Witnesses - Brandon Williams - App Builders 2019](https://www.youtube.com/watch?v=3BVkbWXcFS4)
+	- [How To Control The World - Stephen Celis on Vimeo](https://vimeo.com/291588126)
+		- This is kinda similar approach but for dependencies

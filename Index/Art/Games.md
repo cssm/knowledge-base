@@ -15,3 +15,4 @@
 	- [Terraria](https://www.terraria.org/)
 	- [Minecraft](https://www.minecraft.net/en-us)
 	- [RimWorld - Sci-Fi Colony Sim](https://rimworldgame.com/)
+	- [The Lord of the Rings: War in the North - Wikipedia](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_War_in_the_North)

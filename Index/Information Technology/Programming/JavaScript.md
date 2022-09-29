@@ -1,4 +1,5 @@
 - **Notes**
+	- [TypeScript](TypeScript.md)
 	- [React](React.md)
 	- Как сделать нормальную обрезку текста
 		>  if(length(text) <= length(cutoff) *1.2) { показываем полный текст }

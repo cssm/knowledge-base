@@ -1,4 +1,6 @@
 - **Notes**
+	- [[Polish.md]]
+	- [Poland Individual Entrepreneurship](Poland%20Individual%20Entrepreneurship.md)
 	- Связь
 		- **Orange Flex**
 		    - код FLEX, в этом случае первый месяц обслуживания обойдется в 1 злотый.

@@ -1,0 +1,2 @@
+- **Race Condition** - the timing or order of events affects the correctness of a piece of code.
+- **Data Race** - one thread accesses a mutable object while another thread is writing to it.

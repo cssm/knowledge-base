@@ -1,4 +1,5 @@
 - **Links**
+	- [KevinGutowski/SplitConfigurations: Setting up the basics of a Big Sur app layout. Includes splitview and toolbarItems](https://github.com/KevinGutowski/SplitConfigurations)
 	- [macOS Tutorials | raywenderlich.com](https://www.raywenderlich.com/macos)
 	- [Hog Bay Software – Moby Dick Workout](https://hogbaysoftware.netlify.app/posts/moby-dick-workout/)
 		- How to test if mac app is working good
@@ -20,5 +21,4 @@
 		- [Designing macOS menu bar extras](https://bjango.com/articles/designingmenubarextras/)
 			- Apple’s HIG is great, but it doesn‘t contain much information related to designing menu bar extras. This article aims to provide additional details and context needed to create icons for macOS menu bar extras.
 	- *People*
-		- [helje5 (Helge Heß)(https://github.com/helje5)
 		- [neilsardesai (Neil Sardesai)](https://github.com/neilsardesai)

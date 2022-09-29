@@ -17,3 +17,8 @@
 - *[CLI](../../Shell/CLI.md)*
 	- [cli/cli: GitHub’s official command line tool](https://github.com/cli/cli)
 	- [CLI for GitHub before gh](https://github.com/github/hub)
+- *Code Owners*
+	- A way to allow auto requesting of pull requests 
+	- [About code owners - GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#about-code-owners)
+	- [Owning Your CODEOWNERS File](https://medium.com/expedia-group-tech/owning-your-codeowners-file-332e288c1d12)
+		- You need not only list all owners in `CODEOWNERS` file but also add required permissions (`maintain` permission is enough)

@@ -1,4 +1,4 @@
 - **Notes**
-	- [Time Tracking](Time%20Tracking.md)
+	- [Time Tracking](Index/Time%20Tracking.md)
 - **Links**
 	-  [9 ways to make your iPhone less addictive | Cult of Mac](https://www.cultofmac.com/777340/make-iphone-less-addictive/)

@@ -4,6 +4,11 @@
 - **Links**
 	- [Getting Pixels onto the Screen · objc.io](https://www.objc.io/issues/3-views/moving-pixels-onto-the-screen/)
 
+```swift
+// get frame origin coordinates in window
+let globalPoint = aView.superview?.convert(aView.frame.origin, to: nil)
+```
+
 ## Frame, bounds etc.
 
 **Animatable properties**: frame, bounds, center, transform, alpha, backgroundColor (that have some continuous value, not discrete (e.g. hidden))

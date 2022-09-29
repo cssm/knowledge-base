@@ -1,4 +1,5 @@
 - **Links**
+	- [Writing ARM Assembly (Part 1) | Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 	- [Understanding Assembly Part I: RISC-V · mcyoung](https://mcyoung.xyz/2021/11/29/assembly-1/)
 	- [x86 Opcode Structure and Instruction Overview - x86_opcode_structure_and_instruction_overview.pdf](https://pnx.tf/files/x86_opcode_structure_and_instruction_overview.pdf)
 		- > I've just discovered this amazing document showing super clearly the relation between the opcode and the instruction 🤯

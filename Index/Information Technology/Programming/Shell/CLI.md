@@ -1,6 +1,7 @@
 > Command Line Interface
 
 - **Notes**
+	- [CLI Code Snippets](CLI%20Code%20Snippets.md)
 	- [osascript](osascript.md)
 	- [env](env.md)
 	- [awk](awk.md)

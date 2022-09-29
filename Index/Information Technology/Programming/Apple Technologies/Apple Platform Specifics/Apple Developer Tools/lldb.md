@@ -1,3 +1,4 @@
+- [Advanced lldb tricks for Swift - Injecting and changing code on the fly](https://swiftrocks.com/using-lldb-manually-xcode-console-tricks)
 - To print string without escaping characters use `po print(str)` instead of `po str`
 	```
 	po json

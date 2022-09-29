@@ -3,7 +3,7 @@
 
 **Monad** - something that have two operations: operation on turning pure type into monad and operation of sequencing monad's
 
-> from a practical point of view monad is a type `A<T>` that has build in  `bind` function (a.k.a `flatMap` or `>>=` in [Haskell](Haskell.md)) that takes another function `T -> A<U>` as a argument
+> from a practical point of view monad is a type `A<T>` that has build in  `bind` function (a.k.a `flatMap` or `>>=` in [Haskell](../../../../Haskell.md)) that takes another function `T -> A<U>` as a argument
 
 ![](Screenshot_2021-02-28_at_18.52.42.png)
 

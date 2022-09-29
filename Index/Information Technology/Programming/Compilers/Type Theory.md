@@ -4,3 +4,5 @@
 	- [Static Typing and Strong Typing](Type%20Theory/Static%20Typing%20and%20Strong%20Typing.md)
 	- [Covariant, contravariant, invariant](Type%20Theory/Covariant,%20contravariant,%20invariant.md)
 	- [Void vs Unit](Type%20Theory/Void%20vs%20Unit.md)
+- **Links**
+	- [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)

@@ -1,4 +1,5 @@
 - **Links**
+	- [zkat/miette: Fancy upgrade to std: :Error.](https://github.com/zkat/miette)
 	- [regex: how everybody does regular expressions in Rust](https://lib.rs/crates/regex)
 	- [serde: the natural way to do serialization and deserialization in Rust](https://serde.rs/)
 	- [rand: the default choice for pseudo random generation](https://crates.io/crates/rand) 

@@ -1,4 +1,8 @@
 - **Notes**
+	```shell
+	# copy file over ssh
+	scp <remoteuser@remoteserver:/remote/folder/remotefile.txt> <localfile.txt>
+	```
 	- `open-ssh` - for client
 	- `open-ssh-server` - for servers
 	- `ssh-keygen` - to generate ssh keys (only for client)

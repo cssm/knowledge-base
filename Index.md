@@ -2,7 +2,7 @@
 - [Productivity](Productivity.md)
 - [Learning](Index/Learning.md)
 - [Books](Index/Books.md)
-- [IT](Index/Information%20Technology/IT.md)
+- [Information Technology](Index/Information%20Technology/Information%20Technology.md)
 - [Math](Index/Math.md)
 - [Finances & Economics](Index/Finances%20&%20Economics.md)
 - [Career](Index/Career.md)

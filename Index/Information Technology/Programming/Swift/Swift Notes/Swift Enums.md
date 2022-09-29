@@ -1,3 +1,15 @@
+- Conforming to protocol
+```swift
+protocol EnumProtocol {
+  static func test(_ lol: Int) -> Self
+}
+
+// ✅ 
+enum A: EnumProtocol {
+  case test(_ kek: Int)
+}
+```
+
 ```swift
 typealias Version = String
 enum OperationSystem {

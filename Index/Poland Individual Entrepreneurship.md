@@ -1,0 +1,3 @@
+- **Links**
+	- [JDG — ИП в Польше](https://sobolevbel.github.io/jdg/)
+	- [ИП в Польше для обладателей визы PBH: чат](https://t.me/JDG_PBH)
