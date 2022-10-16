@@ -1,6 +1,6 @@
 # Hashtable
 
-**Hashtable** - data structure that forms relation between key and value and key is computed by appling some **hashfunction** to object
+**Hashtable** - data structure that forms relation between key and value and key is computed by appling some **[Hash Function](Hash%20Function.md)** to object
 
 ## Hashtable vs Dictionary
 

@@ -1,6 +1,8 @@
 - **Notes**
-	- [[Polish.md]]
+	- [Polish](Polish.md)
 	- [Poland Individual Entrepreneurship](Poland%20Individual%20Entrepreneurship.md)
+	- [Akcesoria na biurko - wykorzystaj potencjał Home Office z Shelter.pl](https://shelter.pl/product-category/akcesoria-na-biurko/)
+		- home office stuff
 	- Связь
 		- **Orange Flex**
 		    - код FLEX, в этом случае первый месяц обслуживания обойдется в 1 злотый.

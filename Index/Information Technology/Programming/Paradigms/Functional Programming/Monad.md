@@ -1,5 +1,6 @@
 - **Links**
-	- [(89) A monad is a monoid in the category of endofunctors. Whats the problem? #SoMe2 - YouTube](https://stackoverflow.com/questions/44965/what-is-a-monad)
+	- [What is a Monad](https://stackoverflow.com/questions/44965/what-is-a-monad)
+		- good explanation
 
 **Monad** - something that have two operations: operation on turning pure type into monad and operation of sequencing monad's
 

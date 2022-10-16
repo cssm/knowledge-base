@@ -16,7 +16,8 @@
 - [Tuples](Tuples.md) : `(Int, Int)`
 - Metatypes: `String.Type` i.e. `String.self`
 - [Existential](Existential.md) : e.g. `CustomStringConvertible & Error`
-- `Void`
+- `Void` (because it's a typealias to `()`)
+- `Any`, `AnyObject`
 
 `Non-nominal` types **can't:**
 

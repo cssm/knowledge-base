@@ -1,0 +1,2 @@
+- **Links**
+	- [rurban/smhasher: Hash function quality and speed tests](https://github.com/rurban/smhasher)

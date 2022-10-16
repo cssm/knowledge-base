@@ -62,3 +62,23 @@ struct B {
 ## StaticStings
 
 Known at compile time so has a low overhead of creating
+
+
+## Convert `Data` into `String`
+
+```swift
+let string: String? = String(data: data, encoding: .utf8)
+
+// replaces not convertable characters with � so its never fails
+let string: String = String(decoding: data, as: UTF8.self) 
+```
+
+### Example
+
+```swift
+// swift strings is Unicode so it's always safe to forceunwrap them 
+var data: Data = "Café".data(using: .utf8)!
+data.removeLast()
+print(String(data: data, encoding: .utf8)) // nil
+print(String(decoding: data, as: UTF8.self)) // Caf�
+```

@@ -1,1 +1,3 @@
+- [TypeScript: Handbook - The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Beginner's TypeScript Tutorial | Total TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)
 - [Type-Level TypeScript — Introduction](https://type-level-typescript.com/)

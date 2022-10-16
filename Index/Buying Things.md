@@ -1,2 +1,4 @@
+- **Notes**
+	- [Buying Clothes](Buying%20Clothes.md)
 - **Links**
 	- [Compare cheapest Apple product prices worldwide – The Mac Index](https://themacindex.com/variants/MLXY3/macbook-air-m2-256gb?currency=USD)
