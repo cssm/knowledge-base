@@ -1,3 +1,9 @@
+- **[Tips for fighting with borrow checker](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)**
+	- - Keep blocks small, structs small, etc—this reduces the size of the arena of agency and thus reduces the amount of responsibility it must take care of
+	- Minimize self references in structs, i.e. graph-like data structures are difficult to implement using references
+	- Cel, RefCell, Ref, and Rc are more common than many would like
+	- Use indices/handles instead of references
+
 > "temporary share a value"
 
 - We can do borrowing by using `references`

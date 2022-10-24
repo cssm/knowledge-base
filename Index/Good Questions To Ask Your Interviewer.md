@@ -1,3 +1,5 @@
+- **Links**
+	- [Twipped/InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/Twipped/InterviewThis)
 - **Notes**
 	- *Вопросы про процессы*
 		- Как устроено обучение сотрудников? 

@@ -5,6 +5,7 @@
 	- *Frontend* - parses programming language syntax and optimize constructions 
 	- *Backend* - translates intermediate representation (if any exists) to corresponding machine instructions (assembly)
 - **Links**
+	- [Compiling Swift generics, Part I - Development / Compiler - Swift Forums](https://forums.swift.org/t/compiling-swift-generics-part-i/60898)
 	-  [Performance - Luau](https://luau-lang.org/performance)
 	- *[Telegram](../Apps/Telegram.md)*
 		- https://t.me/plcomp

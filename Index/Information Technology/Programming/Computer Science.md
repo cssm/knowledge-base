@@ -10,3 +10,4 @@
 	- [State Machine Visualizer](https://stately.ai/viz)
 	- [visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net/en)
 	- [gamontal/awesome-katas: A curated list of code katas](https://github.com/gamontal/awesome-katas)
+	- [Theory of Computation](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)

@@ -1,0 +1,2 @@
+- *UI Testing*
+	- [pointfreeco/swift-snapshot-testing: 📸 Delightful Swift snapshot testing.](https://github.com/pointfreeco/swift-snapshot-testing)

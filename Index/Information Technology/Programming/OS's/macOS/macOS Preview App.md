@@ -1,2 +1,3 @@
 - **Links**
+	- [Программа Preview](https://grishaev.me/preview/)
 	- [10 Tips - Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about)

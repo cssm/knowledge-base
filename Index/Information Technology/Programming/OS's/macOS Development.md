@@ -1,4 +1,5 @@
 - **Links**
+	- [Resources for Learning Mac Development – Swift Dev Journal](https://www.swiftdevjournal.com/resources-for-learning-mac-development/)
 	- [KevinGutowski/SplitConfigurations: Setting up the basics of a Big Sur app layout. Includes splitview and toolbarItems](https://github.com/KevinGutowski/SplitConfigurations)
 	- [macOS Tutorials | raywenderlich.com](https://www.raywenderlich.com/macos)
 	- [Hog Bay Software – Moby Dick Workout](https://hogbaysoftware.netlify.app/posts/moby-dick-workout/)

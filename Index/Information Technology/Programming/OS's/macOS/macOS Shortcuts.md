@@ -1,5 +1,7 @@
 - **Notes**
 	- [My macOS Shortcuts](My%20macOS%20Shortcuts.md)
 	- [macOS Editing Shortcuts](macOS%20Editing%20Shortcuts.md)
-- *Copy absolute path to file*
-	- `Open File in Finder > Open Context menu (two fingers tap) > Hold Option > Copy * as Pathname`
+	- `cmd + 0` - bring main window to the front
+		- e.g. in `Mail.app` you can have multiple letters opened and by pressing this shorcut you bring a main window to front
+	- Copy absolute path to file
+		- `Open File in Finder > Open Context menu (two fingers tap) > Hold Option > Copy * as Pathname`
