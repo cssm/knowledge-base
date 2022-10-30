@@ -23,3 +23,5 @@
 	- [Blog · objc.io](https://www.objc.io/blog/)
 	- [Point-Free](https://www.pointfree.co/blog)
 	- [robb.is](https://robb.is/archive)
+- *[C++](../Information%20Technology/Programming/C++.md)*
+	- [https://eklitzke.org](https://eklitzke.org/)

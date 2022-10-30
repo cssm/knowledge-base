@@ -1,5 +1,7 @@
 - **Notes**
+	- [goku](goku.md)
 	- [Cursor keys belong at the center of your keyboard @ tonsky.me](https://tonsky.me/blog/cursor-keys/)
 	- [pqrs-org/Karabiner-Elements: Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.](https://github.com/pqrs-org/Karabiner-Elements)
 - **Links**
+	- [Karabiner | Everything I know](https://wiki.nikiv.dev/macOS/apps/karabiner/)
 	- [fix `karainer_grabber` or `karabiner_observer` is not appearing in security and privacy input monitoring](https://github.com/pqrs-org/Karabiner-Elements/issues/1867)
