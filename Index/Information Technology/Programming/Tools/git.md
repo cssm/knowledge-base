@@ -35,7 +35,8 @@
 	- [git reset](Git/git%20reset.md)
 	- [git describe](Git/git%20describe.md)
 	- [git reflog](Git/git%20reflog.md)
-	- [git gc](Git/git%20gc.md)
+	- `git gc` 
+		- Optimize repository by deleting all unused objects
 	- [git remote](Git/git%20remote.md)
 - **Links**
 	- [pluralsight/git-internals-pdf: PDF on Git Internals](https://github.com/pluralsight/git-internals-pdf)
