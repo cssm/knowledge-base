@@ -1,8 +1,6 @@
 - **Links**
 	- [Email explained from first principles. Email](https://explained-from-first-principles.com/email/#official-architecture)
 	- [Create temporary email](https://www.emaildrop.io/)
-- *[Email](Email.md)*
-	- [Convert email newsletters to RSS](https://kill-the-newsletter.com/)
 - *[CLI](Shell/CLI.md)*
 	- [sdushantha/tmpmail: A temporary email right from your terminal written in POSIX sh](https://github.com/sdushantha/tmpmail)
 - *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*

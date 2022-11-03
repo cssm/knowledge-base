@@ -4,3 +4,5 @@
 - **Links**
 	- [RSSHub. Open Source Tool to add anything as RSS](https://docs.rsshub.app/en/)
 	- [Tiny Tiny RSS](https://tt-rss.org)
+	- *[Email](Email.md)*
+		- [Convert email newsletters to RSS](https://kill-the-newsletter.com/)
