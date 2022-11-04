@@ -1,4 +1,11 @@
-- Addresses are mapped to [RAM](../Hardware/Components/RAM.md)
-- Used fixed memory addresses from `0100` to `01F`F and grows from bigger address to lower. If stack is reached `0100` address it’s jumps back to `01FF` address. 
-- `Stack overflow` - situation all addresses is user
-	- Modern systems terminates process if this situation happens
+- **Notes**
+	- Addresses are mapped to [RAM](../Hardware/Components/RAM.md)
+	- Stack pointer (`SP`)
+		- points at top of the stack. used to change stack size
+	- Base pointer (`BP`)
+		- points at the the beginning of the `stack frame`. `stack frame` technique is used to work with functions and more precisely to form a scope for a function.   
+	- Used addresses goes from higher one `FFFF` to lower one `0000`. While heap is working in another direction. Reason for this is that otherwise stack can delete some code (e.g. used by kernel space). In our situation `SP` will meet `heap pointer` (or if it eventually reaches the limit posed by `RLIMIT_STACK`) and we'll get a `stack overflow` situation
+	- `stack overflow` - no free memory left for stack 
+		- Modern systems terminates process if this situation happens
+- **Links**
+	- [КАК РАБОТАЕТ СТЕК | ОСНОВЫ ПРОГРАММИРОВАНИЯ](https://www.youtube.com/watch?v=MXoMuymbfo8)

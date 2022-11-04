@@ -152,7 +152,7 @@ Each process has 4 gb (in case of 32bit systems) of virtual addresses in [virtua
 
 [https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/)
 
-The stack and heap are traditionally located at opposite ends of the process's virtual address space. [Stack Hardware](Stack%20Hardware)
+The [Stack](Stack.md) and heap are traditionally located at opposite ends of the process's virtual address space. 
 
 Kernel space
 
@@ -160,11 +160,10 @@ Kernel space
 
 User space is separated onto **segments**
 
-- **Stack**
-    - If the stack pointer meets the **heap pointer** (or if it eventually reaches the limit posed by RLIMIT_STACK), there’s now free memory left.
+- **[Stack](Stack.md)**
 - **Heap**
 - **BSS (Block started by symbol)**
-    - Uninitialized static variables are stored here
+    - Uninitialised static variables are stored here
 - **Data**
     - Divided onto read-only and read-write
     - Static constants and variables with initial value are stored here
