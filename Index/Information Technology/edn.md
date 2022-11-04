@@ -1,0 +1,5 @@
+- **Notes**
+	- a.k.a `Extensible Data Notation`
+	- [Clojure's](Clojure.md) format for serializing data
+- **Links**
+	- [Learn edn in Y Minutes](https://learnxinyminutes.com/docs/edn/)

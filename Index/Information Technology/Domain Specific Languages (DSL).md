@@ -1,6 +1,6 @@
 
 - **Notes**
-	- [goku](Programming/OS's/macOS/goku.md)
+	- [edn](edn.md)
 	- [JSON](Programming/JSON.md)
 	- [CSV](CSV.md)
 	- [GraphQL](Programming/GraphQL.md)
