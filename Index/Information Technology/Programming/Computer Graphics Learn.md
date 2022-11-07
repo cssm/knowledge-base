@@ -1,0 +1,8 @@
+- **Notes**
+	- `OpenGL` vs `Vulcan`
+		- `OpenGL` - automatic memory management
+		- `Vulcan` - manual memory management
+		- `OpenGL` < `Vulcan`
+			- in terms of performance
+- **Links**
+	- [An intro to modern OpenGL. Table of Contents](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-table-of-contents)

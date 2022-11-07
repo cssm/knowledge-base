@@ -1,4 +1,5 @@
 - **Notes**
+	- [UIKit Collections Scroll Optimizations](UIKit%20Collections%20Scroll%20Optimizations.md)
 	- [UICollectionViewCompositionalLayout](UICollectionViewCompositionalLayout.md)
 	- [UIKit updating collections with animation](UIKit%20updating%20collections%20with%20animation.md)
 	- [UIKit UI Collections Cells](UIKit%20UI%20Collections%20Cells.md)

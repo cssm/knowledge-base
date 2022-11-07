@@ -1,5 +1,6 @@
 - [UIKit updating collections with animation](UIKit%20updating%20collections%20with%20animation.md)
 - [UIKit UI Collections Cells](UIKit%20UI%20Collections%20Cells.md)
+- [UIKit Collections Scroll Optimizations](UIKit%20Collections%20Scroll%20Optimizations.md)
 
 - header or footer of table view should be set only on  `viewDidLoad` , `viewDiDAppear` etc. but not in `loadView`
 - Pagination and pre-loading
@@ -25,23 +26,6 @@ In order for the table view to do this, you must also provide an `estimatedRowHe
 
 Setting a higher priority on **content hugging** means that the view will resist growing larger than its intrinsic size. You told the storyboard to make your cell with 450 points tall, which is larger than the intrinsic size of your views. Setting a vertical content hugging priority tells Xcode which view to expand if it needs to fill the space.
 
-## Scroll optimisation
-
-### **> iOS7**
-
-```swift
-tableView.estimatedRowHeight = ... // Estimated default row height
-tableView.rowHeight = UITableView.automaticDimension
-```
-
-### **On iOS7**
-
-We need to calculate heightForRowAt:
-
-To make it more efficient:
-
-- add caching for this heights and do not calculate them each time
-- Pre calculate all heights at once (estimatedRowHeight analog)
 
 ## Custom Cells
 

@@ -36,6 +36,7 @@
 		- [UIKit updating collections with animation](UIKit/UIKit%20updating%20collections%20with%20animation.md)
 		- [UICollectionVIew](UIKit/UICollectionVIew.md)
 		- [UITableView](UIKit/UITableView.md)
+		- [UIKit Collections Scroll Optimizations](UIKit%20Collections%20Scroll%20Optimizations.md)
 	- [UIKIt Handling Gestures](UIKit/UIKIt%20Handling%20Gestures.md)
 	- [UIKit Custom Transitions](UIKit/UIKit%20Custom%20Transitions.md)
 	- [UIKit Alerts](UIKit/UIKit%20Alerts.md)

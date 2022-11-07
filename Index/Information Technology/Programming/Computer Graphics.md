@@ -1,6 +1,7 @@
 > Graphics Rendering process can be done efficient only by using [GPU](../Hardware/Components/GPU.md)
 
 - **Notes**
+	- [Computer Graphics Learn](Computer%20Graphics%20Learn.md)
 	- [Computer Graphics Shaders](Computer%20Graphics%20Shaders.md)
 	- [Computer Graphics Blur](Computer%20Graphics%20Blur.md)
 - **Links**
