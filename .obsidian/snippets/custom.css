@@ -1,0 +1,19 @@
+/* hide sidebar toggle button, but keep fix width for it so macOS traffic lights will not overlap tabs */ 
+.sidebar-toggle-button.mod-left {
+  visibility: hidden;
+  width: 40px;
+}
+/* remove sidebar */
+.workspace-ribbon.side-dock-ribbon.mod-left.is-collapsed { display: none; } 
+/* remove inline title */
+.inline-title { display: none; }
+/* remove bottom backlinks, etc. */
+.status-bar { display: none; }
+/* remove back/front buttons, keep space  */
+.view-header-nav-buttons { visibility: hidden; }
+/* remove editing toggle button, more on right, keep space */
+.view-actions { visibility: hidden; }
+/* remove tabs arrow button, keep space */
+.workspace-tab-header-tab-list { visibility: hidden; }
+/* remove new tab button, cause don't like it's alignment with the x of the tab, keep space */
+.workspace-tab-header-new-tab { visibility: hidden; }
