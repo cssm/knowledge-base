@@ -1,5 +1,5 @@
 > DSL to configure [Karabiner](Karabiner.md)
-> Uses [edn](edn.md) format
+> Uses [edn](../../../edn.md) format
 
 - [yqrashawn/GokuRakuJoudo: config karabiner with ease](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/tutorial.md)
 	- how to write goku config

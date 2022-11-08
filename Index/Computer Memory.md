@@ -152,7 +152,7 @@ Each process has 4 gb (in case of 32bit systems) of virtual addresses in [virtua
 
 [https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/in-memory-layout/)
 
-The [Stack](Stack.md) and heap are traditionally located at opposite ends of the process's virtual address space. 
+The [Stack](Information%20Technology/Programming/Stack.md) and heap are traditionally located at opposite ends of the process's virtual address space. 
 
 Kernel space
 
@@ -160,7 +160,7 @@ Kernel space
 
 User space is separated onto **segments**
 
-- **[Stack](Stack.md)**
+- **[Stack](Information%20Technology/Programming/Stack.md)**
 - **Heap**
 - **BSS (Block started by symbol)**
     - Uninitialised static variables are stored here

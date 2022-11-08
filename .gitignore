@@ -1,5 +1,6 @@
 .DS_Store
 .obsidian/
+!.obsidian/snippets
 Media/icons/
 templates/
 consistant-report.md

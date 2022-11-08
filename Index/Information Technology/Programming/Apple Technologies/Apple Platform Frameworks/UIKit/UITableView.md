@@ -1,6 +1,6 @@
 - [UIKit updating collections with animation](UIKit%20updating%20collections%20with%20animation.md)
 - [UIKit UI Collections Cells](UIKit%20UI%20Collections%20Cells.md)
-- [UIKit Collections Scroll Optimizations](UIKit%20Collections%20Scroll%20Optimizations.md)
+- [UIKit Collections Scroll Optimizations](../UIKit%20Collections%20Scroll%20Optimizations.md)
 
 - header or footer of table view should be set only on  `viewDidLoad` , `viewDiDAppear` etc. but not in `loadView`
 - Pagination and pre-loading

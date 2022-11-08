@@ -1,5 +1,5 @@
 - [Life](Index/Life.md)
-- [Productivity](Productivity.md)
+- [Productivity](Index/Life/Productivity.md)
 - [Learning](Index/Learning.md)
 - [Books](Index/Books.md)
 - [Information Technology](Index/Information%20Technology/Information%20Technology.md)
