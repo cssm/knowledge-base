@@ -49,7 +49,7 @@
 - [Nested Closures](Swift%20Notes/Nested%20Closures.md)
 - [@dynamicCallable](Swift%20Notes/@dynamicCallable.md)
 - [Property Wrappers](Swift%20Notes/Property%20Wrappers.md)
-- [Swift Memory Managment](Swift%20Notes/Swift%20Memory%20Leaks/Swift%20Memory%20Managment.md)
+- [Swift Memory Management](Swift%20Notes/Swift%20Memory%20Leaks/Swift%20Memory%20Management.md)
 - [RxSwift](Swift%20Notes/RxSwift.md)
 - [Pattern matching on custom type](Swift%20Notes/Pattern%20matching%20on%20custom%20type.md)
 - [Memory layout in Swift](Swift%20Notes/Memory%20layout%20in%20Swift.md)

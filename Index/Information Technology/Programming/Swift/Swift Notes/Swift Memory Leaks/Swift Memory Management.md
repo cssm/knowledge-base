@@ -1,4 +1,5 @@
 - **Notes**
+	- [Swift Memory Management ARC](Swift%20Memory%20Management%20ARC.md)
 	- We can use only [ARC](../../../Apple%20Technologies/Apple%20Platform%20Specifics/Reference%20Counting.md) in [Swift](../../../Swift.md)
 - **Links**
 	- [Unbreakable reference cycles in Swift no one is talking about | Max Desiatov](https://desiatov.com/swift-reference-cycles/)
