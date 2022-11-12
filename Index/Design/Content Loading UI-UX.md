@@ -1,0 +1,2 @@
+- **Links**
+	- [When performing an async operation, it can be nicer to not show a spinner if the action is sufficiently short (e.g. < 250ms). However, when you do finally show it, make sure there’s sufficient time for the user to parse it (e.g. 500ms), otherwise it just looks like a glitch](https://twitter.com/dlx/status/1459203112472825857?s=21)

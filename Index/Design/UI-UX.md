@@ -1,8 +1,10 @@
-- *[macOS](../Information%20Technology/Programming/OS's/macOS.md)*
-	- [Designing LookUp for macOS](https://medium.com/lookup-design/designing-lookup-for-macos-bf5b8fea1a01)
+- **Notes**
+	- [Toggles UI-UX](Toggles%20UI-UX.md)
+	- [Dropdowns UI-UX](Dropdowns%20UI-UX.md)
+	- [Search UI-UX](Search%20UI-UX.md)
+	- [Content Loading UI-UX](Content%20Loading%20UI-UX.md)
+	- [Forms UI-UX](Forms%20UI-UX.md)
 - **Links**
 	- [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
-- **Notes**
-	- [Dropdowns](Dropdowns.md)
-	- [When performing an async operation, it can be nicer to not show a spinner if the action is sufficiently short (e.g. < 250ms). However, when you do finally show it, make sure there’s sufficient time for the user to parse it (e.g. 500ms), otherwise it just looks like a glitch](https://twitter.com/dlx/status/1459203112472825857?s=21)
-	- Exact full matches should rate higher than anything else, no matter what (example of bad search) ![](photo_2021-11-16%2020.57.44.jpeg)
+	- *[macOS](../Information%20Technology/Programming/OS's/macOS.md)*
+		- [Designing LookUp for macOS](https://medium.com/lookup-design/designing-lookup-for-macos-bf5b8fea1a01)

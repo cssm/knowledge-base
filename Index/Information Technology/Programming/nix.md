@@ -1,4 +1,5 @@
 - **Links**
+	- [tazjin/nix-1p: A (more or less) one page introduction to Nix, the language.](https://github.com/tazjin/nix-1p)
 	- [Nix Flakes: an Introduction](https://christine.website/blog/nix-flakes-1-2022-02-21)
 	- [What Is Nix programming language and why you should use it](https://serokell.io/blog/what-is-nix)
 	- [Naive NixOS Rust Development](https://duan.ca/2020/05/07/nix-rust-development/)

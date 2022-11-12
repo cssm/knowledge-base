@@ -1,4 +1,5 @@
  - **Links**
+	 - - [GetStream/purposeful-ios-animations: Meaningful iOS animations built to inspire you in creating useful animations for your apps](https://github.com/GetStream/purposeful-ios-animations)
 	 - [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/)
 		 - because it's breaks animations 
  - `withAnimation`
