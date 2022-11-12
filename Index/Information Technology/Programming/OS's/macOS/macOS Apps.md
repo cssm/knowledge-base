@@ -9,6 +9,8 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- [Cockos Incorporated | LICEcap](https://www.cockos.com/licecap/)
+		- cool screen recorder to make lightweight gifs for you project and/or arcicles
 	- [macOS Color Picker](https://paco.me/writing/macos-color-picker)
 	- [Mimestream | A native macOS email client for Gmail](https://mimestream.com/)[Mimestream | A native macOS email client for Gmail](https://mimestream.com/)
 	- [ExistentialAudio/BlackHole: BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.](https://github.com/ExistentialAudio/BlackHole)
