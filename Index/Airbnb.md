@@ -1,0 +1,11 @@
+- **Notes**
+	- Always ask host about:
+		- internet quality 
+		- apartments heating
+		- how is the district?
+		- shops around
+		- how to sort trash and where to drop it
+		- can i drink tap water?
+	- If renting apartment fro `1-2` month you can as host for discount.
+		- ask for `monthly discount`
+		- Your good profile rating is important to get this discount

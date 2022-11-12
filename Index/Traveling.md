@@ -1,2 +1,8 @@
+- **Notes**
+	- [Airbnb](Airbnb.md)
 - **Links**
 	- [Путеводитель по городам и странам мира. Полезная инфо для туристов](https://www.easytravel.guru)
+	- [CHECK PASSPORT AND HEALTH ADVICE](https://www.timaticweb2.com/integration/external.php)
+		- official information about COVID that all airlines follow
+	- [IATA - International Travel Document News](https://www.iatatravelcentre.com/world.php)
+		- Same as above but more pleasant to use
