@@ -56,4 +56,4 @@
 		- [Mathpix Snip Notes](https://mathpix.com/)
 	- *Prototyping*
 		- [Cool open source drawing in browser](https://www.tldraw.com/)
-		- [Hand drawn like diagrams](https://excalidraw.com/)
+		- [Hand drawn like diagrams with collaboration](https://excalidraw.com/)
