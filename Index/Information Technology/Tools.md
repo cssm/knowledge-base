@@ -55,5 +55,7 @@
 	- *[Math](../Math.md)*
 		- [Mathpix Snip Notes](https://mathpix.com/)
 	- *Prototyping*
+		- *[Figma](Figma.md)* 
+			- [Collaborative, Online Whiteboard for Teams | FigJam](https://www.figma.com/figjam/)
 		- [Cool open source drawing in browser](https://www.tldraw.com/)
 		- [Hand drawn like diagrams with collaboration](https://excalidraw.com/)

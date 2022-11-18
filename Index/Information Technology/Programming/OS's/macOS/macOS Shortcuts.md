@@ -1,7 +1,9 @@
 - **Notes**
-	- [My macOS Shortcuts](My%20macOS%20Shortcuts.md)
 	- [macOS Editing Shortcuts](macOS%20Editing%20Shortcuts.md)
+	- Screenshot 
+		- when selecting area with `cmd+shift+4` you can hold `space` to move top left corner
+		- when using `cmd+shift+4` -> `space` to screenshot the selected window with the shadow effect - hold `alt` to remove the shadow
 	- `cmd + 0` - bring main window to the front
-		- e.g. in `Mail.app` you can have multiple letters opened and by pressing this shorcut you bring a main window to front
+		- e.g. in `Mail.app` you can have multiple letters opened and by pressing this shortcut you bring a main window to front
 	- Copy absolute path to file
 		- `Open File in Finder > Open Context menu (two fingers tap) > Hold Option > Copy * as Pathname`

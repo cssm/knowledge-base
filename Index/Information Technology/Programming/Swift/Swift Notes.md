@@ -1,3 +1,4 @@
+- [Swift Variadic Generics](Swift%20Variadic%20Generics.md)
 - [Swift switch](Swift%20switch.md)
 - [Swift imports](Swift%20imports.md)
 - [Swift Identifying](Swift%20Identifying.md)

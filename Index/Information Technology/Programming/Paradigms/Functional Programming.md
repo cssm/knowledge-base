@@ -11,6 +11,8 @@
 	- *Type Classes*
 		- Typeclasses are a way of adding additional functionality that is reusable across all the types that have instances of that typeclass
 - **Links**
+	- [Kindelia/Kind2: A next-gen functional language](https://github.com/Kindelia/Kind2)
+		- next get functional programming language design with no GC and massively parallel type checking
 	- [hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!](https://github.com/hemanth/functional-programming-jargon)
 	- [For a Few Monads More - Learn You a Haskell for Great Good!](http://learnhaskellforgood.narod.ru/learnyouahaskell.com/for-a-few-monads-more.html)
 	- [Algebraic Data Types: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
