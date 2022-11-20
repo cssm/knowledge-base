@@ -1,5 +1,6 @@
 
 - **Links**
+	- [Zero To Production In Rust - An Introduction To Backend Development](https://www.zero2prod.com/index.html?country=Poland&discount_code=EEU60)
 	- [Learn Rust the Dangerous Way - Cliffle](http://cliffle.com/p/dangerust/)
 	- [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 	- [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
