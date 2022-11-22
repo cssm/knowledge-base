@@ -1,4 +1,5 @@
 - **Notes**	
+	- *Holistic* - means that some kind of system should be looked only as whole not as a set of it parts.
 	- [Cooking](Cooking.md)
 	- [Health](Health/Health.md)
 	- [Buying Things](Buying%20Things.md)

@@ -22,6 +22,7 @@
 	- [python-trio/trio: Trio – a friendly Python library for async concurrency and I/O](https://github.com/python-trio/trio)
 		- [Notes on structured concurrency, or: Go statement considered harmful — njs blog](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 	- [python-poetry/poetry: Python dependency management and packaging made easy.](https://github.com/python-poetry/poetry)
+		- is nice but heard that [PDM](https://pdm.fming.dev/latest/) is even nicer
 	- [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
 - *Code Formatting*
 	- [psf/black: The uncompromising Python code formatter](https://github.com/psf/black)
