@@ -1,0 +1,5 @@
+- **Notes**
+	- [Apple Push Notifications](Programming/Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Push%20Notifications.md)
+- **Links**
+	- [ntfy](https://docs.ntfy.sh/)
+		- open source tool to send push notifications anywhere.

@@ -4,3 +4,4 @@
 	- [Leetcode](Information%20Technology/Programming/Leetcode.md)
 	- [The HackerRank Interview Preparation Kit | HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 	- [Telegram: Contact @coding_interviews](https://t.me/coding_interviews)
+		- [vitkarpov/coding-interviews-blog-archive](https://github.com/vitkarpov/coding-interviews-blog-archive/tree/main/posts)

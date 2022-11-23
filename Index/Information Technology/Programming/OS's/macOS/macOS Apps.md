@@ -9,6 +9,8 @@
 	- [Alfred](macOS%20Apps/Alfred.md)
 	- [Xcode](../../Apple%20Technologies/Apple%20Platform%20Specifics/Apple%20Developer%20Tools/Xcode.md)
 - **Links**
+	- [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+		- screenshot tool for macos. cool thing - can measure pixels between elements in [Figma](../../Figma.md) style
 	- [Cockos Incorporated | LICEcap](https://www.cockos.com/licecap/)
 		- cool screen recorder to make lightweight gifs for you project and/or arcicles
 	- [macOS Color Picker](https://paco.me/writing/macos-color-picker)

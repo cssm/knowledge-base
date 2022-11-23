@@ -1,4 +1,7 @@
 - **Links** 
+	- [Bazel](https://bazel.build/)
+	- [Patrick Balestra: "At @SpotifyEng we’ve been experimenting with @bazelbuild macOS remote execution over the last year. A few weeks ago we enabled it for our main iOS CI build and decreased our p95 by almost 5x with a cluster of 60 M1 machines. Very impressive stuff! https://t.co/TUEiZ1YqsS"](https://twitter.com/BalestraPatrick/status/1573355078995566594)
+		- [Bazel at Enterprise Scale | BuildBuddy](https://www.buildbuddy.io/)
 	- [iOS and Bazel at Reddit: A Journey : RedditEng](https://www.reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey/)
 	- [Building with Bazel | raywenderlich.com](https://www.raywenderlich.com/31558158-building-with-bazel)
 	- [bazelbuild/starlark: Starlark Language](https://github.com/bazelbuild/starlark)

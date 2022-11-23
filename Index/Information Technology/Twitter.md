@@ -1,3 +1,4 @@
 - **Links**
 	- [thomaswang/minimal-twitter: Minimal theme for the new Twitter UI](https://github.com/thomaswang/minimal-twitter)
 	- [Twitter thread to webpage/pdf](https://threadreaderapp.com/)
+	- [How to Search Your Entire Twitter Archive With One Line of jq — Ian Wootten](https://www.ianwootten.co.uk/2022/11/14/how-to-search-your-entire-twitter-archive-with-one-line-of-jq/)

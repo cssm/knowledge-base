@@ -11,5 +11,5 @@
 	- [What Is Nix and why you should use it](https://serokell.io/blog/what-is-nix)
 	- [Nix - Everything I know](https://wiki.nikitavoloboev.xyz/package-managers/nix)
 	- [nix-community/awesome-nix: 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]](https://github.com/nix-community/awesome-nix#readme)
-- *[macOS](macOS.md)*
+- *[macOS](OS's/macOS.md)*
 	- [MacOS Nix Setup (an alternative to Homebrew)](https://wickedchicken.github.io/post/macos-nix-setup/)

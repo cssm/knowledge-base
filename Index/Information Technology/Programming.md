@@ -2,6 +2,7 @@
 	- A perfect abstraction is a black box that you never have to open. A leaky abstraction is a black box that you have to open up occasionally.
 	- *Sanitise Data* - make user input safe (remove what you don't need)
 	- *Data Normalisation* - change data to format that we need
+	- [[Project Ideas.md]]
 	- [DevOps](DevOps.md)
 	- [Tabs vs Spaces](Tabs%20vs%20Spaces.md)
 	- [Developer Experience](Developer%20Experience.md)

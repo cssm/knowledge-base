@@ -1,4 +1,8 @@
 - **Links**
+	- [Notes from a data witch - Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
+	- *[iOS](Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
+		- [metabolist/metatext: A free, open-source iOS Mastodon client.](https://github.com/metabolist/metatext)
+			- Minimalistic. Reminds me of [Tweetbot](https://tapbots.com/tweetbot/)
 	- [Why I'm not telling you to host your own Mastodon](https://www.youtube.com/watch?v=mqocW7DUFpg)
 	- [Kat's Mastodon Quickstart for Twitter Users - DEV Community](https://dev.to/zkat/kat-s-mastodon-quickstart-for-twitter-users-39db)
 	- [Giving social networking back to you - Mastodon](https://joinmastodon.org/)

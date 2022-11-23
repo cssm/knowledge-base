@@ -1,0 +1,5 @@
+- **Notes**
+	- How to prioritise on what to work on?
+		- Minimising regret - Will I still be worried about this a year from now? - worth worrying about and solving
+- **Links**
+	- [Decision making | Everything I know](https://wiki.nikiv.dev/psychology/decision-making)
