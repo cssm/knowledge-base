@@ -1,2 +1,2 @@
 - [brew](Tools/brew.md)
-- [nix](nix.md)
+- [Nix Package Manager](Nix%20Package%20Manager.md)

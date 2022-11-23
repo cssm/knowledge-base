@@ -1,0 +1,3 @@
+- [Vagrant | HashiCorp Developer](https://developer.hashicorp.com/vagrant)
+	- a good VM as I've heard in Twitter to try [[NixOS.md]]
+- [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)

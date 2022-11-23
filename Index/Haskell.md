@@ -1,6 +1,6 @@
-- **Notes**
-	- 
 - **Links**
+	- [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/)
+		- a tools-set installer for Haskell like [rustup](Information%20Technology/Programming/rustup.md)
 	- [Documentation](https://www.haskell.org/documentation/)
 	- [Functional Programming & Haskell - Computerphile - YouTube](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 	- [Chapters - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)

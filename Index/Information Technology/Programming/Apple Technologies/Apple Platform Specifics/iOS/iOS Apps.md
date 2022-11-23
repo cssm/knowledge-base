@@ -1,6 +1,6 @@
 - **Links**
 	- [Apollo. Best Reddit client](https://apps.apple.com/by/app/apollo-for-reddit/id979274575)
-	- *[Finances & Economics](Finances%20&%20Economics.md)*
+	- *[Finances & Economics](../../../../../Finances%20&%20Economics.md)*
 		- [Five Cents: Expense Tracker on the App Store](https://apps.apple.com/app/id1599077337)
 			- nice spends tracker app
 	- *[Task Management](../../../../../Learning/Task%20Management.md)*

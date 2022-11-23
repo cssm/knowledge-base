@@ -1,4 +1,4 @@
-- [[Formats.md]]
+- [Formats](Formats.md)
 - [Programming](Programming.md)
 - [Hardware](Hardware.md)
 - [Design](../Design.md)

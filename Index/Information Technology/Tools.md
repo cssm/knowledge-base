@@ -1,4 +1,5 @@
 - **Notes**
+	- [Nix](Programming/Nix.md)
 	- [Self Hosted](Programming/Self%20Hosted.md)
 	- [Control Version Systems](Programming/Control%20Version%20Systems.md)
 	- [tldr](Programming/Tools/tldr.md)
@@ -55,7 +56,7 @@
 	- *[Math](../Math.md)*
 		- [Mathpix Snip Notes](https://mathpix.com/)
 	- *Prototyping*
-		- *[Figma](Figma.md)* 
+		- *[Figma](Programming/Figma.md)* 
 			- [Collaborative, Online Whiteboard for Teams | FigJam](https://www.figma.com/figjam/)
 		- [Cool open source drawing in browser](https://www.tldraw.com/)
 		- [Hand drawn like diagrams with collaboration](https://excalidraw.com/)

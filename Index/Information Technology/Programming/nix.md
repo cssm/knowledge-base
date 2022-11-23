@@ -1,16 +1,13 @@
+- **Notes**
+> A set of tools that allows to configure reproducible and reliable systems. Includes [package manager](Nix%20Package%20Manager.md), operation system - [NixOS](NixOS.md), [Nix Programming Language](Nix%20Programming%20Language.md) etc. [Learn more](https://nixos.org/)
+   - [Nix Package Manager](Nix%20Package%20Manager.md)
+   - [Nix Programming Language](Nix%20Programming%20Language.md)
+   - [NixOS](NixOS.md)
 - **Links**
-	- [tazjin/nix-1p: A (more or less) one page introduction to Nix, the language.](https://github.com/tazjin/nix-1p)
-	- [Nix Flakes: an Introduction](https://christine.website/blog/nix-flakes-1-2022-02-21)
-	- [What Is Nix programming language and why you should use it](https://serokell.io/blog/what-is-nix)
+	- [How Nix and NixOS Get So Close to Perfect - Xe | PackagingCon 2021](https://www.youtube.com/watch?v=WwgSMgpX6TM)
+		- great overview of what Nix is and how to overcome common pitfalls
+	- [What Is Nix and why you should use it](https://serokell.io/blog/what-is-nix)
 	- [Naive NixOS Rust Development](https://duan.ca/2020/05/07/nix-rust-development/)
-	- [Pretty and fast shell. Make your shell experience fast, pretty… | by Nikita Voloboev | Medium](https://medium.com/@nikitavoloboev/pretty-and-fast-shell-97ea870f2805)
-	- [NixOS - Everything I know](https://wiki.nikitavoloboev.xyz/operating-systems/linux/nixos)
-	- [NixOS - NixOS Linux](https://nixos.org/)
 	- [MacOS Nix Setup (an alternative to Homebrew)](https://wickedchicken.github.io/post/macos-nix-setup/)
-	- [Thoughts on macOS Package Managers](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)
 	- [Nix - Everything I know](https://wiki.nikitavoloboev.xyz/package-managers/nix)
-	- [LnL7/nix-darwin: nix modules for darwin](https://github.com/LnL7/nix-darwin)
 	- [nix-community/awesome-nix: 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]](https://github.com/nix-community/awesome-nix#readme)
-	- [NixOS/nixpkgs: Nix Packages collection](https://github.com/NixOS/nixpkgs)
-- *[iOS](Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
-	- [iOS | nixpkgs](https://ryantm.github.io/nixpkgs/languages-frameworks/ios/#ios)

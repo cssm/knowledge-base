@@ -1,4 +1,4 @@
-> most known type of toggle is [Switch](UISwitch.md)
+> most known type of toggle is [Switch](../Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Frameworks/UIKit/UISwitch.md)
 
 - Toggle should display current state
 	- only exception I think is play/pause button 

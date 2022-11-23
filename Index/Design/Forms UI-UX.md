@@ -1,4 +1,4 @@
 - **Links**
-	- *[Functional Programming](Functional%20Programming.md)*
+	- *[Functional Programming](../Information%20Technology/Programming/Paradigms/Functional%20Programming.md)*
 		- [Декларативная валидация данных с помощью функционального программирования и rule-based подхода](https://bespoyasov.ru/blog/declarative-rule-based-validation/)
 	- [Any forms are filled left-to-right and top-to-bottom. So if there are any fields that limit other fields they must come first. Here year limits month and day, month limits day (the form doesn’t allow dates in the future). So if you are trying to enter 11 November 2000, you can’t enter 11 or November first.](https://grumpy.website/post/0XREoaIFz)
