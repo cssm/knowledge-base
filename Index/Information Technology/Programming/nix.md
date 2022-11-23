@@ -4,10 +4,12 @@
    - [Nix Programming Language](Nix%20Programming%20Language.md)
    - [NixOS](NixOS.md)
 - **Links**
+	- [How I Start: Nix - Xe](https://xeiaso.net/blog/how-i-start-nix-2020-03-08)
+		- great starting guide + ge
 	- [How Nix and NixOS Get So Close to Perfect - Xe | PackagingCon 2021](https://www.youtube.com/watch?v=WwgSMgpX6TM)
 		- great overview of what Nix is and how to overcome common pitfalls
 	- [What Is Nix and why you should use it](https://serokell.io/blog/what-is-nix)
-	- [Naive NixOS Rust Development](https://duan.ca/2020/05/07/nix-rust-development/)
-	- [MacOS Nix Setup (an alternative to Homebrew)](https://wickedchicken.github.io/post/macos-nix-setup/)
 	- [Nix - Everything I know](https://wiki.nikitavoloboev.xyz/package-managers/nix)
 	- [nix-community/awesome-nix: 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]](https://github.com/nix-community/awesome-nix#readme)
+- *[macOS](macOS.md)*
+	- [MacOS Nix Setup (an alternative to Homebrew)](https://wickedchicken.github.io/post/macos-nix-setup/)
