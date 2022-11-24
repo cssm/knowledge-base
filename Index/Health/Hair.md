@@ -1,0 +1,2 @@
+- [HELP! Am I Shedding Or Balding? How Much Hair Fall Is Normal?](https://www.youtube.com/watch?v=Md3cTLIM-WY)
+	- great video explaining how much of a hair lose is normal
