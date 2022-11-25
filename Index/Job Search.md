@@ -1,3 +1,6 @@
+- **Notes**
+	- [Working At Startups](Working%20At%20Startups.md)
+	- [Good Questions To Ask Your Interviewer](Good%20Questions%20To%20Ask%20Your%20Interviewer.md)
 - **Links**
 	- [nikitavoloboev/find-work: Curated list of websites and resources to find work programming](https://github.com/nikitavoloboev/find-work)
 	- [Honeypot | Europe's Developer-Focused Job Platform](https://www.honeypot.io)

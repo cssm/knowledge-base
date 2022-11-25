@@ -4,7 +4,7 @@
 	- [logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration](https://github.com/logseq/logseq)
 	- [foambubble/foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 	- [Muse — dive into big ideas](https://museapp.com/)
-		- [macOS](macOS.md) and [[iPadOS]] canvas for a deep work
+		- [macOS](Information%20Technology/Programming/OS's/macOS.md) and [[iPadOS]] canvas for a deep work
 - *[Functional Programming](Information%20Technology/Programming/Paradigms/Functional%20Programming.md)*
 	- [Functional Programming Stuff](https://okmij.org/ftp/)
 - *[Computer Science](Information%20Technology/Programming/Computer%20Science.md)*
