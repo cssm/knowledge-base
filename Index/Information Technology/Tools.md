@@ -1,10 +1,10 @@
 - **Notes**
+	- [Text Editors](Programming/Text%20Editors.md)
 	- [Nix](Programming/Nix.md)
 	- [Self Hosted](Programming/Self%20Hosted.md)
 	- [Control Version Systems](Programming/Control%20Version%20Systems.md)
 	- [tldr](Programming/Tools/tldr.md)
 	- [Maps](Programming/Maps.md)
-	- [Text Editors](Programming/Text%20Editors.md)
 	- [Package Managers](Programming/Package%20Managers.md)
 	- [Manage Dependencies](Programming/Manage%20Dependencies.md)
 	- [Writing Grammar](Programming/Writing%20Grammar.md)

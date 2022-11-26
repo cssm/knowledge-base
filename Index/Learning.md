@@ -2,7 +2,6 @@
 	- [Learn In Public](Learning/Learn%20In%20Public.md)
 	- [TIL](Learning/TIL.md)
 	- [Blogs](Learning/Blogs.md)
-	- [Task Management](Learning/Task%20Management.md)
 	- [Search Papers](Search%20Papers.md)
 - **Links**
 	- [Learn Anything](https://learn-anything.xyz/)
