@@ -7,3 +7,5 @@
 		- Metal Part 1-4
 	- [Eugene's Blog](https://eugenebokhan.io)
 		- A lot of articles about Metal 
+	- [Nekitosss/MeshGradient](https://github.com/Nekitosss/MeshGradient)
+	- [eldade/ios_metal_bezier_renderer: An optimized Metal-based Bezier curve renderer](https://github.com/eldade/ios_metal_bezier_renderer)
