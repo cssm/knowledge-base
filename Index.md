@@ -9,3 +9,4 @@
 - [Design](Index/Design.md)
 - [Art](Index/Art/Art.md)
 - [Logic](Index/Logic.md)
+- [Philosophy](Philosophy.md)

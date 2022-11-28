@@ -1,6 +1,7 @@
 - **Notes**
 	- [Software Achitecture](Software%20Achitecture.md)
 - **Links**
+	- [Preparing for the Systems Design and Coding Interview - The Pragmatic Engineer](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 	- [weeeBox/mobile-system-design: A simple framework for mobile system design interviews](https://github.com/weeeBox/mobile-system-design)
 	- [Algorithms you should know before you take system design interviews](https://blog.bytebytego.com/p/algorithms-you-should-know-before?triedSigningIn=true)
 	- [Как прокачаться в проектировании программного обеспечения — список книг | by Alexander Polomodov | Medium](https://apolomodov.medium.com/software-design-books-743be52e4c71)

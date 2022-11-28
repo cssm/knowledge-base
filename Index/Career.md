@@ -5,7 +5,6 @@
 - **Links**
 	- [Про хорошее резюме](https://threadreaderapp.com/thread/1509459431284789250.html)
 	- [Как правильно составить текст с рассказом о себе](https://vc.ru/hr/8750-about-myself)
-	- [yangshun/tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
 	- [36](https://www.youtube.com/watch?v=nIFClfBXuIQ)
 	- [Тред о том как я получил оффер в Google, а ещё в Amazon, Microsoft, Яндекс и Box, не завалив ни одного собеседования (ну, почти)](https://mobile.twitter.com/okinasaru/status/1454449701726695428)
 	- *[iOS](Information%20Technology/Programming/Apple%20Technologies/Apple%20Platform%20Specifics/iOS.md)*
