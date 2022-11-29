@@ -2,6 +2,7 @@
 	- [Working At Startups](Working%20At%20Startups.md)
 	- [Good Questions To Ask Your Interviewer](Good%20Questions%20To%20Ask%20Your%20Interviewer.md)
 - **Links**
+	- [Directory | Y Combinator's Work at a Startup](https://www.workatastartup.com/companies?demographic=any&hasEquity=any&hasSalary=any&industry=any&interviewProcess=any&jobType=any&layout=list-compact&sortBy=created_desc&usVisaNotRequired=any)
 	- [nikitavoloboev/find-work: Curated list of websites and resources to find work programming](https://github.com/nikitavoloboev/find-work)
 	- [Honeypot | Europe's Developer-Focused Job Platform](https://www.honeypot.io)
 	- [Hooli vs Pied Piper - Compare career levels across companies with Levels.fyi](https://www.levels.fyi/?compare=Hooli%2CPied+Piper&track=Software+Engineer)
