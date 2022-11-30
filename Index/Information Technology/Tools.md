@@ -21,6 +21,8 @@
 	- [Code to monotone image](https://code-to-image.vercel.app/)
 	- [Valgrind. Tool to find memory leaks in C & C++ code](https://valgrind.org/docs/manual/quick-start.html)
 	- [Kinopio Help. Mindmap kinda tool](https://help.kinopio.club)
+	- *[Web](Web.md)*
+		- [Framer: Ship sites with style](https://www.framer.com/)
 	- *[git](Programming/Tools/git.md)*
 		- [lazygit](Programming/Tools/lazygit.md)
 		- [Commitlint/Commitizen Online - lint commit messages online](https://commitlint.io/)

@@ -8,3 +8,4 @@
 	- [protobuf](protobuf.md)
 - **Links**
 	- [The KDL Document Language](https://kdl.dev/)
+	- [terrastruct/d2: D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
